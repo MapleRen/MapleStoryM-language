@@ -6,7 +6,7 @@
     <PackInfo Name="common_info/pack_002.bin" Size="28523396" FileCRC="1083192531" />
     <PackInfo Name="common_info/pack_003.bin" Size="5104704" FileCRC="1604136952" />
   </DataPack>
-  <AssetBundle Path="data.language_kor.unity3d" Version="1" Size="8474645" FileCRC="0" CRC="0" />
+  <AssetBundle Path="data.language_kor.unity3d" Version="1" Size="2509773" FileCRC="256435041" CRC="2953568715"/>
   <AssetBundle Path="data.table.unity3d" Version="1" Size="4050685" FileCRC="0" CRC="0" />
   <Data Path="data.bin.table_version.ifo" Version="1" Size="7" FileCRC="2927010390" CRC="2927010390" OriginalCRC="2927010390" />
   <Data Path="data.bin.activator.tbl" Version="1" Size="720538" FileCRC="117129424" CRC="117129424" OriginalCRC="2256416068" />
