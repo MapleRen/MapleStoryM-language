@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <Root>
-  <Pack CRC="636894878702472513" Compressed="false" Source="../table_qa_ios/table/" Region="Korea" BuildInfo="1.38_640_b30d3a51" />
+  <Pack CRC="636897391227087997" Compressed="false" Source="../table_qa_ios/table/" Region="Korea" BuildInfo="1.38_642_ce69fca1" />
   <DataPack Count="3">
-    <PackInfo Name="common_info/pack_001.bin" Size="21956917" FileCRC="1185593116" />
+    <PackInfo Name="common_info/pack_001.bin" Size="21956807" FileCRC="3475000006" />
     <PackInfo Name="common_info/pack_002.bin" Size="28523397" FileCRC="3097569037" />
     <PackInfo Name="common_info/pack_003.bin" Size="5106720" FileCRC="2069057053" />
   </DataPack>
-  <AssetBundle Path="data.language_kor.unity3d" Version="2" Size="8474645" FileCRC="0" CRC="0" />
-  <AssetBundle Path="data.table.unity3d" Version="2" Size="4050685" FileCRC="0" CRC="0" />
+  <AssetBundle Path="data.language_kor.unity3d" Version="1" Size="8474645" FileCRC="0" CRC="0" />
+  <AssetBundle Path="data.table.unity3d" Version="1" Size="617747" FileCRC="3034236069" CRC="2910761145" />
   <Data Path="data.bin.table_version.ifo" Version="1" Size="7" FileCRC="2927010390" CRC="2927010390" OriginalCRC="2927010390" />
   <Data Path="data.bin.activator.tbl" Version="1" Size="720538" FileCRC="117129424" CRC="117129424" OriginalCRC="2256416068" />
   <Data Path="data.bin.buff.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0" />
   <Data Path="data.bin.tag.tbl" Version="1" Size="1234" FileCRC="2616893839" CRC="2616893839" OriginalCRC="2616893839" />
-  <Data Path="data.bin.result.tbl" Version="1" Size="3401951" FileCRC="3636413773" CRC="3636413773" OriginalCRC="3259695767" />
-  <Data Path="data.bin.result.ifo" Version="1" Size="404989" FileCRC="2035165426" CRC="2035165426" OriginalCRC="2175270354" />
+  <Data Path="data.bin.result.tbl" Version="1" Size="3401875" FileCRC="1214744686" CRC="1214744686" OriginalCRC="1214744686" />
+  <Data Path="data.bin.result.ifo" Version="1" Size="404990" FileCRC="4093519804" CRC="4093519804" OriginalCRC="1884360171" />
   <Data Path="data.bin.skill.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0" />
   <Data Path="data.bin.class.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0" />
   <Data Path="data.bin.joblevel.tbl" Version="1" Size="3398821" FileCRC="2770275719" CRC="2770275719" OriginalCRC="2770275719" />
@@ -97,7 +97,7 @@
   <Data Path="data.bin.physicx_slope.tbl" Version="1" Size="77485" FileCRC="4288055409" CRC="4288055409" OriginalCRC="1788523842" />
   <Data Path="data.bin.physicx_slope.ifo" Version="1" Size="3868" FileCRC="186401870" CRC="186401870" OriginalCRC="186401870" />
   <Data Path="data.bin.lan.kor.ifo" Version="1" Size="432070" FileCRC="756150516" CRC="756150516" OriginalCRC="1271146220" />
-  <Data Path="data.bin.lan.kor.tbl" Version="2" Size="3918047" FileCRC="0" CRC="0" OriginalCRC="0" />
+  <Data Path="data.bin.lan.kor.tbl" Version="1" Size="3918047" FileCRC="0" CRC="0" OriginalCRC="0" />
   <Data Path="data.bin.slang.kor.tbl" Version="1" Size="54828" FileCRC="1091797771" CRC="1091797771" OriginalCRC="1091797771" />
   <Data Path="data.bin.nicknameslang.kor.tbl" Version="1" Size="52207" FileCRC="772682393" CRC="772682393" OriginalCRC="772682393" />
   <Data Path="data.bin.lang.kor.questxml.ifo" Version="1" Size="39603" FileCRC="3445749540" CRC="3445749540" OriginalCRC="1131896645" />
