@@ -97,7 +97,7 @@
  <Data Path="data.bin.physicx_slope.tbl" Version="1" Size="77485" FileCRC="4288055409" CRC="4288055409" OriginalCRC="1788523842" />
  <Data Path="data.bin.physicx_slope.ifo" Version="1" Size="3868" FileCRC="186401870" CRC="186401870" OriginalCRC="186401870" />
  <Data Path="data.bin.lan.kor.ifo" Version="1" Size="432070" FileCRC="756150516" CRC="756150516" OriginalCRC="1271146220" />
- <Data Path="data.bin.lan.kor.tbl" Version="3" Size="3918047" FileCRC="0" CRC="0" OriginalCRC="1265486305" />
+ <Data Path="data.bin.lan.kor.tbl" Version="4" Size="3918047" FileCRC="0" CRC="0" OriginalCRC="1265486305" />
  <Data Path="data.bin.slang.kor.tbl" Version="1" Size="54828" FileCRC="1091797771" CRC="1091797771" OriginalCRC="1091797771" />
  <Data Path="data.bin.nicknameslang.kor.tbl" Version="1" Size="52207" FileCRC="772682393" CRC="772682393" OriginalCRC="772682393" />
  <Data Path="data.bin.lang.kor.questxml.ifo" Version="1" Size="39603" FileCRC="3445749540" CRC="3445749540" OriginalCRC="1131896645" />
