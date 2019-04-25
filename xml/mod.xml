@@ -6,7 +6,7 @@
 <PackInfo Name="common_info/pack_003.bin" Size="5187049" FileCRC="3084013281"/>
 </DataPack>
 <AssetBundle Path="data.language_kor.unity3d" Version="1" Size="2510034" FileCRC="2512172913" CRC="2122722883"/>
-<AssetBundle Path="data.table.unity3d" Version="1" Size="4222225" FileCRC="0" CRC="0"/>
+<AssetBundle Path="data.table.unity3d" Version="2" Size="4222225" FileCRC="0" CRC="0"/>
 <Data Path="data.bin.table_version.ifo" Version="1" Size="7" FileCRC="2927010390" CRC="2927010390" OriginalCRC="2927010390"/>
 <Data Path="data.bin.activator.tbl" Version="1" Size="719651" FileCRC="3679238531" CRC="3679238531" OriginalCRC="2615073291"/>
 <Data Path="data.bin.buff.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
@@ -96,7 +96,7 @@
 <Data Path="data.bin.physicx_slope.tbl" Version="1" Size="77486" FileCRC="1369820259" CRC="1369820259" OriginalCRC="1542590132"/>
 <Data Path="data.bin.physicx_slope.ifo" Version="1" Size="3868" FileCRC="186401870" CRC="186401870" OriginalCRC="186401870"/>
 <Data Path="data.bin.lan.kor.ifo" Version="1" Size="438296" FileCRC="3064458668" CRC="3064458668" OriginalCRC="4061466806"/>
-<Data Path="data.bin.lan.kor.tbl" Version="1" Size="3991696" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.lan.kor.tbl" Version="2" Size="3991696" FileCRC="0" CRC="0" OriginalCRC="0"/>
 <Data Path="data.bin.slang.kor.tbl" Version="1" Size="55113" FileCRC="1827915284" CRC="1827915284" OriginalCRC="1827915284"/>
 <Data Path="data.bin.nicknameslang.kor.tbl" Version="1" Size="52335" FileCRC="1283582740" CRC="1283582740" OriginalCRC="1283582740"/>
 <Data Path="data.bin.lang.kor.questxml.ifo" Version="1" Size="39610" FileCRC="2375238579" CRC="2375238579" OriginalCRC="629922741"/>
