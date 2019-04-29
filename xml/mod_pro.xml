@@ -1,12 +1,12 @@
 <Root>
-<Pack CRC="636918074631884784" Compressed="false" Source="../table_qa_ios/table/" Region="Korea" BuildInfo="1.39_686_bc33dfe1"/>
+<Pack CRC="636921398482541249" Compressed="false" Source="../table_qa_ios/table/" Region="Korea" BuildInfo="1.39_687_2407519e"/>
 <DataPack Count="3">
-<PackInfo Name="common_info/pack_001.bin" Size="22060258" FileCRC="2745497472"/>
-<PackInfo Name="common_info/pack_002.bin" Size="29109636" FileCRC="3994783998"/>
-<PackInfo Name="common_info/pack_003.bin" Size="5187103" FileCRC="2119936894"/>
+<PackInfo Name="common_info/pack_001.bin" Size="22060311" FileCRC="4119615263"/>
+<PackInfo Name="common_info/pack_002.bin" Size="29110013" FileCRC="897104869"/>
+<PackInfo Name="common_info/pack_003.bin" Size="5187086" FileCRC="2490370505"/>
 </DataPack>
-<AssetBundle Path="data.language_kor.unity3d" Version="2" Size="8470413" FileCRC="0" CRC="0"/>
-<AssetBundle Path="data.table.unity3d" Version="2" Size="4222225" FileCRC="0" CRC="0"/>
+<AssetBundle Path="data.language_kor.unity3d" Version="1" Size="8470413" FileCRC="0" CRC="0"/>
+<AssetBundle Path="data.table.unity3d" Version="1" Size="4222257" FileCRC="0" CRC="0"/>
 <Data Path="data.bin.table_version.ifo" Version="1" Size="7" FileCRC="2927010390" CRC="2927010390" OriginalCRC="2927010390"/>
 <Data Path="data.bin.activator.tbl" Version="1" Size="719651" FileCRC="3679238531" CRC="3679238531" OriginalCRC="2615073291"/>
 <Data Path="data.bin.buff.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
@@ -75,8 +75,8 @@
 <Data Path="data.bin.client.guildmark.ifo" Version="1" Size="14348" FileCRC="2760676546" CRC="2760676546" OriginalCRC="2760676546"/>
 <Data Path="data.bin.client.effect.tbl" Version="1" Size="959043" FileCRC="2949017763" CRC="2949017763" OriginalCRC="2949017763"/>
 <Data Path="data.bin.client.effect.ifo" Version="1" Size="44714" FileCRC="1572233497" CRC="1572233497" OriginalCRC="3353778188"/>
-<Data Path="data.bin.client.item.tbl" Version="1" Size="5797261" FileCRC="2455159473" CRC="2455159473" OriginalCRC="2455159473"/>
-<Data Path="data.bin.client.item.ifo" Version="1" Size="480800" FileCRC="922406953" CRC="922406953" OriginalCRC="3198233165"/>
+<Data Path="data.bin.client.item.tbl" Version="1" Size="5797605" FileCRC="1790429171" CRC="1790429171" OriginalCRC="1790429171"/>
+<Data Path="data.bin.client.item.ifo" Version="1" Size="480833" FileCRC="2469331321" CRC="2469331321" OriginalCRC="2469331321"/>
 <Data Path="data.bin.client.partsset.tbl" Version="1" Size="3043405" FileCRC="4272883580" CRC="4272883580" OriginalCRC="4272883580"/>
 <Data Path="data.bin.client.partsset.ifo" Version="1" Size="91762" FileCRC="107921043" CRC="107921043" OriginalCRC="3537607730"/>
 <Data Path="data.bin.client.buffbooster.tbl" Version="1" Size="667" FileCRC="2821502191" CRC="2821502191" OriginalCRC="2821502191"/>
@@ -95,8 +95,8 @@
 <Data Path="data.bin.physicx_terrain.ifo" Version="1" Size="9247" FileCRC="1257503326" CRC="1257503326" OriginalCRC="3604024333"/>
 <Data Path="data.bin.physicx_slope.tbl" Version="1" Size="77486" FileCRC="1369820259" CRC="1369820259" OriginalCRC="1542590132"/>
 <Data Path="data.bin.physicx_slope.ifo" Version="1" Size="3868" FileCRC="186401870" CRC="186401870" OriginalCRC="186401870"/>
-<Data Path="data.bin.lan.kor.ifo" Version="1" Size="438297" FileCRC="3239954958" CRC="3239954958" OriginalCRC="1391655815"/>
-<Data Path="data.bin.lan.kor.tbl" Version="6" Size="3991696" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.lan.kor.ifo" Version="1" Size="438298" FileCRC="4133358293" CRC="4133358293" OriginalCRC="3159500764"/>
+<Data Path="data.bin.lan.kor.tbl" Version="1" Size="3991678" FileCRC="0" CRC="0" OriginalCRC="0"/>
 <Data Path="data.bin.slang.kor.tbl" Version="1" Size="55113" FileCRC="1827915284" CRC="1827915284" OriginalCRC="1827915284"/>
 <Data Path="data.bin.nicknameslang.kor.tbl" Version="1" Size="52335" FileCRC="1283582740" CRC="1283582740" OriginalCRC="1283582740"/>
 <Data Path="data.bin.lang.kor.questxml.ifo" Version="1" Size="39610" FileCRC="2375238579" CRC="2375238579" OriginalCRC="629922741"/>
