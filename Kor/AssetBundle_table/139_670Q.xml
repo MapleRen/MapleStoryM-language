@@ -52,7 +52,7 @@
 <Data Path="data.bin.place.ifo" Version="1" Size="314566" FileCRC="2352820079" CRC="2352820079" OriginalCRC="2352820079"/>
 <Data Path="data.bin.warp.tbl" Version="1" Size="347522" FileCRC="2631295904" CRC="2631295904" OriginalCRC="2631295904"/>
 <Data Path="data.bin.warp.ifo" Version="1" Size="89649" FileCRC="2832340390" CRC="2832340390" OriginalCRC="788186799"/>
-<Data Path="data.bin.world.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.world.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/> 
 <Data Path="data.bin.upgrade.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
 <Data Path="data.bin.upgradeadditional.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
 <Data Path="data.bin.upgradedefault.tbl" Version="1" Size="532530" FileCRC="1412056354" CRC="1412056354" OriginalCRC="1412056354"/>
