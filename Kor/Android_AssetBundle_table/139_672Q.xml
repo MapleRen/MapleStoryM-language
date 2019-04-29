@@ -1,0 +1,104 @@
+<Root>
+<Pack CRC="636921399651015556" Compressed="false" Source="../table_qa_aos/Table/" Region="Korea" BuildInfo="1.39_682_2407519e"/>
+<DataPack Count="3">
+<PackInfo Name="common_info/pack_001.bin" Size="22062000" FileCRC="3815144770"/>
+<PackInfo Name="common_info/pack_002.bin" Size="29110013" FileCRC="897104869"/>
+<PackInfo Name="common_info/pack_003.bin" Size="5187086" FileCRC="2490370505"/>
+</DataPack>
+<AssetBundle Path="data.language_kor.unity3d" Version="1" Size="2512703" FileCRC="1851162514" CRC="475314291"/>
+<AssetBundle Path="data.table.unity3d" Version="1" Size="658644" FileCRC="1961821242" CRC="998712715"/>
+<Data Path="data.bin.table_version.ifo" Version="1" Size="7" FileCRC="2927010390" CRC="2927010390" OriginalCRC="2927010390"/>
+<Data Path="data.bin.activator.tbl" Version="1" Size="719651" FileCRC="3679238531" CRC="3679238531" OriginalCRC="2615073291"/>
+<Data Path="data.bin.buff.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.tag.tbl" Version="1" Size="1268" FileCRC="2996542322" CRC="2996542322" OriginalCRC="2996542322"/>
+<Data Path="data.bin.result.tbl" Version="1" Size="3417674" FileCRC="3650386956" CRC="3650386956" OriginalCRC="505165496"/>
+<Data Path="data.bin.result.ifo" Version="1" Size="405095" FileCRC="1466103427" CRC="1466103427" OriginalCRC="1194370849"/>
+<Data Path="data.bin.skill.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.class.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.joblevel.tbl" Version="1" Size="3398821" FileCRC="2770275719" CRC="2770275719" OriginalCRC="2770275719"/>
+<Data Path="data.bin.joblevel.ifo" Version="1" Size="77711" FileCRC="957390852" CRC="957390852" OriginalCRC="3890532836"/>
+<Data Path="data.bin.hero.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.body.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.ear.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.face.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.hair.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.dummy.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.arrange.tbl" Version="1" Size="408393" FileCRC="3605815195" CRC="3605815195" OriginalCRC="107036412"/>
+<Data Path="data.bin.arrange.ifo" Version="1" Size="171956" FileCRC="766126841" CRC="766126841" OriginalCRC="766126841"/>
+<Data Path="data.bin.auction.tbl" Version="1" Size="86362" FileCRC="2504421055" CRC="2504421055" OriginalCRC="830406563"/>
+<Data Path="data.bin.item.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.setitems.tbl" Version="1" Size="36186" FileCRC="2087284052" CRC="2087284052" OriginalCRC="2087284052"/>
+<Data Path="data.bin.petsetoption.tbl" Version="1" Size="9766" FileCRC="3145171073" CRC="3145171073" OriginalCRC="3145171073"/>
+<Data Path="data.bin.buffbooster.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.cube.tbl" Version="1" Size="184" FileCRC="4084769004" CRC="4084769004" OriginalCRC="4084769004"/>
+<Data Path="data.bin.potentialgrade.tbl" Version="1" Size="401" FileCRC="315355779" CRC="315355779" OriginalCRC="315355779"/>
+<Data Path="data.bin.potential.tbl" Version="1" Size="20814" FileCRC="4167492501" CRC="4167492501" OriginalCRC="4167492501"/>
+<Data Path="data.bin.potentialcost.tbl" Version="1" Size="115242" FileCRC="3549015454" CRC="3549015454" OriginalCRC="3549015454"/>
+<Data Path="data.bin.gachaitem.tbl" Version="1" Size="785980" FileCRC="245606778" CRC="245606778" OriginalCRC="245606778"/>
+<Data Path="data.bin.gachaitem.ifo" Version="1" Size="34507" FileCRC="3444185425" CRC="3444185425" OriginalCRC="1295772030"/>
+<Data Path="data.bin.questreward.tbl" Version="1" Size="430197" FileCRC="253422334" CRC="253422334" OriginalCRC="253422334"/>
+<Data Path="data.bin.questreward.ifo" Version="1" Size="103846" FileCRC="811239137" CRC="811239137" OriginalCRC="1028991712"/>
+<Data Path="data.bin.questtheme.tbl" Version="1" Size="1" FileCRC="2768625435" CRC="2768625435" OriginalCRC="2768625435"/>
+<Data Path="data.bin.questtheme.ifo" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.task.tbl" Version="1" Size="2825184" FileCRC="2530503692" CRC="2530503692" OriginalCRC="131555558"/>
+<Data Path="data.bin.task.ifo" Version="1" Size="103074" FileCRC="1375608260" CRC="1375608260" OriginalCRC="2451956927"/>
+<Data Path="data.bin.gacha.tbl" Version="1" Size="1" FileCRC="2768625435" CRC="2768625435" OriginalCRC="2768625435"/>
+<Data Path="data.bin.gacha.ifo" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.randomitem.tbl" Version="1" Size="1" FileCRC="2768625435" CRC="2768625435" OriginalCRC="2768625435"/>
+<Data Path="data.bin.randomitem.ifo" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.randomitemset.tbl" Version="1" Size="1" FileCRC="2768625435" CRC="2768625435" OriginalCRC="2768625435"/>
+<Data Path="data.bin.randomitemset.ifo" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.place.tbl" Version="1" Size="402834" FileCRC="2776085368" CRC="2776085368" OriginalCRC="1713875886"/>
+<Data Path="data.bin.place.ifo" Version="1" Size="314566" FileCRC="2352820079" CRC="2352820079" OriginalCRC="2352820079"/>
+<Data Path="data.bin.warp.tbl" Version="1" Size="347522" FileCRC="2631295904" CRC="2631295904" OriginalCRC="2631295904"/>
+<Data Path="data.bin.warp.ifo" Version="1" Size="89649" FileCRC="2832340390" CRC="2832340390" OriginalCRC="788186799"/>
+<Data Path="data.bin.world.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.upgrade.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.upgradeadditional.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.upgradedefault.tbl" Version="1" Size="532530" FileCRC="1412056354" CRC="1412056354" OriginalCRC="1412056354"/>
+<Data Path="data.bin.petequipcode.tbl" Version="1" Size="2756" FileCRC="3369676466" CRC="3369676466" OriginalCRC="3369676466"/>
+<Data Path="data.bin.addoption.tbl" Version="1" Size="352" FileCRC="1691887577" CRC="1691887577" OriginalCRC="1691887577"/>
+<Data Path="data.bin.addoptiongrade.tbl" Version="1" Size="75" FileCRC="2134555741" CRC="2134555741" OriginalCRC="2134555741"/>
+<Data Path="data.bin.client.buff.tbl" Version="1" Size="1024740" FileCRC="1473279144" CRC="1473279144" OriginalCRC="1473279144"/>
+<Data Path="data.bin.client.activator.tbl" Version="1" Size="301127" FileCRC="716615779" CRC="716615779" OriginalCRC="716615779"/>
+<Data Path="data.bin.client.skill.descriptionset.tbl" Version="1" Size="2720504" FileCRC="376130256" CRC="376130256" OriginalCRC="376130256"/>
+<Data Path="data.bin.client.skill.descriptionset.ifo" Version="1" Size="198171" FileCRC="3428743603" CRC="3428743603" OriginalCRC="3988557878"/>
+<Data Path="data.bin.client.skill.tbl" Version="1" Size="4788069" FileCRC="3823428407" CRC="3823428407" OriginalCRC="3823428407"/>
+<Data Path="data.bin.client.class.tbl" Version="1" Size="497" FileCRC="1441833987" CRC="1441833987" OriginalCRC="1441833987"/>
+<Data Path="data.bin.client.body.tbl" Version="1" Size="908" FileCRC="3870967226" CRC="3870967226" OriginalCRC="3870967226"/>
+<Data Path="data.bin.client.ear.tbl" Version="1" Size="172" FileCRC="3896161949" CRC="3896161949" OriginalCRC="3896161949"/>
+<Data Path="data.bin.client.face.tbl" Version="1" Size="127908" FileCRC="1569084987" CRC="1569084987" OriginalCRC="1569084987"/>
+<Data Path="data.bin.client.hair.tbl" Version="1" Size="224897" FileCRC="3613838013" CRC="3613838013" OriginalCRC="3613838013"/>
+<Data Path="data.bin.client.dummy.tbl" Version="1" Size="3025089" FileCRC="4039184355" CRC="4039184355" OriginalCRC="1504649489"/>
+<Data Path="data.bin.client.dummy.ifo" Version="1" Size="335887" FileCRC="4247339136" CRC="4247339136" OriginalCRC="4099878974"/>
+<Data Path="data.bin.client.guildmark.tbl" Version="1" Size="128858" FileCRC="1502461767" CRC="1502461767" OriginalCRC="1502461767"/>
+<Data Path="data.bin.client.guildmark.ifo" Version="1" Size="14348" FileCRC="2760676546" CRC="2760676546" OriginalCRC="2760676546"/>
+<Data Path="data.bin.client.effect.tbl" Version="1" Size="959043" FileCRC="2949017763" CRC="2949017763" OriginalCRC="2949017763"/>
+<Data Path="data.bin.client.effect.ifo" Version="1" Size="44714" FileCRC="1572233497" CRC="1572233497" OriginalCRC="3353778188"/>
+<Data Path="data.bin.client.item.tbl" Version="1" Size="5797605" FileCRC="1790429171" CRC="1790429171" OriginalCRC="1790429171"/>
+<Data Path="data.bin.client.item.ifo" Version="1" Size="480833" FileCRC="2469331321" CRC="2469331321" OriginalCRC="2469331321"/>
+<Data Path="data.bin.client.partsset.tbl" Version="1" Size="3043405" FileCRC="4272883580" CRC="4272883580" OriginalCRC="4272883580"/>
+<Data Path="data.bin.client.partsset.ifo" Version="1" Size="91762" FileCRC="107921043" CRC="107921043" OriginalCRC="3537607730"/>
+<Data Path="data.bin.client.buffbooster.tbl" Version="1" Size="667" FileCRC="2821502191" CRC="2821502191" OriginalCRC="2821502191"/>
+<Data Path="data.bin.client.warp.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.client.world.tbl" Version="1" Size="357384" FileCRC="3543742543" CRC="3543742543" OriginalCRC="1970664722"/>
+<Data Path="data.bin.client.world.ifo" Version="1" Size="42393" FileCRC="3390828749" CRC="3390828749" OriginalCRC="732652872"/>
+<Data Path="data.bin.client.vehicle.tbl" Version="1" Size="132021" FileCRC="2727854144" CRC="2727854144" OriginalCRC="2727854144"/>
+<Data Path="data.bin.client.itemcharactereffect.tbl" Version="1" Size="434" FileCRC="2846280807" CRC="2846280807" OriginalCRC="2846280807"/>
+<Data Path="data.bin.client.itemminiinfo.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.client.itemminiinfo.ifo" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.client.icon.tbl" Version="1" Size="597048" FileCRC="3258421507" CRC="3258421507" OriginalCRC="3258421507"/>
+<Data Path="data.bin.client.icon.ifo" Version="1" Size="304617" FileCRC="3180555240" CRC="3180555240" OriginalCRC="3180555240"/>
+<Data Path="data.bin.client.gacha.tbl" Version="1" Size="1" FileCRC="2768625435" CRC="2768625435" OriginalCRC="2768625435"/>
+<Data Path="data.bin.client.gacha.ifo" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.physicx_terrain.tbl" Version="1" Size="8412232" FileCRC="3037187707" CRC="3037187707" OriginalCRC="3037187707"/>
+<Data Path="data.bin.physicx_terrain.ifo" Version="1" Size="9247" FileCRC="1257503326" CRC="1257503326" OriginalCRC="3604024333"/>
+<Data Path="data.bin.physicx_slope.tbl" Version="1" Size="77486" FileCRC="1369820259" CRC="1369820259" OriginalCRC="1542590132"/>
+<Data Path="data.bin.physicx_slope.ifo" Version="1" Size="3868" FileCRC="186401870" CRC="186401870" OriginalCRC="186401870"/>
+<Data Path="data.bin.lan.kor.ifo" Version="1" Size="438298" FileCRC="4133358293" CRC="4133358293" OriginalCRC="3159500764"/>
+<Data Path="data.bin.lan.kor.tbl" Version="1" Size="3991678" FileCRC="4224830822" CRC="4224830822" OriginalCRC="4224830822"/>
+<Data Path="data.bin.slang.kor.tbl" Version="1" Size="55113" FileCRC="1827915284" CRC="1827915284" OriginalCRC="1827915284"/>
+<Data Path="data.bin.nicknameslang.kor.tbl" Version="1" Size="52335" FileCRC="1283582740" CRC="1283582740" OriginalCRC="1283582740"/>
+<Data Path="data.bin.lang.kor.questxml.ifo" Version="1" Size="39610" FileCRC="2375238579" CRC="2375238579" OriginalCRC="629922741"/>
+<Data Path="data.bin.lang.kor.questxml.tbl" Version="1" Size="519147" FileCRC="1020703797" CRC="1020703797" OriginalCRC="1020703797"/>
+</Root>
