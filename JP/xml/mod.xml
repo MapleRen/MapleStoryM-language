@@ -1,14 +1,14 @@
 <Root>
-<Pack CRC="636919125913677420" Compressed="false" Source="../Japan_QA_ClientTable_IOS/Japan/" Region="Japan" BuildInfo="1.361_167_6399d0f0"/>
+<Pack CRC="636921333565806605" Compressed="false" Source="../Japan_QA_ClientTable_IOS/Japan/" Region="Japan" BuildInfo="1.361_168_5111cf37"/>
 <DataPack Count="3">
-<PackInfo Name="common_info/pack_001.bin" Size="21143315" FileCRC="1718163841"/>
-<PackInfo Name="common_info/pack_002.bin" Size="24958530" FileCRC="800366455"/>
+<PackInfo Name="common_info/pack_001.bin" Size="21150320" FileCRC="822024501"/>
+<PackInfo Name="common_info/pack_002.bin" Size="24958536" FileCRC="3713258255"/>
 <PackInfo Name="common_info/pack_003.bin" Size="14851196" FileCRC="1771501592"/>
 </DataPack>
 <AssetBundle Path="data.language_jpn.unity3d" Version="1" Size="1998731" FileCRC="1034324387" CRC="653290403"/>
 <AssetBundle Path="data.language_kor.unity3d" Version="1" Size="2082121" FileCRC="4180106823" CRC="3896420636"/>
 <AssetBundle Path="data.language_usa.unity3d" Version="1" Size="1925174" FileCRC="4058750811" CRC="2637098428"/>
-<AssetBundle Path="data.table.unity3d" Version="2" Size="3166505" FileCRC="0" CRC="0"/>
+<AssetBundle Path="data.table.unity3d" Version="1" Size="3174273" FileCRC="0" CRC="0"/>
 <Data Path="data.bin.table_version.ifo" Version="1" Size="13" FileCRC="2191598850" CRC="2191598850" OriginalCRC="3814106525"/>
 <Data Path="data.bin.activator.tbl" Version="1" Size="561273" FileCRC="455628145" CRC="455628145" OriginalCRC="455628145"/>
 <Data Path="data.bin.buff.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
@@ -35,7 +35,7 @@
 <Data Path="data.bin.cube.tbl" Version="1" Size="184" FileCRC="4084769004" CRC="4084769004" OriginalCRC="4084769004"/>
 <Data Path="data.bin.potentialgrade.tbl" Version="1" Size="401" FileCRC="315355779" CRC="315355779" OriginalCRC="315355779"/>
 <Data Path="data.bin.potential.tbl" Version="1" Size="28818" FileCRC="3523798070" CRC="3523798070" OriginalCRC="3523798070"/>
-<Data Path="data.bin.potentialcost.tbl" Version="1" Size="35136" FileCRC="1816297083" CRC="1816297083" OriginalCRC="1816297083"/>
+<Data Path="data.bin.potentialcost.tbl" Version="1" Size="39744" FileCRC="2907842817" CRC="2907842817" OriginalCRC="2907842817"/>
 <Data Path="data.bin.gachaitem.tbl" Version="1" Size="307772" FileCRC="4001447534" CRC="4001447534" OriginalCRC="800627569"/>
 <Data Path="data.bin.gachaitem.ifo" Version="1" Size="10229" FileCRC="243296894" CRC="243296894" OriginalCRC="243296894"/>
 <Data Path="data.bin.questreward.tbl" Version="1" Size="356859" FileCRC="2826198779" CRC="2826198779" OriginalCRC="2826198779"/>
@@ -57,7 +57,7 @@
 <Data Path="data.bin.world.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
 <Data Path="data.bin.upgrade.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
 <Data Path="data.bin.upgradeadditional.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
-<Data Path="data.bin.upgradedefault.tbl" Version="1" Size="448376" FileCRC="961740625" CRC="961740625" OriginalCRC="961740625"/>
+<Data Path="data.bin.upgradedefault.tbl" Version="1" Size="448936" FileCRC="3079499667" CRC="3079499667" OriginalCRC="3079499667"/>
 <Data Path="data.bin.petequipcode.tbl" Version="1" Size="2620" FileCRC="2720892930" CRC="2720892930" OriginalCRC="2720892930"/>
 <Data Path="data.bin.addoption.tbl" Version="1" Size="352" FileCRC="1691887577" CRC="1691887577" OriginalCRC="1691887577"/>
 <Data Path="data.bin.addoptiongrade.tbl" Version="1" Size="75" FileCRC="2134555741" CRC="2134555741" OriginalCRC="2134555741"/>
@@ -77,7 +77,7 @@
 <Data Path="data.bin.client.guildmark.ifo" Version="1" Size="14340" FileCRC="14686808" CRC="14686808" OriginalCRC="14686808"/>
 <Data Path="data.bin.client.effect.tbl" Version="1" Size="906271" FileCRC="4081348229" CRC="4081348229" OriginalCRC="4081348229"/>
 <Data Path="data.bin.client.effect.ifo" Version="1" Size="43540" FileCRC="580107460" CRC="580107460" OriginalCRC="580107460"/>
-<Data Path="data.bin.client.item.tbl" Version="1" Size="4762203" FileCRC="2102121172" CRC="2102121172" OriginalCRC="2102121172"/>
+<Data Path="data.bin.client.item.tbl" Version="1" Size="4762209" FileCRC="2873828640" CRC="2873828640" OriginalCRC="4267940639"/>
 <Data Path="data.bin.client.item.ifo" Version="1" Size="382209" FileCRC="3217943819" CRC="3217943819" OriginalCRC="3217943819"/>
 <Data Path="data.bin.client.partsset.tbl" Version="1" Size="2678403" FileCRC="2534310443" CRC="2534310443" OriginalCRC="2534310443"/>
 <Data Path="data.bin.client.partsset.ifo" Version="1" Size="92988" FileCRC="3879045926" CRC="3879045926" OriginalCRC="3879045926"/>
