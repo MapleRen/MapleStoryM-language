@@ -102,7 +102,7 @@
 <Data Path="data.bin.lan.usa.ifo" Version="1" Size="373320" FileCRC="4039936021" CRC="4039936021" OriginalCRC="4039936021"/>
 <Data Path="data.bin.lan.usa.tbl" Version="1" Size="3451202" FileCRC="3127009716" CRC="3127009716" OriginalCRC="3127009716"/>
 <Data Path="data.bin.lan.jpn.ifo" Version="1" Size="437496" FileCRC="2203481879" CRC="2203481879" OriginalCRC="2203481879"/>
-<Data Path="data.bin.lan.jpn.tbl" Version="2" Size="4677955" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.lan.jpn.tbl" Version="3" Size="4677955" FileCRC="0" CRC="0" OriginalCRC="0"/>
 <Data Path="data.bin.slang.kor.tbl" Version="1" Size="53471" FileCRC="3727322794" CRC="3727322794" OriginalCRC="3727322794"/>
 <Data Path="data.bin.slang.usa.tbl" Version="1" Size="33782" FileCRC="3909807905" CRC="3909807905" OriginalCRC="3909807905"/>
 <Data Path="data.bin.slang.jpn.tbl" Version="1" Size="2712" FileCRC="1570898713" CRC="1570898713" OriginalCRC="1570898713"/>
