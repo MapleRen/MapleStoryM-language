@@ -3,3 +3,6 @@
 
 139_299S - 2019-05-10:
 /VzLid62CGXY27DAwXje43GG1S6pm@KOWTRWY/VzLid62@mmb@AssetBundle_table.xml
+
+140_698Q - 2019-05-23:
+/HeRhEvD5DlQirBTTY6RIxL6KXlJ5zmbQJL1w/HeRhEvD@mmb@AssetBundle_table.xml
