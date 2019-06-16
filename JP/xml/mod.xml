@@ -1,9 +1,9 @@
 <Root>
-<Pack CRC="636947345423961299" Compressed="false" Source="../Japan_Stage_ClientTable_IOS/Japan/" Region="Japan" BuildInfo="1.400_216_3b48bfc9"/>
+<Pack CRC="636959467145288102" Compressed="false" Source="../Japan_Stage_ClientTable_IOS/Japan/" Region="Japan" BuildInfo="1.400_21_280731dc"/>
 <DataPack Count="3">
-<PackInfo Name="common_info/pack_001.bin" Size="21241858" FileCRC="2745266093"/>
-<PackInfo Name="common_info/pack_002.bin" Size="25984217" FileCRC="2912588737"/>
-<PackInfo Name="common_info/pack_003.bin" Size="14960554" FileCRC="2616226254"/>
+<PackInfo Name="common_info/pack_001.bin" Size="21242083" FileCRC="2758851438"/>
+<PackInfo Name="common_info/pack_002.bin" Size="25984314" FileCRC="1957558651"/>
+<PackInfo Name="common_info/pack_003.bin" Size="14960525" FileCRC="1228776824"/>
 </DataPack>
 <AssetBundle Path="data.language_jpn.unity3d" Version="1" Size="1998914" FileCRC="1813502007" CRC="1508178346"/>
 <AssetBundle Path="data.language_kor.unity3d" Version="1" Size="2082414" FileCRC="70292272" CRC="976037801"/>
@@ -71,8 +71,8 @@
 <Data Path="data.bin.client.guildmark.ifo" Version="1" Size="14340" FileCRC="14686808" CRC="14686808" OriginalCRC="14686808"/>
 <Data Path="data.bin.client.effect.tbl" Version="1" Size="965258" FileCRC="639812058" CRC="639812058" OriginalCRC="639812058"/>
 <Data Path="data.bin.client.effect.ifo" Version="1" Size="44796" FileCRC="1560038751" CRC="1560038751" OriginalCRC="1560038751"/>
-<Data Path="data.bin.client.item.tbl" Version="1" Size="4874157" FileCRC="1652416229" CRC="1652416229" OriginalCRC="1652416229"/>
-<Data Path="data.bin.client.item.ifo" Version="1" Size="390376" FileCRC="4043482664" CRC="4043482664" OriginalCRC="3614963834"/>
+<Data Path="data.bin.client.item.tbl" Version="1" Size="4874253" FileCRC="2494773913" CRC="2494773913" OriginalCRC="2494773913"/>
+<Data Path="data.bin.client.item.ifo" Version="1" Size="390377" FileCRC="3386035153" CRC="3386035153" OriginalCRC="3094657331"/>
 <Data Path="data.bin.client.partsset.tbl" Version="1" Size="3108434" FileCRC="3566783466" CRC="3566783466" OriginalCRC="3566783466"/>
 <Data Path="data.bin.client.partsset.ifo" Version="1" Size="93516" FileCRC="4002085242" CRC="4002085242" OriginalCRC="4002085242"/>
 <Data Path="data.bin.client.buffbooster.tbl" Version="1" Size="667" FileCRC="2821502191" CRC="2821502191" OriginalCRC="2821502191"/>
@@ -93,8 +93,8 @@
 <Data Path="data.bin.lan.kor.tbl" Version="1" Size="3853058" FileCRC="689532047" CRC="689532047" OriginalCRC="689532047"/>
 <Data Path="data.bin.lan.usa.ifo" Version="1" Size="373326" FileCRC="4209984183" CRC="4209984183" OriginalCRC="3024333519"/>
 <Data Path="data.bin.lan.usa.tbl" Version="1" Size="3451106" FileCRC="1068051653" CRC="1068051653" OriginalCRC="1068051653"/>
-<Data Path="data.bin.lan.jpn.ifo" Version="1" Size="442344" FileCRC="1425586538" CRC="1425586538" OriginalCRC="1425586538"/>
-<Data Path="data.bin.lan.jpn.tbl" Version="3" Size="4733098" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Path="data.bin.lan.jpn.ifo" Version="1" Size="442350" FileCRC="114386202" CRC="114386202" OriginalCRC="3159780644"/>
+<Data Path="data.bin.lan.jpn.tbl" Version="1" Size="4733098" FileCRC="0" CRC="0" OriginalCRC="0"/>
 <Data Path="data.bin.slang.kor.tbl" Version="1" Size="53471" FileCRC="3727322794" CRC="3727322794" OriginalCRC="3727322794"/>
 <Data Path="data.bin.slang.usa.tbl" Version="1" Size="33782" FileCRC="3909807905" CRC="3909807905" OriginalCRC="3909807905"/>
 <Data Path="data.bin.slang.jpn.tbl" Version="1" Size="2712" FileCRC="1570898713" CRC="1570898713" OriginalCRC="1570898713"/>
