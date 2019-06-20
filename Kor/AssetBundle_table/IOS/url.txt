@@ -12,3 +12,9 @@
 
 140_702Q - 2019-05-30:
 /HeRhEvD5DlQirBTTY6RIxL6KXlJ5zmbQJL1w/HeRhEvD@mmb@AssetBundle_table.xml
+
+140_301S - 2019-06-12:
+/HeRhEvD5DlQirBTTY6RIxL6KXlJ5zmbQJL1w/HeRhEvD@mmb@AssetBundle_table.xml
+
+141_729Q - 2019-06-20:
+/9Z4DdeCpt5pVovxJvN4DTLt@RXyxGvb3Y/9Z4DdeC@mmb@AssetBundle_table.xml
