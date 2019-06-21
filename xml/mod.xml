@@ -1,12 +1,13 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <Root>
-<Pack CRC="636966507468011783" Compressed="false" Source="../table_qa_ios/table/" Region="Korea" BuildInfo="1.41_749_a3792a0e"/>
+<Pack CRC="636967330285360968" Compressed="false" Source="../table_qa_ios/table/" Region="Korea" BuildInfo="1.41_750_e2565f1f"/>
 <DataPack Count="3">
 <PackInfo Name="common_info/pack_001.bin" Size="23515949" FileCRC="1305706929"/>
 <PackInfo Name="common_info/pack_002.bin" Size="21027916" FileCRC="690081303"/>
 <PackInfo Name="common_info/pack_003.bin" Size="15119724" FileCRC="2065345855"/>
 </DataPack>
 <AssetBundle Path="data.language_kor.unity3d" Version="1" Size="2589167" FileCRC="1572860300" CRC="1940243838"/>
-<AssetBundle Path="data.table.unity3d" Version="2" Size="4395633" FileCRC="0" CRC="0"/>
+<AssetBundle Path="data.table.unity3d" Version="1" Size="4395633" FileCRC="0" CRC="0"/>
 <Data Path="data.bin.table_version.ifo" Version="1" Size="7" FileCRC="2927010390" CRC="2927010390" OriginalCRC="2927010390"/>
 <Data Path="data.bin.activator.tbl" Version="1" Size="754661" FileCRC="244102558" CRC="244102558" OriginalCRC="244102558"/>
 <Data Path="data.bin.buff.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
