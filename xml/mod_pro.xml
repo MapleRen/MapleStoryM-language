@@ -1,5 +1,5 @@
 <Root>
-<Pack CRC="636966507468011783" Compressed="false" Source="../table_qa_ios/table/" Region="Korea" BuildInfo="1.41_749_a3792a0e"/>
+<Pack CRC="636967330285360968" Compressed="false" Source="../table_qa_ios/table/" Region="Korea" BuildInfo="1.41_750_e2565f1f"/>
 <DataPack Count="3">
 <PackInfo Name="common_info/pack_001.bin" Size="23515949" FileCRC="1305706929"/>
 <PackInfo Name="common_info/pack_002.bin" Size="21027916" FileCRC="690081303"/>
