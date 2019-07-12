@@ -18,3 +18,6 @@
 
 141_729Q - 2019-06-20:
 /9Z4DdeCpt5pVovxJvN4DTLt@RXyxGvb3Y/9Z4DdeC@mmb@AssetBundle_table.xml
+
+141_735Q - 2017-07-02:
+/9Z4DdeCpt5pVovxJvN4DTLt@RXyxGvb3Y/9Z4DdeC@mmb@AssetBundle_table.xml
