@@ -8,7 +8,7 @@
 <AssetBundle Path="data.language_jpn.unity3d" Version="1" Size="2003964" FileCRC="1245411043" CRC="1825317446"/>
 <AssetBundle Path="data.language_kor.unity3d" Version="1" Size="2085586" FileCRC="3934515974" CRC="2530045478"/>
 <AssetBundle Path="data.language_usa.unity3d" Version="1" Size="1925173" FileCRC="2983366756" CRC="1152823582"/>
-<AssetBundle Path="data.table.unity3d" Version="1" Size="529202" FileCRC="0" CRC="0"/>
+<AssetBundle Path="data.table.unity3d" Version="1" Size="3396288" FileCRC="0" CRC="0"/>
 <Data Path="data.bin.table_version.ifo" Version="1" Size="7" FileCRC="3814106525" CRC="3814106525" OriginalCRC="3814106525"/>
 <Data Path="data.bin.activator.tbl" Version="1" Size="598086" FileCRC="3946070192" CRC="3946070192" OriginalCRC="3946070192"/>
 <Data Path="data.bin.buff.tbl" Version="1" Size="0" FileCRC="0" CRC="0" OriginalCRC="0"/>
