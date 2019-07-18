@@ -3,11 +3,11 @@
 <PackList Count="6">
 <PackInfo Name="pack_001.bin" Size="11966488" MB="11.4" FileCount="8" FileCRC="2972109204" Time="20190717_185157" BuildInfo="1.42_794_217a018c">
 <Data Time="20190718_001722" BuildInfo="1.42_795_1d1f293d" Path="data.bin.lan.kor.ifo" Version="1" Size="467712" KB="456.8" FileCRC="3327024975" CRC="3327024975" OriginalCRC="3327024975"/>
-<Data Time="20190718_001722" BuildInfo="1.42_795_1d1f293d" Path="data.bin.lan.kor.tbl" Version="1" Size="4344660" KB="4,242.8" FileCRC="4148220219" CRC="4148220219" OriginalCRC="4148220219"/>
+<Data Time="20190718_001722" BuildInfo="1.42_795_1d1f293d" Path="data.bin.lan.kor.tbl" Version="1" Size="4344660" KB="4,242.8" FileCRC="0" CRC="0" OriginalCRC="0"/>
 <Data Time="20190718_001722" BuildInfo="1.42_795_1d1f293d" Path="data.bin.lang.kor.questxml.ifo" Version="1" Size="42286" KB="41.3" FileCRC="804227694" CRC="804227694" OriginalCRC="953034261"/>
 <Data Time="20190718_001722" BuildInfo="1.42_795_1d1f293d" Path="data.bin.lang.kor.questxml.tbl" Version="1" Size="544804" KB="532.0" FileCRC="290945464" CRC="290945464" OriginalCRC="290945464"/>
-<AssetBundle Time="20190718_001722" BuildInfo="1.42_795_1d1f293d" Path="data.language_kor.unity3d" Version="1" Size="2724893" KB="2,661.0" FileCRC="2123089737" CRC="1409660502" OriginalCRC=""/>
-<AssetBundle Time="20190718_001722" BuildInfo="1.42_795_1d1f293d" Path="data.table.unity3d" Version="1" Size="713306" KB="696.6" FileCRC="488028523" CRC="2272644882" OriginalCRC=""/>
+<AssetBundle Time="20190718_001722" BuildInfo="1.42_795_1d1f293d" Path="data.language_kor.unity3d" Version="1" Size="9190685" KB="2,661.0" FileCRC="0" CRC="0" OriginalCRC=""/>
+<AssetBundle Time="20190718_001722" BuildInfo="1.42_795_1d1f293d" Path="data.table.unity3d" Version="1" Size="4592037" KB="696.6" FileCRC="0" CRC="0" OriginalCRC=""/>
 <Data Time="20190717_185157" BuildInfo="1.42_794_217a018c" Path="data.bin.task.ifo" Version="1" Size="110396" KB="107.8" FileCRC="2732253227" CRC="2732253227" OriginalCRC="3751226419"/>
 <Data Time="20190717_185157" BuildInfo="1.42_794_217a018c" Path="data.bin.task.tbl" Version="1" Size="3018190" KB="2,947.5" FileCRC="551952773" CRC="551952773" OriginalCRC="551952773"/>
 </PackInfo>
