@@ -7,7 +7,7 @@
 <Data Time="20190718_153354" BuildInfo="1.42_797_f493f0f3" Path="data.bin.joblevel.tbl" Version="1" Size="4093205" KB="3,997.3" FileCRC="1066698686" CRC="1066698686" OriginalCRC="1066698686"/>
 <Data Time="20190718_153354" BuildInfo="1.42_797_f493f0f3" Path="data.bin.lan.kor.ifo" Version="1" Size="467718" KB="456.8" FileCRC="2062047416" CRC="2062047416" OriginalCRC="2750156041"/>
 <Data Time="20190718_153354" BuildInfo="1.42_797_f493f0f3" Path="data.bin.lan.kor.tbl" Version="1" Size="4344659" KB="4,242.8" FileCRC="287170877" CRC="287170877" OriginalCRC="287170877"/>
-<AssetBundle Time="20190718_153354" BuildInfo="1.42_797_f493f0f3" Path="data.table.unity3d" Version="1" Size="713301" KB="696.6" FileCRC="2801336971" CRC="1760254215" OriginalCRC=""/>
+<AssetBundle Time="20190718_153354" BuildInfo="1.42_797_f493f0f3" Path="data.table.unity3d" Version="1" Size="4592341" KB="696.6" FileCRC="0" CRC="0" OriginalCRC=""/>
 <Data Time="20190718_101103" BuildInfo="1.42_796_15766036" Path="data.bin.client.item.tbl" Version="1" Size="6786479" KB="6,627.4" FileCRC="2928747098" CRC="2928747098" OriginalCRC="1672637157"/>
 </PackInfo>
 <PackInfo Name="pack_002.bin" Size="11331030" MB="10.8" FileCount="8" FileCRC="244353883" Time="20190717_094138" BuildInfo="1.42_790_60d9d750">
