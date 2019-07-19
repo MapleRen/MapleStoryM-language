@@ -15,7 +15,7 @@
 <Data Time="20190718_153354" BuildInfo="1.42_797_f493f0f3" Path="data.bin.joblevel.tbl" Version="1" Size="4093205" KB="3,997.3" FileCRC="1066698686" CRC="1066698686" OriginalCRC="1066698686"/>
 <Data Time="20190718_001722" BuildInfo="1.42_795_1d1f293d" Path="data.bin.lang.kor.questxml.ifo" Version="1" Size="42286" KB="41.3" FileCRC="804227694" CRC="804227694" OriginalCRC="953034261"/>
 <Data Time="20190718_001722" BuildInfo="1.42_795_1d1f293d" Path="data.bin.lang.kor.questxml.tbl" Version="1" Size="544804" KB="532.0" FileCRC="290945464" CRC="290945464" OriginalCRC="290945464"/>
-<AssetBundle Time="20190718_001722" BuildInfo="1.42_795_1d1f293d" Path="data.language_kor.unity3d" Version="1" Size="2724893" KB="2,661.0" FileCRC="2123089737" CRC="1409660502" OriginalCRC=""/>
+<AssetBundle Time="20190718_001722" BuildInfo="1.42_795_1d1f293d" Path="data.language_kor.unity3d" Version="1" Size="9190685" KB="2,661.0" FileCRC="0" CRC="0" OriginalCRC=""/>
 <Data Time="20190717_185157" BuildInfo="1.42_794_217a018c" Path="data.bin.task.ifo" Version="1" Size="110396" KB="107.8" FileCRC="2732253227" CRC="2732253227" OriginalCRC="3751226419"/>
 <Data Time="20190717_185157" BuildInfo="1.42_794_217a018c" Path="data.bin.task.tbl" Version="1" Size="3018190" KB="2,947.5" FileCRC="551952773" CRC="551952773" OriginalCRC="551952773"/>
 </PackInfo>
