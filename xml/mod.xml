@@ -4,7 +4,7 @@
 <PackInfo Name="pack_001.bin" Size="14853453" MB="14.2" FileCount="4" FileCRC="1563451037" Time="20190718_193500" BuildInfo="1.42_798_f777b516">
 <Data Time="20190719_123251" BuildInfo="1.42_799_5cb10275" Path="data.bin.client.dummy.tbl" Version="1" Size="3254379" KB="3,178.1" FileCRC="1052041809" CRC="1052041809" OriginalCRC="2771484403"/>
 <Data Time="20190719_123251" BuildInfo="1.42_799_5cb10275" Path="data.bin.lan.kor.ifo" Version="1" Size="467726" KB="456.8" FileCRC="3284093682" CRC="3284093682" OriginalCRC="3078227429"/>
-<Data Time="20190719_123251" BuildInfo="1.42_799_5cb10275" Path="data.bin.lan.kor.tbl" Version="2" Size="4344747" KB="4,242.9" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Time="20190719_123251" BuildInfo="1.42_799_5cb10275" Path="data.bin.lan.kor.tbl" Version="3" Size="4344747" KB="4,242.9" FileCRC="0" CRC="0" OriginalCRC="0"/>
 <Data Time="20190718_193500" BuildInfo="1.42_798_f777b516" Path="data.bin.client.item.tbl" Version="1" Size="6786480" KB="6,627.4" FileCRC="2583113289" CRC="2583113289" OriginalCRC="3313108447"/>
 </PackInfo>
 <PackInfo Name="pack_002.bin" Size="12023999" MB="11.5" FileCount="10" FileCRC="244353883" Time="20190717_185157" BuildInfo="1.42_794_217a018c">
