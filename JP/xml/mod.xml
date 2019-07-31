@@ -6,7 +6,7 @@
 <Data Time="20190724_203345" BuildInfo="1.420_294_1075cc2b" Path="data.bin.lan.jpn.tbl" Version="1" Size="4870725" KB="4,756.6" FileCRC="2971076956" CRC="2971076956" OriginalCRC="2971076956"/>
 <Data Time="20190724_203345" BuildInfo="1.420_294_1075cc2b" Path="data.bin.lan.kor.ifo" Version="1" Size="441872" KB="431.5" FileCRC="1909825641" CRC="1909825641" OriginalCRC="1909825641"/>
 <Data Time="20190724_203345" BuildInfo="1.420_294_1075cc2b" Path="data.bin.lan.kor.tbl" Version="1" Size="3985897" KB="3,892.5" FileCRC="4170092274" CRC="4170092274" OriginalCRC="4170092274"/>
-<AssetBundle Time="20190724_203345" BuildInfo="1.420_294_1075cc2b" Path="data.table.unity3d" Version="1" Size="560681" KB="547.5" FileCRC="2029129735" CRC="1001008240" OriginalCRC=""/>
+<AssetBundle Time="20190724_203345" BuildInfo="1.420_294_1075cc2b" Path="data.table.unity3d" Version="1" Size="3591737" KB="547.5" FileCRC="0" CRC="0" OriginalCRC=""/>
 <Data Time="20190723_174557" BuildInfo="1.420_293_cc826952" Path="data.bin.client.effect.ifo" Version="1" Size="45258" KB="44.2" FileCRC="4093923429" CRC="4093923429" OriginalCRC="2901398786"/>
 <Data Time="20190723_174557" BuildInfo="1.420_293_cc826952" Path="data.bin.client.effect.tbl" Version="1" Size="1098835" KB="1,073.1" FileCRC="1559720574" CRC="1559720574" OriginalCRC="1559720574"/>
 </PackInfo>
