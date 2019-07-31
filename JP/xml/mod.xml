@@ -1,12 +1,12 @@
 <Root>
-<Header CRC="20190724_203345" Region="Japan" BuildInfo="1.420_294_1075cc2b" PackCount="6" FileCount="102" TotalSize="64959246" MB="61.9" Compressed="False" Source="../Japan_Stage_ClientTable_IOS/Japan/"/>
+<Header CRC="20190729_135155" Region="Japan" BuildInfo="1.420_295_0401befa" PackCount="6" FileCount="102" TotalSize="64959246" MB="61.9" Compressed="False" Source="../Japan_Stage_ClientTable_IOS/Japan/"/>
 <PackList Count="6">
-<PackInfo Name="pack_001.bin" Size="11457914" MB="10.9" FileCount="7" FileCRC="1707363054" Time="20190723_174557" BuildInfo="1.420_293_cc826952">
+<PackInfo Name="pack_001.bin" Size="11457914" MB="10.9" FileCount="7" FileCRC="3874429216" Time="20190723_174557" BuildInfo="1.420_293_cc826952">
 <Data Time="20190724_203345" BuildInfo="1.420_294_1075cc2b" Path="data.bin.lan.jpn.ifo" Version="1" Size="454440" KB="443.8" FileCRC="3050082088" CRC="3050082088" OriginalCRC="3050082088"/>
-<Data Time="20190724_203345" BuildInfo="1.420_294_1075cc2b" Path="data.bin.lan.jpn.tbl" Version="1" Size="4870725" KB="4,756.6" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Time="20190724_203345" BuildInfo="1.420_294_1075cc2b" Path="data.bin.lan.jpn.tbl" Version="1" Size="4870725" KB="4,756.6" FileCRC="2971076956" CRC="2971076956" OriginalCRC="2971076956"/>
 <Data Time="20190724_203345" BuildInfo="1.420_294_1075cc2b" Path="data.bin.lan.kor.ifo" Version="1" Size="441872" KB="431.5" FileCRC="1909825641" CRC="1909825641" OriginalCRC="1909825641"/>
 <Data Time="20190724_203345" BuildInfo="1.420_294_1075cc2b" Path="data.bin.lan.kor.tbl" Version="1" Size="3985897" KB="3,892.5" FileCRC="4170092274" CRC="4170092274" OriginalCRC="4170092274"/>
-<AssetBundle Time="20190724_203345" BuildInfo="1.420_294_1075cc2b" Path="data.table.unity3d" Version="1" Size="3591737" KB="547.5" FileCRC="0" CRC="0" OriginalCRC=""/>
+<AssetBundle Time="20190724_203345" BuildInfo="1.420_294_1075cc2b" Path="data.table.unity3d" Version="1" Size="560681" KB="547.5" FileCRC="2029129735" CRC="1001008240" OriginalCRC=""/>
 <Data Time="20190723_174557" BuildInfo="1.420_293_cc826952" Path="data.bin.client.effect.ifo" Version="1" Size="45258" KB="44.2" FileCRC="4093923429" CRC="4093923429" OriginalCRC="2901398786"/>
 <Data Time="20190723_174557" BuildInfo="1.420_293_cc826952" Path="data.bin.client.effect.tbl" Version="1" Size="1098835" KB="1,073.1" FileCRC="1559720574" CRC="1559720574" OriginalCRC="1559720574"/>
 </PackInfo>
