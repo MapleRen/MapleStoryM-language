@@ -7,7 +7,7 @@
 <Data Time="20190724_160055" BuildInfo="1.42_802_d8b966cb" Path="data.bin.client.item.tbl" Version="1" Size="6786533" KB="6,627.5" FileCRC="1061912384" CRC="1061912384" OriginalCRC="1061912384"/>
 <Data Time="20190724_160055" BuildInfo="1.42_802_d8b966cb" Path="data.bin.client.world.tbl" Version="1" Size="431188" KB="421.1" FileCRC="254845623" CRC="254845623" OriginalCRC="520959116"/>
 <Data Time="20190724_160055" BuildInfo="1.42_802_d8b966cb" Path="data.bin.lan.kor.ifo" Version="1" Size="467768" KB="456.8" FileCRC="3848610271" CRC="3848610271" OriginalCRC="3848610271"/>
-<Data Time="20190724_160055" BuildInfo="1.42_802_d8b966cb" Path="data.bin.lan.kor.tbl" Version="2" Size="4345407" KB="4,243.6" FileCRC="0" CRC="0" OriginalCRC="0"/>
+<Data Time="20190724_160055" BuildInfo="1.42_802_d8b966cb" Path="data.bin.lan.kor.tbl" Version="3" Size="4345407" KB="4,243.6" FileCRC="0" CRC="0" OriginalCRC="0"/>
 </PackInfo>
 <PackInfo Name="pack_002.bin" Size="13664055" MB="13.0" FileCount="7" FileCRC="220504906" Time="20190719_123251" BuildInfo="1.42_799_5cb10275">
 <Data Time="20190724_160055" BuildInfo="1.42_802_d8b966cb" Path="data.bin.task.ifo" Version="1" Size="110398" KB="107.8" FileCRC="146722491" CRC="146722491" OriginalCRC="310073536"/>
