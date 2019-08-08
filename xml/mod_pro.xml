@@ -34,7 +34,7 @@
     <PackInfo Name="pack_004.bin" Size="10737002" MB="10.2" FileCount="19" FileCRC="1928138576" Time="20190710_061924" BuildInfo="1.42_773_e052b955">
       <Data Time="20190718_001722" BuildInfo="1.42_795_1d1f293d" Path="data.bin.lang.kor.questxml.ifo" Version="1" Size="42286" KB="41.3" FileCRC="804227694" CRC="804227694" OriginalCRC="953034261" />
       <Data Time="20190718_001722" BuildInfo="1.42_795_1d1f293d" Path="data.bin.lang.kor.questxml.tbl" Version="1" Size="544804" KB="532.0" FileCRC="290945464" CRC="290945464" OriginalCRC="290945464" />
-      <AssetBundle Time="20190718_001722" BuildInfo="1.42_795_1d1f293d" Path="data.language_kor.unity3d" Version="1" Size="2724893" KB="2,661.0" FileCRC="2123089737" CRC="1409660502" OriginalCRC="" />
+      <AssetBundle Time="20190718_001722" BuildInfo="1.42_795_1d1f293d" Path="data.language_kor.unity3d" Version="1" Size="9190685" KB="2,661.0" FileCRC="0" CRC="0" OriginalCRC="" />
       <Data Time="20190717_131047" BuildInfo="1.42_791_2c213364" Path="data.bin.questreward.tbl" Version="1" Size="457518" KB="446.8" FileCRC="4207644614" CRC="4207644614" OriginalCRC="542770863" />
       <Data Time="20190717_094138" BuildInfo="1.42_790_60d9d750" Path="data.bin.client.dummy.ifo" Version="1" Size="351091" KB="342.9" FileCRC="1380254605" CRC="1380254605" OriginalCRC="1380254605" />
       <Data Time="20190716_100452" BuildInfo="1.42_787_ff436758" Path="data.bin.arrange.ifo" Version="1" Size="190652" KB="186.2" FileCRC="2137049943" CRC="2137049943" OriginalCRC="2137049943" />
