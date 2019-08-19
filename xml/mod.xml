@@ -2,7 +2,7 @@
 <Header CRC="20190819_163048" Region="Korea" BuildInfo="1.42_92S_a5d61514" PackCount="6" FileCount="90" TotalSize="62130999" MB="59.3" Compressed="False" Source="../table_qa_ios/table/"/>
 <PackList Count="6">
 <PackInfo Name="pack_001.bin" Size="13650700" MB="13.0" FileCount="8" FileCRC="1490685768" Time="20190808_101203" BuildInfo="1.42_87_3553ab02">
-<AssetBundle Time="20190819_152651" BuildInfo="1.42_90S_a5d61514" Path="data.table.unity3d" Version="1" Size="4592437" KB="696.6" FileCRC="0" CRC="0" OriginalCRC=""/>
+<AssetBundle Time="20190819_152651" BuildInfo="1.42_90S_a5d61514" Path="data.table.unity3d" Version="2" Size="4592445" KB="696.6" FileCRC="0" CRC="0" OriginalCRC=""/>
 <Data Time="20190813_153958" BuildInfo="1.42_89S_cc47960b" Path="data.bin.client.buff.tbl" Version="1" Size="1179027" KB="1,151.4" FileCRC="1810885366" CRC="1810885366" OriginalCRC="1810885366"/>
 <Data Time="20190813_153958" BuildInfo="1.42_89S_cc47960b" Path="data.bin.tag.tbl" Version="1" Size="1398" KB="1.4" FileCRC="1842942344" CRC="1842942344" OriginalCRC="1842942344"/>
 <Data Time="20190812_132101" BuildInfo="1.42_88_bfd31d81" Path="data.bin.result.tbl" Version="1" Size="3694032" KB="3,607.5" FileCRC="532730940" CRC="532730940" OriginalCRC="455935273"/>
