@@ -4,7 +4,7 @@
 <PackInfo Name="pack_001.bin" Size="11057287" MB="10.5" FileCount="6" FileCRC="3245410367" Time="20190908_041432" BuildInfo="1.44_840Q_bb9246c1">
 <Data Time="20190909_190939" BuildInfo="1.44_843Q_ca5935b6" Path="data.bin.nicknameslang.kor.tbl" Version="1" Size="53692" KB="52.4" FileCRC="2137866440" CRC="2137866440" OriginalCRC="2137866440"/>
 <Data Time="20190909_190939" BuildInfo="1.44_843Q_ca5935b6" Path="data.bin.slang.kor.tbl" Version="1" Size="56822" KB="55.5" FileCRC="182979652" CRC="182979652" OriginalCRC="182979652"/>
-<AssetBundle Time="20190909_154436" BuildInfo="1.44_842Q_38e65e62" Path="data.table.unity3d" Version="1" Size="735653" KB="718.4" FileCRC="3153988551" CRC="3941023510" OriginalCRC=""/>
+<AssetBundle Time="20190909_154436" BuildInfo="1.44_842Q_38e65e62" Path="data.table.unity3d" Version="1" Size="4763901" KB="718.4" FileCRC="0" CRC="0" OriginalCRC=""/>
 <Data Time="20190908_041432" BuildInfo="1.44_840Q_bb9246c1" Path="data.bin.client.dummy.tbl" Version="1" Size="3278411" KB="3,201.6" FileCRC="395393856" CRC="395393856" OriginalCRC="606198234"/>
 <Data Time="20190908_041432" BuildInfo="1.44_840Q_bb9246c1" Path="data.bin.client.effect.tbl" Version="1" Size="1178344" KB="1,150.7" FileCRC="1957804282" CRC="1957804282" OriginalCRC="550999783"/>
 <Data Time="20190908_041432" BuildInfo="1.44_840Q_bb9246c1" Path="data.bin.client.skill.tbl" Version="1" Size="5754171" KB="5,619.3" FileCRC="2177578267" CRC="2177578267" OriginalCRC="2177578267"/>
@@ -29,7 +29,7 @@
 <Data Time="20190903_184652" BuildInfo="1.44_833Q_9c1c2547" Path="data.bin.setitems.tbl" Version="1" Size="37053" KB="36.2" FileCRC="3177900625" CRC="3177900625" OriginalCRC="3177900625"/>
 <Data Time="20190903_125203" BuildInfo="1.44_832Q_aee41206" Path="data.bin.client.buff.tbl" Version="1" Size="1215778" KB="1,187.3" FileCRC="531347568" CRC="531347568" OriginalCRC="3943807668"/>
 <Data Time="20190903_125203" BuildInfo="1.44_832Q_aee41206" Path="data.bin.client.effect.ifo" Version="1" Size="48282" KB="47.2" FileCRC="3838074973" CRC="3838074973" OriginalCRC="542195399"/>
-<AssetBundle Time="20190903_125203" BuildInfo="1.44_832Q_aee41206" Path="data.language_kor.unity3d" Version="1" Size="2728188" KB="2,664.2" FileCRC="2738570965" CRC="3499850801" OriginalCRC=""/>
+<AssetBundle Time="20190903_125203" BuildInfo="1.44_832Q_aee41206" Path="data.language_kor.unity3d" Version="1" Size="9223061" KB="2,664.2" FileCRC="0" CRC="0" OriginalCRC=""/>
 </PackInfo>
 <PackInfo Name="pack_004.bin" Size="18051822" MB="17.2" FileCount="13" FileCRC="1255991807" Time="20190823_112449" BuildInfo="1.44_818Q_2978e34f">
 <Data Time="20190902_185518" BuildInfo="1.44_830Q_a36ecda9" Path="data.bin.activator.tbl" Version="1" Size="798012" KB="779.3" FileCRC="405310557" CRC="405310557" OriginalCRC="405310557"/>
