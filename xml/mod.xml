@@ -11,7 +11,7 @@
 </PackInfo>
 <PackInfo Name="pack_002.bin" Size="13027290" MB="12.4" FileCount="8" FileCRC="3903205185" Time="20190905_041730" BuildInfo="1.44_836Q_7e8ef1e2">
 <Data Time="20190908_041432" BuildInfo="1.44_840Q_bb9246c1" Path="data.bin.lan.kor.ifo" Version="1" Size="478694" KB="467.5" FileCRC="3389483305" CRC="3389483305" OriginalCRC="4260784802"/>
-<Data Time="20190908_041432" BuildInfo="1.44_840Q_bb9246c1" Path="data.bin.lan.kor.tbl" Version="1" Size="4462281" KB="4,357.7" FileCRC="3124874300" CRC="3124874300" OriginalCRC="3124874300"/>
+<Data Time="20190908_041432" BuildInfo="1.44_840Q_bb9246c1" Path="data.bin.lan.kor.tbl" Version="1" Size="4462281" KB="4,357.7" FileCRC="0" CRC="0" OriginalCRC="0"/>
 <Data Time="20190908_041432" BuildInfo="1.44_840Q_bb9246c1" Path="data.bin.result.ifo" Version="1" Size="456457" KB="445.8" FileCRC="438084098" CRC="438084098" OriginalCRC="1597254108"/>
 <Data Time="20190908_041432" BuildInfo="1.44_840Q_bb9246c1" Path="data.bin.result.tbl" Version="1" Size="3832072" KB="3,742.3" FileCRC="3374338362" CRC="3374338362" OriginalCRC="2732262419"/>
 <Data Time="20190905_041730" BuildInfo="1.44_836Q_7e8ef1e2" Path="data.bin.questreward.ifo" Version="1" Size="111365" KB="108.8" FileCRC="2895452925" CRC="2895452925" OriginalCRC="2895452925"/>
