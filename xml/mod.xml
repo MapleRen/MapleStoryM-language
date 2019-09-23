@@ -4,7 +4,7 @@
   <PackList Count="5">
     <PackInfo Name="pack_001.bin" Size="12480708" MB="11.9" FileCount="4" FileCRC="806219098" Time="20190910_182726" BuildInfo="1.44_845Q_400a4c0c">
       <Data Time="20190923_112258" BuildInfo="1.44_846Q_ba0768a2" Path="data.bin.lan.kor.ifo" Version="1" Size="478800" KB="467.6" FileCRC="3029969870" CRC="3029969870" OriginalCRC="3029969870" />
-      <Data Time="20190923_112258" BuildInfo="1.44_846Q_ba0768a2" Path="data.bin.lan.kor.tbl" Version="1" Size="4462321" KB="4,358.0" FileCRC="0" CRC="0" OriginalCRC="" />
+      <Data Time="20190923_112258" BuildInfo="1.44_846Q_ba0768a2" Path="data.bin.lan.kor.tbl" Version="1" Size="4462321" KB="4,358.0" FileCRC="0" CRC="0" OriginalCRC="0" />
       <Data Time="20190910_182726" BuildInfo="1.44_845Q_400a4c0c" Path="data.bin.client.item.ifo" Version="1" Size="521691" KB="509.5" FileCRC="112284415" CRC="112284415" OriginalCRC="423757631" />
       <Data Time="20190910_182726" BuildInfo="1.44_845Q_400a4c0c" Path="data.bin.client.item.tbl" Version="1" Size="7017466" KB="6,853.0" FileCRC="448002801" CRC="448002801" OriginalCRC="3450682021" />
     </PackInfo>
