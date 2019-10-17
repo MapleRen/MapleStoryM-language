@@ -9,7 +9,7 @@
       <Data Time="20191017_163251" BuildInfo="1.45_888Q_9ab453a9" Path="data.bin.lan.kor.tbl" Version="1" Size="4547656" KB="4,441.1" FileCRC="2358582557" CRC="2358582557" OriginalCRC="2358582557" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" Size="10491132" MB="10.0" FileCount="10" FileCRC="4267744560" Time="20191016_111247" BuildInfo="1.45_879Q_38b6f459">
-      <AssetBundle Time="20191017_163251" BuildInfo="1.45_888Q_9ab453a9" Path="data.table.unity3d" Version="99" Size="743979" KB="726.5" FileCRC="3818743967" CRC="1929627423" OriginalCRC="" />
+      <AssetBundle Time="20191017_163251" BuildInfo="1.45_888Q_9ab453a9" Path="data.table.unity3d" Version="1" Size="743979" KB="726.5" FileCRC="3818743967" CRC="1929627423" OriginalCRC="" />
       <Data Time="20191017_112908" BuildInfo="1.45_885Q_2a4147ee" Path="data.bin.addoptiongrade.tbl" Version="1" Size="110" KB="0.1" FileCRC="4100598046" CRC="4100598046" OriginalCRC="4100598046" />
       <Data Time="20191016_185612" BuildInfo="1.45_883Q_d56f87a9" Path="data.bin.nicknameslang.kor.tbl" Version="1" Size="54060" KB="52.8" FileCRC="2487412237" CRC="2487412237" OriginalCRC="2487412237" />
       <Data Time="20191016_185612" BuildInfo="1.45_883Q_d56f87a9" Path="data.bin.slang.kor.tbl" Version="1" Size="57420" KB="56.1" FileCRC="940773499" CRC="940773499" OriginalCRC="940773499" />
