@@ -6,10 +6,10 @@
       <Data Time="20191017_163251" BuildInfo="1.45_888Q_9ab453a9" Path="data.bin.client.item.ifo" Version="1" Size="527295" KB="514.9" FileCRC="2162283582" CRC="2162283582" OriginalCRC="1549928675" />
       <Data Time="20191017_163251" BuildInfo="1.45_888Q_9ab453a9" Path="data.bin.client.item.tbl" Version="1" Size="7116664" KB="6,949.9" FileCRC="2767911301" CRC="2767911301" OriginalCRC="2767911301" />
       <Data Time="20191017_163251" BuildInfo="1.45_888Q_9ab453a9" Path="data.bin.lan.kor.ifo" Version="1" Size="486040" KB="474.6" FileCRC="3913054077" CRC="3913054077" OriginalCRC="3913054077" />
-      <Data Time="20191017_163251" BuildInfo="1.45_888Q_9ab453a9" Path="data.bin.lan.kor.tbl" Version="2" Size="4547656" KB="4,441.1" FileCRC="0" CRC="0" OriginalCRC="" />
+      <Data Time="20191017_163251" BuildInfo="1.45_888Q_9ab453a9" Path="data.bin.lan.kor.tbl" Version="3" Size="4547656" KB="4,441.1" FileCRC="0" CRC="0" OriginalCRC="" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" Size="10491132" MB="10.0" FileCount="10" FileCRC="4267744560" Time="20191016_111247" BuildInfo="1.45_879Q_38b6f459">
-      <AssetBundle Time="20191017_163251" BuildInfo="1.45_888Q_9ab453a9" Path="data.table.unity3d" Version="2" Size="4838181" KB="726.5" FileCRC="0" CRC="0" OriginalCRC="" />
+      <AssetBundle Time="20191017_163251" BuildInfo="1.45_888Q_9ab453a9" Path="data.table.unity3d" Version="3" Size="4838181" KB="726.5" FileCRC="0" CRC="0" OriginalCRC="" />
       <Data Time="20191017_112908" BuildInfo="1.45_885Q_2a4147ee" Path="data.bin.addoptiongrade.tbl" Version="1" Size="110" KB="0.1" FileCRC="4100598046" CRC="4100598046" OriginalCRC="4100598046" />
       <Data Time="20191016_185612" BuildInfo="1.45_883Q_d56f87a9" Path="data.bin.nicknameslang.kor.tbl" Version="1" Size="54060" KB="52.8" FileCRC="2487412237" CRC="2487412237" OriginalCRC="2487412237" />
       <Data Time="20191016_185612" BuildInfo="1.45_883Q_d56f87a9" Path="data.bin.slang.kor.tbl" Version="1" Size="57420" KB="56.1" FileCRC="940773499" CRC="940773499" OriginalCRC="940773499" />
