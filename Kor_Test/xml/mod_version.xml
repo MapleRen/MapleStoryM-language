@@ -17,8 +17,8 @@
 </GooglePlay>
 <AppStore>
 <Application URL="https://itunes.apple.com/kr/app/id1133463693">
-<Release ClientVersion="1.45.953" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://nxm-maplem.akamaized.net/AppStore/145_863Q_1/" Server="1.45.3.107"/>
-<Release ClientVersion="1.45.954" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://nxm-maplem.akamaized.net/AppStore/145_863Q_1/" Server="1.45.3.107"/>
+<Release ClientVersion="1.45.953" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://nxm-maplem.akamaized.net/AppStore/145_863Q/" Server="1.45.3.107"/>
+<Release ClientVersion="1.45.954" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://nxm-maplem.akamaized.net/AppStore/145_863Q/" Server="1.45.3.107"/>
 </Application>
 </AppStore>
 <Unity>
