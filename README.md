@@ -1,2 +1,2 @@
 # MapleStoryM-language
-可能永久失效，观望吧。。
+汉化回归
