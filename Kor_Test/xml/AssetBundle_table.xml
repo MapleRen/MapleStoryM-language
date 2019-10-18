@@ -5,14 +5,14 @@
     <PackInfo Name="pack_001.bin" Size="10966843" MB="10.5" FileCount="3" FileCRC="2363085474" Time="20191018_171342" BuildInfo="1.45_891Q_014ac713">
       <Data Time="20191018_171342" BuildInfo="1.45_891Q_014ac713" Path="data.bin.client.skill.tbl" Version="1" Size="5933080" KB="5,794.0" FileCRC="2561563678" CRC="2561563678" OriginalCRC="2389958112" />
       <Data Time="20191018_171342" BuildInfo="1.45_891Q_014ac713" Path="data.bin.lan.kor.ifo" Version="1" Size="486046" KB="474.7" FileCRC="2971513056" CRC="2971513056" OriginalCRC="4213484351" />
-      <Data Time="20191018_171342" BuildInfo="1.45_891Q_014ac713" Path="data.bin.lan.kor.tbl" Version="1" Size="4547628" KB="4,441.0" FileCRC="3683968873" CRC="3683968873" OriginalCRC="3683968873" />
+      <Data Time="20191018_171342" BuildInfo="1.45_891Q_014ac713" Path="data.bin.lan.kor.tbl" Version="99" Size="4547628" KB="4,441.0" FileCRC="3683968873" CRC="3683968873" OriginalCRC="3683968873" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" Size="12052920" MB="11.5" FileCount="6" FileCRC="2602876442" Time="20191018_012642" BuildInfo="1.45_889Q_df789871">
       <Data Time="20191018_163748" BuildInfo="1.45_890Q_56791062" Path="data.bin.client.partsset.ifo" Version="1" Size="93022" KB="90.8" FileCRC="1579170998" CRC="1579170998" OriginalCRC="2415098891" />
       <Data Time="20191018_163748" BuildInfo="1.45_890Q_56791062" Path="data.bin.client.partsset.tbl" Version="1" Size="3116093" KB="3,043.1" FileCRC="2379707812" CRC="2379707812" OriginalCRC="2379707812" />
       <Data Time="20191018_163748" BuildInfo="1.45_890Q_56791062" Path="data.bin.gachaitem.ifo" Version="1" Size="39951" KB="39.0" FileCRC="3219305508" CRC="3219305508" OriginalCRC="3374852308" />
       <Data Time="20191018_163748" BuildInfo="1.45_890Q_56791062" Path="data.bin.gachaitem.tbl" Version="1" Size="942903" KB="920.8" FileCRC="2687893991" CRC="2687893991" OriginalCRC="2687893991" />
-      <AssetBundle Time="20191018_163748" BuildInfo="1.45_890Q_56791062" Path="data.table.unity3d" Version="1" Size="744091" KB="726.7" FileCRC="1366093514" CRC="4133355309" OriginalCRC="" />
+      <AssetBundle Time="20191018_163748" BuildInfo="1.45_890Q_56791062" Path="data.table.unity3d" Version="99" Size="744091" KB="726.7" FileCRC="1366093514" CRC="4133355309" OriginalCRC="" />
       <Data Time="20191018_012642" BuildInfo="1.45_889Q_df789871" Path="data.bin.client.item.tbl" Version="1" Size="7116670" KB="6,949.9" FileCRC="2628335649" CRC="2628335649" OriginalCRC="984331842" />
     </PackInfo>
     <PackInfo Name="pack_003.bin" Size="10550002" MB="10.1" FileCount="10" FileCRC="4096860077" Time="20191015_041912" BuildInfo="1.45_878Q_d5b5f317">
@@ -30,7 +30,7 @@
     <PackInfo Name="pack_004.bin" Size="16727842" MB="16.0" FileCount="8" FileCRC="4125232393" Time="20191010_190258" BuildInfo="1.45_870Q_55d3b0bc">
       <Data Time="20191015_041912" BuildInfo="1.45_878Q_d5b5f317" Path="data.bin.client.skill.descriptionset.ifo" Version="1" Size="234521" KB="229.0" FileCRC="4210811978" CRC="4210811978" OriginalCRC="595406831" />
       <Data Time="20191011_013402" BuildInfo="1.45_872Q_d868d39c" Path="data.bin.client.vehicle.tbl" Version="1" Size="136589" KB="133.4" FileCRC="3727351637" CRC="3727351637" OriginalCRC="3727351637" />
-      <AssetBundle Time="20191011_013402" BuildInfo="1.45_872Q_d868d39c" Path="data.language_kor.unity3d" Version="1" Size="2727938" KB="2,664.0" FileCRC="505918535" CRC="2316389321" OriginalCRC="" />
+      <AssetBundle Time="20191011_013402" BuildInfo="1.45_872Q_d868d39c" Path="data.language_kor.unity3d" Version="99" Size="2727938" KB="2,664.0" FileCRC="505918535" CRC="2316389321" OriginalCRC="" />
       <Data Time="20191010_190258" BuildInfo="1.45_870Q_55d3b0bc" Path="data.bin.activator.tbl" Version="1" Size="798748" KB="780.0" FileCRC="3966763923" CRC="3966763923" OriginalCRC="4059165004" />
       <Data Time="20191010_190258" BuildInfo="1.45_870Q_55d3b0bc" Path="data.bin.client.activator.tbl" Version="1" Size="365110" KB="356.6" FileCRC="2650482584" CRC="2650482584" OriginalCRC="2650482584" />
       <Data Time="20191010_190258" BuildInfo="1.45_870Q_55d3b0bc" Path="data.bin.client.dummy.tbl" Version="1" Size="3294680" KB="3,217.5" FileCRC="2005395755" CRC="2005395755" OriginalCRC="3160669314" />
