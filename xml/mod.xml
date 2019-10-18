@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20191017_163251" Region="Korea" BuildInfo="1.45_888Q_9ab453a9" PackCount="6" FileCount="88" TotalSize="64356807" MB="61.4" Compressed="False" Source="../table_qa_ios/table/" />
+  <Header CRC="20191018_012642" Region="Korea" BuildInfo="1.45_889Q_df789871" PackCount="6" FileCount="88" TotalSize="64356813" MB="61.4" Compressed="False" Source="../table_qa_ios/table/" />
   <PackList Count="6">
-    <PackInfo Name="pack_001.bin" Size="12677775" MB="12.1" FileCount="4" FileCRC="2132282423" Time="20191017_163251" BuildInfo="1.45_888Q_9ab453a9">
+    <PackInfo Name="pack_001.bin" Size="12677781" MB="12.1" FileCount="4" FileCRC="2728445225" Time="20191017_163251" BuildInfo="1.45_888Q_9ab453a9">
+      <Data Time="20191018_012642" BuildInfo="1.45_889Q_df789871" Path="data.bin.client.item.tbl" Version="1" Size="7116670" KB="6,949.9" FileCRC="2628335649" CRC="2628335649" OriginalCRC="984331842" />
       <Data Time="20191017_163251" BuildInfo="1.45_888Q_9ab453a9" Path="data.bin.client.item.ifo" Version="1" Size="527295" KB="514.9" FileCRC="2162283582" CRC="2162283582" OriginalCRC="1549928675" />
-      <Data Time="20191017_163251" BuildInfo="1.45_888Q_9ab453a9" Path="data.bin.client.item.tbl" Version="1" Size="7116664" KB="6,949.9" FileCRC="2767911301" CRC="2767911301" OriginalCRC="2767911301" />
       <Data Time="20191017_163251" BuildInfo="1.45_888Q_9ab453a9" Path="data.bin.lan.kor.ifo" Version="1" Size="486040" KB="474.6" FileCRC="3913054077" CRC="3913054077" OriginalCRC="3913054077" />
       <Data Time="20191017_163251" BuildInfo="1.45_888Q_9ab453a9" Path="data.bin.lan.kor.tbl" Version="2" Size="4547656" KB="4,441.1" FileCRC="0" CRC="0" OriginalCRC="" />
     </PackInfo>
