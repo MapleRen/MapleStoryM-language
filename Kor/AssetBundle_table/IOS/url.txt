@@ -36,3 +36,6 @@ http://nxm-maplem.akamaized.net/AppStore/144_328S/ah9WBgzf6a6qYvfLQpuHsby8H9ek16
 
 145_865Q - 2019-10-18:
 http://nxm-maplem.akamaized.net/AppStore/145_865Q/6SiEpijO6AJCkg5h9tkOYkko9ZsorZIyr9Q/6SiEpij@mmb@AssetBundle_table.xml
+
+145_700Q - 2019-10-23:
+http://nxm-maplem.akamaized.net/AppStore/145_700Q/6SiEpijO6AJCkg5h9tkOYkko9ZsorZIyr9Q/6SiEpij@mmb@AssetBundle_table.xml
