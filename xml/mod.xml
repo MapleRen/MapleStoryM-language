@@ -1,26 +1,26 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20191022_183036" Region="Korea" BuildInfo="1.45_893Q_285f9bb8" PackCount="6" FileCount="88" TotalSize="64356928" MB="61.4" Compressed="False" Source="../table_qa_ios/table/" />
+  <Header CRC="20191023_143757" Region="Korea" BuildInfo="1.45_894Q_6faf905a" PackCount="6" FileCount="88" TotalSize="64356934" MB="61.4" Compressed="False" Source="../table_qa_ios/table/" />
   <PackList Count="6">
-    <PackInfo Name="pack_001.bin" Size="13421905" MB="12.8" FileCount="5" FileCRC="2642730608" Time="20191021_141057" BuildInfo="1.45_892Q_9ba82251">
+    <PackInfo Name="pack_001.bin" Size="12150489" MB="11.6" FileCount="3" FileCRC="1622575705" Time="20191022_183036" BuildInfo="1.45_893Q_285f9bb8">
+      <Data Time="20191023_143757" BuildInfo="1.45_894Q_6faf905a" Path="data.bin.client.item.tbl" Version="1" Size="7116672" KB="6,949.9" FileCRC="330928021" CRC="330928021" OriginalCRC="1466548180" />
       <Data Time="20191022_183036" BuildInfo="1.45_893Q_285f9bb8" Path="data.bin.lan.kor.ifo" Version="1" Size="486048" KB="474.7" FileCRC="4137703380" CRC="4137703380" OriginalCRC="4137703380" />
       <Data Time="20191022_183036" BuildInfo="1.45_893Q_285f9bb8" Path="data.bin.lan.kor.tbl" Version="2" Size="4547681" KB="4,441.1" FileCRC="0" CRC="0" OriginalCRC="" />
+    </PackInfo>
+    <PackInfo Name="pack_002.bin" Size="11396636" MB="10.9" FileCount="7" FileCRC="438909029" Time="20191018_163748" BuildInfo="1.45_890Q_56791062">
       <AssetBundle Time="20191022_183036" BuildInfo="1.45_893Q_285f9bb8" Path="data.table.unity3d" Version="2" Size="4838253" KB="726.6" FileCRC="0" CRC="0" OriginalCRC="" />
       <Data Time="20191021_141057" BuildInfo="1.45_892Q_9ba82251" Path="data.bin.client.item.ifo" Version="1" Size="527296" KB="514.9" FileCRC="1930440126" CRC="1930440126" OriginalCRC="2230532750" />
-      <Data Time="20191021_141057" BuildInfo="1.45_892Q_9ba82251" Path="data.bin.client.item.tbl" Version="1" Size="7116666" KB="6,949.9" FileCRC="598241644" CRC="598241644" OriginalCRC="598241644" />
-    </PackInfo>
-    <PackInfo Name="pack_002.bin" Size="10694524" MB="10.2" FileCount="9" FileCRC="3028754091" Time="20191016_173939" BuildInfo="1.45_882Q_3978a0a7">
       <Data Time="20191018_171342" BuildInfo="1.45_891Q_014ac713" Path="data.bin.client.skill.tbl" Version="1" Size="5933080" KB="5,794.0" FileCRC="2561563678" CRC="2561563678" OriginalCRC="2389958112" />
       <Data Time="20191018_163748" BuildInfo="1.45_890Q_56791062" Path="data.bin.client.partsset.ifo" Version="1" Size="93022" KB="90.8" FileCRC="1579170998" CRC="1579170998" OriginalCRC="2415098891" />
       <Data Time="20191018_163748" BuildInfo="1.45_890Q_56791062" Path="data.bin.client.partsset.tbl" Version="1" Size="3116093" KB="3,043.1" FileCRC="2379707812" CRC="2379707812" OriginalCRC="2379707812" />
       <Data Time="20191018_163748" BuildInfo="1.45_890Q_56791062" Path="data.bin.gachaitem.ifo" Version="1" Size="39951" KB="39.0" FileCRC="3219305508" CRC="3219305508" OriginalCRC="3374852308" />
       <Data Time="20191018_163748" BuildInfo="1.45_890Q_56791062" Path="data.bin.gachaitem.tbl" Version="1" Size="942903" KB="920.8" FileCRC="2687893991" CRC="2687893991" OriginalCRC="2687893991" />
+    </PackInfo>
+    <PackInfo Name="pack_003.bin" Size="13121839" MB="12.5" FileCount="12" FileCRC="1494739238" Time="20191011_013402" BuildInfo="1.45_872Q_d868d39c">
       <Data Time="20191017_112908" BuildInfo="1.45_885Q_2a4147ee" Path="data.bin.addoptiongrade.tbl" Version="1" Size="110" KB="0.1" FileCRC="4100598046" CRC="4100598046" OriginalCRC="4100598046" />
       <Data Time="20191016_185612" BuildInfo="1.45_883Q_d56f87a9" Path="data.bin.nicknameslang.kor.tbl" Version="1" Size="54060" KB="52.8" FileCRC="2487412237" CRC="2487412237" OriginalCRC="2487412237" />
       <Data Time="20191016_185612" BuildInfo="1.45_883Q_d56f87a9" Path="data.bin.slang.kor.tbl" Version="1" Size="57420" KB="56.1" FileCRC="940773499" CRC="940773499" OriginalCRC="940773499" />
       <Data Time="20191016_173939" BuildInfo="1.45_882Q_3978a0a7" Path="data.bin.result.ifo" Version="1" Size="457590" KB="446.9" FileCRC="3012825093" CRC="3012825093" OriginalCRC="3012825093" />
-    </PackInfo>
-    <PackInfo Name="pack_003.bin" Size="12552529" MB="12.0" FileCount="8" FileCRC="2232228691" Time="20191011_013402" BuildInfo="1.45_872Q_d868d39c">
       <Data Time="20191016_173939" BuildInfo="1.45_882Q_3978a0a7" Path="data.bin.result.tbl" Version="1" Size="3839737" KB="3,749.7" FileCRC="208374100" CRC="208374100" OriginalCRC="208374100" />
       <Data Time="20191016_111247" BuildInfo="1.45_879Q_38b6f459" Path="data.bin.client.effect.ifo" Version="1" Size="48443" KB="47.3" FileCRC="1546714703" CRC="1546714703" OriginalCRC="4187328654" />
       <Data Time="20191016_111247" BuildInfo="1.45_879Q_38b6f459" Path="data.bin.client.effect.tbl" Version="1" Size="1181398" KB="1,153.7" FileCRC="1359126494" CRC="1359126494" OriginalCRC="1359126494" />
