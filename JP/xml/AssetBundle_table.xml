@@ -3,13 +3,13 @@
   <Header CRC="20191021_163729" Region="Japan" BuildInfo="1.450_395Q_62ce566f" PackCount="6" FileCount="102" TotalSize="67034570" MB="63.9" Compressed="False" Source="../Japan_Stage_ClientTable_IOS/Japan/" />
   <PackList Count="6">
     <PackInfo Name="pack_001.bin" Size="12138492" MB="11.6" FileCount="3" FileCRC="3042671707" Time="20191017_181839" BuildInfo="1.450_393Q_250032f0">
-      <Data Time="20191021_163729" BuildInfo="1.450_395Q_62ce566f" Path="data.bin.lan.jpn.tbl" Version="1" Size="5477193" KB="5,348.8" FileCRC="2904411679" CRC="2904411679" OriginalCRC="3866389324" />
+      <Data Time="20191021_163729" BuildInfo="1.450_395Q_62ce566f" Path="data.bin.lan.jpn.tbl" Version="99" Size="5477193" KB="5,348.8" FileCRC="2904411679" CRC="2904411679" OriginalCRC="3866389324" />
       <AssetBundle Time="20191021_163729" BuildInfo="1.450_395Q_62ce566f" Path="data.table.unity3d" Version="99" Size="615058" KB="600.6" FileCRC="2176764019" CRC="2386330072" OriginalCRC="" />
       <Data Time="20191017_181839" BuildInfo="1.450_393Q_250032f0" Path="data.bin.client.item.tbl" Version="1" Size="6046155" KB="5,904.4" FileCRC="4154764887" CRC="4154764887" OriginalCRC="3719540675" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" Size="10975420" MB="10.5" FileCount="11" FileCRC="2819135274" Time="20191016_053433" BuildInfo="1.450_387Q_deac0f88">
       <Data Time="20191017_172539" BuildInfo="1.450_392Q_ce428ee7" Path="data.bin.lan.kor.ifo" Version="1" Size="431254" KB="421.1" FileCRC="4253135846" CRC="4253135846" OriginalCRC="1275768185" />
-      <Data Time="20191017_172539" BuildInfo="1.450_392Q_ce428ee7" Path="data.bin.lan.kor.tbl" Version="99" Size="3823325" KB="3,733.7" FileCRC="2955938934" CRC="2955938934" OriginalCRC="2955938934" />
+      <Data Time="20191017_172539" BuildInfo="1.450_392Q_ce428ee7" Path="data.bin.lan.kor.tbl" Version="1" Size="3823325" KB="3,733.7" FileCRC="2955938934" CRC="2955938934" OriginalCRC="2955938934" />
       <Data Time="20191017_132846" BuildInfo="1.450_391Q_de2bd957" Path="data.bin.questtheme.ifo" Version="1" Size="529" KB="0.5" FileCRC="3146977911" CRC="3146977911" OriginalCRC="3146977911" />
       <Data Time="20191017_131114" BuildInfo="1.450_390Q_bd63f327" Path="data.bin.lan.jpn.ifo" Version="1" Size="503462" KB="491.7" FileCRC="85420269" CRC="85420269" OriginalCRC="1349119681" />
       <Data Time="20191016_173421" BuildInfo="1.450_388Q_344df727" Path="data.bin.client.skill.descriptionset.ifo" Version="1" Size="188295" KB="183.9" FileCRC="3729066321" CRC="3729066321" OriginalCRC="956165549" />
@@ -23,8 +23,8 @@
     <PackInfo Name="pack_003.bin" Size="10534504" MB="10.0" FileCount="10" FileCRC="936207710" Time="20191015_053255" BuildInfo="1.450_385Q_51196af0">
       <Data Time="20191016_053433" BuildInfo="1.450_387Q_deac0f88" Path="data.bin.warp.ifo" Version="1" Size="81771" KB="79.9" FileCRC="2839015213" CRC="2839015213" OriginalCRC="421394325" />
       <Data Time="20191016_053433" BuildInfo="1.450_387Q_deac0f88" Path="data.bin.warp.tbl" Version="1" Size="326336" KB="318.7" FileCRC="3154790433" CRC="3154790433" OriginalCRC="3154790433" />
-      <AssetBundle Time="20191016_053433" BuildInfo="1.450_387Q_deac0f88" Path="data.language_jpn.unity3d" Version="1" Size="2090644" KB="2,041.6" FileCRC="1174131021" CRC="2864762008" OriginalCRC="" />
-      <AssetBundle Time="20191016_053433" BuildInfo="1.450_387Q_deac0f88" Path="data.language_kor.unity3d" Version="99" Size="2209057" KB="2,157.3" FileCRC="3209311470" CRC="2456497794" OriginalCRC="" />
+      <AssetBundle Time="20191016_053433" BuildInfo="1.450_387Q_deac0f88" Path="data.language_jpn.unity3d" Version="99" Size="2090644" KB="2,041.6" FileCRC="1174131021" CRC="2864762008" OriginalCRC="" />
+      <AssetBundle Time="20191016_053433" BuildInfo="1.450_387Q_deac0f88" Path="data.language_kor.unity3d" Version="1" Size="2209057" KB="2,157.3" FileCRC="3209311470" CRC="2456497794" OriginalCRC="" />
       <Data Time="20191015_132922" BuildInfo="1.450_386Q_b5394c83" Path="data.bin.client.effect.tbl" Version="1" Size="1105512" KB="1,079.6" FileCRC="1266494699" CRC="1266494699" OriginalCRC="2329631901" />
       <Data Time="20191015_132922" BuildInfo="1.450_386Q_b5394c83" Path="data.bin.lang.jpn.questxml.ifo" Version="1" Size="35156" KB="34.3" FileCRC="2905255902" CRC="2905255902" OriginalCRC="2905255902" />
       <Data Time="20191015_132922" BuildInfo="1.450_386Q_b5394c83" Path="data.bin.lang.jpn.questxml.tbl" Version="1" Size="476211" KB="465.0" FileCRC="2227829435" CRC="2227829435" OriginalCRC="2227829435" />
