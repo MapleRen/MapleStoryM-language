@@ -3,8 +3,8 @@
   <Header CRC="20191021_163729" Region="Japan" BuildInfo="1.450_395Q_62ce566f" PackCount="6" FileCount="102" TotalSize="67034570" MB="63.9" Compressed="False" Source="../Japan_Stage_ClientTable_IOS/Japan/" />
   <PackList Count="6">
     <PackInfo Name="pack_001.bin" Size="12138492" MB="11.6" FileCount="3" FileCRC="3042671707" Time="20191017_181839" BuildInfo="1.450_393Q_250032f0">
-      <Data Time="20191021_163729" BuildInfo="1.450_395Q_62ce566f" Path="data.bin.lan.jpn.tbl" Version="2" Size="5477193" KB="5,348.8" FileCRC="0" CRC="0" OriginalCRC="" />
-      <AssetBundle Time="20191021_163729" BuildInfo="1.450_395Q_62ce566f" Path="data.table.unity3d" Version="2" Size="3929201" KB="600.6" FileCRC="0" CRC="0" OriginalCRC="" />
+      <Data Time="20191021_163729" BuildInfo="1.450_395Q_62ce566f" Path="data.bin.lan.jpn.tbl" Version="3" Size="5477193" KB="5,348.8" FileCRC="0" CRC="0" OriginalCRC="" />
+      <AssetBundle Time="20191021_163729" BuildInfo="1.450_395Q_62ce566f" Path="data.table.unity3d" Version="3" Size="3929201" KB="600.6" FileCRC="0" CRC="0" OriginalCRC="" />
       <Data Time="20191017_181839" BuildInfo="1.450_393Q_250032f0" Path="data.bin.client.item.tbl" Version="1" Size="6046155" KB="5,904.4" FileCRC="4154764887" CRC="4154764887" OriginalCRC="3719540675" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" Size="10975420" MB="10.5" FileCount="11" FileCRC="2819135274" Time="20191016_053433" BuildInfo="1.450_387Q_deac0f88">
