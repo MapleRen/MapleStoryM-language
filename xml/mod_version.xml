@@ -12,15 +12,12 @@
   </OptionAttributes>
   <GooglePlay>
     <Application URL="https://play.google.com/store/apps/details?id=com.nexon.nsc.maplem">
-      <Release ClientVersion="1.45.953" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://nxm-maplem.akamaized.net/GooglePlay/145_870Q_1/" Server="1.45.3.120" />
-      <Release ClientVersion="1.45.958" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://nxm-maplem.akamaized.net/GooglePlay/145_870Q_1/" Server="1.45.3.120" />
-      <Release ClientVersion="1.45.959" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://nxm-maplem.akamaized.net/GooglePlay/145_870Q_1/" Server="1.45.3.120" />
+      <Release ClientVersion="1.45.961" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://nxm-maplem.akamaized.net/GooglePlay/145_870Q_1/" Server="1.45.3.120" />
     </Application>
   </GooglePlay>
   <AppStore>
     <Application URL="https://itunes.apple.com/kr/app/id1133463693">
-      <Release ClientVersion="1.45.958" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://nxm-maplem.akamaized.net/AppStore/145_870Q_1/" Server="1.45.3.120" />
-      <Release ClientVersion="1.45.959" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://nxm-maplem.akamaized.net/AppStore/145_870Q_1/" Server="1.45.3.120" />
+      <Release ClientVersion="1.45.961" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://nxm-maplem.akamaized.net/AppStore/145_870Q_1/" Server="1.45.3.120" />
     </Application>
   </AppStore>
   <Unity>
