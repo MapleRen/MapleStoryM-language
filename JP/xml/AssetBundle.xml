@@ -1,8 +1,9 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20191021_162617" Region="Japan" BuildInfo="1.450_324Q_f5757e4f" PackCount="190" FileCount="12304" TotalSize="2332975395" MB="2,224.9" />
+  <Header CRC="20191029_140745" Region="Japan" BuildInfo="1.450_325Q_aed2ffe7" PackCount="190" FileCount="12304" TotalSize="2332975401" MB="2,224.9" />
   <PackList Count="190">
-    <PackInfo Name="pack_001.bin" Size="11093900" MB="10.6" FileCount="19" FileCRC="4060277244" Time="20191016_052259" BuildInfo="1.450_319Q_62dc19f1">
+    <PackInfo Name="pack_001.bin" Size="11113849" MB="10.6" FileCount="20" FileCRC="3016710750" Time="20191016_052259" BuildInfo="1.450_319Q_62dc19f1">
+      <AssetBundle Time="20191029_140745" BuildInfo="1.450_325Q_aed2ffe7" Path="common.temp.equipment_cash_various.eyeacc.cash_eyeacc_1909_01012701.unity3d" Version="1" Size="19866" KB="19.4" FileCRC="1726303934" CRC="3242260617" />
       <AssetBundle Time="20191017_171405" BuildInfo="1.450_323Q_c4900cae" Path="common.ui.japanpackagepopup.simplepackage.octobercristalpackagepopup_201908.unity3d" Version="1" Size="364424" KB="355.9" FileCRC="1768250276" CRC="1019268901" />
       <AssetBundle Time="20191017_130140" BuildInfo="1.450_322Q_b3b4ce8d" Path="common.ui._v4_0.weddingmenu.unity3d" Version="1" Size="2220146" KB="2,168.1" FileCRC="462177885" CRC="1467339283" />
       <AssetBundle Time="20191017_130140" BuildInfo="1.450_322Q_b3b4ce8d" Path="common.ui.japanpackagepopup.levelrewardpackage.evancristalpackage_201909.unity3d" Version="1" Size="431171" KB="421.1" FileCRC="1210655865" CRC="782578749" />
@@ -828,7 +829,7 @@
       <AssetBundle Time="20190923_204041" BuildInfo="1.450_289Q_72a898bf" Path="common.ui.monthlypackagepopup.unity3d" Version="1" Size="95470" KB="93.2" FileCRC="1409891901" CRC="516982861" />
       <AssetBundle Time="20190923_204041" BuildInfo="1.450_289Q_72a898bf" Path="common.ui.playtimepackagepopup.unity3d" Version="1" Size="4625425" KB="4,517.0" FileCRC="259462176" CRC="4283207143" />
     </PackInfo>
-    <PackInfo Name="pack_041.bin" Size="11022962" MB="10.5" FileCount="70" FileCRC="1387552040" Time="20190823_124543" BuildInfo="1.440_265Q_b710f882">
+    <PackInfo Name="pack_041.bin" Size="11003019" MB="10.5" FileCount="69" FileCRC="2416322280" Time="20190823_124543" BuildInfo="1.440_265Q_b710f882">
       <AssetBundle Time="20190923_204041" BuildInfo="1.450_289Q_72a898bf" Path="common.ui.royalpackagepopup.unity3d" Version="1" Size="23190" KB="22.6" FileCRC="2677698089" CRC="2271370994" />
       <AssetBundle Time="20190923_204041" BuildInfo="1.450_289Q_72a898bf" Path="common.ui.uniqueequipmentpackage.unity3d" Version="1" Size="611899" KB="597.6" FileCRC="384348239" CRC="2916279924" />
       <AssetBundle Time="20190923_204041" BuildInfo="1.450_289Q_72a898bf" Path="common.ui.uniqueequipmentpackage2.unity3d" Version="1" Size="469937" KB="458.9" FileCRC="1859837584" CRC="812581970" />
@@ -857,7 +858,6 @@
       <AssetBundle Time="20190831_051744" BuildInfo="1.440_272Q_048ea463" Path="common.temp.equipment_cash.shoes.cash_shoes_1909_01073384.unity3d" Version="1" Size="32095" KB="31.3" FileCRC="3839430847" CRC="1739665915" />
       <AssetBundle Time="20190831_051744" BuildInfo="1.440_272Q_048ea463" Path="common.temp.equipment_cash.shoes.cash_shoes_1909_01073385.unity3d" Version="1" Size="32817" KB="32.0" FileCRC="730375120" CRC="3094910323" />
       <AssetBundle Time="20190831_051744" BuildInfo="1.440_272Q_048ea463" Path="common.temp.equipment_cash.shoes.cash_shoes_1909_01073386.unity3d" Version="1" Size="30201" KB="29.5" FileCRC="4274621682" CRC="991123899" />
-      <AssetBundle Time="20190831_051744" BuildInfo="1.440_272Q_048ea463" Path="common.temp.equipment_cash_various.eyeacc.cash_eyeacc_1909_01012701.unity3d" Version="1" Size="19860" KB="19.4" FileCRC="3376662184" CRC="1889822620" />
       <AssetBundle Time="20190830_051559" BuildInfo="1.440_271Q_37972520" Path="common.dynamictexture.nametag.unity3d" Version="1" Size="379619" KB="370.7" FileCRC="4171042708" CRC="3493070858" />
       <AssetBundle Time="20190830_051559" BuildInfo="1.440_271Q_37972520" Path="common.temp.customize.hair.female.hair_f_326_cob04_02_hair.unity3d" Version="1" Size="24296" KB="23.7" FileCRC="2610284379" CRC="3494749267" />
       <AssetBundle Time="20190830_051559" BuildInfo="1.440_271Q_37972520" Path="common.temp.customize.hair.female.hair_f_328_cob04_04_hair.unity3d" Version="1" Size="24676" KB="24.1" FileCRC="331441020" CRC="2784581168" />
