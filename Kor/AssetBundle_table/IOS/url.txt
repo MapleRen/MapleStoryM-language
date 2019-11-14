@@ -43,4 +43,6 @@ http://nxm-maplem.akamaized.net/AppStore/145_700Q/6SiEpijO6AJCkg5h9tkOYkko9ZsorZ
 145_332S - 2019-10-31:
 http://nxm-maplem.akamaized.net/AppStore/145_332S/6SiEpijO6AJCkg5h9tkOYkko9ZsorZIyr9Q/6SiEpij@mmb@AssetBundle_table.xml
 
+146_894Q - 2019-11-14:
+http://maplemkorea.dn.nexoncdn.co.kr/AppStore/146_894Q/RwRo@B2R83HrEDwQ780Rfg1JLIjqjDlOKo/RwRo@B2@mmb@AssetBundle_table.xml
 
