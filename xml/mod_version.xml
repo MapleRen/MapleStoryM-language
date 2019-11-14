@@ -8,23 +8,21 @@
     <Update Attribute="LoginServerIP" Value="KOR_RV" />
   </Ban>
   <OptionAttributes>
-    <Live ClientVersion="{ClientVersion}" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://nxm-maplem.akamaized.net/{Platform}/{AssetBundle}/" Server="{Server}" />
+    <Live ClientVersion="{ClientVersion}" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/{Platform}/{AssetBundle}/" Server="{Server}" />
   </OptionAttributes>
   <GooglePlay>
     <Application URL="https://play.google.com/store/apps/details?id=com.nexon.nsc.maplem">
-      <Release ClientVersion="1.45.961" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://nxm-maplem.akamaized.net/GooglePlay/145_332S_1/" Server="1.45.2.127" />
-      <Release ClientVersion="1.46.980" Desc="TEST" LoginServerIP="KOR_RV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/GooglePlay/146_886Q/" Server="1.46.3.145" />
+      <Release ClientVersion="1.46.980" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/GooglePlay/146_894Q_1/" Server="1.46.3.161" />
     </Application>
   </GooglePlay>
   <AppStore>
     <Application URL="https://itunes.apple.com/kr/app/id1133463693">
-      <Release ClientVersion="1.45.961" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://nxm-maplem.akamaized.net/AppStore/145_332S_1/" Server="1.45.2.127" />
-      <Release ClientVersion="1.46.980" Desc="TEST" LoginServerIP="KOR_RV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/AppStore/146_886Q/" Server="1.46.3.145" />
+      <Release ClientVersion="1.46.980" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/AppStore/146_894Q_1/" Server="1.46.3.161" />
     </Application>
   </AppStore>
   <Unity>
     <Application URL="">
-      <Release ClientVersion="0.0.101" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://nxm-maplem.akamaized.net/GooglePlay/145_332S_1/" Server="1.45.2.127" MaxLoadPerSec="256" NextVersionCheck="false" DevOption="true" Report="false" TapjoyDebug="false" AdjustProduction="true" UseImgDataCsv="false" AddVAT="true" />
+      <Release ClientVersion="0.0.101" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/GooglePlay/146_894Q_1/" Server="1.46.3.161" MaxLoadPerSec="256" NextVersionCheck="false" DevOption="true" Report="false" TapjoyDebug="false" AdjustProduction="true" UseImgDataCsv="false" AddVAT="true" />
     </Application>
   </Unity>
   <ServerWorld>
