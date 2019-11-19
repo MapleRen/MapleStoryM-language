@@ -1,8 +1,11 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20191114_164021" Region="Korea" BuildInfo="1.46_1100Q_2d1fb7e7" PackCount="215" FileCount="13152" TotalSize="2585508985" MB="2,465.7" />
+  <Header CRC="20191119_135510" Region="Korea" BuildInfo="1.46_1101Q_fd0fa980" PackCount="215" FileCount="13152" TotalSize="2585508965" MB="2,465.7" />
   <PackList Count="215">
-    <PackInfo Name="pack_001.bin" Size="16406550" MB="15.6" FileCount="2" FileCRC="410854971" Time="20191113_161452" BuildInfo="1.46_1098Q_84b895af">
+    <PackInfo Name="pack_001.bin" Size="16467146" MB="15.7" FileCount="5" FileCRC="1095502433" Time="20191113_161452" BuildInfo="1.46_1098Q_84b895af">
+      <AssetBundle Time="20191119_135510" BuildInfo="1.46_1101Q_fd0fa980" Path="common.temp.equipment_cash.cap.cash_cap_665_red_rain_cap.unity3d" Version="1" Size="20464" KB="20.0" FileCRC="1551788220" CRC="2573221761" />
+      <AssetBundle Time="20191119_135510" BuildInfo="1.46_1101Q_fd0fa980" Path="common.temp.equipment_cash.cap.cash_cap_666_sky_blue_rain_cap.unity3d" Version="1" Size="19972" KB="19.5" FileCRC="1339195256" CRC="3348227747" />
+      <AssetBundle Time="20191119_135510" BuildInfo="1.46_1101Q_fd0fa980" Path="common.temp.equipment_cash.cap.cash_cap_667_green_rain_cap.unity3d" Version="1" Size="19937" KB="19.5" FileCRC="2249304446" CRC="1228195636" />
       <AssetBundle Time="20191114_164021" BuildInfo="1.46_1100Q_2d1fb7e7" Path="common.ui._v4_0.royalstyle.unity3d" Version="1" Size="1095427" KB="1,069.8" FileCRC="248774256" CRC="3885797982" />
       <AssetBundle Time="20191113_161452" BuildInfo="1.46_1098Q_84b895af" Path="common.dynamictexture.royalpackage.unity3d" Version="1" Size="15311031" KB="14,952.2" FileCRC="1029552990" CRC="4011248995" />
     </PackInfo>
@@ -11299,7 +11302,7 @@
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment.weapon.year_event_second.polearm_event_second_anniv_black.unity3d" Version="1" Size="49809" KB="48.6" FileCRC="2184569006" CRC="3529927954" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment.weapon.year_event_second.polearm_event_second_anniv_white.unity3d" Version="1" Size="48765" KB="47.6" FileCRC="383150258" CRC="3362581728" />
     </PackInfo>
-    <PackInfo Name="pack_193.bin" Size="10524661" MB="10.0" FileCount="362" FileCRC="1990060234" Time="O" BuildInfo="">
+    <PackInfo Name="pack_193.bin" Size="10520530" MB="10.0" FileCount="360" FileCRC="2146110107" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment.weapon.year_event_second.shiningrod_event_second_anniv_black.unity3d" Version="1" Size="95533" KB="93.3" FileCRC="1844724611" CRC="4139227475" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment.weapon.year_event_second.shiningrod_event_second_anniv_white.unity3d" Version="1" Size="93918" KB="91.7" FileCRC="3424153454" CRC="480458697" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment.weapon.year_event_second.spear_event_second_anniv_black.unity3d" Version="1" Size="41614" KB="40.6" FileCRC="3198511999" CRC="2358161979" />
@@ -11448,9 +11451,6 @@
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cap.cash_cap_662_pink_camping_hat.unity3d" Version="1" Size="19988" KB="19.5" FileCRC="2876707787" CRC="1280918739" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cap.cash_cap_663_red_baseball_helmet.unity3d" Version="1" Size="19843" KB="19.4" FileCRC="461784517" CRC="3725922956" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cap.cash_cap_664_orange_visor.unity3d" Version="1" Size="19572" KB="19.1" FileCRC="2892687427" CRC="3954289129" />
-      <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cap.cash_cap_665_red_rain_cap.unity3d" Version="1" Size="20470" KB="20.0" FileCRC="3752393774" CRC="114417780" />
-      <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cap.cash_cap_666_sky_blue_rain_cap.unity3d" Version="1" Size="19981" KB="19.5" FileCRC="3683729157" CRC="2315116338" />
-      <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cap.cash_cap_667_green_rain_cap.unity3d" Version="1" Size="19942" KB="19.5" FileCRC="156189496" CRC="3449786101" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cap.cash_cap_668_purple_slanted_visor.unity3d" Version="1" Size="19723" KB="19.3" FileCRC="78371779" CRC="178264160" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cap.cash_cap_669_blue_upside_down_visor.unity3d" Version="1" Size="19756" KB="19.3" FileCRC="2025826139" CRC="468799872" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cap.cash_cap_670_goggled_red_cap.unity3d" Version="1" Size="20512" KB="20.0" FileCRC="3225733429" CRC="1115275876" />
@@ -11662,9 +11662,9 @@
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_035_yellow_canary.unity3d" Version="1" Size="27378" KB="26.7" FileCRC="383364623" CRC="3428400135" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_036_galactic_flame_cape.unity3d" Version="1" Size="44885" KB="43.8" FileCRC="3472649635" CRC="2944873570" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_037_super_rocket_booster.unity3d" Version="1" Size="123385" KB="120.5" FileCRC="4074357935" CRC="3974650905" />
-    </PackInfo>
-    <PackInfo Name="pack_194.bin" Size="10498437" MB="10.0" FileCount="90" FileCRC="842718075" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_038_romantic_rose.unity3d" Version="1" Size="56410" KB="55.1" FileCRC="2170153432" CRC="3779283975" />
+    </PackInfo>
+    <PackInfo Name="pack_194.bin" Size="10753373" MB="10.3" FileCount="90" FileCRC="2372415623" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_039_lost_child.unity3d" Version="1" Size="35346" KB="34.5" FileCRC="3115357943" CRC="3954534981" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_040_balloon_bouquet.unity3d" Version="1" Size="90187" KB="88.1" FileCRC="1100164826" CRC="3174748885" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_041_seraphim_cape.unity3d" Version="1" Size="68890" KB="67.3" FileCRC="2208763226" CRC="937219687" />
@@ -11754,9 +11754,9 @@
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_136_red_star_cape.unity3d" Version="1" Size="43600" KB="42.6" FileCRC="1007137155" CRC="2149855557" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_137_black_star_cape.unity3d" Version="1" Size="41321" KB="40.4" FileCRC="124594896" CRC="1460719262" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_138_food_escape.unity3d" Version="1" Size="35960" KB="35.1" FileCRC="2861975183" CRC="3959270617" />
-    </PackInfo>
-    <PackInfo Name="pack_195.bin" Size="10494459" MB="10.0" FileCount="87" FileCRC="4015610383" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_139_sapphire_wings.unity3d" Version="1" Size="311345" KB="304.0" FileCRC="267973410" CRC="1039720794" />
+    </PackInfo>
+    <PackInfo Name="pack_195.bin" Size="10492658" MB="10.0" FileCount="93" FileCRC="4193042383" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_140_amethyst_dream_wings.unity3d" Version="1" Size="334961" KB="327.1" FileCRC="2756572152" CRC="302597597" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_141_leafy_dream_wings.unity3d" Version="1" Size="357363" KB="349.0" FileCRC="2577323553" CRC="3020038046" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_142_dryad_eff.unity3d" Version="1" Size="341954" KB="333.9" FileCRC="3024093341" CRC="2030979951" />
@@ -11843,8 +11843,6 @@
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_222.unity3d" Version="1" Size="34998" KB="34.2" FileCRC="1576182877" CRC="709112979" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_223.unity3d" Version="1" Size="96184" KB="93.9" FileCRC="613199371" CRC="2306867552" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_224.unity3d" Version="1" Size="211579" KB="206.6" FileCRC="1665326285" CRC="3652560060" />
-    </PackInfo>
-    <PackInfo Name="pack_196.bin" Size="10496760" MB="10.0" FileCount="256" FileCRC="1825623567" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_225.unity3d" Version="1" Size="34824" KB="34.0" FileCRC="2389701608" CRC="927241699" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_226.unity3d" Version="1" Size="43807" KB="42.8" FileCRC="2031488740" CRC="351756897" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_227.unity3d" Version="1" Size="37242" KB="36.4" FileCRC="848973346" CRC="867147613" />
@@ -11852,6 +11850,8 @@
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_229.unity3d" Version="1" Size="58789" KB="57.4" FileCRC="2192845976" CRC="2755906714" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_230.unity3d" Version="1" Size="39722" KB="38.8" FileCRC="1558860908" CRC="2464205229" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_231.unity3d" Version="1" Size="47918" KB="46.8" FileCRC="2476995470" CRC="1818891142" />
+    </PackInfo>
+    <PackInfo Name="pack_196.bin" Size="10492574" MB="10.0" FileCount="256" FileCRC="350075314" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_232.unity3d" Version="1" Size="31531" KB="30.8" FileCRC="2252878733" CRC="3147494791" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_233.unity3d" Version="1" Size="310844" KB="303.6" FileCRC="3819971061" CRC="3832743985" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.cape.cash_cape_234.unity3d" Version="1" Size="24181" KB="23.6" FileCRC="3939203550" CRC="615446160" />
@@ -12101,8 +12101,6 @@
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.gloves.cash_gloves_84_burybury_gloves.unity3d" Version="1" Size="43623" KB="42.6" FileCRC="856308304" CRC="2858641948" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.gloves.cash_gloves_85_sea_bracelet.unity3d" Version="1" Size="25858" KB="25.3" FileCRC="2046503989" CRC="2457836791" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.gloves.cash_gloves_86.unity3d" Version="1" Size="43890" KB="42.9" FileCRC="824095990" CRC="2546331668" />
-    </PackInfo>
-    <PackInfo Name="pack_197.bin" Size="10488290" MB="10.0" FileCount="205" FileCRC="1967128878" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.gloves.cash_gloves_87.unity3d" Version="1" Size="44069" KB="43.0" FileCRC="619089770" CRC="2929132062" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.gloves.cash_gloves_89.unity3d" Version="1" Size="26334" KB="25.7" FileCRC="97549711" CRC="3853991653" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.gloves.cash_gloves_90.unity3d" Version="1" Size="37098" KB="36.2" FileCRC="3749345395" CRC="1860542295" />
@@ -12110,6 +12108,8 @@
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_003_santa_clothes_f.unity3d" Version="1" Size="56204" KB="54.9" FileCRC="3505675245" CRC="817811206" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_004_blue_swimsuit.unity3d" Version="1" Size="28528" KB="27.9" FileCRC="363558323" CRC="1094098410" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_005_blue_korean_clothes.unity3d" Version="1" Size="57035" KB="55.7" FileCRC="192836440" CRC="3089177795" />
+    </PackInfo>
+    <PackInfo Name="pack_197.bin" Size="10594278" MB="10.1" FileCount="205" FileCRC="1947485494" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_006_dark_suit.unity3d" Version="1" Size="53580" KB="52.3" FileCRC="3682506890" CRC="1883156620" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_007_green_new_year_korean_clothes.unity3d" Version="1" Size="52681" KB="51.4" FileCRC="1262390959" CRC="1204925896" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_008_ninja_overall_m.unity3d" Version="1" Size="54526" KB="53.2" FileCRC="3867014266" CRC="823869116" />
@@ -12308,8 +12308,6 @@
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_263_musashi_costume.unity3d" Version="1" Size="51980" KB="50.8" FileCRC="4163351782" CRC="1533915219" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_264_teddy_bear_costume.unity3d" Version="1" Size="46385" KB="45.3" FileCRC="3908990665" CRC="1725688415" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_265_enamer.unity3d" Version="1" Size="43198" KB="42.2" FileCRC="494910253" CRC="2003059786" />
-    </PackInfo>
-    <PackInfo Name="pack_198.bin" Size="10499749" MB="10.0" FileCount="205" FileCRC="2014755850" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_266_soccer_uniform.unity3d" Version="1" Size="48482" KB="47.3" FileCRC="4080676726" CRC="3052597648" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_268_mummy_suit.unity3d" Version="1" Size="53004" KB="51.8" FileCRC="2107644936" CRC="3580799621" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_269_skull_suit.unity3d" Version="1" Size="54102" KB="52.8" FileCRC="366493349" CRC="676674280" />
@@ -12317,6 +12315,8 @@
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_271_moon_bunny_costume.unity3d" Version="1" Size="56209" KB="54.9" FileCRC="2780596358" CRC="711081886" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_272_soap_bubble_bonanza.unity3d" Version="1" Size="38606" KB="37.7" FileCRC="1896318400" CRC="4193637664" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_273_sun_wukong_robe.unity3d" Version="1" Size="110098" KB="107.5" FileCRC="3201130526" CRC="809680352" />
+    </PackInfo>
+    <PackInfo Name="pack_198.bin" Size="10539298" MB="10.1" FileCount="206" FileCRC="1737334473" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_274_golden_armor.unity3d" Version="1" Size="68819" KB="67.2" FileCRC="3693012293" CRC="3262426920" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_275_dark_blue_kimono.unity3d" Version="1" Size="60605" KB="59.2" FileCRC="1417923046" CRC="4094087074" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_276_rompers.unity3d" Version="1" Size="59168" KB="57.8" FileCRC="3386881744" CRC="1392842746" />
@@ -12515,8 +12515,6 @@
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_525.unity3d" Version="1" Size="49141" KB="48.0" FileCRC="2154486532" CRC="579511079" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_529.unity3d" Version="1" Size="50646" KB="49.5" FileCRC="3929895198" CRC="2985463511" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_530.unity3d" Version="1" Size="51483" KB="50.3" FileCRC="329975558" CRC="1973168474" />
-    </PackInfo>
-    <PackInfo Name="pack_199.bin" Size="10509129" MB="10.0" FileCount="309" FileCRC="2435895271" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_531.unity3d" Version="1" Size="60159" KB="58.7" FileCRC="3746450186" CRC="1833624437" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_534.unity3d" Version="1" Size="68892" KB="67.3" FileCRC="2945212507" CRC="1125366112" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_535.unity3d" Version="1" Size="44508" KB="43.5" FileCRC="2794826093" CRC="2363489165" />
@@ -12525,6 +12523,8 @@
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_538.unity3d" Version="1" Size="57938" KB="56.6" FileCRC="3815408140" CRC="2677183687" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_539.unity3d" Version="1" Size="61159" KB="59.7" FileCRC="151558011" CRC="3933268215" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_540.unity3d" Version="1" Size="56038" KB="54.7" FileCRC="1716887500" CRC="2964069234" />
+    </PackInfo>
+    <PackInfo Name="pack_199.bin" Size="10506136" MB="10.0" FileCount="317" FileCRC="3907402190" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_541.unity3d" Version="1" Size="48428" KB="47.3" FileCRC="2296769977" CRC="2066063181" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_542.unity3d" Version="1" Size="36859" KB="36.0" FileCRC="1278700098" CRC="648356317" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.longcoat.cash_longcoat_543.unity3d" Version="1" Size="52359" KB="51.1" FileCRC="4082346959" CRC="1747710851" />
@@ -12826,8 +12826,6 @@
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.shoes.cash_shoes_047_camping_boots.unity3d" Version="1" Size="28194" KB="27.5" FileCRC="1521620875" CRC="37001071" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.shoes.cash_shoes_048_blue_sneakers.unity3d" Version="1" Size="26819" KB="26.2" FileCRC="1414922601" CRC="15971275" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.shoes.cash_shoes_049_blue_rubber_boots.unity3d" Version="1" Size="27488" KB="26.8" FileCRC="3863226376" CRC="2077094121" />
-    </PackInfo>
-    <PackInfo Name="pack_200.bin" Size="10526839" MB="10.0" FileCount="279" FileCRC="2730570103" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.shoes.cash_shoes_050_black_gomushin.unity3d" Version="1" Size="26393" KB="25.8" FileCRC="2102579830" CRC="341738090" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.shoes.cash_shoes_051_green_aroa_boots.unity3d" Version="1" Size="27995" KB="27.3" FileCRC="207681480" CRC="3769551742" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.shoes.cash_shoes_052_black_air_hs.unity3d" Version="1" Size="28090" KB="27.4" FileCRC="742295094" CRC="1312059039" />
@@ -12844,6 +12842,8 @@
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.shoes.cash_shoes_064_kitty_slipper.unity3d" Version="1" Size="27652" KB="27.0" FileCRC="1351752623" CRC="4134089163" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.shoes.cash_shoes_065_red_marble_slippers.unity3d" Version="1" Size="27904" KB="27.3" FileCRC="4172756611" CRC="4198965655" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.shoes.cash_shoes_066_bunny_slippers.unity3d" Version="1" Size="27677" KB="27.0" FileCRC="2505009615" CRC="2530528060" />
+    </PackInfo>
+    <PackInfo Name="pack_200.bin" Size="10862262" MB="10.4" FileCount="264" FileCRC="3779970698" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.shoes.cash_shoes_067_blue_bball_sneakers.unity3d" Version="1" Size="27777" KB="27.1" FileCRC="1989147003" CRC="3354129706" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.shoes.cash_shoes_068_brown_dress_shoes.unity3d" Version="1" Size="26844" KB="26.2" FileCRC="1575760686" CRC="2546985259" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.shoes.cash_shoes_069_red_leather_boots.unity3d" Version="1" Size="29067" KB="28.4" FileCRC="2740321841" CRC="2976923989" />
@@ -13107,9 +13107,9 @@
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_testweapon.unity3d" Version="1" Size="427482" KB="417.5" FileCRC="2595796761" CRC="1897964310" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_001_janus_sword.unity3d" Version="1" Size="828783" KB="809.4" FileCRC="3473109332" CRC="2979974632" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_002_sachiel_sword.unity3d" Version="1" Size="977727" KB="954.8" FileCRC="1783402317" CRC="457815364" />
-    </PackInfo>
-    <PackInfo Name="pack_201.bin" Size="10737010" MB="10.2" FileCount="22" FileCRC="3194428110" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_003_veamoth_sword.unity3d" Version="1" Size="783322" KB="765.0" FileCRC="3817935252" CRC="1112825804" />
+    </PackInfo>
+    <PackInfo Name="pack_201.bin" Size="10700584" MB="10.2" FileCount="23" FileCRC="2176911717" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_004_seal_pillow.unity3d" Version="1" Size="98441" KB="96.1" FileCRC="1213698664" CRC="2612313837" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_005_kitty.unity3d" Version="1" Size="128149" KB="125.1" FileCRC="212572830" CRC="3198723586" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_006_shooting_star.unity3d" Version="1" Size="401396" KB="392.0" FileCRC="553369016" CRC="3522304780" />
@@ -13131,10 +13131,10 @@
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_023_rainbow_umbrella.unity3d" Version="1" Size="647628" KB="632.4" FileCRC="1489041651" CRC="2799667563" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_024_test_pen.unity3d" Version="1" Size="365179" KB="356.6" FileCRC="3274211029" CRC="3239650782" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_025_royal_marine_flag.unity3d" Version="1" Size="765984" KB="748.0" FileCRC="173443107" CRC="3017362571" />
-    </PackInfo>
-    <PackInfo Name="pack_202.bin" Size="11125507" MB="10.6" FileCount="16" FileCRC="1290664672" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_026_elizabeth_fan.unity3d" Version="1" Size="304392" KB="297.3" FileCRC="4069710799" CRC="1532100935" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_027_chocolate_dipped_stick.unity3d" Version="1" Size="442416" KB="432.0" FileCRC="1713053618" CRC="3487279370" />
+    </PackInfo>
+    <PackInfo Name="pack_202.bin" Size="11094307" MB="10.6" FileCount="15" FileCRC="1614411388" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_028_burning_breeze_fan.unity3d" Version="1" Size="498914" KB="487.2" FileCRC="121260462" CRC="441602404" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_029_rainbow_sparkle.unity3d" Version="1" Size="739049" KB="721.7" FileCRC="302757044" CRC="2848475635" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_030_orange_seraphim.unity3d" Version="1" Size="866541" KB="846.2" FileCRC="4163356215" CRC="2606699568" />
@@ -13149,9 +13149,9 @@
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_039_rabbit_in_a_hat.unity3d" Version="1" Size="261208" KB="255.1" FileCRC="1198749661" CRC="1603650528" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_040_orchids_bunny_doll.unity3d" Version="1" Size="585523" KB="571.8" FileCRC="2674174694" CRC="550586096" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_041_fortune_flash.unity3d" Version="1" Size="931596" KB="909.8" FileCRC="974398000" CRC="198593702" />
-    </PackInfo>
-    <PackInfo Name="pack_203.bin" Size="10552689" MB="10.1" FileCount="14" FileCRC="1774202459" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_042_snowflake_rod.unity3d" Version="1" Size="715696" KB="698.9" FileCRC="1527209808" CRC="3861854983" />
+    </PackInfo>
+    <PackInfo Name="pack_203.bin" Size="11347366" MB="10.8" FileCount="14" FileCRC="755710527" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_043_chocolatier_stick.unity3d" Version="1" Size="946118" KB="923.9" FileCRC="725132830" CRC="4130940746" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_044_magic_herb_teaspoon.unity3d" Version="1" Size="834977" KB="815.4" FileCRC="4009065701" CRC="1617377548" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_045_tedimus_beartaculous.unity3d" Version="1" Size="166667" KB="162.8" FileCRC="216030360" CRC="3898038155" />
@@ -13165,9 +13165,9 @@
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_056_neo_light_sword.unity3d" Version="1" Size="1183975" KB="1,156.2" FileCRC="4071063638" CRC="2658218725" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_057_lotuss_bunny_doll.unity3d" Version="1" Size="605288" KB="591.1" FileCRC="1603205141" CRC="1061334207" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_058_starlight_heart_scepter.unity3d" Version="1" Size="859686" KB="839.5" FileCRC="1311362412" CRC="3475559053" />
-    </PackInfo>
-    <PackInfo Name="pack_204.bin" Size="11001115" MB="10.5" FileCount="16" FileCRC="722663265" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_059_starfall_magic_square.unity3d" Version="1" Size="1510365" KB="1,475.0" FileCRC="1926463666" CRC="3703955101" />
+    </PackInfo>
+    <PackInfo Name="pack_204.bin" Size="10544594" MB="10.1" FileCount="16" FileCRC="1950438421" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_060_dreamy_candy_pillow.unity3d" Version="1" Size="864973" KB="844.7" FileCRC="529778820" CRC="1204909275" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_061_lord_of_the_carrots.unity3d" Version="1" Size="163413" KB="159.6" FileCRC="3594554704" CRC="632463113" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_062_hunter_hawk.unity3d" Version="1" Size="243048" KB="237.4" FileCRC="3531637172" CRC="3176176754" />
@@ -13183,9 +13183,9 @@
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_072_galactic_legend.unity3d" Version="1" Size="1021004" KB="997.1" FileCRC="251654476" CRC="613486565" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_073_spring_blossoms.unity3d" Version="1" Size="279531" KB="273.0" FileCRC="3737556341" CRC="1365858377" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_074_stellar_seraphim.unity3d" Version="1" Size="759455" KB="741.7" FileCRC="3995505803" CRC="4071670093" />
-    </PackInfo>
-    <PackInfo Name="pack_205.bin" Size="10904778" MB="10.4" FileCount="17" FileCRC="1992650195" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_075_evergreen_sabre.unity3d" Version="1" Size="1053850" KB="1,029.2" FileCRC="1009614753" CRC="536393479" />
+    </PackInfo>
+    <PackInfo Name="pack_205.bin" Size="10699222" MB="10.2" FileCount="17" FileCRC="3746575763" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_076_baseball_bat.unity3d" Version="1" Size="831968" KB="812.5" FileCRC="1477216736" CRC="2541757695" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_077_puppeteers_promise.unity3d" Version="1" Size="269797" KB="263.5" FileCRC="3316508702" CRC="3220018199" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_078_fermata.unity3d" Version="1" Size="393188" KB="384.0" FileCRC="847814157" CRC="4029844860" />
@@ -13202,9 +13202,9 @@
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_091_sparkling_buddy.unity3d" Version="1" Size="1077780" KB="1,052.5" FileCRC="635149265" CRC="4152287876" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_092_mint_chocolatier_stick.unity3d" Version="1" Size="1035311" KB="1,011.0" FileCRC="445052663" CRC="1035975625" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_093_soft_chocolate_fondue_scepter.unity3d" Version="1" Size="872175" KB="851.7" FileCRC="697091004" CRC="2058220806" />
-    </PackInfo>
-    <PackInfo Name="pack_206.bin" Size="11126460" MB="10.6" FileCount="16" FileCRC="3088091882" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_094_arachne.unity3d" Version="1" Size="848302" KB="828.4" FileCRC="1604770048" CRC="2483967474" />
+    </PackInfo>
+    <PackInfo Name="pack_206.bin" Size="11000151" MB="10.5" FileCount="16" FileCRC="1098349385" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_095_free_spirit.unity3d" Version="1" Size="205091" KB="200.3" FileCRC="252382230" CRC="4033471436" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_097_shadow_executor.unity3d" Version="1" Size="786159" KB="767.7" FileCRC="2036897889" CRC="1230941476" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_098_sweet_snake.unity3d" Version="1" Size="920419" KB="898.8" FileCRC="2604564977" CRC="2707051659" />
@@ -13220,9 +13220,9 @@
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_109_monkey_banana_weapons.unity3d" Version="1" Size="628274" KB="613.5" FileCRC="3400068982" CRC="3519755634" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_110_flower_dance.unity3d" Version="1" Size="960792" KB="938.3" FileCRC="1550336372" CRC="4099526150" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_111_bubbling_shot.unity3d" Version="1" Size="676359" KB="660.5" FileCRC="3182775100" CRC="2612611516" />
-    </PackInfo>
-    <PackInfo Name="pack_207.bin" Size="11503156" MB="11.0" FileCount="14" FileCRC="2795258694" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_112_breezy_bamboo.unity3d" Version="1" Size="721987" KB="705.1" FileCRC="1490770796" CRC="1873887667" />
+    </PackInfo>
+    <PackInfo Name="pack_207.bin" Size="10781090" MB="10.3" FileCount="13" FileCRC="2798516840" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_113_breezy_sky_bamboo.unity3d" Version="1" Size="517396" KB="505.3" FileCRC="3805031839" CRC="1413046199" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_114_polearm_maha.unity3d" Version="1" Size="344997" KB="336.9" FileCRC="1640878186" CRC="3917942936" />
       <AssetBundle Time="" BuildInfo="" Path="common.temp.equipment_cash.weapon.cash_weapon_117_cotton_candy_cloud.unity3d" Version="1" Size="588765" KB="575.0" FileCRC="284511026" CRC="3960783909" />
