@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20191118_170202" Region="Japan" BuildInfo="1.460_427Q_d3399e1c" PackCount="6" FileCount="102" TotalSize="66936266" MB="63.8" Compressed="False" Source="../Japan_Stage_ClientTable_IOS/Japan/" />
+  <Header CRC="20191122_125749" Region="Japan" BuildInfo="1.460_428Q_d3399e1c" PackCount="6" FileCount="102" TotalSize="66936266" MB="63.8" Compressed="False" Source="../Japan_Stage_ClientTable_IOS/Japan/" />
   <PackList Count="6">
     <PackInfo Name="pack_001.bin" Size="13278114" MB="12.7" FileCount="6" FileCRC="1579258336" Time="20191118_110032" BuildInfo="1.460_425Q_414e543d">
       <Data Time="20191118_170202" BuildInfo="1.460_427Q_d3399e1c" Path="data.bin.client.dummy.ifo" Version="1" Size="316208" KB="308.8" FileCRC="3018543407" CRC="3018543407" OriginalCRC="3018543407" />
