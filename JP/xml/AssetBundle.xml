@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20191122_124959" Region="Japan" BuildInfo="1.460_357Q_930e3914" PackCount="199" FileCount="12515" TotalSize="2354068794" MB="2,245.0" />
+  <Header CRC="20191127_184430" Region="Japan" BuildInfo="1.460_12S_930e3914" PackCount="199" FileCount="12515" TotalSize="2354068794" MB="2,245.0" />
   <PackList Count="199">
     <PackInfo Name="pack_001.bin" Size="10934512" MB="10.4" FileCount="23" FileCRC="490509002" Time="20191106_185040" BuildInfo="1.460_342Q_f3b270b3">
       <AssetBundle Time="20191118_165431" BuildInfo="1.460_356Q_930e3914" Path="common.temp.equipment_cash.cap.cash_cap_665_red_rain_cap.unity3d" Version="1" Size="20446" KB="20.0" FileCRC="3405169223" CRC="3063393077" />
