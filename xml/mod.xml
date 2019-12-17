@@ -4,7 +4,7 @@
   <PackList Count="6">
     <PackInfo Name="pack_001.bin" Size="13151784" MB="12.5" FileCount="6" FileCRC="323608684" Time="20191217_125859" BuildInfo="1.47_964Q_e64b58f6">
       <Data Time="20191217_150134" BuildInfo="1.47_966Q_aaa2889e" Path="data.bin.client.partsset.tbl" Version="1" Size="3138972" KB="3,065.4" FileCRC="2218609967" CRC="2218609967" OriginalCRC="2080551802" />
-      <AssetBundle Time="20191217_132422" BuildInfo="1.47_965Q_813d9ec0" Path="data.table.unity3d" Version="3" Size="5342605" KB="783.4" FileCRC="0" CRC="0" OriginalCRC="" />
+      <AssetBundle Time="20191217_132422" BuildInfo="1.47_965Q_813d9ec0" Path="data.table.unity3d" Version="2" Size="5342605" KB="783.4" FileCRC="0" CRC="0" OriginalCRC="" />
       <Data Time="20191217_125859" BuildInfo="1.47_964Q_e64b58f6" Path="data.bin.client.effect.ifo" Version="1" Size="49685" KB="48.5" FileCRC="1223980756" CRC="1223980756" OriginalCRC="3844012986" />
       <Data Time="20191217_125859" BuildInfo="1.47_964Q_e64b58f6" Path="data.bin.client.effect.tbl" Version="1" Size="1251354" KB="1,222.0" FileCRC="3553993494" CRC="3553993494" OriginalCRC="3553993494" />
       <Data Time="20191217_125859" BuildInfo="1.47_964Q_e64b58f6" Path="data.bin.client.item.ifo" Version="1" Size="543488" KB="530.8" FileCRC="1134146495" CRC="1134146495" OriginalCRC="1627409803" />
@@ -14,7 +14,7 @@
       <Data Time="20191217_125859" BuildInfo="1.47_964Q_e64b58f6" Path="data.bin.client.partsset.ifo" Version="1" Size="93991" KB="91.8" FileCRC="1997032841" CRC="1997032841" OriginalCRC="4055414322" />
       <Data Time="20191217_125859" BuildInfo="1.47_964Q_e64b58f6" Path="data.bin.client.world.tbl" Version="1" Size="457623" KB="446.9" FileCRC="2803281571" CRC="2803281571" OriginalCRC="2983536465" />
       <Data Time="20191217_125859" BuildInfo="1.47_964Q_e64b58f6" Path="data.bin.lan.kor.ifo" Version="1" Size="505150" KB="493.3" FileCRC="1267141653" CRC="1267141653" OriginalCRC="2402338722" />
-      <Data Time="20191217_125859" BuildInfo="1.47_964Q_e64b58f6" Path="data.bin.lan.kor.tbl" Version="3" Size="4744770" KB="4,633.6" FileCRC="0" CRC="0" OriginalCRC="" />
+      <Data Time="20191217_125859" BuildInfo="1.47_964Q_e64b58f6" Path="data.bin.lan.kor.tbl" Version="2" Size="4744770" KB="4,633.6" FileCRC="0" CRC="0" OriginalCRC="" />
       <AssetBundle Time="20191217_125859" BuildInfo="1.47_964Q_e64b58f6" Path="data.language_kor.unity3d" Version="1" Size="2902145" KB="2,834.1" FileCRC="290041808" CRC="823401230" OriginalCRC="" />
       <Data Time="20191216_195040" BuildInfo="1.47_958Q_ecd9b2ca" Path="data.bin.client.dummy.ifo" Version="1" Size="360947" KB="352.5" FileCRC="912719480" CRC="912719480" OriginalCRC="1680388166" />
       <Data Time="20191216_195040" BuildInfo="1.47_958Q_ecd9b2ca" Path="data.bin.client.dummy.tbl" Version="1" Size="3443059" KB="3,362.4" FileCRC="1095778290" CRC="1095778290" OriginalCRC="1095778290" />
