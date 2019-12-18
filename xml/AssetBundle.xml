@@ -1,8 +1,11 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20191217_180643" Region="Korea" BuildInfo="1.47_1137Q_adffe919" PackCount="224" FileCount="13761" TotalSize="2690606631" MB="2,566.0" />
+  <Header CRC="20191218_162053" Region="Korea" BuildInfo="1.47_1138Q_16e9af0e" PackCount="224" FileCount="13761" TotalSize="2690606827" MB="2,566.0" />
   <PackList Count="224">
-    <PackInfo Name="pack_001.bin" Size="16012669" MB="15.3" FileCount="1" FileCRC="2324187430" Time="20191217_180643" BuildInfo="1.47_1137Q_adffe919">
+    <PackInfo Name="pack_001.bin" Size="19238415" MB="18.3" FileCount="4" FileCRC="3208455326" Time="20191217_180643" BuildInfo="1.47_1137Q_adffe919">
+      <AssetBundle Time="20191218_162053" BuildInfo="1.47_1138Q_16e9af0e" Path="common.ui._v4_0.forgeresultpopup.unity3d" Version="1" Size="469728" KB="458.7" FileCRC="1724382265" CRC="4059044945" />
+      <AssetBundle Time="20191218_162053" BuildInfo="1.47_1138Q_16e9af0e" Path="common.ui._v4_0.themadungeon.rootabyss.unity3d" Version="1" Size="2326541" KB="2,272.0" FileCRC="2143749433" CRC="332242462" />
+      <AssetBundle Time="20191218_162053" BuildInfo="1.47_1138Q_16e9af0e" Path="common.ui.levelrewardpackage.demonavengergrowpackage.unity3d" Version="1" Size="429307" KB="419.2" FileCRC="3185050891" CRC="3771994396" />
       <AssetBundle Time="20191217_180643" BuildInfo="1.47_1137Q_adffe919" Path="common.dynamictexture.royalpackage.unity3d" Version="1" Size="16012619" KB="15,637.3" FileCRC="526138052" CRC="2685023369" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" Size="12148368" MB="11.6" FileCount="7" FileCRC="1829514982" Time="20191213_041128" BuildInfo="1.47_1130Q_9db999b7">
@@ -814,7 +817,7 @@
       <AssetBundle Time="20191127_151012" BuildInfo="1.47_1102Q_38b31b35" Path="common.ui._v4_0.eventpackagepopup.attendancepackagepopup5.unity3d" Version="1" Size="308222" KB="301.0" FileCRC="1942372465" CRC="2772355311" />
       <AssetBundle Time="20191127_151012" BuildInfo="1.47_1102Q_38b31b35" Path="common.ui._v4_0.eventpackagepopup.globalserialpackagepopup.unity3d" Version="1" Size="2580929" KB="2,520.4" FileCRC="3306438193" CRC="3817433348" />
     </PackInfo>
-    <PackInfo Name="pack_025.bin" Size="11138843" MB="10.6" FileCount="21" FileCRC="3659031118" Time="20191127_151012" BuildInfo="1.47_1102Q_38b31b35">
+    <PackInfo Name="pack_025.bin" Size="10669260" MB="10.2" FileCount="20" FileCRC="3186461666" Time="20191127_151012" BuildInfo="1.47_1102Q_38b31b35">
       <AssetBundle Time="20191127_151012" BuildInfo="1.47_1102Q_38b31b35" Path="common.ui._v4_0.eventpackagepopup.multiattendancepackagepopup.unity3d" Version="1" Size="347739" KB="339.6" FileCRC="1382803783" CRC="3110806107" />
       <AssetBundle Time="20191127_151012" BuildInfo="1.47_1102Q_38b31b35" Path="common.ui._v4_0.eventpackagepopup.newfirstpackagepopup.unity3d" Version="1" Size="398382" KB="389.0" FileCRC="1801161507" CRC="2690857187" />
       <AssetBundle Time="20191127_151012" BuildInfo="1.47_1102Q_38b31b35" Path="common.ui._v4_0.eventpackagepopup.serialpackagepopup.unity3d" Version="1" Size="134185" KB="131.0" FileCRC="4107507866" CRC="4267545276" />
@@ -832,7 +835,6 @@
       <AssetBundle Time="20191127_151012" BuildInfo="1.47_1102Q_38b31b35" Path="common.ui._v4_0.eventsongisongipopup.unity3d" Version="1" Size="217549" KB="212.5" FileCRC="1062643068" CRC="1442165326" />
       <AssetBundle Time="20191127_151012" BuildInfo="1.47_1102Q_38b31b35" Path="common.ui._v4_0.eventtreasurehuntpopup.unity3d" Version="1" Size="349921" KB="341.7" FileCRC="388937534" CRC="3212840972" />
       <AssetBundle Time="20191127_151012" BuildInfo="1.47_1102Q_38b31b35" Path="common.ui._v4_0.expedition.expeditioninfopopup.unity3d" Version="1" Size="435546" KB="425.3" FileCRC="3284283009" CRC="2798097410" />
-      <AssetBundle Time="20191127_151012" BuildInfo="1.47_1102Q_38b31b35" Path="common.ui._v4_0.forgeresultpopup.unity3d" Version="1" Size="469535" KB="458.5" FileCRC="739703319" CRC="1730129922" />
       <AssetBundle Time="20191127_151012" BuildInfo="1.47_1102Q_38b31b35" Path="common.ui._v4_0.gacha.unity3d" Version="1" Size="2849988" KB="2,783.2" FileCRC="1197844527" CRC="1230623410" />
       <AssetBundle Time="20191127_151012" BuildInfo="1.47_1102Q_38b31b35" Path="common.ui._v4_0.gacharesult.ngacharesult.unity3d" Version="1" Size="255272" KB="249.3" FileCRC="2036291714" CRC="1907272442" />
       <AssetBundle Time="20191127_151012" BuildInfo="1.47_1102Q_38b31b35" Path="common.ui._v4_0.ghostcollectorspopup.unity3d" Version="1" Size="1185247" KB="1,157.5" FileCRC="517026505" CRC="1752754889" />
@@ -1306,7 +1308,7 @@
       <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.ui._v4_0.option.option_v2.unity3d" Version="1" Size="148337" KB="144.9" FileCRC="1747798960" CRC="1367462020" />
       <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.ui._v4_0.oxquiz.unity3d" Version="1" Size="2186724" KB="2,135.5" FileCRC="1559145124" CRC="597850228" />
     </PackInfo>
-    <PackInfo Name="pack_044.bin" Size="12168305" MB="11.6" FileCount="15" FileCRC="3540169930" Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf">
+    <PackInfo Name="pack_044.bin" Size="11989877" MB="11.4" FileCount="16" FileCRC="2741063028" Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf">
       <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.ui._v4_0.petchangepopup.unity3d" Version="1" Size="908147" KB="886.9" FileCRC="1541285087" CRC="1294471860" />
       <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.ui._v4_0.petdeckpopup.unity3d" Version="1" Size="66751" KB="65.2" FileCRC="3952660461" CRC="1763828731" />
       <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.ui._v4_0.petupgradeequippopup.unity3d" Version="1" Size="23083" KB="22.5" FileCRC="2946757415" CRC="3832433303" />
@@ -1319,13 +1321,12 @@
       <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.ui._v4_0.themadungeon.moonbunnyoperation.unity3d" Version="1" Size="29477" KB="28.8" FileCRC="4137429964" CRC="3489414941" />
       <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.ui._v4_0.themadungeon.moonbunnysricecake.unity3d" Version="1" Size="69042" KB="67.4" FileCRC="384926693" CRC="3530766751" />
       <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.ui._v4_0.themadungeon.questdungeon.questdungeon.rewardpopup.unity3d" Version="1" Size="21647" KB="21.1" FileCRC="1150966930" CRC="647876969" />
-      <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.ui._v4_0.themadungeon.rootabyss.unity3d" Version="1" Size="2326542" KB="2,272.0" FileCRC="792273907" CRC="520194807" />
       <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.ui._v4_0.themadungeon.weddinghall.unity3d" Version="1" Size="622077" KB="607.5" FileCRC="1130053972" CRC="677758425" />
       <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.ui._v4_0.weddingmenu.unity3d" Version="1" Size="2220214" KB="2,168.2" FileCRC="4261792869" CRC="2828154841" />
-    </PackInfo>
-    <PackInfo Name="pack_045.bin" Size="11431534" MB="10.9" FileCount="32" FileCRC="3305674456" Time="20191007_184300" BuildInfo="1.45_1059Q_7f7229d8">
       <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.ui._v4_0.whispersubpopup.unity3d" Version="1" Size="8432" KB="8.2" FileCRC="213037267" CRC="527004256" />
       <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.ui._v4_0.wispwonderberry.unity3d" Version="1" Size="2139642" KB="2,089.5" FileCRC="2235437822" CRC="1864980660" />
+    </PackInfo>
+    <PackInfo Name="pack_045.bin" Size="11217094" MB="10.7" FileCount="32" FileCRC="3936783745" Time="20191003_041138" BuildInfo="1.45_1054Q_c27babe7">
       <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.ui.eventcomebackuserpopup.unity3d" Version="1" Size="25054" KB="24.5" FileCRC="1914497644" CRC="2188485519" />
       <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.ui.forcetutorialdialog.unity3d" Version="1" Size="432603" KB="422.5" FileCRC="2983642214" CRC="1884093891" />
       <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.ui.halloweenresultpopup.unity3d" Version="1" Size="60385" KB="59.0" FileCRC="3113343423" CRC="2079913875" />
@@ -1356,10 +1357,10 @@
       <AssetBundle Time="20191009_041134" BuildInfo="1.45_1062Q_010e95e6" Path="common.dummyobject.monster.defaultscene.event.eventmon_pumpkinzombie_00.unity3d" Version="1" Size="707094" KB="690.5" FileCRC="8041352" CRC="1024669944" />
       <AssetBundle Time="20191009_041134" BuildInfo="1.45_1062Q_010e95e6" Path="common.ui._v4_0.themadungeon.hauntedmansion.ingame.unity3d" Version="1" Size="88217" KB="86.1" FileCRC="2801684727" CRC="697693260" />
       <AssetBundle Time="20191007_184300" BuildInfo="1.45_1059Q_7f7229d8" Path="common.map.event02.unity3d" Version="1" Size="4924036" KB="4,808.6" FileCRC="1406204220" CRC="410253637" />
-    </PackInfo>
-    <PackInfo Name="pack_046.bin" Size="15521015" MB="14.8" FileCount="20" FileCRC="3577236926" Time="20190926_041216" BuildInfo="1.45_1046Q_ab7222bf">
       <AssetBundle Time="20191007_184300" BuildInfo="1.45_1059Q_7f7229d8" Path="common.temp.equipment_cash.weapon.cash_weapon_1910_01702725.unity3d" Version="1" Size="334105" KB="326.3" FileCRC="2505144806" CRC="4253543064" />
       <AssetBundle Time="20191003_041138" BuildInfo="1.45_1054Q_c27babe7" Path="common.dummyobject.monster.defaultscene.event.eventmon_oversizedjackolantern_00.unity3d" Version="1" Size="1599453" KB="1,562.0" FileCRC="3500712659" CRC="537110906" />
+    </PackInfo>
+    <PackInfo Name="pack_046.bin" Size="13587287" MB="13.0" FileCount="18" FileCRC="2407282258" Time="20190926_041216" BuildInfo="1.45_1046Q_ab7222bf">
       <AssetBundle Time="20191002_041138" BuildInfo="1.45_1053Q_a795f56c" Path="common.dummyobject.monster.defaultscene.event.eventmon_pumpkinknight_00.unity3d" Version="1" Size="219511" KB="214.4" FileCRC="3398256256" CRC="4097262383" />
       <AssetBundle Time="20191002_041138" BuildInfo="1.45_1053Q_a795f56c" Path="common.dummyobject.pet.pet_1910_m003_3rdanniv.unity3d" Version="1" Size="24678" KB="24.1" FileCRC="548219577" CRC="776196666" />
       <AssetBundle Time="20191002_041138" BuildInfo="1.45_1053Q_a795f56c" Path="common.ui._v4_0.itempopupsetitempopup.unity3d" Version="1" Size="9385" KB="9.2" FileCRC="205849349" CRC="234997388" />
@@ -2021,11 +2022,10 @@
       <AssetBundle Time="20190923_194412" BuildInfo="1.45_1043Q_72a898bf" Path="common.ui._v4_0.themadungeon.guildwar.guildwarpanel.unity3d" Version="1" Size="85299" KB="83.3" FileCRC="3913448783" CRC="823406041" />
       <AssetBundle Time="20190923_194412" BuildInfo="1.45_1043Q_72a898bf" Path="common.ui._v4_0.violettapopup.unity3d" Version="1" Size="1324426" KB="1,293.4" FileCRC="3398441412" CRC="3682800379" />
     </PackInfo>
-    <PackInfo Name="pack_070.bin" Size="10562259" MB="10.1" FileCount="261" FileCRC="2194884711" Time="20190822_153134" BuildInfo="0.90_1018Q_d0b0ecae">
+    <PackInfo Name="pack_070.bin" Size="11292782" MB="10.8" FileCount="262" FileCRC="336627702" Time="20190822_153134" BuildInfo="0.90_1018Q_d0b0ecae">
       <AssetBundle Time="20190923_194412" BuildInfo="1.45_1043Q_72a898bf" Path="common.ui._v4_0.waitroom.guildtournament.unity3d" Version="1" Size="259157" KB="253.1" FileCRC="2919013393" CRC="3926672027" />
       <AssetBundle Time="20190923_194412" BuildInfo="1.45_1043Q_72a898bf" Path="common.ui._v4_0.weddingpropose.unity3d" Version="1" Size="65921" KB="64.4" FileCRC="1322697140" CRC="4174737801" />
       <AssetBundle Time="20190923_194412" BuildInfo="1.45_1043Q_72a898bf" Path="common.ui.actioncommand.screenmessage.unity3d" Version="1" Size="31081" KB="30.4" FileCRC="714468107" CRC="3591226522" />
-      <AssetBundle Time="20190923_194412" BuildInfo="1.45_1043Q_72a898bf" Path="common.ui.levelrewardpackage.demonavengergrowpackage.unity3d" Version="1" Size="429303" KB="419.2" FileCRC="1977877979" CRC="3219475901" />
       <AssetBundle Time="20190903_041125" BuildInfo="1.44_1033Q_fe306991" Path="common.character.skill.demon.demonavenger.nethershield.unity3d" Version="1" Size="378454" KB="369.6" FileCRC="2452977404" CRC="3138643027" />
       <AssetBundle Time="20190902_184604" BuildInfo="1.44_1032Q_e2fe74c9" Path="common.temp.equipment.gloves.gloves_bowman_normal_lv100_00.unity3d" Version="1" Size="43659" KB="42.6" FileCRC="1827756681" CRC="1333487486" />
       <AssetBundle Time="20190828_182402" BuildInfo="1.44_1025Q_486a61e8" Path="common.dynamictexture.monthlycharge.unity3d" Version="1" Size="1601080" KB="1,563.6" FileCRC="2148243396" CRC="2849590935" />
@@ -2283,10 +2283,10 @@
       <AssetBundle Time="20190823_111615" BuildInfo="1.44_1019Q_bd0659d9" Path="common.sound.class.demon.demonavenger.voice.voice_demonavenger_m_9.unity3d" Version="1" Size="9369" KB="9.1" FileCRC="1360364802" CRC="3095831250" />
       <AssetBundle Time="20190822_153134" BuildInfo="0.90_1018Q_d0b0ecae" Path="common.character.skill.default.doubleluckydice.unity3d" Version="1" Size="1050096" KB="1,025.5" FileCRC="1662860456" CRC="2184078443" />
       <AssetBundle Time="20190822_153134" BuildInfo="0.90_1018Q_d0b0ecae" Path="common.character.skill.demon.demonavenger.batswarm.unity3d" Version="1" Size="481258" KB="470.0" FileCRC="1904075384" CRC="345912373" />
-    </PackInfo>
-    <PackInfo Name="pack_071.bin" Size="11374999" MB="10.8" FileCount="17" FileCRC="2377690491" Time="20190822_153134" BuildInfo="0.90_1018Q_d0b0ecae">
       <AssetBundle Time="20190822_153134" BuildInfo="0.90_1018Q_d0b0ecae" Path="common.character.skill.demon.demonavenger.battlepact_demonavenger.unity3d" Version="1" Size="245393" KB="239.6" FileCRC="3293669690" CRC="385685551" />
       <AssetBundle Time="20190822_153134" BuildInfo="0.90_1018Q_d0b0ecae" Path="common.character.skill.demon.demonavenger.bloodimprison.unity3d" Version="1" Size="914349" KB="892.9" FileCRC="1963104512" CRC="650176262" />
+    </PackInfo>
+    <PackInfo Name="pack_071.bin" Size="10581744" MB="10.1" FileCount="19" FileCRC="1271661418" Time="20190822_153134" BuildInfo="0.90_1018Q_d0b0ecae">
       <AssetBundle Time="20190822_153134" BuildInfo="0.90_1018Q_d0b0ecae" Path="common.character.skill.demon.demonavenger.diabolicrecovery.unity3d" Version="1" Size="291123" KB="284.3" FileCRC="4091744783" CRC="4048102951" />
       <AssetBundle Time="20190822_153134" BuildInfo="0.90_1018Q_d0b0ecae" Path="common.character.skill.demon.demonavenger.exceed_demonstrike.unity3d" Version="1" Size="117397" KB="114.6" FileCRC="336031092" CRC="2044084312" />
       <AssetBundle Time="20190822_153134" BuildInfo="0.90_1018Q_d0b0ecae" Path="common.character.skill.demon.demonavenger.exceed_demonstrike_final.unity3d" Version="1" Size="126131" KB="123.2" FileCRC="3882598483" CRC="552469665" />
@@ -2302,12 +2302,12 @@
       <AssetBundle Time="20190822_153134" BuildInfo="0.90_1018Q_d0b0ecae" Path="common.character.skill.demon.demonavenger.shieldcharge.unity3d" Version="1" Size="754865" KB="737.2" FileCRC="699627942" CRC="502554533" />
       <AssetBundle Time="20190822_153134" BuildInfo="0.90_1018Q_d0b0ecae" Path="common.character.skill.demon.demonavenger.thousandswords.unity3d" Version="1" Size="3508060" KB="3,425.8" FileCRC="3036243650" CRC="1912137340" />
       <AssetBundle Time="20190822_153134" BuildInfo="0.90_1018Q_d0b0ecae" Path="common.character.skill.demon.demonavenger.vitalityveil.unity3d" Version="1" Size="2276385" KB="2,223.0" FileCRC="312362158" CRC="1909859338" />
-    </PackInfo>
-    <PackInfo Name="pack_072.bin" Size="10890437" MB="10.4" FileCount="50" FileCRC="2000629861" Time="20190822_153134" BuildInfo="0.90_1018Q_d0b0ecae">
       <AssetBundle Time="20190822_153134" BuildInfo="0.90_1018Q_d0b0ecae" Path="common.character.skill.demon.demonavenger.wardevil.unity3d" Version="1" Size="182992" KB="178.7" FileCRC="822350865" CRC="2505104970" />
       <AssetBundle Time="20190822_153134" BuildInfo="0.90_1018Q_d0b0ecae" Path="common.dummyobject.chair.chair_1909_03015281.unity3d" Version="1" Size="45973" KB="44.9" FileCRC="4246368950" CRC="4103944956" />
       <AssetBundle Time="20190822_153134" BuildInfo="0.90_1018Q_d0b0ecae" Path="common.dummyobject.chair.chair_1909_03015282.unity3d" Version="1" Size="33314" KB="32.5" FileCRC="1228653078" CRC="3617226270" />
       <AssetBundle Time="20190822_153134" BuildInfo="0.90_1018Q_d0b0ecae" Path="common.dummyobject.chair.chair_1909_03015294.unity3d" Version="1" Size="104114" KB="101.7" FileCRC="870441559" CRC="1763552854" />
+    </PackInfo>
+    <PackInfo Name="pack_072.bin" Size="10523798" MB="10.0" FileCount="46" FileCRC="3086252962" Time="20190822_153134" BuildInfo="0.90_1018Q_d0b0ecae">
       <AssetBundle Time="20190822_153134" BuildInfo="0.90_1018Q_d0b0ecae" Path="common.dummyobject.chair.chair_1910_03015448.unity3d" Version="1" Size="170773" KB="166.8" FileCRC="315566475" CRC="216498244" />
       <AssetBundle Time="20190822_153134" BuildInfo="0.90_1018Q_d0b0ecae" Path="common.dummyobject.chair.chair_1910_03015663.unity3d" Version="1" Size="124659" KB="121.7" FileCRC="3510738066" CRC="2662761830" />
       <AssetBundle Time="20190822_153134" BuildInfo="0.90_1018Q_d0b0ecae" Path="common.dummyobject.chair.chair_1910_03018174.unity3d" Version="1" Size="43709" KB="42.7" FileCRC="3167779333" CRC="2060216878" />
