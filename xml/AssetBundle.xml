@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20191230_185000" Region="Korea" BuildInfo="1.47_1140Q_8754a8e5" PackCount="224" FileCount="13761" TotalSize="2690699987" MB="2,566.1" />
+  <Header CRC="20200102_162549" Region="Korea" BuildInfo="1.47_216S_8754a8e5" PackCount="224" FileCount="13761" TotalSize="2690699987" MB="2,566.1" />
   <PackList Count="224">
     <PackInfo Name="pack_001.bin" Size="12151147" MB="11.6" FileCount="6" FileCRC="1652487190" Time="20191218_162053" BuildInfo="1.47_1138Q_16e9af0e">
-      <AssetBundle Time="20191230_185000" BuildInfo="1.47_1140Q_8754a8e5" Path="common.temp.equipment_cash.weapon.cash_weapon_1912_01702810.unity3d" Version="1" Size="486759" KB="475.4" FileCRC="3120111874" CRC="2042272517" />
+      <AssetBundle Time="20200102_162549" BuildInfo="1.47_216S_8754a8e5" Path="common.temp.equipment_cash.weapon.cash_weapon_1912_01702810.unity3d" Version="1" Size="486759" KB="475.4" FileCRC="3120111874" CRC="2042272517" />
       <AssetBundle Time="20191219_173152" BuildInfo="1.47_1139Q_7d209ff0" Path="common.dynamictexture.monthlypackage.unity3d" Version="1" Size="6052591" KB="5,910.7" FileCRC="1252738473" CRC="769065832" />
       <AssetBundle Time="20191219_173152" BuildInfo="1.47_1139Q_7d209ff0" Path="common.map.event08.unity3d" Version="1" Size="2408751" KB="2,352.3" FileCRC="2129680052" CRC="1321842961" />
       <AssetBundle Time="20191219_173152" BuildInfo="1.47_1139Q_7d209ff0" Path="common.ui.levelrewardpackage.xenoncristalgrowpackage.unity3d" Version="1" Size="406446" KB="396.9" FileCRC="2380551420" CRC="1869966386" />

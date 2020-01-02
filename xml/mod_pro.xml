@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20191231_105631" Region="Korea" BuildInfo="1.47_972Q_cfd7070d" PackCount="6" FileCount="88" TotalSize="66858129" MB="63.8" Compressed="False" Source="../table_qa_ios/table/" />
+  <Header CRC="20200102_174128" Region="Korea" BuildInfo="1.47_111S_776c1b3e" PackCount="6" FileCount="88" TotalSize="66858145" MB="63.8" Compressed="False" Source="../table_qa_ios/table/" />
   <PackList Count="6">
-    <PackInfo Name="pack_001.bin" Size="16058998" MB="15.3" FileCount="4" FileCRC="2976586063" Time="20191218_163016" BuildInfo="1.47_968Q_84664e56">
-      <Data Time="20191231_105631" BuildInfo="1.47_972Q_cfd7070d" Path="data.bin.lan.kor.ifo" Version="1" Size="505152" KB="493.3" FileCRC="1602340258" CRC="1602340258" OriginalCRC="4212755598" />
-      <Data Time="20191231_105631" BuildInfo="1.47_972Q_cfd7070d" Path="data.bin.lan.kor.tbl" Version="3" Size="4744772" KB="4,633.6" FileCRC="0" CRC="0" OriginalCRC="" />
+    <PackInfo Name="pack_001.bin" Size="16861283" MB="16.1" FileCount="5" FileCRC="3632860969" Time="20191218_163016" BuildInfo="1.47_968Q_84664e56">
+      <AssetBundle Time="20200102_174128" BuildInfo="1.47_111S_776c1b3e" Path="data.table.unity3d" Version="1" Size="5342701" KB="783.4" FileCRC="0" CRC="0" OriginalCRC="" />
+      <Data Time="20200102_163219" BuildInfo="1.47_110S_53d75480" Path="data.bin.lan.kor.ifo" Version="1" Size="505153" KB="493.3" FileCRC="3614691198" CRC="3614691198" OriginalCRC="623982809" />
+      <Data Time="20200102_163219" BuildInfo="1.47_110S_53d75480" Path="data.bin.lan.kor.tbl" Version="1" Size="4744781" KB="4,633.6" FileCRC="0" CRC="0" OriginalCRC="" />
       <Data Time="20191219_193059" BuildInfo="1.47_970Q_e83f96c7" Path="data.bin.client.dummy.tbl" Version="1" Size="3443065" KB="3,362.4" FileCRC="915191084" CRC="915191084" OriginalCRC="1337793438" />
       <Data Time="20191218_163016" BuildInfo="1.47_968Q_84664e56" Path="data.bin.client.item.tbl" Version="1" Size="7365888" KB="7,193.3" FileCRC="1232786626" CRC="1232786626" OriginalCRC="1029076510" />
     </PackInfo>
-    <PackInfo Name="pack_002.bin" Size="13231725" MB="12.6" FileCount="7" FileCRC="3950115257" Time="20191217_150134" BuildInfo="1.47_966Q_aaa2889e">
+    <PackInfo Name="pack_002.bin" Size="12429456" MB="11.9" FileCount="6" FileCRC="3297105512" Time="20191217_150134" BuildInfo="1.47_966Q_aaa2889e">
       <Data Time="20191218_163016" BuildInfo="1.47_968Q_84664e56" Path="data.bin.client.skill.tbl" Version="1" Size="6275270" KB="6,128.2" FileCRC="3534679641" CRC="3534679641" OriginalCRC="3660070230" />
-      <AssetBundle Time="20191218_163016" BuildInfo="1.47_968Q_84664e56" Path="data.table.unity3d" Version="3" Size="5342717" KB="783.4" FileCRC="0" CRC="0" OriginalCRC="" />
       <Data Time="20191217_181511" BuildInfo="1.47_967Q_442a9ff6" Path="data.bin.addoptiongrade.tbl" Version="1" Size="110" KB="0.1" FileCRC="4100598046" CRC="4100598046" OriginalCRC="4100598046" />
       <Data Time="20191217_181511" BuildInfo="1.47_967Q_442a9ff6" Path="data.bin.nicknameslang.kor.tbl" Version="1" Size="54417" KB="53.1" FileCRC="3208345455" CRC="3208345455" OriginalCRC="3208345455" />
       <Data Time="20191217_181511" BuildInfo="1.47_967Q_442a9ff6" Path="data.bin.slang.kor.tbl" Version="1" Size="58479" KB="57.1" FileCRC="1571459126" CRC="1571459126" OriginalCRC="1571459126" />
-      <AssetBundle Time="20191217_181511" BuildInfo="1.47_967Q_442a9ff6" Path="data.language_kor.unity3d" Version="3" Size="9818197" KB="2,834.0" FileCRC="0" CRC="0" OriginalCRC="" />
+      <AssetBundle Time="20191217_181511" BuildInfo="1.47_967Q_442a9ff6" Path="data.language_kor.unity3d" Version="1" Size="9818197" KB="2,834.0" FileCRC="0" CRC="0" OriginalCRC="" />
       <Data Time="20191217_150134" BuildInfo="1.47_966Q_aaa2889e" Path="data.bin.client.partsset.tbl" Version="1" Size="3138972" KB="3,065.4" FileCRC="2218609967" CRC="2218609967" OriginalCRC="2080551802" />
     </PackInfo>
     <PackInfo Name="pack_003.bin" Size="11881272" MB="11.3" FileCount="16" FileCRC="1191843885" Time="20191213_041953" BuildInfo="1.47_949Q_81c0c18d">
