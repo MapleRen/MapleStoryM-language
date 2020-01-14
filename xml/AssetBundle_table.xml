@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20200102_174128" Region="Korea" BuildInfo="1.47_111S_776c1b3e" PackCount="6" FileCount="88" TotalSize="66858145" MB="63.8" Compressed="False" Source="../table_qa_ios/table/" />
+  <Header CRC="20200114_121934" Region="Korea" BuildInfo="1.47_112S_d8c87d5a" PackCount="6" FileCount="88" TotalSize="66858143" MB="63.8" Compressed="False" Source="../table_qa_ios/table/" />
   <PackList Count="6">
-    <PackInfo Name="pack_001.bin" Size="16861283" MB="16.1" FileCount="5" FileCRC="3632860969" Time="20191218_163016" BuildInfo="1.47_968Q_84664e56">
-      <AssetBundle Time="20200102_174128" BuildInfo="1.47_111S_776c1b3e" Path="data.table.unity3d" Version="99" Size="802249" KB="783.4" FileCRC="582871970" CRC="3406949059" OriginalCRC="" />
+    <PackInfo Name="pack_001.bin" Size="16861281" MB="16.1" FileCount="5" FileCRC="2887967496" Time="20191218_163016" BuildInfo="1.47_968Q_84664e56">
+      <AssetBundle Time="20200114_121934" BuildInfo="1.47_112S_d8c87d5a" Path="data.table.unity3d" Version="99" Size="802247" KB="783.4" FileCRC="290104140" CRC="1191672212" OriginalCRC="" />
       <Data Time="20200102_163219" BuildInfo="1.47_110S_53d75480" Path="data.bin.lan.kor.ifo" Version="1" Size="505153" KB="493.3" FileCRC="3614691198" CRC="3614691198" OriginalCRC="623982809" />
       <Data Time="20200102_163219" BuildInfo="1.47_110S_53d75480" Path="data.bin.lan.kor.tbl" Version="99" Size="4744781" KB="4,633.6" FileCRC="881120339" CRC="881120339" OriginalCRC="881120339" />
       <Data Time="20191219_193059" BuildInfo="1.47_970Q_e83f96c7" Path="data.bin.client.dummy.tbl" Version="1" Size="3443065" KB="3,362.4" FileCRC="915191084" CRC="915191084" OriginalCRC="1337793438" />
