@@ -1,30 +1,30 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20200120_111615" Region="Korea" BuildInfo="1.48_1665_19ef7936" PackCount="7" FileCount="88" TotalSize="67209517" MB="64.1" Compressed="False" Source="/Jenkins/workspace/KoreaQA/Korea_AT_IOS_QA/TABLE/Table/" />
+  <Header CRC="20200120_192238" Region="Korea" BuildInfo="1.48_1667_dcdc712e" PackCount="7" FileCount="88" TotalSize="67209820" MB="64.1" Compressed="False" Source="/Jenkins/workspace/KoreaQA/Korea_AT_IOS_QA/TABLE/Table/" />
   <PackList Count="7">
-    <PackInfo Name="pack_001.bin" Size="10619859" MB="10.1" FileCount="4" FileCRC="2905590441" Time="20200120_111615" BuildInfo="1.48_1665_19ef7936">
+    <PackInfo Name="pack_001.bin" Size="10674881" MB="10.2" FileCount="5" FileCRC="937040539" Time="20200120_111615" BuildInfo="1.48_1665_19ef7936">
+      <Data Time="20200120_192238" BuildInfo="1.48_1667_dcdc712e" Path="data.bin.nicknameslang.kor.tbl" Version="1" Size="54984" KB="53.7" FileCRC="1037989214" CRC="1037989214" OriginalCRC="1037989214" />
       <Data Time="20200120_111615" BuildInfo="1.48_1665_19ef7936" Path="data.bin.client.buff.tbl" Version="1" Size="1335458" KB="1,304.2" FileCRC="466331981" CRC="466331981" OriginalCRC="3694243191" />
       <Data Time="20200120_111615" BuildInfo="1.48_1665_19ef7936" Path="data.bin.lan.kor.ifo" Version="1" Size="512360" KB="500.4" FileCRC="3025145065" CRC="3025145065" OriginalCRC="3177296570" />
-      <Data Time="20200120_111615" BuildInfo="1.48_1665_19ef7936" Path="data.bin.lan.kor.tbl" Version="4" Size="4833931" KB="4,720.6" FileCRC="0" CRC="0" OriginalCRC="" />
+      <Data Time="20200120_111615" BuildInfo="1.48_1665_19ef7936" Path="data.bin.lan.kor.tbl" Version="5" Size="4833931" KB="4,720.6" FileCRC="0" CRC="0" OriginalCRC="" />
       <Data Time="20200120_111615" BuildInfo="1.48_1665_19ef7936" Path="data.bin.result.tbl" Version="1" Size="3937995" KB="3,845.7" FileCRC="4283885036" CRC="4283885036" OriginalCRC="3287550634" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" Size="11602055" MB="11.1" FileCount="6" FileCRC="3773902700" Time="20200116_120956" BuildInfo="1.48_1661_6489d60c">
       <Data Time="20200120_111615" BuildInfo="1.48_1665_19ef7936" Path="data.bin.tag.tbl" Version="1" Size="1498" KB="1.5" FileCRC="3811712563" CRC="3811712563" OriginalCRC="3811712563" />
-      <AssetBundle Time="20200117_120440" BuildInfo="1.48_1664_9a1838d2" Path="data.table.unity3d" Version="4" Size="5429953" KB="799.4" FileCRC="0" CRC="0" OriginalCRC="" />
+      <AssetBundle Time="20200117_120440" BuildInfo="1.48_1664_9a1838d2" Path="data.table.unity3d" Version="5" Size="5429953" KB="799.4" FileCRC="0" CRC="0" OriginalCRC="" />
       <Data Time="20200116_133743" BuildInfo="1.48_1662_2e9e25a6" Path="data.bin.client.partsset.ifo" Version="1" Size="94562" KB="92.3" FileCRC="4203555913" CRC="4203555913" OriginalCRC="4136766316" />
       <Data Time="20200116_133743" BuildInfo="1.48_1662_2e9e25a6" Path="data.bin.client.partsset.tbl" Version="1" Size="3159604" KB="3,085.6" FileCRC="401609875" CRC="401609875" OriginalCRC="401609875" />
       <Data Time="20200116_120956" BuildInfo="1.48_1661_6489d60c" Path="data.bin.auction.tbl" Version="1" Size="97596" KB="95.3" FileCRC="2010278571" CRC="2010278571" OriginalCRC="2010278571" />
       <Data Time="20200116_120956" BuildInfo="1.48_1661_6489d60c" Path="data.bin.client.item.tbl" Version="1" Size="7430057" KB="7,255.9" FileCRC="1185559660" CRC="1185559660" OriginalCRC="1437021532" />
     </PackInfo>
-    <PackInfo Name="pack_003.bin" Size="10488993" MB="10.0" FileCount="5" FileCRC="2197459141" Time="20200115_171039" BuildInfo="1.48_1656_e21e71ba">
+    <PackInfo Name="pack_003.bin" Size="10678692" MB="10.2" FileCount="5" FileCRC="122392039" Time="20200115_164107" BuildInfo="1.48_1655_52957616">
       <Data Time="20200116_120956" BuildInfo="1.48_1661_6489d60c" Path="data.bin.gachaitem.tbl" Version="1" Size="1024262" KB="1,000.3" FileCRC="4024909071" CRC="4024909071" OriginalCRC="1502485407" />
       <Data Time="20200115_190042" BuildInfo="1.48_1658_752604a2" Path="data.bin.physicx_terrain.ifo" Version="1" Size="10802" KB="10.5" FileCRC="220047811" CRC="220047811" OriginalCRC="1857707752" />
       <Data Time="20200115_190042" BuildInfo="1.48_1658_752604a2" Path="data.bin.physicx_terrain.tbl" Version="1" Size="9340148" KB="9,121.2" FileCRC="673140847" CRC="673140847" OriginalCRC="673140847" />
-      <Data Time="20200115_171039" BuildInfo="1.48_1656_e21e71ba" Path="data.bin.nicknameslang.kor.tbl" Version="1" Size="54681" KB="53.4" FileCRC="2401568027" CRC="2401568027" OriginalCRC="2401568027" />
       <Data Time="20200115_171039" BuildInfo="1.48_1656_e21e71ba" Path="data.bin.slang.kor.tbl" Version="1" Size="58930" KB="57.5" FileCRC="3358511236" CRC="3358511236" OriginalCRC="3358511236" />
-    </PackInfo>
-    <PackInfo Name="pack_004.bin" Size="10591700" MB="10.1" FileCount="11" FileCRC="38239184" Time="20200114_041639" BuildInfo="1.48_1649_968bfeff">
       <Data Time="20200115_164107" BuildInfo="1.48_1655_52957616" Path="data.bin.client.skill.descriptionset.ifo" Version="1" Size="244370" KB="238.6" FileCRC="2979841884" CRC="2979841884" OriginalCRC="2250399779" />
+    </PackInfo>
+    <PackInfo Name="pack_004.bin" Size="11001297" MB="10.5" FileCount="11" FileCRC="2265885662" Time="20200114_041639" BuildInfo="1.48_1649_968bfeff">
       <Data Time="20200115_164107" BuildInfo="1.48_1655_52957616" Path="data.bin.client.skill.descriptionset.tbl" Version="1" Size="3319373" KB="3,241.6" FileCRC="2846542031" CRC="2846542031" OriginalCRC="2846542031" />
       <Data Time="20200114_041639" BuildInfo="1.48_1649_968bfeff" Path="data.bin.activator.tbl" Version="1" Size="830241" KB="810.8" FileCRC="254234617" CRC="254234617" OriginalCRC="506211981" />
       <Data Time="20200114_041639" BuildInfo="1.48_1649_968bfeff" Path="data.bin.client.activator.tbl" Version="1" Size="379704" KB="370.8" FileCRC="2439181966" CRC="2439181966" OriginalCRC="2292402490" />
@@ -35,9 +35,9 @@
       <Data Time="20200114_041639" BuildInfo="1.48_1649_968bfeff" Path="data.bin.client.face.tbl" Version="1" Size="128992" KB="126.0" FileCRC="3577746946" CRC="3577746946" OriginalCRC="3577746946" />
       <Data Time="20200114_041639" BuildInfo="1.48_1649_968bfeff" Path="data.bin.client.hair.tbl" Version="1" Size="229648" KB="224.3" FileCRC="2966580908" CRC="2966580908" OriginalCRC="2966580908" />
       <Data Time="20200114_041639" BuildInfo="1.48_1649_968bfeff" Path="data.bin.client.icon.ifo" Version="1" Size="332274" KB="324.5" FileCRC="3152680410" CRC="3152680410" OriginalCRC="3152680410" />
-    </PackInfo>
-    <PackInfo Name="pack_005.bin" Size="13033445" MB="12.4" FileCount="16" FileCRC="3575005429" Time="20200114_041639" BuildInfo="1.48_1649_968bfeff">
       <Data Time="20200114_041639" BuildInfo="1.48_1649_968bfeff" Path="data.bin.client.icon.tbl" Version="1" Size="653983" KB="638.7" FileCRC="331677797" CRC="331677797" OriginalCRC="331677797" />
+    </PackInfo>
+    <PackInfo Name="pack_005.bin" Size="12379430" MB="11.8" FileCount="15" FileCRC="3186042034" Time="20200114_041639" BuildInfo="1.48_1649_968bfeff">
       <Data Time="20200114_041639" BuildInfo="1.48_1649_968bfeff" Path="data.bin.client.item.ifo" Version="1" Size="548536" KB="535.7" FileCRC="2643595911" CRC="2643595911" OriginalCRC="364106748" />
       <Data Time="20200114_041639" BuildInfo="1.48_1649_968bfeff" Path="data.bin.client.skill.tbl" Version="1" Size="6280731" KB="6,133.5" FileCRC="1448188008" CRC="1448188008" OriginalCRC="1498286852" />
       <Data Time="20200114_041639" BuildInfo="1.48_1649_968bfeff" Path="data.bin.client.vehicle.tbl" Version="1" Size="144097" KB="140.7" FileCRC="3130466651" CRC="3130466651" OriginalCRC="3130466651" />
@@ -52,7 +52,7 @@
       <Data Time="20200114_041639" BuildInfo="1.48_1649_968bfeff" Path="data.bin.setitems.tbl" Version="1" Size="39537" KB="38.6" FileCRC="2852321062" CRC="2852321062" OriginalCRC="2852321062" />
       <Data Time="20200114_041639" BuildInfo="1.48_1649_968bfeff" Path="data.bin.warp.ifo" Version="1" Size="102656" KB="100.3" FileCRC="1853474745" CRC="1853474745" OriginalCRC="1853474745" />
       <Data Time="20200114_041639" BuildInfo="1.48_1649_968bfeff" Path="data.bin.warp.tbl" Version="1" Size="406413" KB="396.9" FileCRC="4112583562" CRC="4112583562" OriginalCRC="4112583562" />
-      <AssetBundle Time="20200114_041639" BuildInfo="1.48_1649_968bfeff" Path="data.language_kor.unity3d" Version="4" Size="9826857" KB="2,823.6" FileCRC="0" CRC="0" OriginalCRC="" />
+      <AssetBundle Time="20200114_041639" BuildInfo="1.48_1649_968bfeff" Path="data.language_kor.unity3d" Version="5" Size="9826857" KB="2,823.6" FileCRC="0" CRC="0" OriginalCRC="" />
     </PackInfo>
     <PackInfo Name="pack_006.bin" Size="10691022" MB="10.2" FileCount="15" FileCRC="1819940289" Time="20191106_185122" BuildInfo="1.46_906Q_b0a4b7a9">
       <Data Time="20200113_191134" BuildInfo="1.48_1647_968bfeff" Path="data.bin.addoption.tbl" Version="1" Size="440" KB="0.4" FileCRC="1202599171" CRC="1202599171" OriginalCRC="1202599171" />
