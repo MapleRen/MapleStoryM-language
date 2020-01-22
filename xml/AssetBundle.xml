@@ -1,15 +1,18 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20200115_185606" Region="Korea" BuildInfo="1.48_1658_ed19da2a" PackCount="229" FileCount="13940" TotalSize="2738756598" MB="2,611.9" />
+  <Header CRC="20200122_150335" Region="Korea" BuildInfo="1.48_1669_e4810368" PackCount="229" FileCount="13940" TotalSize="2738748129" MB="2,611.9" />
   <PackList Count="229">
-    <PackInfo Name="pack_001.bin" Size="12133955" MB="11.6" FileCount="5" FileCRC="4110198810" Time="20200115_170527" BuildInfo="1.48_1656_348145cd">
+    <PackInfo Name="pack_001.bin" Size="12533564" MB="12.0" FileCount="8" FileCRC="3526887433" Time="20200115_170527" BuildInfo="1.48_1656_348145cd">
+      <AssetBundle Time="20200122_150335" BuildInfo="1.48_1669_e4810368" Path="common.dummyobject.ride.vehicle_1911_80001867.unity3d" Version="1" Size="86668" KB="84.6" FileCRC="1972767001" CRC="774930536" />
+      <AssetBundle Time="20200122_150335" BuildInfo="1.48_1669_e4810368" Path="common.dummyobject.ride.vehicle_2001_80001764.unity3d" Version="1" Size="96427" KB="94.2" FileCRC="4217959310" CRC="237608964" />
+      <AssetBundle Time="20200122_150335" BuildInfo="1.48_1669_e4810368" Path="common.dummyobject.ride.vehicle_2001_80002347.unity3d" Version="1" Size="216331" KB="211.3" FileCRC="1834257652" CRC="1945829657" />
       <AssetBundle Time="20200115_185606" BuildInfo="1.48_1658_ed19da2a" Path="common.dynamictexture.commonpackage.package_newyearplaytime_bg.unity3d" Version="1" Size="327632" KB="320.0" FileCRC="898912635" CRC="3740956577" />
       <AssetBundle Time="20200115_185606" BuildInfo="1.48_1658_ed19da2a" Path="common.map.herbtown.unity3d" Version="1" Size="5165853" KB="5,044.8" FileCRC="410731703" CRC="3650369607" />
       <AssetBundle Time="20200115_185606" BuildInfo="1.48_1658_ed19da2a" Path="common.ui.maininterfacemodesettingpopup.unity3d" Version="1" Size="34313" KB="33.5" FileCRC="2560724833" CRC="805024723" />
       <AssetBundle Time="20200115_185606" BuildInfo="1.48_1658_ed19da2a" Path="common.ui.playtimepackagepopup.unity3d" Version="1" Size="3412854" KB="3,332.9" FileCRC="1765577168" CRC="2999556086" />
       <AssetBundle Time="20200115_170527" BuildInfo="1.48_1656_348145cd" Path="common.ui.maininterface.unity3d" Version="1" Size="3193050" KB="3,118.2" FileCRC="754584980" CRC="2538674167" />
     </PackInfo>
-    <PackInfo Name="pack_002.bin" Size="10494527" MB="10.0" FileCount="76" FileCRC="3073219821" Time="20200114_115111" BuildInfo="1.48_1650_fa1bdbf3">
+    <PackInfo Name="pack_002.bin" Size="12166744" MB="11.6" FileCount="77" FileCRC="1197965070" Time="20200114_115111" BuildInfo="1.48_1650_fa1bdbf3">
       <AssetBundle Time="20200115_163534" BuildInfo="1.48_1655_fc57cb1d" Path="common.ui._v4_0.themadungeon.episodedungeon.unity3d" Version="1" Size="1868971" KB="1,825.2" FileCRC="1131052688" CRC="3615755267" />
       <AssetBundle Time="20200114_115111" BuildInfo="1.48_1650_fa1bdbf3" Path="common.character.skill.resistance.battlemage.sweepingstaff_sd.unity3d" Version="1" Size="268803" KB="262.5" FileCRC="3077251871" CRC="2624074966" />
       <AssetBundle Time="20200114_115111" BuildInfo="1.48_1650_fa1bdbf3" Path="common.character.skill.resistance.battlemage.sweepingstaff.unity3d" Version="1" Size="761321" KB="743.5" FileCRC="1864006900" CRC="1761632365" />
@@ -85,12 +88,10 @@
       <AssetBundle Time="20200114_115111" BuildInfo="1.48_1650_fa1bdbf3" Path="common.dummyobject.petequip.petequip_2001_01802315_3.unity3d" Version="1" Size="39632" KB="38.7" FileCRC="1345637793" CRC="241756811" />
       <AssetBundle Time="20200114_115111" BuildInfo="1.48_1650_fa1bdbf3" Path="common.dummyobject.petequip.petequip_2001_01802315_4.unity3d" Version="1" Size="42401" KB="41.4" FileCRC="732313439" CRC="1497290803" />
       <AssetBundle Time="20200114_115111" BuildInfo="1.48_1650_fa1bdbf3" Path="common.dummyobject.ride.vehicle_063_black_wyvern_riding.unity3d" Version="1" Size="93406" KB="91.2" FileCRC="2600735" CRC="101364435" />
-      <AssetBundle Time="20200114_115111" BuildInfo="1.48_1650_fa1bdbf3" Path="common.dummyobject.ride.vehicle_2001_80001764.unity3d" Version="1" Size="96423" KB="94.2" FileCRC="1122498062" CRC="4116884476" />
-    </PackInfo>
-    <PackInfo Name="pack_003.bin" Size="14106760" MB="13.5" FileCount="24" FileCRC="2794023096" Time="20200114_115111" BuildInfo="1.48_1650_fa1bdbf3">
       <AssetBundle Time="20200114_115111" BuildInfo="1.48_1650_fa1bdbf3" Path="common.dummyobject.ride.vehicle_2001_80002238.unity3d" Version="1" Size="43264" KB="42.3" FileCRC="52330840" CRC="991977648" />
-      <AssetBundle Time="20200114_115111" BuildInfo="1.48_1650_fa1bdbf3" Path="common.dummyobject.ride.vehicle_2001_80002347.unity3d" Version="1" Size="216318" KB="211.2" FileCRC="3313264585" CRC="3454978837" />
       <AssetBundle Time="20200114_115111" BuildInfo="1.48_1650_fa1bdbf3" Path="common.dummyobject.ride.vehicle_2001_80002715.unity3d" Version="1" Size="1725315" KB="1,684.9" FileCRC="57933843" CRC="2449368452" />
+    </PackInfo>
+    <PackInfo Name="pack_003.bin" Size="12121680" MB="11.6" FileCount="21" FileCRC="3976684395" Time="20200114_115111" BuildInfo="1.48_1650_fa1bdbf3">
       <AssetBundle Time="20200114_115111" BuildInfo="1.48_1650_fa1bdbf3" Path="common.dummyobject.ride.vehicle_2001_80011639.unity3d" Version="1" Size="371438" KB="362.7" FileCRC="407667934" CRC="790965424" />
       <AssetBundle Time="20200114_115111" BuildInfo="1.48_1650_fa1bdbf3" Path="common.dynamictexture.collabogacha.banner.unity3d" Version="1" Size="162877" KB="159.1" FileCRC="1689093328" CRC="1353904247" />
       <AssetBundle Time="20200114_115111" BuildInfo="1.48_1650_fa1bdbf3" Path="common.dynamictexture.commonpackage.gl_package_llunarnewyearstepup_bg.unity3d" Version="1" Size="234549" KB="229.1" FileCRC="626633317" CRC="3179887527" />
@@ -3719,7 +3720,7 @@
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.dummyobject.ride.vehicle_178_the_may_full_riding.unity3d" Version="1" Size="62515" KB="61.0" FileCRC="73531123" CRC="1232609330" legacyCRC="2370611665" legacyCRC_0="2370611665" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.dummyobject.ride.vehicle_179_banana_moon_riding.unity3d" Version="1" Size="484339" KB="473.0" FileCRC="2221908976" CRC="2872056309" legacyCRC="3496851256" legacyCRC_0="3496851256" />
     </PackInfo>
-    <PackInfo Name="pack_101.bin" Size="10544737" MB="10.1" FileCount="41" FileCRC="1613743108" Time="20200109_142620" BuildInfo="1.48_1627_d8336fef">
+    <PackInfo Name="pack_101.bin" Size="10612449" MB="10.1" FileCount="41" FileCRC="1652787389" Time="20200109_142620" BuildInfo="1.48_1627_d8336fef">
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.dummyobject.ride.vehicle_180_kickboard_riding.unity3d" Version="1" Size="87242" KB="85.2" FileCRC="3319551048" CRC="2578568448" legacyCRC="1837329597" legacyCRC_0="1837329597" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.dummyobject.ride.vehicle_181_honey_cat_riding.unity3d" Version="1" Size="124905" KB="122.0" FileCRC="1541299446" CRC="293511477" legacyCRC="3485168580" legacyCRC_0="3485168580" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.dummyobject.ride.vehicle_182_strange_monster_balloon_riding.unity3d" Version="1" Size="136774" KB="133.6" FileCRC="41330273" CRC="2592001315" legacyCRC="958008180" legacyCRC_0="958008180" />
@@ -3760,10 +3761,9 @@
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.dummyobject.ride.vehicle_1910_80002382.unity3d" Version="1" Size="51149" KB="50.0" FileCRC="464572000" CRC="2533330594" legacyCRC="3552723213" legacyCRC_0="3552723213" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.dummyobject.ride.vehicle_1910_80002424.unity3d" Version="1" Size="56192" KB="54.9" FileCRC="3031929062" CRC="3311149875" legacyCRC="972068004" legacyCRC_0="972068004" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.dummyobject.ride.vehicle_1910_80002573.unity3d" Version="1" Size="1144583" KB="1,117.8" FileCRC="1785757225" CRC="4145913929" legacyCRC="3122863361" legacyCRC_0="3122863361" />
-      <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.dummyobject.ride.vehicle_1911_80001867.unity3d" Version="1" Size="95154" KB="92.9" FileCRC="864830847" CRC="1895049956" legacyCRC="224578590" legacyCRC_0="224578590" />
-    </PackInfo>
-    <PackInfo Name="pack_102.bin" Size="10687913" MB="10.2" FileCount="38" FileCRC="569374267" Time="20200109_142620" BuildInfo="1.48_1627_d8336fef">
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.dummyobject.ride.vehicle_1911_80002594.unity3d" Version="1" Size="162866" KB="159.0" FileCRC="3934218665" CRC="1937683520" legacyCRC="334732684" legacyCRC_0="334732684" />
+    </PackInfo>
+    <PackInfo Name="pack_102.bin" Size="10524986" MB="10.0" FileCount="37" FileCRC="275940239" Time="20200109_142620" BuildInfo="1.48_1627_d8336fef">
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.dummyobject.ride.vehicle_1911_80002595.unity3d" Version="1" Size="38757" KB="37.8" FileCRC="306694284" CRC="1077231128" legacyCRC="1652147759" legacyCRC_0="1652147759" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.dummyobject.ride.vehicle_1911_80002650.unity3d" Version="1" Size="172008" KB="168.0" FileCRC="2947587012" CRC="1612855588" legacyCRC="2057639359" legacyCRC_0="2057639359" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.dummyobject.ride.vehicle_1912_080002418.unity3d" Version="1" Size="88910" KB="86.8" FileCRC="3543977247" CRC="2008025481" legacyCRC="3171104010" legacyCRC_0="3171104010" />
