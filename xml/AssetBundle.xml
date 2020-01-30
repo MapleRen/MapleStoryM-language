@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20200122_150335" Region="Korea" BuildInfo="1.48_1669_e4810368" PackCount="229" FileCount="13940" TotalSize="2738748129" MB="2,611.9" />
+  <Header CRC="20200122_173206" Region="Korea" BuildInfo="1.48_2_0743ce38" PackCount="229" FileCount="13940" TotalSize="2738748129" MB="2,611.9" />
   <PackList Count="229">
     <PackInfo Name="pack_001.bin" Size="12533564" MB="12.0" FileCount="8" FileCRC="3526887433" Time="20200115_170527" BuildInfo="1.48_1656_348145cd">
       <AssetBundle Time="20200122_150335" BuildInfo="1.48_1669_e4810368" Path="common.dummyobject.ride.vehicle_1911_80001867.unity3d" Version="1" Size="86668" KB="84.6" FileCRC="1972767001" CRC="774930536" />
