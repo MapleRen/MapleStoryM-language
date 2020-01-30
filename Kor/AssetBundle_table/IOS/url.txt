@@ -51,3 +51,6 @@ http://maplemkorea.dn.nexoncdn.co.kr/AppStore/147_943Q/pwgkbqrQ31yGyjXwGp@2skBhY
 
 148_1662Q - 2019-01-16
 http://maplemkorea.dn.nexoncdn.co.kr/AppStore/148_1662Q/qWRf8HNQZQN7VN6o0eX7eaw@CQKT2Buzd73H/qWRf8HN@mmb@AssetBundle_table.xml
+
+148_1672S -2019-01-30
+http://maplemkorea.dn.nexoncdn.co.kr/AppStore/148_1672S/qWRf8HNQZQN7VN6o0eX7eaw@CQKT2Buzd73H/qWRf8HN@mmb@AssetBundle_table.xml
