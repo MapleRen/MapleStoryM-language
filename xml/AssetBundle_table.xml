@@ -5,13 +5,13 @@
 <PackInfo Name="pack_001.bin" Size="13331779" MB="12.7" FileCount="4" FileCRC="3732209013" Time="20200122_170259" BuildInfo="1.48_1_2e2336a0">
 <Data Time="20200130_112049" BuildInfo="1.48_4_d0c1fc06" Path="data.bin.gachaitem.ifo" Version="1" Size="42922" KB="41.9" FileCRC="2430752571" CRC="2430752571" OriginalCRC="2972708949"/>
 <Data Time="20200130_112049" BuildInfo="1.48_4_d0c1fc06" Path="data.bin.gachaitem.tbl" Version="1" Size="1023928" KB="999.9" FileCRC="3576425294" CRC="3576425294" OriginalCRC="3576425294"/>
-<Data Time="20200130_112049" BuildInfo="1.48_4_d0c1fc06" Path="data.bin.lan.kor.tbl" Version="1" Size="4834751" KB="4,721.4" FileCRC="1480727221" CRC="1480727221" OriginalCRC="941830243"/>
+<Data Time="20200130_112049" BuildInfo="1.48_4_d0c1fc06" Path="data.bin.lan.kor.tbl" Version="99" Size="4834751" KB="4,721.4" FileCRC="1480727221" CRC="1480727221" OriginalCRC="941830243"/>
 <Data Time="20200122_170259" BuildInfo="1.48_1_2e2336a0" Path="data.bin.client.item.tbl" Version="1" Size="7430058" KB="7,255.9" FileCRC="1310144141" CRC="1310144141" OriginalCRC="132167667"/>
 </PackInfo>
 <PackInfo Name="pack_002.bin" Size="19508171" MB="18.6" FileCount="12" FileCRC="2392339575" Time="20200115_190042" BuildInfo="1.48_1658_752604a2">
 <Data Time="20200122_170259" BuildInfo="1.48_1_2e2336a0" Path="data.bin.client.vehicle.tbl" Version="1" Size="144103" KB="140.7" FileCRC="1662898296" CRC="1662898296" OriginalCRC="3879312572"/>
 <Data Time="20200122_170259" BuildInfo="1.48_1_2e2336a0" Path="data.bin.lan.kor.ifo" Version="1" Size="512472" KB="500.5" FileCRC="3957065320" CRC="3957065320" OriginalCRC="3957065320"/>
-<AssetBundle Time="20200122_170259" BuildInfo="1.48_1_2e2336a0" Path="data.table.unity3d" Version="1" Size="818567" KB="799.4" FileCRC="2226251720" CRC="1620609447" OriginalCRC=""/>
+<AssetBundle Time="20200122_170259" BuildInfo="1.48_1_2e2336a0" Path="data.table.unity3d" Version="99" Size="818567" KB="799.4" FileCRC="2226251720" CRC="1620609447" OriginalCRC=""/>
 <Data Time="20200120_192238" BuildInfo="1.48_1667_dcdc712e" Path="data.bin.nicknameslang.kor.tbl" Version="1" Size="54984" KB="53.7" FileCRC="1037989214" CRC="1037989214" OriginalCRC="1037989214"/>
 <Data Time="20200120_111615" BuildInfo="1.48_1665_19ef7936" Path="data.bin.client.buff.tbl" Version="1" Size="1335458" KB="1,304.2" FileCRC="466331981" CRC="466331981" OriginalCRC="3694243191"/>
 <Data Time="20200120_111615" BuildInfo="1.48_1665_19ef7936" Path="data.bin.result.tbl" Version="1" Size="3937995" KB="3,845.7" FileCRC="4283885036" CRC="4283885036" OriginalCRC="3287550634"/>
@@ -50,7 +50,7 @@
 <Data Time="20200114_041639" BuildInfo="1.48_1649_968bfeff" Path="data.bin.setitems.tbl" Version="1" Size="39537" KB="38.6" FileCRC="2852321062" CRC="2852321062" OriginalCRC="2852321062"/>
 <Data Time="20200114_041639" BuildInfo="1.48_1649_968bfeff" Path="data.bin.warp.ifo" Version="1" Size="102656" KB="100.3" FileCRC="1853474745" CRC="1853474745" OriginalCRC="1853474745"/>
 <Data Time="20200114_041639" BuildInfo="1.48_1649_968bfeff" Path="data.bin.warp.tbl" Version="1" Size="406413" KB="396.9" FileCRC="4112583562" CRC="4112583562" OriginalCRC="4112583562"/>
-<AssetBundle Time="20200114_041639" BuildInfo="1.48_1649_968bfeff" Path="data.language_kor.unity3d" Version="1" Size="2891329" KB="2,823.6" FileCRC="1108456434" CRC="1342201714" OriginalCRC=""/>
+<AssetBundle Time="20200114_041639" BuildInfo="1.48_1649_968bfeff" Path="data.language_kor.unity3d" Version="99" Size="2891329" KB="2,823.6" FileCRC="1108456434" CRC="1342201714" OriginalCRC=""/>
 </PackInfo>
 <PackInfo Name="pack_005.bin" Size="10691022" MB="10.2" FileCount="15" FileCRC="1819940289" Time="20191106_185122" BuildInfo="1.46_906Q_b0a4b7a9">
 <Data Time="20200113_191134" BuildInfo="1.48_1647_968bfeff" Path="data.bin.addoption.tbl" Version="1" Size="440" KB="0.4" FileCRC="1202599171" CRC="1202599171" OriginalCRC="1202599171"/>
