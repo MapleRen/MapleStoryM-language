@@ -1,39 +1,39 @@
 <MarketVersion>
-<Inspection Report="false"/>
-<LoginServerAlias>
-<KOR_LV Address="nxm-maplem-login.nexon.com"/>
-<KOR_RV Address="ec2-52-198-19-183.ap-northeast-1.compute.amazonaws.com"/>
-</LoginServerAlias>
-<Ban>
-<Update Attribute="LoginServerIP" Value="KOR_RV"/>
-</Ban>
-<OptionAttributes>
-<Live ClientVersion="{ClientVersion}" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/{Platform}/{AssetBundle}/" Server="{Server}"/>
-<Review ClientVersion="{ClientVersion}" LoginServerIP="KOR_RV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/{Platform}/{AssetBundle}/" Server="{Server}"/>
-</OptionAttributes>
-<GooglePlay>
-<Application URL="https://play.google.com/store/apps/details?id=com.nexon.nsc.maplem">
-<Release ClientVersion="1.48.1634" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/GooglePlay/148_1672S_1/" Server="1.48.2.318"/>
-</Application>
-</GooglePlay>
-<AppStore>
-<Application URL="https://itunes.apple.com/kr/app/id1133463693">
-<Release ClientVersion="1.48.1634" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/AppStore/148_1672S_1/" Server="1.48.2.318"/>
-<Release ClientVersion="1.48.1635" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/AppStore/148_1672S_1/" Server="1.48.2.318"/>
-</Application>
-</AppStore>
-<Unity>
-<Application URL="">
-<Release ClientVersion="0.0.101" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/GooglePlay/148_1662Q/" Server="1.48.3.289" MaxLoadPerSec="256" NextVersionCheck="false" DevOption="true" Report="false" TapjoyDebug="false" AdjustProduction="true" UseImgDataCsv="false" AddVAT="true"/>
-</Application>
-</Unity>
-<ServerWorld>
-<Group Index="1" Sort="5" Open="true" Inspect="false" New="false"/>
-<Group Index="2" Sort="4" Open="true" Inspect="false" New="false"/>
-<Group Index="3" Sort="3" Open="true" Inspect="false" New="false"/>
-<Group Index="4" Sort="2" Open="true" Inspect="false" New="false"/>
-<Group Index="5" Sort="1" Open="true" Inspect="false" New="false"/>
-<Group Index="6" Sort="0" Open="true" Inspect="false" New="false"/>
-<Group Index="7" Sort="6" Open="true" Inspect="false" New="false"/>
-</ServerWorld>
+  <Inspection Report="false" />
+  <LoginServerAlias>
+    <KOR_LV Address="nxm-maplem-login.nexon.com" />
+    <KOR_RV Address="ec2-52-198-19-183.ap-northeast-1.compute.amazonaws.com" />
+  </LoginServerAlias>
+  <Ban>
+    <Update Attribute="LoginServerIP" Value="KOR_RV" />
+  </Ban>
+  <OptionAttributes>
+    <Live ClientVersion="{ClientVersion}" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/{Platform}/{AssetBundle}/" Server="{Server}" />
+    <Review ClientVersion="{ClientVersion}" LoginServerIP="KOR_RV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/{Platform}/{AssetBundle}/" Server="{Server}" />
+  </OptionAttributes>
+  <GooglePlay>
+    <Application URL="https://play.google.com/store/apps/details?id=com.nexon.nsc.maplem">
+      <Release ClientVersion="1.48.1634" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/GooglePlay/148_1672S_1/" Server="1.48.2.318" />
+    </Application>
+  </GooglePlay>
+  <AppStore>
+    <Application URL="https://itunes.apple.com/kr/app/id1133463693">
+      <Release ClientVersion="1.48.1634" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/AppStore/148_1672S_1/" Server="1.48.2.318" />
+      <Release ClientVersion="1.48.1635" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/AppStore/148_1672S_1/" Server="1.48.2.318" />
+    </Application>
+  </AppStore>
+  <Unity>
+    <Application URL="">
+      <Release ClientVersion="0.0.101" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/GooglePlay/148_1662Q/" Server="1.48.3.289" MaxLoadPerSec="256" NextVersionCheck="false" DevOption="true" Report="false" TapjoyDebug="false" AdjustProduction="true" UseImgDataCsv="false" AddVAT="true" />
+    </Application>
+  </Unity>
+  <ServerWorld>
+    <Group Index="1" Sort="5" Open="true" Inspect="false" New="false" />
+    <Group Index="2" Sort="4" Open="true" Inspect="false" New="false" />
+    <Group Index="3" Sort="3" Open="true" Inspect="false" New="false" />
+    <Group Index="4" Sort="2" Open="true" Inspect="false" New="false" />
+    <Group Index="5" Sort="1" Open="true" Inspect="false" New="false" />
+    <Group Index="6" Sort="0" Open="true" Inspect="false" New="false" />
+    <Group Index="7" Sort="6" Open="true" Inspect="false" New="false" />
+  </ServerWorld>
 </MarketVersion>
