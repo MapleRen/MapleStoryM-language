@@ -6,7 +6,7 @@
     <KOR_RV Address="ec2-52-198-19-183.ap-northeast-1.compute.amazonaws.com"/>
   </LoginServerAlias>
   <Ban>
-    <Update Attribute="LoginServerIP" Value="KOR_RV"/> 
+    <Update Attribute="LoginServerIP" Value="KOR_RV"/>
   </Ban>
   <OptionAttributes>
     <Live ClientVersion="{ClientVersion}" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/{Platform}/{AssetBundle}/" Server="{Server}"/>
