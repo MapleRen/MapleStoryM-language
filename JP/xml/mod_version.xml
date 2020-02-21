@@ -14,15 +14,15 @@
   </OptionAttributes>
   <GooglePlay>
     <Application URL="https://play.google.com/store/apps/details?id=com.nexon.maplem.japan">
-      <Release ClientVersion="1.490.1720" LoginServerIP="JAPAN_LV" LoginServerPort="7500" ResourceURL="http://nxm-maplemjp.dn.nexoncdn.co.kr/Japan/GooglePlay/1490_1735Q_1/" Server="1.490.3.287" />
-      <Release ClientVersion="1.490.1737" LoginServerIP="JAPAN_LV" LoginServerPort="7500" ResourceURL="http://nxm-maplemjp.dn.nexoncdn.co.kr/Japan/GooglePlay/1490_1735Q_1/" Server="1.490.3.287" />
+      <Release ClientVersion="1.490.1720" LoginServerIP="JAPAN_LV" LoginServerPort="7500" ResourceURL="http://nxm-maplemjp.dn.nexoncdn.co.kr/Japan/GooglePlay/1490_1747Q_1/" Server="1.490.3.290" />
+      <Release ClientVersion="1.490.1737" LoginServerIP="JAPAN_LV" LoginServerPort="7500" ResourceURL="http://nxm-maplemjp.dn.nexoncdn.co.kr/Japan/GooglePlay/1490_1747Q_1/" Server="1.490.3.290" />
     </Application>
   </GooglePlay>
   <AppStore>
     <Application URL="https://itunes.apple.com/jp/app/id1434519042">
-      <Release ClientVersion="1.490.1720" LoginServerIP="JAPAN_LV" LoginServerPort="7500" ResourceURL="http://nxm-maplemjp.dn.nexoncdn.co.kr/Japan/AppStore/1490_1735Q_1/" Server="1.490.3.287" />
-      <Release ClientVersion="1.490.1721" LoginServerIP="JAPAN_LV" LoginServerPort="7500" ResourceURL="http://nxm-maplemjp.dn.nexoncdn.co.kr/Japan/AppStore/1490_1735Q_1/" Server="1.490.3.287" />
-      <Release ClientVersion="1.490.1737" LoginServerIP="JAPAN_RV" LoginServerPort="7500" ResourceURL="http://nxm-maplemjp.dn.nexoncdn.co.kr/Japan/AppStore/1490_1735Q_1/" Server="1.490.3.287" />
+      <Release ClientVersion="1.490.1720" LoginServerIP="JAPAN_LV" LoginServerPort="7500" ResourceURL="http://nxm-maplemjp.dn.nexoncdn.co.kr/Japan/AppStore/1490_1747Q_1/" Server="1.490.3.290" />
+      <Release ClientVersion="1.490.1721" LoginServerIP="JAPAN_LV" LoginServerPort="7500" ResourceURL="http://nxm-maplemjp.dn.nexoncdn.co.kr/Japan/AppStore/1490_1747Q_1/" Server="1.490.3.290" />
+      <Release ClientVersion="1.490.1737" LoginServerIP="JAPAN_LV" LoginServerPort="7500" ResourceURL="http://nxm-maplemjp.dn.nexoncdn.co.kr/Japan/AppStore/1490_1747Q_1/" Server="1.490.3.290" />
     </Application>
   </AppStore>
   <Unity>

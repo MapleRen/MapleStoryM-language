@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20200213_132739" Region="Japan" BuildInfo="1.490_1735_37878a9e_IOS" PackCount="223" FileCount="13826" TotalSize="2632203179" MB="2,510.3" />
+  <Header CRC="20200218_214416" Region="Japan" BuildInfo="1.490_1744_7f605ef2_IOS" PackCount="223" FileCount="13826" TotalSize="2632210936" MB="2,510.3" />
   <PackList Count="223">
-    <PackInfo Name="pack_001.bin" Size="10784564" MB="10.3" FileCount="9" FileCRC="2497525537" Time="20200211_051134" BuildInfo="1.490_1727_39946984_IOS">
+    <PackInfo Name="pack_001.bin" Size="10792321" MB="10.3" FileCount="9" FileCRC="3851656316" Time="20200211_051134" BuildInfo="1.490_1727_39946984_IOS">
+      <AssetBundle Time="20200218_214416" BuildInfo="1.490_1744_7f605ef2_IOS" Path="common.ui.japanpackagepopup.simplepackage.supiapackagepopup_202002.unity3d" Version="1" Size="442037" KB="431.7" FileCRC="2084563785" CRC="3350436537" />
+      <AssetBundle Time="20200218_165556" BuildInfo="1.490_1743_f00e5a3e_IOS" Path="common.ui._v4_0.eventmultidayattend.unity3d" Version="1" Size="387771" KB="378.7" FileCRC="1908358621" CRC="3416628485" />
       <AssetBundle Time="20200213_132739" BuildInfo="1.490_1735_37878a9e_IOS" Path="common.dummyobject.npc.defaultscene.timelane.unity3d" Version="1" Size="491186" KB="479.7" FileCRC="3826842844" CRC="1821208477" />
       <AssetBundle Time="20200213_132739" BuildInfo="1.490_1735_37878a9e_IOS" Path="common.dynamictexture.itempreview.temp.unity3d" Version="1" Size="19894" KB="19.4" FileCRC="3637359459" CRC="2257184487" />
       <AssetBundle Time="20200213_132739" BuildInfo="1.490_1735_37878a9e_IOS" Path="common.ui._v4_0.purchasepopup2.unity3d" Version="1" Size="27092" KB="26.5" FileCRC="3621014519" CRC="123931638" />
       <AssetBundle Time="20200212_211253" BuildInfo="1.490_1732_20d9bea8_IOS" Path="common.dynamictexture.packageportalbanner_nj.unity3d" Version="1" Size="5390797" KB="5,264.5" FileCRC="2048270212" CRC="2393262851" />
       <AssetBundle Time="20200212_211253" BuildInfo="1.490_1732_20d9bea8_IOS" Path="common.ui._v4_0.event.usercareplanpopup.unity3d" Version="1" Size="567406" KB="554.1" FileCRC="1309527125" CRC="750435120" />
-      <AssetBundle Time="20200212_211253" BuildInfo="1.490_1732_20d9bea8_IOS" Path="common.ui._v4_0.eventmultidayattend.unity3d" Version="1" Size="387789" KB="378.7" FileCRC="3615598132" CRC="1409185024" />
-      <AssetBundle Time="20200212_051055" BuildInfo="1.490_1730_2da5f8d3_IOS" Path="common.ui.japanpackagepopup.simplepackage.supiapackagepopup_202002.unity3d" Version="1" Size="434262" KB="424.1" FileCRC="1899752368" CRC="2817818232" />
       <AssetBundle Time="20200211_051134" BuildInfo="1.490_1727_39946984_IOS" Path="common.map.elitedungeon_00.unity3d" Version="1" Size="2048432" KB="2,000.4" FileCRC="3957169398" CRC="303853241" />
       <AssetBundle Time="20200211_051134" BuildInfo="1.490_1727_39946984_IOS" Path="common.map.elitedungeon_12.unity3d" Version="1" Size="1417214" KB="1,384.0" FileCRC="1784123444" CRC="340582891" />
     </PackInfo>
