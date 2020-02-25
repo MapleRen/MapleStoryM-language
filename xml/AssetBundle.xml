@@ -1,19 +1,20 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20200220_104725" Region="Korea" BuildInfo="1.49_1747_5825b175_IOS" PackCount="233" FileCount="14069" TotalSize="2781543232" MB="2,652.7" />
+  <Header CRC="20200225_101221" Region="Korea" BuildInfo="1.49_1748_3adc8727_IOS" PackCount="233" FileCount="14069" TotalSize="2781652873" MB="2,652.8" />
   <PackList Count="233">
-    <PackInfo Name="pack_001.bin" Size="11842920" MB="11.3" FileCount="9" FileCRC="835724777" Time="20200211_040657" BuildInfo="1.49_1716_4cec2ae1_IOS">
+    <PackInfo Name="pack_001.bin" Size="11298834" MB="10.8" FileCount="9" FileCRC="426483646" Time="20200212_204232" BuildInfo="1.49_1719_2089ffce_IOS">
+      <AssetBundle Time="20200225_101221" BuildInfo="1.49_1748_3adc8727_IOS" Path="common.dynamictexture.packageportalbanner.unity3d" Version="1" Size="1634693" KB="1,596.4" FileCRC="3211724023" CRC="3054367608" />
       <AssetBundle Time="20200220_104725" BuildInfo="1.49_1747_5825b175_IOS" Path="common.temp.customize.face.female.face_f_026_031.unity3d" Version="1" Size="137018" KB="133.8" FileCRC="1329229212" CRC="95199901" />
-      <AssetBundle Time="20200219_123451" BuildInfo="1.49_1745_3a058fe5_IOS" Path="common.dummyobject.petequip.petequip_150_babygguing.unity3d" Version="1" Size="24990" KB="24.4" FileCRC="3485092200" CRC="2573280540" />
+      <AssetBundle Time="20200219_123451" BuildInfo="1.49_1745_3a058fe5_IOS" Path="common.dummyobject.petequip.petequip_150_babygguing.unity3d" Version="1" Size="24995" KB="24.4" FileCRC="760421344" CRC="2573280540" />
       <AssetBundle Time="20200219_123451" BuildInfo="1.49_1745_3a058fe5_IOS" Path="common.dummyobject.petequip.petequip_151_petitgguing.unity3d" Version="1" Size="24987" KB="24.4" FileCRC="1434248457" CRC="4178088184" />
       <AssetBundle Time="20200219_123451" BuildInfo="1.49_1745_3a058fe5_IOS" Path="common.dummyobject.petequip.petequip_152_shygguing.unity3d" Version="1" Size="24594" KB="24.0" FileCRC="3795246830" CRC="1769557244" />
       <AssetBundle Time="20200219_123451" BuildInfo="1.49_1745_3a058fe5_IOS" Path="common.dummyobject.petequip.petequip_1912_m001_santa.unity3d" Version="1" Size="35341" KB="34.5" FileCRC="1502863149" CRC="1291720307" />
       <AssetBundle Time="20200219_123451" BuildInfo="1.49_1745_3a058fe5_IOS" Path="common.dummyobject.petequip.petequip_1912_m002_ruduolph.unity3d" Version="1" Size="35539" KB="34.7" FileCRC="4024941694" CRC="395854968" />
       <AssetBundle Time="20200219_123451" BuildInfo="1.49_1745_3a058fe5_IOS" Path="common.dummyobject.petequip.petequip_1912_m003_rudolph.unity3d" Version="1" Size="35200" KB="34.4" FileCRC="1341819732" CRC="928949532" />
       <AssetBundle Time="20200212_204232" BuildInfo="1.49_1719_2089ffce_IOS" Path="common.dynamictexture.storemainbanner.unity3d" Version="1" Size="9345883" KB="9,126.8" FileCRC="597870084" CRC="3426845602" />
-      <AssetBundle Time="20200211_040657" BuildInfo="1.49_1716_4cec2ae1_IOS" Path="common.character.skill.hero.evan.dragonmaster.unity3d" Version="1" Size="2178780" KB="2,127.7" FileCRC="926588618" CRC="11394502" />
     </PackInfo>
-    <PackInfo Name="pack_002.bin" Size="10524155" MB="10.0" FileCount="3" FileCRC="658189807" Time="20200210_180310" BuildInfo="1.49_1715_99d40683_IOS">
+    <PackInfo Name="pack_002.bin" Size="12702996" MB="12.1" FileCount="4" FileCRC="2745436516" Time="20200210_180310" BuildInfo="1.49_1715_99d40683_IOS">
+      <AssetBundle Time="20200211_040657" BuildInfo="1.49_1716_4cec2ae1_IOS" Path="common.character.skill.hero.evan.dragonmaster.unity3d" Version="1" Size="2178780" KB="2,127.7" FileCRC="926588618" CRC="11394502" />
       <AssetBundle Time="20200210_180310" BuildInfo="1.49_1715_99d40683_IOS" Path="common.dummyobject.ride.vehicle_224.unity3d" Version="1" Size="106149" KB="103.7" FileCRC="3653452195" CRC="1503058365" />
       <AssetBundle Time="20200210_180310" BuildInfo="1.49_1715_99d40683_IOS" Path="common.map.elitedungeon_01.unity3d" Version="1" Size="6469967" KB="6,318.3" FileCRC="1029011010" CRC="2632529293" />
       <AssetBundle Time="20200210_180310" BuildInfo="1.49_1715_99d40683_IOS" Path="common.map.elitedungeon_02.unity3d" Version="1" Size="3947904" KB="3,855.4" FileCRC="2693482490" CRC="3176875294" />
@@ -34,7 +35,7 @@
       <AssetBundle Time="20200210_180310" BuildInfo="1.49_1715_99d40683_IOS" Path="common.map.elitedungeon_11.unity3d" Version="1" Size="5579368" KB="5,448.6" FileCRC="219636062" CRC="762425181" />
       <AssetBundle Time="20200210_180310" BuildInfo="1.49_1715_99d40683_IOS" Path="common.map.elitedungeon_12.unity3d" Version="1" Size="1416656" KB="1,383.5" FileCRC="4159870457" CRC="1830363398" />
     </PackInfo>
-    <PackInfo Name="pack_006.bin" Size="13214903" MB="12.6" FileCount="15" FileCRC="1387192479" Time="20200206_191210" BuildInfo="1.49_1706_8bb3c781_IOS">
+    <PackInfo Name="pack_006.bin" Size="11689779" MB="11.1" FileCount="14" FileCRC="1358996757" Time="20200206_191210" BuildInfo="1.49_1706_8bb3c781_IOS">
       <AssetBundle Time="20200210_180310" BuildInfo="1.49_1715_99d40683_IOS" Path="common.map.elitedungeon_13.unity3d" Version="1" Size="1636689" KB="1,598.3" FileCRC="3061452830" CRC="913375751" />
       <AssetBundle Time="20200210_180310" BuildInfo="1.49_1715_99d40683_IOS" Path="common.map.elitedungeon_14.unity3d" Version="1" Size="2078687" KB="2,030.0" FileCRC="2304815330" CRC="3514781127" />
       <AssetBundle Time="20200210_180310" BuildInfo="1.49_1715_99d40683_IOS" Path="common.map.elitedungeon_15.unity3d" Version="1" Size="2164236" KB="2,113.5" FileCRC="3533673830" CRC="583016275" />
@@ -47,7 +48,6 @@
       <AssetBundle Time="20200206_221631" BuildInfo="1.49_1707_1de738ce_IOS" Path="common.temp.customize.face.female.face_f_150.unity3d" Version="1" Size="38396" KB="37.5" FileCRC="80315289" CRC="3754146613" />
       <AssetBundle Time="20200206_221631" BuildInfo="1.49_1707_1de738ce_IOS" Path="common.temp.customize.face.female.face_f_151.unity3d" Version="1" Size="39761" KB="38.8" FileCRC="2832028105" CRC="1600067375" />
       <AssetBundle Time="20200206_221631" BuildInfo="1.49_1707_1de738ce_IOS" Path="common.temp.customize.face.female.face_f_152.unity3d" Version="1" Size="39500" KB="38.6" FileCRC="1921454152" CRC="1445235027" />
-      <AssetBundle Time="20200206_191210" BuildInfo="1.49_1706_8bb3c781_IOS" Path="common.dynamictexture.packageportalbanner.unity3d" Version="1" Size="1525067" KB="1,489.3" FileCRC="1249828841" CRC="1778797743" />
       <AssetBundle Time="20200206_191210" BuildInfo="1.49_1706_8bb3c781_IOS" Path="common.ui._v4_0.combinedduty.unity3d" Version="1" Size="2112148" KB="2,062.6" FileCRC="3906695791" CRC="1823441637" />
       <AssetBundle Time="20200206_191210" BuildInfo="1.49_1706_8bb3c781_IOS" Path="common.ui._v4_0.eventitemcombinepopup.unity3d" Version="1" Size="3292040" KB="3,214.9" FileCRC="443023112" CRC="2872355749" />
     </PackInfo>
@@ -59,16 +59,16 @@
       <AssetBundle Time="20200206_040749" BuildInfo="1.49_1702_99b81b24_IOS" Path="common.ui.maininterface.unity3d" Version="1" Size="3599827" KB="3,515.5" FileCRC="3376814916" CRC="1770699647" />
       <AssetBundle Time="20200205_122051" BuildInfo="1.49_1701_bb4b10eb_IOS" Path="common.dynamictexture.royalpackage.unity3d" Version="1" Size="17071021" KB="16,670.9" FileCRC="1436399063" CRC="2618221083" />
     </PackInfo>
-    <PackInfo Name="pack_008.bin" Size="20578000" MB="19.6" FileCount="7" FileCRC="115977484" Time="20200205_040743" BuildInfo="1.49_1699_f16fd3af_IOS">
+    <PackInfo Name="pack_008.bin" Size="20578005" MB="19.6" FileCount="7" FileCRC="1075180755" Time="20200205_040743" BuildInfo="1.49_1699_f16fd3af_IOS">
       <AssetBundle Time="20200205_122051" BuildInfo="1.49_1701_bb4b10eb_IOS" Path="common.temp.equipment_cash.coat.cash_coat_2002_01042334.unity3d" Version="1" Size="42052" KB="41.1" FileCRC="1869435464" CRC="1300105715" />
       <AssetBundle Time="20200205_122051" BuildInfo="1.49_1701_bb4b10eb_IOS" Path="common.ui._v4_0.eventitemcombinepopup.soulmadering.unity3d" Version="1" Size="29624" KB="28.9" FileCRC="3870157953" CRC="2621296529" />
-      <AssetBundle Time="20200205_114737" BuildInfo="1.49_1700_f6005b5c_IOS" Path="common.ui._v4_0.eventvalentineplaypopup.unity3d" Version="1" Size="347066" KB="338.9" FileCRC="4037657463" CRC="1837808105" />
+      <AssetBundle Time="20200205_114737" BuildInfo="1.49_1700_f6005b5c_IOS" Path="common.ui._v4_0.eventvalentineplaypopup.unity3d" Version="1" Size="347071" KB="338.9" FileCRC="196705017" CRC="1837808105" />
       <AssetBundle Time="20200205_114737" BuildInfo="1.49_1700_f6005b5c_IOS" Path="common.ui._v4_0.store.unity3d" Version="1" Size="393181" KB="384.0" FileCRC="3961404321" CRC="3655123729" />
       <AssetBundle Time="20200205_040743" BuildInfo="1.49_1699_f16fd3af_IOS" Path="common.dummyobject.ride.vehicle_2002_80011706.unity3d" Version="1" Size="100891" KB="98.5" FileCRC="107095745" CRC="835106896" />
       <AssetBundle Time="20200205_040743" BuildInfo="1.49_1699_f16fd3af_IOS" Path="common.dynamictexture.monthlypackage.unity3d" Version="1" Size="6639621" KB="6,484.0" FileCRC="70696227" CRC="3592134269" />
       <AssetBundle Time="20200205_040743" BuildInfo="1.49_1699_f16fd3af_IOS" Path="common.ui._v4_0.forgepopup.nforge.unity3d" Version="1" Size="13025174" KB="12,719.9" FileCRC="405768898" CRC="3779290031" />
     </PackInfo>
-    <PackInfo Name="pack_009.bin" Size="12959908" MB="12.4" FileCount="14" FileCRC="2550887726" Time="20200204_040732" BuildInfo="1.49_1693_c35666c4_IOS">
+    <PackInfo Name="pack_009.bin" Size="12959913" MB="12.4" FileCount="14" FileCRC="2869912459" Time="20200204_040732" BuildInfo="1.49_1693_c35666c4_IOS">
       <AssetBundle Time="20200204_184304" BuildInfo="1.49_1698_09fd74d9_IOS" Path="common.dummyobject.chair.chair_2002_03015368.unity3d" Version="1" Size="70908" KB="69.2" FileCRC="2594006866" CRC="1352508722" />
       <AssetBundle Time="20200204_184304" BuildInfo="1.49_1698_09fd74d9_IOS" Path="common.dummyobject.chair.chair_212_flower_fantasia_chair.unity3d" Version="1" Size="78793" KB="76.9" FileCRC="3954585183" CRC="864311897" />
       <AssetBundle Time="20200204_184304" BuildInfo="1.49_1698_09fd74d9_IOS" Path="common.temp.equipment_cash.cap.cash_cap_042_bonbon_pony_hat.unity3d" Version="1" Size="23507" KB="23.0" FileCRC="4030068318" CRC="74255984" />
@@ -80,7 +80,7 @@
       <AssetBundle Time="20200204_184304" BuildInfo="1.49_1698_09fd74d9_IOS" Path="common.ui.uniqueequipmentpackage2.unity3d" Version="1" Size="470687" KB="459.7" FileCRC="4194891066" CRC="2177815902" />
       <AssetBundle Time="20200204_104721" BuildInfo="1.49_1695_e5eb2083_IOS" Path="common.character.skill.hero.luminous.armageddon_sd.unity3d" Version="1" Size="618487" KB="604.0" FileCRC="2797406633" CRC="635996693" />
       <AssetBundle Time="20200204_104721" BuildInfo="1.49_1695_e5eb2083_IOS" Path="common.character.skill.hero.luminous.armageddon.unity3d" Version="1" Size="1336482" KB="1,305.2" FileCRC="552622186" CRC="1519624295" />
-      <AssetBundle Time="20200204_040732" BuildInfo="1.49_1693_c35666c4_IOS" Path="common.character.skill.hero.eunwol.spiritincarnation_sd.unity3d" Version="1" Size="602004" KB="587.9" FileCRC="1341409546" CRC="3536277208" />
+      <AssetBundle Time="20200204_040732" BuildInfo="1.49_1693_c35666c4_IOS" Path="common.character.skill.hero.eunwol.spiritincarnation_sd.unity3d" Version="1" Size="602009" KB="587.9" FileCRC="2401634124" CRC="3536277208" />
       <AssetBundle Time="20200204_040732" BuildInfo="1.49_1693_c35666c4_IOS" Path="common.character.skill.hero.eunwol.spiritincarnation.unity3d" Version="1" Size="1667486" KB="1,628.4" FileCRC="1483827618" CRC="552540580" />
       <AssetBundle Time="20200204_040732" BuildInfo="1.49_1693_c35666c4_IOS" Path="common.ui._v4_0.quickcontentspopup.unity3d" Version="1" Size="2609474" KB="2,548.3" FileCRC="1811956760" CRC="1889910569" />
     </PackInfo>
