@@ -19,7 +19,7 @@
   </GooglePlay>
   <AppStore>
     <Application URL="https://itunes.apple.com/kr/app/id1133463693">
-      <Release ClientVersion="1.49.1709" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/AppStore/149_1750S_1_1/" Server="1.49.2.431" />
+      <Release ClientVersion="1.49.1709" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/AppStore/149_1750S_1/" Server="1.49.2.431" />
       <Release ClientVersion="1.49.1727" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/AppStore/149_1750S_1/" Server="1.49.2.431" />
     </Application>
   </AppStore>
