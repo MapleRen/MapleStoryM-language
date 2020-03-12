@@ -6,7 +6,7 @@
 3、能够成功登陆或进入游戏更新界面
 
 保证第3步能成功后才能使用免拔卡的方法
-QX:
+
 
 [rewrite_local]
 ^https://m-api.nexon.com/sdk/enterToy.nx url script-response-body msmunlock.js
