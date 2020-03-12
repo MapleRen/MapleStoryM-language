@@ -7,6 +7,10 @@
 [task_local]
 0/5 * * * * VersionMonitor.js
 
+#TF
+[task_local]
+0/5 * * * * https://raw.githubusercontent.com/MapleRen/MapleStoryM-language/master/Kor/QuantumultX/VersionMonitor.js
+
 */
 
 var url = "http://mm-staticweb.s3.amazonaws.com/MarketVersions/KoreaLiveMarketVersion.xml";
