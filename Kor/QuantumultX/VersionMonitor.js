@@ -13,10 +13,6 @@
 
 */
 
-var url = "http://mm-staticweb.s3.amazonaws.com/MarketVersions/KoreaLiveMarketVersion.xml";
-var method = "GET";
-
-
 var config = {
 	kor:{
 		name:"韩服",
