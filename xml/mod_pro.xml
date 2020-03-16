@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20200312_133605" Region="Korea" BuildInfo="1.49_1750_3f42040e_IOS" PackCount="5" FileCount="88" TotalSize="67571496" MB="64.4" Compressed="False" Source="/Jenkins/workspace/KoreaStage/Korea_AT_IOS_Stage/TABLE/Table/" />
+  <Header CRC="20200316_190352" Region="Korea" BuildInfo="1.49_1753_173f5b68_IOS" PackCount="5" FileCount="88" TotalSize="67571621" MB="64.4" Compressed="False" Source="/Jenkins/workspace/KoreaStage/Korea_AT_IOS_Stage/TABLE/Table/" />
   <PackList Count="5">
-    <PackInfo Name="pack_001.bin" Size="12572010" MB="12.0" FileCount="5" FileCRC="637253454" Time="20200213_153300" BuildInfo="1.49_1725_9fcdd307_IOS">
-      <Data Time="20200225_110052" BuildInfo="1.49_1749_3f42040e_IOS" Path="data.bin.lan.kor.tbl" Version="9" Size="4916580" KB="4,801.3" FileCRC="0" CRC="0" OriginalCRC="" />
-      <Data Time="20200225_101722" BuildInfo="1.49_1748_5b428cc7_IOS" Path="data.bin.lan.kor.ifo" Version="1" Size="519960" KB="507.8" FileCRC="1916618745" CRC="1916618745" OriginalCRC="1916618745" />
+    <PackInfo Name="pack_001.bin" Size="12572135" MB="12.0" FileCount="5" FileCRC="254426770" Time="20200213_153300" BuildInfo="1.49_1725_9fcdd307_IOS">
+      <Data Time="20200312_161410" BuildInfo="1.49_1752_173f5b68_IOS" Path="data.bin.lan.kor.ifo" Version="1" Size="520000" KB="507.8" FileCRC="2669101687" CRC="2669101687" OriginalCRC="2669101687" />
+      <Data Time="20200312_161410" BuildInfo="1.49_1752_173f5b68_IOS" Path="data.bin.lan.kor.tbl" Version="9" Size="4916665" KB="4,801.4" FileCRC="0" CRC="0" OriginalCRC="" />
       <AssetBundle Time="20200225_101722" BuildInfo="1.49_1748_5b428cc7_IOS" Path="data.table.unity3d" Version="9" Size="5572545" KB="826.5" FileCRC="0" CRC="0" OriginalCRC="" />
       <Data Time="20200219_123949" BuildInfo="1.49_1745_a28ac707_IOS" Path="data.bin.petequipcode.tbl" Version="1" Size="3428" KB="3.3" FileCRC="2444995283" CRC="2444995283" OriginalCRC="2444995283" />
       <Data Time="20200213_153300" BuildInfo="1.49_1725_9fcdd307_IOS" Path="data.bin.client.skill.tbl" Version="1" Size="6285527" KB="6,138.2" FileCRC="2296649636" CRC="2296649636" OriginalCRC="2296649636" />
