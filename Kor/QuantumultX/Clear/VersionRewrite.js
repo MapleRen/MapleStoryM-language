@@ -6,7 +6,7 @@ var isMarketVersions = $request.url.indexOf('MarketVersion') > -1;
 if(isMarketVersions){
     for (let i = 0; i < list.length; i++) {
         if(list[i].indexOf('\/AppStore\/') > -1){
-            list[i] = list[i].replace('/" Server','_1/ Server')
+            list[i] = list[i].replace('/" Server','_1/" Server')
         }
     }
 }else{
