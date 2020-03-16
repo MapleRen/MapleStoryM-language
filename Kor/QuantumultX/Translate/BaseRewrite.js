@@ -7,7 +7,7 @@ const body = $response.body;
 let list = body.split('\n');
 const files = ['data.bin.lan.kor.tbl', 'data.table.unity3d']
 const prefix = 'msm_kor_needRedirect'
-$task.fetch(myRequest).then(response => {
+$task.fetch(api_url).then(response => {
     if (response.statusCode != 200) {
         $notify("汉化失败", "", 'API请求过于频繁，请稍后再试');
         $prefs.setValueForKey('false', prefix)
