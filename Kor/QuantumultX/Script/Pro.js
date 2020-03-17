@@ -22,7 +22,7 @@ function rewrite() {
                 const file = config.files.filter(item => list[i].indexOf(item) > -1);
                 if (file.length > 0) {
                     let item = data.find(x => x.name == file[0]);
-                    list[i] = list[i].replace(/Size="[0-9.]*?"/i, 'Size="' + item.size + '"').replace(/FileCRC="[0-9.]*?"/i, 'FileCRC=""').replace(/ CRC="[0-9.]*?"/i, ' CRC=""').replace(/OriginalCRC="[0-9.]*?"/i, 'OriginalCRC=""')
+                    list[i] = list[i].replace(/Size="[0-9.]*?"/i, 'Size="' + item.size + '"').replace(/FileCRC="[0-9.]*?"/i, 'FileCRC="0"').replace(/ CRC="[0-9.]*?"/i, ' CRC="0"').replace(/OriginalCRC="[0-9.]*?"/i, 'OriginalCRC="0"')
                 }
             }
             $notify("汉化完成", "", '补丁下载完成即可完成汉化');
