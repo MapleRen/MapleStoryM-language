@@ -11,8 +11,7 @@ function rewrite() {
     let list = body.split('\n');
     $task.fetch({url:config.API}).then(response => {
         if (response.statusCode != 200) {
-            $notify("汉化失败", "", 'API请求过于频繁，请稍后再试');
-            $prefs.setValueForKey('false', config.prefix)
+            notifyAndSetValue('API请求过于频繁，请稍后再试','false');
             $done({});
         }
         let data = JSON.parse(response.body);
@@ -25,21 +24,23 @@ function rewrite() {
                     list[i] = list[i].replace(/Size="[0-9.]*?"/i, 'Size="' + item.size + '"').replace(/FileCRC="[0-9.]*?"/i, 'FileCRC="0"').replace(/ CRC="[0-9.]*?"/i, ' CRC="0"').replace(/OriginalCRC="[0-9.]*?"/i, 'OriginalCRC="0"')
                 }
             }
-            $notify("汉化完成", "", '补丁下载完成即可完成汉化');
-            $prefs.setValueForKey('true', config.prefix)
+            notifyAndSetValue('补丁下载完成即可完成汉化','true');
             var xml = list.join('\n');
             $done(xml);
 
         } else {
-            $notify("汉化失败", "", '汉化文件未更新，请关注微博"冒险岛M第三汉化委"获取最新消息');
-            $prefs.setValueForKey('false', config.prefix)
+            notifyAndSetValue('汉化文件未更新，请关注微博"冒险岛M第三汉化委"获取最新消息','false');
             $done({});
         }
     }, reason => {
-        $notify("基础汉化失败", "", reason.error);
-        $prefs.setValueForKey('false', config.prefix)
+        notifyAndSetValue(reason.error,'false');
         $done(body);
     });
+}
+
+function notifyAndSetValue(msg,success){
+    $notify(config.title, "", msg);
+    $prefs.setValueForKey(success, config.prefix)
 }
 
 function redirect() {
