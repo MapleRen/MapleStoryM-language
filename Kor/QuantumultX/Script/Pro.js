@@ -14,13 +14,13 @@ function rewrite() {
     const region = body.replace(regionReg,'$1');
     const xmlCRC = body.replace(crcReg,'$1');   
     $task.fetch({url:config.API}).then(response => {
-        if (response.statusCode != 200 || region != 'Korea') {
+        if (response.statusCode != 200) {
             notifyAndSetValue('XML请求失败，请重试','false');
             $done({});
         }
         const latestXml = response.body;
         const latestXmlCRC = latestXml.replace(crcReg,'$1');
-        if(xmlCRC != latestXml){
+        if(xmlCRC != latestXmlCRC){
             notifyAndSetValue('汉化文件未更新，请关注微博"冒险岛M第三汉化委"获取最新消息','false');
             $done({});
         }else{
@@ -30,7 +30,7 @@ function rewrite() {
                 body = body.setXmlAttr(body,files[i],"FileCRC",fileCRC).setXmlAttr(body,files[i],"CRC",fileCRC).setXmlAttr(body,files[i],"Size",fileSize);
             }
             notifyAndSetValue('补丁下载完成即可完成汉化','true');
-            console.log(body);
+            //console.log(body);
             $done(body);
         }
     }, reason => {

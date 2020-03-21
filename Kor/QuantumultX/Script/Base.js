@@ -14,13 +14,13 @@ function rewrite() {
     const region = body.replace(regionReg,'$1');
     const xmlCRC = body.replace(crcReg,'$1');   
     $task.fetch({url:config.API}).then(response => {
-        if (response.statusCode != 200 || region != 'Korea') {
+        if (response.statusCode != 200) {
             notifyAndSetValue('XML请求失败，请重试','false');
             $done({});
         }
         const latestXml = response.body;
         const latestXmlCRC = latestXml.replace(crcReg,'$1');
-        if(xmlCRC != latestXml){
+        if(xmlCRC != latestXmlCRC){
             notifyAndSetValue('汉化文件未更新，请关注微博"冒险岛M第三汉化委"获取最新消息','false');
             $done({});
         }else{
@@ -30,24 +30,8 @@ function rewrite() {
                 body = body.setXmlAttr(body,files[i],"FileCRC",fileCRC).setXmlAttr(body,files[i],"CRC",fileCRC).setXmlAttr(body,files[i],"Size",fileSize);
             }
             notifyAndSetValue('补丁下载完成即可完成汉化','true');
-            console.log(body);
+            //console.log(body);
             $done(body);
-        }
-
-        let tbl_size = data.find(x => x.name == 'data.bin.lan.kor.tbl').size;
-        if (body.indexOf(tbl_size) > -1) {
-            for (let i = 0; i < list.length; i++) {
-                const file = config.files.filter(item => list[i].indexOf(item) > -1);
-                if (file.length > 0) {
-                    let item = data.find(x => x.name == file[0]);
-                    list[i] = list[i].replace(/Size="[0-9.]*?"/i, 'Size="' + item.size + '"').replace(/FileCRC="[0-9.]*?"/i, 'FileCRC="0"').replace(/ CRC="[0-9.]*?"/i, ' CRC="0"').replace(/OriginalCRC="[0-9.]*?"/i, 'OriginalCRC="0"')
-                }
-            }
-            
-
-        } else {
-            notifyAndSetValue('汉化文件未更新，请关注微博"冒险岛M第三汉化委"获取最新消息','false');
-            $done({});
         }
     }, reason => {
         notifyAndSetValue(reason.error,'false');
