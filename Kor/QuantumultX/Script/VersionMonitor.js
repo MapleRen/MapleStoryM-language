@@ -15,13 +15,13 @@
 
 var config = {
 	kor:{
-		name:"韩服",
+		name:"🇰🇷",
 		url:"http://mm-staticweb.s3.amazonaws.com/MarketVersions/KoreaLiveMarketVersion.xml",
 		version:"msm_kor_version",
 		server:"msm_kor_server"
 	},
 	jp:{
-		name:"日服",
+		name:"🇯🇵",
 		url:"http://nxm-maplemjp-staticweb.s3.amazonaws.com/MarketVersions/Japan/JapanLiveMarketVersion.xml",
 		version:"msm_jp_version",
 		server:"msm_jp_server"
@@ -43,13 +43,13 @@ function watchVersion(obj){
 	var oldVersion = $prefs.valueForKey(obj.version);
 	if(oldVersion!=lastedVersion){
 		$prefs.setValueForKey(lastedVersion, obj.version)
-		$notify("冒险岛M版本监控", "", obj.name+"资源版本已更新至："+ oldVersion  +" → " +  lastedVersion);
+		$notify("冒险岛M版本监控", obj.name+"资源版本已更新", oldVersion  +" → " +  lastedVersion);
 	}
 	var lastedServer = getValue(body,"Server=\"",3);
 	var oldServer = $prefs.valueForKey(obj.server);
 	if(oldServer != lastedServer){
 		$prefs.setValueForKey(lastedServer, obj.server)
-		$notify("冒险岛M版本监控", "",obj.name+"服务器版本已更新至："+ oldServer +" → " + lastedServer);
+		$notify("冒险岛M版本监控", obj.name+"服务器版本已更新",oldServer +" → " + lastedServer);
 	}
 }, reason => {
     // reason.error
