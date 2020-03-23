@@ -3,13 +3,13 @@
 监控资源版本与服务器版本
 查看汉化情况
 
-#商店版
+上垫板
 [task_local]
-*/5 * * * * VersionMonitor.js
+*\/5 * * * * VersionMonitor.js
 
-#TF
+远程
 [task_local]
-*/5 * * * * https://raw.githubusercontent.com/MapleRen/MapleStoryM-language/master/Kor/QuantumultX/VersionMonitor.js
+*\/5 * * * * https://raw.githubusercontent.com/MapleRen/MapleStoryM-language/master/Kor/QuantumultX/VersionMonitor.js
 
 */
 
