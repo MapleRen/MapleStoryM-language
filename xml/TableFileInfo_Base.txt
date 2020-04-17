@@ -5,7 +5,7 @@ data.bin.gachaitem.ifo	3974210969	1	3974210969
 data.bin.gachaitem.tbl	3896989348	1	3896989348
 data.bin.client.buff.tbl	1896313217	1	1896313217
 data.bin.lan.kor.ifo	2765270406	1	2765270406
-data.bin.lan.kor.tbl	70121063	4	70121063
+data.bin.lan.kor.tbl	2207670479	5	2207670479
 data.bin.client.effect.tbl	494854911	1	494854911
 data.bin.task.ifo	1284301661	1	1284301661
 data.bin.task.tbl	2377816682	1	2377816682
@@ -83,5 +83,5 @@ data.bin.table_version.ifo	2927010390	1	2927010390
 data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
-data.table.unity3d	4294099468	4	4294099468
+data.table.unity3d	4294099468	5	4294099468
 data.language_kor.unity3d	820297769	1	2625169658
