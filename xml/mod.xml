@@ -10,13 +10,13 @@
       <Data Time="20200428_193156" BuildInfo="1.51_1878_8dc5bb5d_IOS" Path="data.bin.questreward.tbl" Version="1" Size="505029" KB="493.2" FileCRC="2360245207" CRC="2360245207" />
       <Data Time="20200428_193156" BuildInfo="1.51_1878_8dc5bb5d_IOS" Path="data.bin.task.ifo" Version="1" Size="119523" KB="116.7" FileCRC="3430977406" CRC="3430977406" />
       <Data Time="20200428_193156" BuildInfo="1.51_1878_8dc5bb5d_IOS" Path="data.bin.warp.ifo" Version="1" Size="103791" KB="101.4" FileCRC="302668819" CRC="302668819" />
-      <AssetBundle Time="20200428_193156" BuildInfo="1.51_1878_8dc5bb5d_IOS" Path="data.table.unity3d" Version="11" Size="6178713" KB="940.2" FileCRC="1429386388" CRC="1429386388" />
+      <AssetBundle Time="20200428_193156" BuildInfo="1.51_1878_8dc5bb5d_IOS" Path="data.table.unity3d" Version="12" Size="6178713" KB="940.2" FileCRC="1429386388" CRC="1429386388" />
       <Data Time="20200428_120012" BuildInfo="1.51_1875_4d57fbe6_IOS" Path="data.bin.client.item.ifo" Version="1" Size="569609" KB="556.3" FileCRC="3836973945" CRC="3836973945" />
       <Data Time="20200428_120012" BuildInfo="1.51_1875_4d57fbe6_IOS" Path="data.bin.client.item.tbl" Version="1" Size="8053890" KB="7,865.1" FileCRC="1764707815" CRC="1764707815" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" Size="14834545" MB="14.1" FileCount="6" FileCRC="2309046532" Time="20200424_131849" BuildInfo="1.51_1874_854b1489_IOS">
       <Data Time="20200428_120012" BuildInfo="1.51_1875_4d57fbe6_IOS" Path="data.bin.lan.kor.ifo" Version="1" Size="550864" KB="538.0" FileCRC="3868995730" CRC="3868995730" />
-      <Data Time="20200428_120012" BuildInfo="1.51_1875_4d57fbe6_IOS" Path="data.bin.lan.kor.tbl" Version="11" Size="5230423" KB="5,107.8" FileCRC="866576472" CRC="866576472" />
+      <Data Time="20200428_120012" BuildInfo="1.51_1875_4d57fbe6_IOS" Path="data.bin.lan.kor.tbl" Version="12" Size="5230423" KB="5,107.8" FileCRC="2365341615" CRC="2365341615" />
       <Data Time="20200424_131849" BuildInfo="1.51_1874_854b1489_IOS" Path="data.bin.activator.tbl" Version="1" Size="851138" KB="831.2" FileCRC="1822841642" CRC="1822841642" />
       <Data Time="20200424_131849" BuildInfo="1.51_1874_854b1489_IOS" Path="data.bin.client.activator.tbl" Version="1" Size="400586" KB="391.2" FileCRC="639286955" CRC="639286955" />
       <Data Time="20200424_131849" BuildInfo="1.51_1874_854b1489_IOS" Path="data.bin.client.effect.tbl" Version="1" Size="1327836" KB="1,296.7" FileCRC="3924510354" CRC="3924510354" />
