@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20200507_183318" Region="Korea" BuildInfo="1.51_1882_5f058de7_IOS" CommitHash="" PackCount="6" FileCount="87" TotalSize="70410330" MB="67.1" Compressed="False" Source="/Jenkins/workspace/KoreaQA/Korea_AT_IOS_QA/TABLE/Table/" />
+  <Header CRC="20200511_161043" Region="Korea" BuildInfo="1.51_1776_98907ab5_IOS" CommitHash="" PackCount="6" FileCount="87" TotalSize="70410336" MB="67.1" Compressed="False" Source="/Jenkins/workspace/KoreaStage/Korea_AT_IOS_Stage/TABLE/Table/" />
   <PackList Count="6">
-    <PackInfo Name="pack_001.bin" Size="15739780" MB="15.0" FileCount="11" FileCRC="3626143103" Time="20200428_120012" BuildInfo="1.51_1875_4d57fbe6_IOS">
-      <Data Time="20200507_183318" BuildInfo="1.51_1882_5f058de7_IOS" Path="data.bin.client.guildmark.ifo" Version="1" Size="18839" KB="18.4" FileCRC="203503795" CRC="203503795" />
-      <Data Time="20200507_183318" BuildInfo="1.51_1882_5f058de7_IOS" Path="data.bin.lan.kor.tbl" Version="99" Size="5230430" KB="5,107.8" FileCRC="1450425339" CRC="1450425339" />
+    <PackInfo Name="pack_001.bin" Size="15739786" MB="15.0" FileCount="11" FileCRC="325489555" Time="20200428_120012" BuildInfo="1.51_1875_4d57fbe6_IOS">
+      <Data Time="20200511_161043" BuildInfo="1.51_1776_98907ab5_IOS" Path="data.bin.client.guildmark.ifo" Version="1" Size="18843" KB="18.4" FileCRC="115970898" CRC="115970898" />
+      <Data Time="20200511_161043" BuildInfo="1.51_1776_98907ab5_IOS" Path="data.bin.lan.kor.tbl" Version="99" Size="5230431" KB="5,107.8" FileCRC="2128720426" CRC="2128720426" />
+      <Data Time="20200511_161043" BuildInfo="1.51_1776_98907ab5_IOS" Path="data.bin.physicx_slope.ifo" Version="1" Size="4400" KB="4.3" FileCRC="1501695349" CRC="1501695349" />
       <Data Time="20200507_183318" BuildInfo="1.51_1882_5f058de7_IOS" Path="data.bin.lang.kor.questxml.ifo" Version="1" Size="45684" KB="44.6" FileCRC="1371143526" CRC="1371143526" />
-      <Data Time="20200507_183318" BuildInfo="1.51_1882_5f058de7_IOS" Path="data.bin.physicx_slope.ifo" Version="1" Size="4399" KB="4.3" FileCRC="2520840976" CRC="2520840976" />
       <Data Time="20200507_183318" BuildInfo="1.51_1882_5f058de7_IOS" Path="data.bin.questreward.ifo" Version="1" Size="125512" KB="122.6" FileCRC="1607186193" CRC="1607186193" />
       <Data Time="20200507_183318" BuildInfo="1.51_1882_5f058de7_IOS" Path="data.bin.questreward.tbl" Version="1" Size="505021" KB="493.2" FileCRC="784247015" CRC="784247015" />
       <Data Time="20200507_183318" BuildInfo="1.51_1882_5f058de7_IOS" Path="data.bin.task.ifo" Version="1" Size="119513" KB="116.7" FileCRC="984294974" CRC="984294974" />

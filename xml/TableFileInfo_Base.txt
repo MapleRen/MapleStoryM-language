@@ -1,7 +1,7 @@
-data.bin.client.guildmark.ifo	203503795	1	203503795
-data.bin.lan.kor.tbl	1934679407	13	1934679407
+data.bin.client.guildmark.ifo	115970898	1	115970898
+data.bin.lan.kor.tbl	3766643468	14	3766643468
+data.bin.physicx_slope.ifo	1501695349	1	1501695349
 data.bin.lang.kor.questxml.ifo	1371143526	1	1371143526
-data.bin.physicx_slope.ifo	2520840976	1	2520840976
 data.bin.questreward.ifo	1607186193	1	1607186193
 data.bin.questreward.tbl	784247015	1	784247015
 data.bin.task.ifo	984294974	1	984294974
@@ -83,5 +83,5 @@ data.bin.table_version.ifo	2927010390	1	2927010390
 data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
-data.table.unity3d	160347637	13	160347637
+data.table.unity3d	160347637	14	160347637
 data.language_kor.unity3d	820297769	1	2625169658
