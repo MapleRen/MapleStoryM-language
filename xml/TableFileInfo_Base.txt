@@ -1,5 +1,5 @@
 data.bin.client.guildmark.ifo	2732420605	1	2732420605
-data.bin.lan.kor.tbl	1155151181	15	1155151181
+data.bin.lan.kor.tbl	2623009780	15	2623009780
 data.bin.physicx_slope.ifo	704060637	1	704060637
 data.bin.lang.kor.questxml.ifo	1371143526	1	1371143526
 data.bin.questreward.ifo	1607186193	1	1607186193

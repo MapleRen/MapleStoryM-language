@@ -4,7 +4,7 @@
   <PackList Count="6">
     <PackInfo Name="pack_001.bin" Size="15739791" MB="15.0" FileCount="11" FileCRC="1483451708" Time="20200428_120012" BuildInfo="1.51_1875_4d57fbe6_IOS">
       <Data Time="20200513_145551" BuildInfo="1.51_1777_98907ab5_IOS" Path="data.bin.client.guildmark.ifo" Version="1" Size="18846" KB="18.4" FileCRC="2732420605" CRC="2732420605" />
-      <Data Time="20200513_145551" BuildInfo="1.51_1777_98907ab5_IOS" Path="data.bin.lan.kor.tbl" Version="15" Size="5230432" KB="5,107.8" FileCRC="1155151181" CRC="1155151181" />
+      <Data Time="20200513_145551" BuildInfo="1.51_1777_98907ab5_IOS" Path="data.bin.lan.kor.tbl" Version="15" Size="5230432" KB="5,107.8" FileCRC="2623009780" CRC="2623009780" />
       <Data Time="20200513_145551" BuildInfo="1.51_1777_98907ab5_IOS" Path="data.bin.physicx_slope.ifo" Version="1" Size="4401" KB="4.3" FileCRC="704060637" CRC="704060637" />
       <Data Time="20200507_183318" BuildInfo="1.51_1882_5f058de7_IOS" Path="data.bin.lang.kor.questxml.ifo" Version="1" Size="45684" KB="44.6" FileCRC="1371143526" CRC="1371143526" />
       <Data Time="20200507_183318" BuildInfo="1.51_1882_5f058de7_IOS" Path="data.bin.questreward.ifo" Version="1" Size="125512" KB="122.6" FileCRC="1607186193" CRC="1607186193" />
