@@ -1,6 +1,9 @@
-data.bin.client.guildmark.ifo	2732420605	1	2732420605
-data.bin.lan.kor.tbl	2623009780	15	2623009780
-data.bin.physicx_slope.ifo	704060637	1	704060637
+data.bin.client.dummy.ifo	1499712390	1	1499712390
+data.bin.client.dummy.tbl	368406540	1	368406540
+data.bin.client.guildmark.ifo	809823380	1	809823380
+data.bin.lan.kor.tbl	1854823727	17	1854823727
+data.bin.physicx_slope.ifo	2186662739	1	2186662739
+data.bin.slang.tbl	2592469307	1	2592469307
 data.bin.lang.kor.questxml.ifo	1371143526	1	1371143526
 data.bin.questreward.ifo	1607186193	1	1607186193
 data.bin.questreward.tbl	784247015	1	784247015
@@ -24,8 +27,6 @@ data.bin.client.skill.descriptionset.ifo	1399484253	1	1399484253
 data.bin.client.skill.descriptionset.tbl	3968288286	1	3968288286
 data.bin.result.ifo	1672832330	1	1672832330
 data.bin.tag.tbl	3602714021	1	3602714021
-data.bin.client.dummy.ifo	4268326667	1	4268326667
-data.bin.client.dummy.tbl	1642882718	1	1642882718
 data.bin.place.tbl	2352446827	1	2352446827
 data.bin.client.world.tbl	4089551301	1	4089551301
 data.bin.client.icon.ifo	662683753	1	662683753
@@ -44,7 +45,6 @@ data.bin.physicx_slope.tbl	611385670	1	611385670
 data.bin.physicx_terrain.ifo	838266796	1	838266796
 data.bin.physicx_terrain.tbl	3193734914	1	3193734914
 data.bin.place.ifo	345592034	1	345592034
-data.bin.slang.tbl	1692508201	1	1692508201
 data.bin.upgradedefault.tbl	1342837798	1	1342837798
 data.bin.lang.kor.questxml.tbl	1862064619	1	1862064619
 data.bin.warp.tbl	1124306738	1	1124306738
@@ -83,5 +83,5 @@ data.bin.table_version.ifo	2927010390	1	2927010390
 data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
-data.table.unity3d	160347637	15	160347637
+data.table.unity3d	160347637	17	160347637
 data.language_kor.unity3d	820297769	1	2625169658
