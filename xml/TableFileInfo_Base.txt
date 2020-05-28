@@ -16,7 +16,7 @@ data.bin.questreward.tbl	988603823	1	988603823
 data.bin.result.tbl	1659142878	1	1659142878
 data.bin.task.ifo	3970445787	1	3970445787
 data.bin.lan.kor.ifo	1444674113	1	1444674113
-data.bin.lan.kor.tbl	472720306	3	472720306
+data.bin.lan.kor.tbl	3864241317	4	3864241317
 data.bin.client.item.ifo	2688754638	1	2688754638
 data.bin.client.dummy.tbl	371512152	1	371512152
 data.bin.client.skill.descriptionset.tbl	4000992245	1	4000992245
@@ -83,5 +83,5 @@ data.bin.table_version.ifo	2927010390	1	2927010390
 data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
-data.table.unity3d	2329526266	3	2329526266
+data.table.unity3d	2329526266	4	2329526266
 data.language_kor.unity3d	1294076935	1	164751737
