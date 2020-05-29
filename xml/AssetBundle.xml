@@ -1,13 +1,14 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20200528_151803" Region="Korea" BuildInfo="1.52_1961_3f0399f6_IOS" CommitHash="3f0399f67b170499c4bf363c068fd9730ca4441e" PackCount="251" FileCount="14734" TotalSize="3047062101" MB="2,905.9" />
+  <Header CRC="20200529_112447" Region="Korea" BuildInfo="1.52_1962_a9f93b87_IOS" CommitHash="a9f93b8731e2559eebb299748a12cb039220dbb5" PackCount="251" FileCount="14734" TotalSize="3047061941" MB="2,905.9" />
   <PackList Count="251">
-    <PackInfo Name="pack_001.bin" Size="10754268" MB="10.3" FileCount="2" FileCRC="2740214949" Time="20200528_151803" BuildInfo="1.52_1961_3f0399f6_IOS">
+    <PackInfo Name="pack_001.bin" Size="11360700" MB="10.8" FileCount="4" FileCRC="1219921823" Time="20200528_151803" BuildInfo="1.52_1961_3f0399f6_IOS">
+      <AssetBundle Time="20200529_112447" BuildInfo="1.52_1962_a9f93b87_IOS" Path="common.map.kerningcity.unity3d" Version="1" Size="6225041" KB="6,079.1" FileCRC="899433429" CRC="2125547124" />
+      <AssetBundle Time="20200529_112447" BuildInfo="1.52_1962_a9f93b87_IOS" Path="common.ui.levelrewardpackage.growthsupport_pink_pack_high.unity3d" Version="1" Size="323714" KB="316.1" FileCRC="372847401" CRC="4060555405" />
+      <AssetBundle Time="20200529_112447" BuildInfo="1.52_1962_a9f93b87_IOS" Path="common.ui.levelrewardpackage.growthsupport_pink_pack_new.unity3d" Version="1" Size="282573" KB="276.0" FileCRC="1641884214" CRC="2085224666" />
       <AssetBundle Time="20200528_151803" BuildInfo="1.52_1961_3f0399f6_IOS" Path="common.dynamictexture.packageportalbanner.unity3d" Version="1" Size="4529132" KB="4,423.0" FileCRC="938454820" CRC="343221825" />
-      <AssetBundle Time="20200528_151803" BuildInfo="1.52_1961_3f0399f6_IOS" Path="common.map.kerningcity.unity3d" Version="1" Size="6225041" KB="6,079.1" FileCRC="899433429" CRC="2125547124" />
     </PackInfo>
-    <PackInfo Name="pack_002.bin" Size="26038522" MB="24.8" FileCount="14" FileCRC="2306035057" Time="20200527_040304" BuildInfo="1.52_1955_4a7e0b4c_IOS">
-      <AssetBundle Time="20200528_151803" BuildInfo="1.52_1961_3f0399f6_IOS" Path="common.ui.levelrewardpackage.growthsupport_pink_pack_high.unity3d" Version="1" Size="323795" KB="316.2" FileCRC="2509525495" CRC="4022899829" />
+    <PackInfo Name="pack_002.bin" Size="25714654" MB="24.5" FileCount="13" FileCRC="3212491437" Time="20200527_040304" BuildInfo="1.52_1955_4a7e0b4c_IOS">
       <AssetBundle Time="20200528_125815" BuildInfo="1.52_1959_76ffeaa9_IOS" Path="common.ui._v4_0.eventheinzdicepopup.unity3d" Version="1" Size="1345482" KB="1,313.9" FileCRC="790996515" CRC="3401798815" />
       <AssetBundle Time="20200527_213124" BuildInfo="1.52_1958_9f926014_IOS" Path="common.ui._v4_0.auctionrenewal.nmain.unity3d" Version="1" Size="246531" KB="240.8" FileCRC="2411780562" CRC="259868120" />
       <AssetBundle Time="20200527_213124" BuildInfo="1.52_1958_9f926014_IOS" Path="common.ui._v4_0.questtheme.unity3d" Version="1" Size="52772" KB="51.5" FileCRC="895193895" CRC="2178874496" />
@@ -428,18 +429,17 @@
       <AssetBundle Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS" Path="common.ui._v4_0.wispwonderberry.unity3d" Version="1" Size="2365861" KB="2,310.4" FileCRC="2186107097" CRC="3154545530" />
       <AssetBundle Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS" Path="common.ui.@global.dutypackagepopup.unity3d" Version="1" Size="6478320" KB="6,326.5" FileCRC="4016163447" CRC="4013703697" />
     </PackInfo>
-    <PackInfo Name="pack_023.bin" Size="10645410" MB="10.2" FileCount="8" FileCRC="669797037" Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS">
+    <PackInfo Name="pack_023.bin" Size="10746959" MB="10.2" FileCount="8" FileCRC="2302970847" Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS">
       <AssetBundle Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS" Path="common.ui.commonprefab.unity3d" Version="1" Size="26635" KB="26.0" FileCRC="4232014723" CRC="2116945556" />
-      <AssetBundle Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS" Path="common.ui.levelrewardpackage.growthsupport_pink_pack_new.unity3d" Version="1" Size="282652" KB="276.0" FileCRC="3148108114" CRC="1155652652" />
       <AssetBundle Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS" Path="common.ui.maininterface.unity3d" Version="1" Size="3963640" KB="3,870.7" FileCRC="433589963" CRC="13812922" />
       <AssetBundle Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS" Path="common.ui.menu.unity3d" Version="1" Size="146458" KB="143.0" FileCRC="2112459334" CRC="266842772" />
       <AssetBundle Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS" Path="common.ui.nobject.unity3d" Version="1" Size="2078088" KB="2,029.4" FileCRC="4187093935" CRC="1623693064" />
       <AssetBundle Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS" Path="common.ui.playtimepackagepopup.unity3d" Version="1" Size="3383629" KB="3,304.3" FileCRC="4042434686" CRC="3327216638" />
       <AssetBundle Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS" Path="common.ui.simplepackagepopup.2006_cube_pkg.unity3d" Version="1" Size="355509" KB="347.2" FileCRC="2962270103" CRC="1376628606" />
       <AssetBundle Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS" Path="common.ui.simplepackagepopup.2006_shield_pkg_01.unity3d" Version="1" Size="408420" KB="398.8" FileCRC="3999751379" CRC="4262231407" />
-    </PackInfo>
-    <PackInfo Name="pack_024.bin" Size="15433725" MB="14.7" FileCount="15" FileCRC="1937328379" Time="20200408_040350" BuildInfo="1.51_1831_bd3d4dba_IOS">
       <AssetBundle Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS" Path="common.ui.simplepackagepopup.2006_shield_pkg_02.unity3d" Version="1" Size="384210" KB="375.2" FileCRC="2350142341" CRC="2786929732" />
+    </PackInfo>
+    <PackInfo Name="pack_024.bin" Size="15049452" MB="14.4" FileCount="14" FileCRC="3756634674" Time="20200408_040350" BuildInfo="1.51_1831_bd3d4dba_IOS">
       <AssetBundle Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS" Path="common.ui.simplepackagepopup.may_autopkg.unity3d" Version="1" Size="362360" KB="353.9" FileCRC="1110183844" CRC="2646388706" />
       <AssetBundle Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS" Path="common.ui.simplepackagepopup.welcome2june_pkg.unity3d" Version="1" Size="281452" KB="274.9" FileCRC="2585524300" CRC="1144029403" />
       <AssetBundle Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS" Path="common.ui.simplepackagepopup.white_jewel_pkg.unity3d" Version="1" Size="359353" KB="350.9" FileCRC="2041460148" CRC="3835288955" />
