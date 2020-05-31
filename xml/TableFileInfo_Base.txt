@@ -13,7 +13,7 @@ data.bin.client.skill.tbl	3579225269	1	3579225269
 data.bin.client.vehicle.tbl	1022059955	1	1022059955
 data.bin.joblevel.ifo	3388486923	1	3388486923
 data.bin.lan.kor.ifo	2099599328	1	2099599328
-data.bin.lan.kor.tbl	646420144	6	646420144
+data.bin.lan.kor.tbl	2646789716	7	2646789716
 data.bin.petsetoption.tbl	1364768965	1	1364768965
 data.bin.questreward.tbl	2439144082	1	2439144082
 data.bin.result.tbl	3245102515	1	3245102515
@@ -83,5 +83,5 @@ data.bin.table_version.ifo	2927010390	1	2927010390
 data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
-data.table.unity3d	2329526266	6	2329526266
+data.table.unity3d	2329526266	7	2329526266
 data.language_kor.unity3d	1294076935	1	164751737
