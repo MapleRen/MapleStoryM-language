@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20200529_112447" Region="Korea" BuildInfo="1.52_1962_a9f93b87_IOS" CommitHash="a9f93b8731e2559eebb299748a12cb039220dbb5" PackCount="251" FileCount="14734" TotalSize="3047061941" MB="2,905.9" />
+  <Header CRC="20200529_112447" Region="Korea" BuildInfo="1.52_1962_a9f93b87_IOS" CommitHash="a9f93b8731e2559eebb299748a12cb039220dbb5" DependencyHash="" PackCount="251" FileCount="14734" TotalSize="3047061941" MB="2,905.9" />
   <PackList Count="251">
     <PackInfo Name="pack_001.bin" Size="11360700" MB="10.8" FileCount="4" FileCRC="1219921823" Time="20200528_151803" BuildInfo="1.52_1961_3f0399f6_IOS">
       <AssetBundle Time="20200529_112447" BuildInfo="1.52_1962_a9f93b87_IOS" Path="common.map.kerningcity.unity3d" Version="1" Size="6225041" KB="6,079.1" FileCRC="899433429" CRC="2125547124" />
