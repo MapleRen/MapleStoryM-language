@@ -1,9 +1,10 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20200529_112447" Region="Korea" BuildInfo="1.52_1962_a9f93b87_IOS" CommitHash="a9f93b8731e2559eebb299748a12cb039220dbb5" DependencyHash="" PackCount="251" FileCount="14734" TotalSize="3047061941" MB="2,905.9" />
+  <Header CRC="20200618_142645" Region="Korea" BuildInfo="1.52_1783_76838f31_IOS" CommitHash="76838f312a00c8a3b4502f53c261610192e3e133" DependencyHash="" PackCount="251" FileCount="14734" TotalSize="3047064129" MB="2,905.9" />
   <PackList Count="251">
-    <PackInfo Name="pack_001.bin" Size="11360700" MB="10.8" FileCount="4" FileCRC="1219921823" Time="20200528_151803" BuildInfo="1.52_1961_3f0399f6_IOS">
-      <AssetBundle Time="20200529_112447" BuildInfo="1.52_1962_a9f93b87_IOS" Path="common.map.kerningcity.unity3d" Version="1" Size="6225041" KB="6,079.1" FileCRC="899433429" CRC="2125547124" />
+    <PackInfo Name="pack_001.bin" Size="11410162" MB="10.9" FileCount="5" FileCRC="2069808379" Time="20200528_151803" BuildInfo="1.52_1961_3f0399f6_IOS">
+      <AssetBundle Time="20200618_142645" BuildInfo="1.52_1783_76838f31_IOS" Path="common.map.kerningcity.unity3d" Version="1" Size="6225041" KB="6,079.1" FileCRC="899433429" CRC="2125547124" />
+      <AssetBundle Time="20200618_142645" BuildInfo="1.52_1783_76838f31_IOS" Path="common.temp.customize.hair.male.hair_m_242.unity3d" Version="1" Size="49404" KB="48.2" FileCRC="1821341295" CRC="778779910" />
       <AssetBundle Time="20200529_112447" BuildInfo="1.52_1962_a9f93b87_IOS" Path="common.ui.levelrewardpackage.growthsupport_pink_pack_high.unity3d" Version="1" Size="323714" KB="316.1" FileCRC="372847401" CRC="4060555405" />
       <AssetBundle Time="20200529_112447" BuildInfo="1.52_1962_a9f93b87_IOS" Path="common.ui.levelrewardpackage.growthsupport_pink_pack_new.unity3d" Version="1" Size="282573" KB="276.0" FileCRC="1641884214" CRC="2085224666" />
       <AssetBundle Time="20200528_151803" BuildInfo="1.52_1961_3f0399f6_IOS" Path="common.dynamictexture.packageportalbanner.unity3d" Version="1" Size="4529132" KB="4,423.0" FileCRC="938454820" CRC="343221825" />
@@ -8061,7 +8062,7 @@
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.temp.customize.hair.male.hair_m_158.unity3d" Version="1" Size="227582" KB="222.2" FileCRC="4154063509" CRC="492869445" legacyCRC="3361980329" legacyCRC_0="3361980329" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.temp.customize.hair.male.hair_m_160_163.unity3d" Version="1" Size="162733" KB="158.9" FileCRC="3284209820" CRC="2130064583" legacyCRC="778861363" legacyCRC_0="778861363" />
     </PackInfo>
-    <PackInfo Name="pack_198.bin" Size="10485917" MB="10.0" FileCount="221" FileCRC="798721971" Time="20200109_142620" BuildInfo="1.48_1627_d8336fef">
+    <PackInfo Name="pack_198.bin" Size="10503892" MB="10.0" FileCount="223" FileCRC="1130697526" Time="20200109_142620" BuildInfo="1.48_1627_d8336fef">
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.temp.customize.hair.male.hair_m_164_167.unity3d" Version="1" Size="152751" KB="149.2" FileCRC="2169807148" CRC="3004823435" legacyCRC="1349920366" legacyCRC_0="1349920366" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.temp.customize.hair.male.hair_m_168_170.unity3d" Version="1" Size="147776" KB="144.3" FileCRC="1448303661" CRC="2119594308" legacyCRC="708837180" legacyCRC_0="708837180" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.temp.customize.hair.male.hair_m_171_173.unity3d" Version="1" Size="147608" KB="144.1" FileCRC="3889708675" CRC="1251387259" legacyCRC="2116443352" legacyCRC_0="2116443352" />
@@ -8090,7 +8091,6 @@
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.temp.customize.hair.male.hair_m_239.unity3d" Version="1" Size="55593" KB="54.3" FileCRC="397410543" CRC="2115323559" legacyCRC="116962969" legacyCRC_0="116962969" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.temp.customize.hair.male.hair_m_240.unity3d" Version="1" Size="50299" KB="49.1" FileCRC="4287841350" CRC="3957769647" legacyCRC="2575710149" legacyCRC_0="2575710149" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.temp.customize.hair.male.hair_m_241.unity3d" Version="1" Size="50331" KB="49.2" FileCRC="2476984183" CRC="2792080584" legacyCRC="2464056689" legacyCRC_0="2464056689" />
-      <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.temp.customize.hair.male.hair_m_242.unity3d" Version="1" Size="47216" KB="46.1" FileCRC="1069026985" CRC="2212507308" legacyCRC="1628563081" legacyCRC_0="1628563081" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.temp.customize.hair.male.hair_m_243_commence_hair_black.unity3d" Version="1" Size="43901" KB="42.9" FileCRC="3022284384" CRC="3692828330" legacyCRC="4027277983" legacyCRC_0="4027277983" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.temp.customize.hair.male.hair_m_244_glow_hair_black.unity3d" Version="1" Size="48866" KB="47.7" FileCRC="262485376" CRC="3190657966" legacyCRC="1671565915" legacyCRC_0="1671565915" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.temp.customize.hair.male.hair_m_245_sweet_wool_hair_black.unity3d" Version="1" Size="55242" KB="53.9" FileCRC="883266763" CRC="3929206583" legacyCRC="2253476140" legacyCRC_0="2253476140" />
@@ -8283,11 +8283,11 @@
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.temp.equipment_cash.cap.cash_cap_1907_01005041.unity3d" Version="1" Size="24219" KB="23.7" FileCRC="643092232" CRC="2858409167" legacyCRC="2749755240" legacyCRC_0="2749755240" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.temp.equipment_cash.cap.cash_cap_1907_01005187.unity3d" Version="1" Size="21672" KB="21.2" FileCRC="3567782102" CRC="1131782430" legacyCRC="375741345" legacyCRC_0="375741345" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.50_1764_96e2e93b_IOS" Path="common.temp.equipment_cash.cap.cash_cap_1908_01004793.unity3d" Version="1" Size="24059" KB="23.5" FileCRC="2056382701" CRC="551399048" legacyCRC="1159031495" legacyCRC_0="1159031495" />
-    </PackInfo>
-    <PackInfo Name="pack_199.bin" Size="10574152" MB="10.1" FileCount="360" FileCRC="3261364763" Time="20200109_142620" BuildInfo="1.48_1627_d8336fef">
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.temp.equipment_cash.cap.cash_cap_1908_01005000.unity3d" Version="1" Size="21295" KB="20.8" FileCRC="273952375" CRC="1709976996" legacyCRC="2508891101" legacyCRC_0="2508891101" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.temp.equipment_cash.cap.cash_cap_1908_01005001.unity3d" Version="1" Size="21864" KB="21.4" FileCRC="2772296510" CRC="2259172523" legacyCRC="2385088906" legacyCRC_0="2385088906" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.temp.equipment_cash.cap.cash_cap_1908_01005002.unity3d" Version="1" Size="21883" KB="21.4" FileCRC="4027242333" CRC="741835410" legacyCRC="1524441326" legacyCRC_0="1524441326" />
+    </PackInfo>
+    <PackInfo Name="pack_199.bin" Size="10508903" MB="10.0" FileCount="357" FileCRC="2067621240" Time="20200109_142620" BuildInfo="1.48_1627_d8336fef">
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.temp.equipment_cash.cap.cash_cap_1908_01005005.unity3d" Version="1" Size="30323" KB="29.6" FileCRC="1248306723" CRC="448576364" legacyCRC="2012013837" legacyCRC_0="2012013837" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.temp.equipment_cash.cap.cash_cap_1909_01004585.unity3d" Version="1" Size="23126" KB="22.6" FileCRC="3762126293" CRC="43123901" legacyCRC="881382274" legacyCRC_0="881382274" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.temp.equipment_cash.cap.cash_cap_1909_01004586.unity3d" Version="1" Size="23689" KB="23.1" FileCRC="2031990163" CRC="39084189" legacyCRC="314346536" legacyCRC_0="314346536" />
