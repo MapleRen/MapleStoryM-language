@@ -1,78 +1,78 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20200618_143539" Region="Korea" BuildInfo="1.52_1783_efef3fa5_IOS" CommitHash="" DependencyHash="" PackCount="6" FileCount="87" TotalSize="72483986" MB="69.1" Compressed="False" Source="/Jenkins/workspace/KoreaStage/Korea_AT_IOS_Stage/TABLE/Table/" />
+  <Header CRC="20200625_140340" Region="Korea" BuildInfo="1.53_2026_bbd1478b_IOS" CommitHash="" DependencyHash="" PackCount="6" FileCount="87" TotalSize="73478556" MB="70.1" Compressed="False" Source="/Jenkins/workspace/KoreaQA/Korea_AT_IOS_QA/TABLE/Table/" />
   <PackList Count="6">
-    <PackInfo Name="pack_001.bin" Size="11393116" MB="10.9" FileCount="9" FileCRC="2723154520" Time="20200602_134805" BuildInfo="1.52_1966_c18b1e08_IOS">
-      <Data Time="20200618_143539" BuildInfo="1.52_1783_efef3fa5_IOS" Path="data.bin.lan.kor.ifo" Version="1" Size="562544" KB="549.4" FileCRC="1707012463" CRC="1707012463" />
-      <Data Time="20200618_143539" BuildInfo="1.52_1783_efef3fa5_IOS" Path="data.bin.lan.kor.tbl" Version="12" Size="5342773" KB="5,217.6" FileCRC="3663612836" CRC="3663612836" />
-      <AssetBundle Time="20200618_143539" BuildInfo="1.52_1783_efef3fa5_IOS" Path="data.table.unity3d" Version="12" Size="6688609" KB="986.0" FileCRC="866094360" CRC="866094360" />
-      <Data Time="20200602_134805" BuildInfo="1.52_1966_c18b1e08_IOS" Path="data.bin.activator.tbl" Version="1" Size="854023" KB="834.0" FileCRC="1290625237" CRC="1290625237" />
-      <Data Time="20200602_134805" BuildInfo="1.52_1966_c18b1e08_IOS" Path="data.bin.auctionrenewal.tbl" Version="1" Size="77743" KB="75.9" FileCRC="2498152654" CRC="2498152654" />
-      <Data Time="20200602_134805" BuildInfo="1.52_1966_c18b1e08_IOS" Path="data.bin.client.buff.tbl" Version="1" Size="1768109" KB="1,726.7" FileCRC="1294057463" CRC="1294057463" />
-      <Data Time="20200602_134805" BuildInfo="1.52_1966_c18b1e08_IOS" Path="data.bin.client.dummy.ifo" Version="1" Size="370658" KB="362.0" FileCRC="280094847" CRC="280094847" />
-      <Data Time="20200602_134805" BuildInfo="1.52_1966_c18b1e08_IOS" Path="data.bin.client.effect.ifo" Version="1" Size="51994" KB="50.8" FileCRC="375080915" CRC="375080915" />
-      <Data Time="20200602_134805" BuildInfo="1.52_1966_c18b1e08_IOS" Path="data.bin.client.effect.tbl" Version="1" Size="1355334" KB="1,323.6" FileCRC="1025281464" CRC="1025281464" />
+    <PackInfo Name="pack_001.bin" Size="18464869" MB="17.6" FileCount="4" FileCRC="3504135204" Time="20200625_113734" BuildInfo="1.53_2025_3f200911_IOS">
+      <Data Time="20200625_140340" BuildInfo="1.53_2026_bbd1478b_IOS" Path="data.bin.client.dummy.tbl" Version="1" Size="3859771" KB="3,769.3" FileCRC="598984872" CRC="598984872" />
+      <Data Time="20200625_140340" BuildInfo="1.53_2026_bbd1478b_IOS" Path="data.bin.lan.kor.ifo" Version="1" Size="564822" KB="551.6" FileCRC="3201722489" CRC="3201722489" />
+      <Data Time="20200625_140340" BuildInfo="1.53_2026_bbd1478b_IOS" Path="data.bin.lan.kor.tbl" Version="2" Size="5350415" KB="5,225.0" FileCRC="665165621" CRC="665165621" />
+      <Data Time="20200625_113734" BuildInfo="1.53_2025_3f200911_IOS" Path="data.bin.client.item.tbl" Version="1" Size="8689740" KB="8,486.1" FileCRC="1865617848" CRC="1865617848" />
     </PackInfo>
-    <PackInfo Name="pack_002.bin" Size="15713508" MB="15.0" FileCount="5" FileCRC="1757323250" Time="20200602_134805" BuildInfo="1.52_1966_c18b1e08_IOS">
+    <PackInfo Name="pack_002.bin" Size="11132466" MB="10.6" FileCount="8" FileCRC="525820814" Time="20200624_163128" BuildInfo="1.53_2019_63af9c5f_IOS">
+      <Data Time="20200624_224847" BuildInfo="1.53_2022_4807eed2_IOS" Path="data.bin.client.skill.descriptionset.tbl" Version="1" Size="3497750" KB="3,415.8" FileCRC="1796929606" CRC="1796929606" />
+      <AssetBundle Time="20200624_224847" BuildInfo="1.53_2022_4807eed2_IOS" Path="data.language_kor.unity3d" Version="2" Size="10580213" KB="2,997.0" FileCRC="1665466802" CRC="1665466802" />
+      <AssetBundle Time="20200624_224847" BuildInfo="1.53_2022_4807eed2_IOS" Path="data.table.unity3d" Version="2" Size="6887793" KB="1,005.5" FileCRC="3247420975" CRC="3247420975" />
+      <Data Time="20200624_163128" BuildInfo="1.53_2019_63af9c5f_IOS" Path="data.bin.client.buff.tbl" Version="1" Size="1797767" KB="1,755.6" FileCRC="656524683" CRC="656524683" />
+      <Data Time="20200624_163128" BuildInfo="1.53_2019_63af9c5f_IOS" Path="data.bin.client.world.ifo" Version="1" Size="52408" KB="51.2" FileCRC="605259309" CRC="605259309" />
+      <Data Time="20200624_163128" BuildInfo="1.53_2019_63af9c5f_IOS" Path="data.bin.client.world.tbl" Version="1" Size="519337" KB="507.2" FileCRC="2083591305" CRC="2083591305" />
+      <Data Time="20200624_163128" BuildInfo="1.53_2019_63af9c5f_IOS" Path="data.bin.gachaitem.ifo" Version="1" Size="47681" KB="46.6" FileCRC="3054201830" CRC="3054201830" />
+      <Data Time="20200624_163128" BuildInfo="1.53_2019_63af9c5f_IOS" Path="data.bin.gachaitem.tbl" Version="1" Size="1118787" KB="1,092.6" FileCRC="3901060630" CRC="3901060630" />
+    </PackInfo>
+    <PackInfo Name="pack_003.bin" Size="11738481" MB="11.2" FileCount="4" FileCRC="2823529238" Time="20200624_041130" BuildInfo="1.53_2018_14c25782_IOS">
+      <Data Time="20200624_163128" BuildInfo="1.53_2019_63af9c5f_IOS" Path="data.bin.result.tbl" Version="1" Size="4054954" KB="3,959.9" FileCRC="87715627" CRC="87715627" />
+      <Data Time="20200624_041130" BuildInfo="1.53_2018_14c25782_IOS" Path="data.bin.client.item.ifo" Version="1" Size="582346" KB="568.7" FileCRC="3252849598" CRC="3252849598" />
+      <Data Time="20200624_041130" BuildInfo="1.53_2018_14c25782_IOS" Path="data.bin.client.skill.descriptionset.ifo" Version="1" Size="256900" KB="250.9" FileCRC="1824343733" CRC="1824343733" />
+      <Data Time="20200624_041130" BuildInfo="1.53_2018_14c25782_IOS" Path="data.bin.client.skill.tbl" Version="1" Size="6844141" KB="6,683.7" FileCRC="2730801081" CRC="2730801081" />
+    </PackInfo>
+    <PackInfo Name="pack_004.bin" Size="11195063" MB="10.7" FileCount="11" FileCRC="1339368266" Time="20200617_190152" BuildInfo="1.53_2006_72ca6c78_IOS">
+      <Data Time="20200623_041110" BuildInfo="1.53_2016_af1f9195_IOS" Path="data.bin.client.dummy.ifo" Version="1" Size="375147" KB="366.4" FileCRC="3214301304" CRC="3214301304" />
+      <Data Time="20200622_094504" BuildInfo="1.53_2014_0cf649c0_IOS" Path="data.bin.slang.tbl" Version="1" Size="88373" KB="86.3" FileCRC="4017180692" CRC="4017180692" />
+      <Data Time="20200618_184916" BuildInfo="1.53_2008_7320d061_IOS" Path="data.bin.activator.tbl" Version="1" Size="866240" KB="845.9" FileCRC="2008127602" CRC="2008127602" />
+      <Data Time="20200618_184916" BuildInfo="1.53_2008_7320d061_IOS" Path="data.bin.client.activator.tbl" Version="1" Size="407233" KB="397.7" FileCRC="3926191072" CRC="3926191072" />
+      <Data Time="20200618_184916" BuildInfo="1.53_2008_7320d061_IOS" Path="data.bin.client.effect.tbl" Version="1" Size="1377675" KB="1,345.4" FileCRC="1014102055" CRC="1014102055" />
+      <Data Time="20200618_184916" BuildInfo="1.53_2008_7320d061_IOS" Path="data.bin.lang.kor.questxml.ifo" Version="1" Size="46994" KB="45.9" FileCRC="3523686583" CRC="3523686583" />
+      <Data Time="20200618_184916" BuildInfo="1.53_2008_7320d061_IOS" Path="data.bin.lang.kor.questxml.tbl" Version="1" Size="595901" KB="581.9" FileCRC="2730689549" CRC="2730689549" />
+      <Data Time="20200617_190152" BuildInfo="1.53_2006_72ca6c78_IOS" Path="data.bin.client.partsset.ifo" Version="1" Size="97202" KB="94.9" FileCRC="632016004" CRC="632016004" />
+      <Data Time="20200617_190152" BuildInfo="1.53_2006_72ca6c78_IOS" Path="data.bin.client.partsset.tbl" Version="1" Size="3237426" KB="3,161.5" FileCRC="3872900635" CRC="3872900635" />
+      <Data Time="20200617_190152" BuildInfo="1.53_2006_72ca6c78_IOS" Path="data.bin.result.ifo" Version="1" Size="490434" KB="478.9" FileCRC="1226326265" CRC="1226326265" />
+      <Data Time="20200617_190152" BuildInfo="1.53_2006_72ca6c78_IOS" Path="data.bin.task.tbl" Version="1" Size="3612078" KB="3,527.4" FileCRC="2580671888" CRC="2580671888" />
+    </PackInfo>
+    <PackInfo Name="pack_005.bin" Size="12238570" MB="11.7" FileCount="11" FileCRC="3099630806" Time="20200611_061935" BuildInfo="1.53_1978_c2b5f7bb_IOS">
+      <Data Time="20200617_082710" BuildInfo="1.53_2005_1723bbec_IOS" Path="data.bin.auctionrenewal.tbl" Version="1" Size="78450" KB="76.6" FileCRC="3657833605" CRC="3657833605" />
+      <Data Time="20200616_185227" BuildInfo="1.53_2004_9f897ff3_IOS" Path="data.bin.client.effect.ifo" Version="1" Size="52812" KB="51.6" FileCRC="2731284950" CRC="2731284950" />
+      <Data Time="20200616_185227" BuildInfo="1.53_2004_9f897ff3_IOS" Path="data.bin.client.vehicle.tbl" Version="1" Size="179550" KB="175.3" FileCRC="2642222586" CRC="2642222586" />
+      <Data Time="20200613_051753" BuildInfo="1.53_1989_6d52ac3b_IOS" Path="data.bin.arrange.tbl" Version="1" Size="458211" KB="447.5" FileCRC="2413506034" CRC="2413506034" />
+      <Data Time="20200613_051753" BuildInfo="1.53_1989_6d52ac3b_IOS" Path="data.bin.client.icon.ifo" Version="1" Size="355119" KB="346.8" FileCRC="2833305475" CRC="2833305475" />
+      <Data Time="20200613_051753" BuildInfo="1.53_1989_6d52ac3b_IOS" Path="data.bin.client.icon.tbl" Version="1" Size="700898" KB="684.5" FileCRC="438026601" CRC="438026601" />
+      <Data Time="20200613_051753" BuildInfo="1.53_1989_6d52ac3b_IOS" Path="data.bin.place.tbl" Version="1" Size="506151" KB="494.3" FileCRC="2924371455" CRC="2924371455" />
+      <Data Time="20200613_051753" BuildInfo="1.53_1989_6d52ac3b_IOS" Path="data.bin.task.ifo" Version="1" Size="123047" KB="120.2" FileCRC="2893227994" CRC="2893227994" />
+      <Data Time="20200611_061935" BuildInfo="1.53_1978_c2b5f7bb_IOS" Path="data.bin.addoption.tbl" Version="1" Size="18185" KB="17.8" FileCRC="2655800115" CRC="2655800115" />
+      <Data Time="20200611_061935" BuildInfo="1.53_1978_c2b5f7bb_IOS" Path="data.bin.physicx_slope.tbl" Version="1" Size="88606" KB="86.5" FileCRC="1033975397" CRC="1033975397" />
+      <Data Time="20200611_061935" BuildInfo="1.53_1978_c2b5f7bb_IOS" Path="data.bin.physicx_terrain.tbl" Version="1" Size="9677194" KB="9,450.4" FileCRC="582102116" CRC="582102116" />
+    </PackInfo>
+    <PackInfo Name="pack_006.bin" Size="8711853" MB="8.3" FileCount="49" FileCRC="1354915148" Time="20190822_154003" BuildInfo="0.90_817Q_093cefa3">
+      <Data Time="20200610_061945" BuildInfo="1.53_1975_efb01ea9_IOS" Path="data.bin.physicx_terrain.ifo" Version="1" Size="11378" KB="11.1" FileCRC="788130651" CRC="788130651" />
+      <Data Time="20200610_061945" BuildInfo="1.53_1975_efb01ea9_IOS" Path="data.bin.place.ifo" Version="1" Size="394256" KB="385.0" FileCRC="74896497" CRC="74896497" />
+      <Data Time="20200610_061945" BuildInfo="1.53_1975_efb01ea9_IOS" Path="data.bin.warp.ifo" Version="1" Size="104628" KB="102.2" FileCRC="2823231780" CRC="2823231780" />
+      <Data Time="20200610_061945" BuildInfo="1.53_1975_efb01ea9_IOS" Path="data.bin.warp.tbl" Version="1" Size="413654" KB="404.0" FileCRC="2229456370" CRC="2229456370" />
+      <Data Time="20200609_081324" BuildInfo="1.53_1974_d58cde17_IOS" Path="data.bin.questreward.ifo" Version="1" Size="129190" KB="126.2" FileCRC="4050713527" CRC="4050713527" />
+      <Data Time="20200609_081324" BuildInfo="1.53_1974_d58cde17_IOS" Path="data.bin.questreward.tbl" Version="1" Size="519239" KB="507.1" FileCRC="4002654038" CRC="4002654038" />
+      <Data Time="20200609_081324" BuildInfo="1.53_1974_d58cde17_IOS" Path="data.bin.tag.tbl" Version="1" Size="1806" KB="1.8" FileCRC="2452591142" CRC="2452591142" />
+      <Data Time="20200608_115211" BuildInfo="1.53_1973_b1ea1c2c_IOS" Path="data.bin.setitems.tbl" Version="1" Size="40753" KB="39.8" FileCRC="3832988963" CRC="3832988963" />
+      <Data Time="20200605_145334" BuildInfo="1.53_1970_cf6aed6d_IOS" Path="data.bin.arrange.ifo" Version="1" Size="192932" KB="188.4" FileCRC="3048170511" CRC="3048170511" />
+      <Data Time="20200605_145334" BuildInfo="1.53_1970_cf6aed6d_IOS" Path="data.bin.client.face.tbl" Version="1" Size="137574" KB="134.3" FileCRC="3241760737" CRC="3241760737" />
+      <Data Time="20200605_145334" BuildInfo="1.53_1970_cf6aed6d_IOS" Path="data.bin.client.hair.tbl" Version="1" Size="238364" KB="232.8" FileCRC="3176217605" CRC="3176217605" />
+      <Data Time="20200605_145334" BuildInfo="1.53_1970_cf6aed6d_IOS" Path="data.bin.joblevel.ifo" Version="1" Size="107762" KB="105.2" FileCRC="3559384692" CRC="3559384692" />
+      <Data Time="20200605_145334" BuildInfo="1.53_1970_cf6aed6d_IOS" Path="data.bin.joblevel.tbl" Version="1" Size="5093529" KB="4,974.1" FileCRC="132421913" CRC="132421913" />
+      <Data Time="20200605_145334" BuildInfo="1.53_1970_cf6aed6d_IOS" Path="data.bin.petequipcode.tbl" Version="1" Size="3574" KB="3.5" FileCRC="1981499567" CRC="1981499567" />
+      <Data Time="20200605_145334" BuildInfo="1.53_1970_cf6aed6d_IOS" Path="data.bin.petsetoption.tbl" Version="1" Size="19758" KB="19.3" FileCRC="2779608905" CRC="2779608905" />
+      <Data Time="20200605_145334" BuildInfo="1.53_1970_cf6aed6d_IOS" Path="data.bin.physicx_slope.ifo" Version="1" Size="4476" KB="4.4" FileCRC="3611982105" CRC="3611982105" />
+      <Data Time="20200605_145334" BuildInfo="1.53_1970_cf6aed6d_IOS" Path="data.bin.upgradedefault.tbl" Version="1" Size="965066" KB="942.4" FileCRC="1509822389" CRC="1509822389" />
       <Data Time="20200602_134805" BuildInfo="1.52_1966_c18b1e08_IOS" Path="data.bin.client.guildmark.ifo" Version="1" Size="18834" KB="18.4" FileCRC="3756281215" CRC="3756281215" />
-      <Data Time="20200602_134805" BuildInfo="1.52_1966_c18b1e08_IOS" Path="data.bin.client.item.tbl" Version="1" Size="8585661" KB="8,384.4" FileCRC="178300107" CRC="178300107" />
-      <Data Time="20200602_134805" BuildInfo="1.52_1966_c18b1e08_IOS" Path="data.bin.client.partsset.ifo" Version="1" Size="96762" KB="94.5" FileCRC="824411976" CRC="824411976" />
-      <Data Time="20200602_134805" BuildInfo="1.52_1966_c18b1e08_IOS" Path="data.bin.client.skill.descriptionset.ifo" Version="1" Size="254101" KB="248.1" FileCRC="2105714187" CRC="2105714187" />
-      <Data Time="20200602_134805" BuildInfo="1.52_1966_c18b1e08_IOS" Path="data.bin.client.skill.tbl" Version="1" Size="6757964" KB="6,599.6" FileCRC="4123540619" CRC="4123540619" />
-    </PackInfo>
-    <PackInfo Name="pack_003.bin" Size="12344656" MB="11.8" FileCount="9" FileCRC="1499687435" Time="20200527_194948" BuildInfo="1.52_1957_25e93ca6_IOS">
-      <Data Time="20200602_134805" BuildInfo="1.52_1966_c18b1e08_IOS" Path="data.bin.client.vehicle.tbl" Version="1" Size="177675" KB="173.5" FileCRC="2380572598" CRC="2380572598" />
-      <Data Time="20200602_134805" BuildInfo="1.52_1966_c18b1e08_IOS" Path="data.bin.joblevel.ifo" Version="1" Size="107762" KB="105.2" FileCRC="2590328214" CRC="2590328214" />
-      <Data Time="20200602_134805" BuildInfo="1.52_1966_c18b1e08_IOS" Path="data.bin.petsetoption.tbl" Version="1" Size="19465" KB="19.0" FileCRC="4017320670" CRC="4017320670" />
-      <Data Time="20200602_134805" BuildInfo="1.52_1966_c18b1e08_IOS" Path="data.bin.questreward.tbl" Version="1" Size="509734" KB="497.8" FileCRC="445039285" CRC="445039285" />
-      <Data Time="20200602_134805" BuildInfo="1.52_1966_c18b1e08_IOS" Path="data.bin.result.tbl" Version="1" Size="4013759" KB="3,919.7" FileCRC="471482192" CRC="471482192" />
-      <Data Time="20200602_134805" BuildInfo="1.52_1966_c18b1e08_IOS" Path="data.bin.task.ifo" Version="1" Size="120635" KB="117.8" FileCRC="1806339847" CRC="1806339847" />
-      <Data Time="20200529_141924" BuildInfo="1.52_1963_26e68b81_IOS" Path="data.bin.client.dummy.tbl" Version="1" Size="3784538" KB="3,695.8" FileCRC="2294131449" CRC="2294131449" />
-      <Data Time="20200528_130710" BuildInfo="1.52_1959_3dc466d7_IOS" Path="data.bin.client.item.ifo" Version="1" Size="577880" KB="564.3" FileCRC="2688754638" CRC="2688754638" />
-      <AssetBundle Time="20200527_194948" BuildInfo="1.52_1957_25e93ca6_IOS" Path="data.language_kor.unity3d" Version="12" Size="10233673" KB="2,961.8" FileCRC="2696716452" CRC="2696716452" />
-    </PackInfo>
-    <PackInfo Name="pack_004.bin" Size="10866370" MB="10.4" FileCount="6" FileCRC="1321529339" Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS">
-      <Data Time="20200527_041553" BuildInfo="1.52_1955_61be04a9_IOS" Path="data.bin.client.skill.descriptionset.tbl" Version="1" Size="3469459" KB="3,388.1" FileCRC="4000992245" CRC="4000992245" />
       <Data Time="20200527_041553" BuildInfo="1.52_1955_61be04a9_IOS" Path="data.bin.potentialgrade.tbl" Version="1" Size="449" KB="0.4" FileCRC="3467176472" CRC="3467176472" />
-      <Data Time="20200527_041553" BuildInfo="1.52_1955_61be04a9_IOS" Path="data.bin.task.tbl" Version="1" Size="3523688" KB="3,441.1" FileCRC="4170836459" CRC="4170836459" />
-      <Data Time="20200526_180713" BuildInfo="1.52_1954_90928ab4_IOS" Path="data.bin.client.partsset.tbl" Version="1" Size="3222733" KB="3,147.2" FileCRC="1120978510" CRC="1120978510" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.arrange.ifo" Version="1" Size="192548" KB="188.0" FileCRC="2723257852" CRC="2723257852" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.arrange.tbl" Version="1" Size="457293" KB="446.6" FileCRC="715872810" CRC="715872810" />
-    </PackInfo>
-    <PackInfo Name="pack_005.bin" Size="18840837" MB="18.0" FileCount="18" FileCRC="3360444157" Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS">
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.client.activator.tbl" Version="1" Size="402291" KB="392.9" FileCRC="2784468846" CRC="2784468846" />
       <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.client.body.tbl" Version="1" Size="1393" KB="1.4" FileCRC="252775553" CRC="252775553" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.client.face.tbl" Version="1" Size="136744" KB="133.5" FileCRC="571908172" CRC="571908172" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.client.hair.tbl" Version="1" Size="237580" KB="232.0" FileCRC="2285142293" CRC="2285142293" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.client.icon.ifo" Version="1" Size="350705" KB="342.5" FileCRC="2098633448" CRC="2098633448" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.client.icon.tbl" Version="1" Size="691993" KB="675.8" FileCRC="2121873874" CRC="2121873874" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.client.world.ifo" Version="1" Size="51477" KB="50.3" FileCRC="767969948" CRC="767969948" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.client.world.tbl" Version="1" Size="510184" KB="498.2" FileCRC="2454658894" CRC="2454658894" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.gachaitem.ifo" Version="1" Size="46893" KB="45.8" FileCRC="3798322588" CRC="3798322588" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.gachaitem.tbl" Version="1" Size="1104121" KB="1,078.2" FileCRC="271666449" CRC="271666449" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.joblevel.tbl" Version="1" Size="5048145" KB="4,929.8" FileCRC="4077064479" CRC="4077064479" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.lang.kor.questxml.ifo" Version="1" Size="46092" KB="45.0" FileCRC="104933997" CRC="104933997" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.lang.kor.questxml.tbl" Version="1" Size="584224" KB="570.5" FileCRC="136062970" CRC="136062970" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.petequipcode.tbl" Version="1" Size="3526" KB="3.4" FileCRC="885298797" CRC="885298797" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.physicx_slope.ifo" Version="1" Size="4404" KB="4.3" FileCRC="588386253" CRC="588386253" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.physicx_slope.tbl" Version="1" Size="87844" KB="85.8" FileCRC="3622621479" CRC="3622621479" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.physicx_terrain.ifo" Version="1" Size="11156" KB="10.9" FileCRC="2947817476" CRC="2947817476" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.physicx_terrain.tbl" Version="1" Size="9521464" KB="9,298.3" FileCRC="3593859371" CRC="3593859371" />
-    </PackInfo>
-    <PackInfo Name="pack_006.bin" Size="3328245" MB="3.2" FileCount="40" FileCRC="3128170446" Time="20190822_154003" BuildInfo="0.90_817Q_093cefa3">
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.place.ifo" Version="1" Size="381030" KB="372.1" FileCRC="3335208775" CRC="3335208775" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.place.tbl" Version="1" Size="488794" KB="477.3" FileCRC="2101016753" CRC="2101016753" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.questreward.ifo" Version="1" Size="126660" KB="123.7" FileCRC="1959608603" CRC="1959608603" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.result.ifo" Version="1" Size="483942" KB="472.6" FileCRC="2465304198" CRC="2465304198" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.setitems.tbl" Version="1" Size="40290" KB="39.3" FileCRC="4293742204" CRC="4293742204" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.slang.tbl" Version="1" Size="85236" KB="83.2" FileCRC="1992553054" CRC="1992553054" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.tag.tbl" Version="1" Size="1792" KB="1.8" FileCRC="3993611697" CRC="3993611697" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.upgradedefault.tbl" Version="1" Size="879650" KB="859.0" FileCRC="757322474" CRC="757322474" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.warp.ifo" Version="1" Size="104135" KB="101.7" FileCRC="1268675647" CRC="1268675647" />
-      <Data Time="20200526_112414" BuildInfo="1.52_1951_55a1181e_IOS" Path="data.bin.warp.tbl" Version="1" Size="411611" KB="402.0" FileCRC="587635830" CRC="587635830" />
       <Data Time="20200331_095645" BuildInfo="1.51_1819_d4340037_IOS" Path="data.bin.client.guildmark.tbl" Version="1" Size="170779" KB="166.8" FileCRC="513976904" CRC="513976904" />
       <Data Time="20200303_173123" BuildInfo="1.50_1764_7777dd5a_IOS" Path="data.bin.client.ear.tbl" Version="1" Size="188" KB="0.2" FileCRC="2529408249" CRC="2529408249" />
-      <Data Time="20200122_182534" BuildInfo="1.49_1670_711f7ec7" Path="data.bin.addoption.tbl" Version="1" Size="12180" KB="11.9" FileCRC="1243196042" CRC="1243196042" />
       <Data Time="20191217_181511" BuildInfo="1.47_967Q_442a9ff6" Path="data.bin.addoptiongrade.tbl" Version="1" Size="110" KB="0.1" FileCRC="4100598046" CRC="4100598046" />
       <Data Time="20191204_191927" BuildInfo="1.47_935Q_703e96da" Path="data.bin.potentialcost.tbl" Version="1" Size="117810" KB="115.0" FileCRC="2983648943" CRC="2983648943" />
       <Data Time="20190822_154003" BuildInfo="0.90_817Q_093cefa3" Path="data.bin.client.itemcharactereffect.tbl" Version="1" Size="668" KB="0.7" FileCRC="13511040" CRC="13511040" />
