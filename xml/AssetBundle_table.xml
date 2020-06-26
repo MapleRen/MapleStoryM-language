@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20200625_140340" Region="Korea" BuildInfo="1.53_2026_bbd1478b_IOS" CommitHash="" DependencyHash="" PackCount="6" FileCount="87" TotalSize="73478556" MB="70.1" Compressed="False" Source="/Jenkins/workspace/KoreaQA/Korea_AT_IOS_QA/TABLE/Table/" />
+  <Header CRC="20200626_155156" Region="Korea" BuildInfo="1.53_2031_3b91dfb3_IOS" CommitHash="" DependencyHash="" PackCount="6" FileCount="87" TotalSize="73478556" MB="70.1" Compressed="False" Source="/Jenkins/workspace/KoreaQA/Korea_AT_IOS_QA/TABLE/Table/" />
   <PackList Count="6">
-    <PackInfo Name="pack_001.bin" Size="18464869" MB="17.6" FileCount="4" FileCRC="3504135204" Time="20200625_113734" BuildInfo="1.53_2025_3f200911_IOS">
-      <Data Time="20200625_140340" BuildInfo="1.53_2026_bbd1478b_IOS" Path="data.bin.client.dummy.tbl" Version="1" Size="3859771" KB="3,769.3" FileCRC="598984872" CRC="598984872" />
+    <PackInfo Name="pack_001.bin" Size="18464869" MB="17.6" FileCount="4" FileCRC="3829070167" Time="20200625_113734" BuildInfo="1.53_2025_3f200911_IOS">
+      <Data Time="20200626_155156" BuildInfo="1.53_2031_3b91dfb3_IOS" Path="data.bin.client.dummy.tbl" Version="1" Size="3859771" KB="3,769.3" FileCRC="4241915027" CRC="4241915027" />
       <Data Time="20200625_140340" BuildInfo="1.53_2026_bbd1478b_IOS" Path="data.bin.lan.kor.ifo" Version="1" Size="564822" KB="551.6" FileCRC="3201722489" CRC="3201722489" />
       <Data Time="20200625_140340" BuildInfo="1.53_2026_bbd1478b_IOS" Path="data.bin.lan.kor.tbl" Version="99" Size="5350415" KB="5,225.0" FileCRC="936114204" CRC="936114204" />
       <Data Time="20200625_113734" BuildInfo="1.53_2025_3f200911_IOS" Path="data.bin.client.item.tbl" Version="1" Size="8689740" KB="8,486.1" FileCRC="1865617848" CRC="1865617848" />
