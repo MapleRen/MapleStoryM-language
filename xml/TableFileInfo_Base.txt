@@ -1,8 +1,9 @@
+data.bin.client.guildmark.ifo	2829832966	1	2829832966
+data.bin.lan.kor.ifo	524387016	1	524387016
+data.bin.lan.kor.tbl	3133377198	8	3133377198
 data.bin.client.skill.descriptionset.tbl	3463819514	1	3463819514
 data.bin.result.tbl	3568203864	1	3568203864
 data.bin.client.dummy.tbl	4241915027	1	4241915027
-data.bin.lan.kor.ifo	3201722489	1	3201722489
-data.bin.lan.kor.tbl	1274514247	7	1274514247
 data.bin.client.item.tbl	1865617848	1	1865617848
 data.bin.client.buff.tbl	656524683	1	656524683
 data.bin.client.world.ifo	605259309	1	605259309
@@ -51,7 +52,6 @@ data.bin.petequipcode.tbl	1981499567	1	1981499567
 data.bin.petsetoption.tbl	2779608905	1	2779608905
 data.bin.physicx_slope.ifo	3611982105	1	3611982105
 data.bin.upgradedefault.tbl	1509822389	1	1509822389
-data.bin.client.guildmark.ifo	3756281215	1	3756281215
 data.bin.potentialgrade.tbl	3467176472	1	3467176472
 data.bin.client.body.tbl	252775553	1	252775553
 data.bin.client.guildmark.tbl	513976904	1	513976904
@@ -84,4 +84,4 @@ data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
 data.language_kor.unity3d	3088614752	1	3248349119
-data.table.unity3d	2595942988	7	2595942988
+data.table.unity3d	2595942988	8	2595942988
