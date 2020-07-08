@@ -1,6 +1,7 @@
+data.bin.slang.tbl	3692880049	1	3692880049
 data.bin.client.guildmark.ifo	2829832966	1	2829832966
 data.bin.lan.kor.ifo	524387016	1	524387016
-data.bin.lan.kor.tbl	3133377198	8	3133377198
+data.bin.lan.kor.tbl	1973677264	9	1973677264
 data.bin.client.skill.descriptionset.tbl	3463819514	1	3463819514
 data.bin.result.tbl	3568203864	1	3568203864
 data.bin.client.dummy.tbl	4241915027	1	4241915027
@@ -14,7 +15,6 @@ data.bin.client.item.ifo	3252849598	1	3252849598
 data.bin.client.skill.descriptionset.ifo	1824343733	1	1824343733
 data.bin.client.skill.tbl	2730801081	1	2730801081
 data.bin.client.dummy.ifo	3214301304	1	3214301304
-data.bin.slang.tbl	4017180692	1	4017180692
 data.bin.activator.tbl	2008127602	1	2008127602
 data.bin.client.activator.tbl	3926191072	1	3926191072
 data.bin.client.effect.tbl	1014102055	1	1014102055
@@ -84,4 +84,4 @@ data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
 data.language_kor.unity3d	3088614752	1	3248349119
-data.table.unity3d	2595942988	8	2595942988
+data.table.unity3d	2595942988	9	2595942988
