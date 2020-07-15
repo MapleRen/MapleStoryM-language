@@ -1,7 +1,7 @@
+data.bin.lan.kor.ifo	1200110253	1	1200110253
+data.bin.lan.kor.tbl	274815157	10	274815157
 data.bin.slang.tbl	3692880049	1	3692880049
 data.bin.client.guildmark.ifo	2829832966	1	2829832966
-data.bin.lan.kor.ifo	524387016	1	524387016
-data.bin.lan.kor.tbl	1973677264	9	1973677264
 data.bin.client.skill.descriptionset.tbl	3463819514	1	3463819514
 data.bin.result.tbl	3568203864	1	3568203864
 data.bin.client.dummy.tbl	4241915027	1	4241915027
@@ -83,5 +83,5 @@ data.bin.table_version.ifo	2927010390	1	2927010390
 data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
-data.language_kor.unity3d	1947474553	9	1947474553
-data.table.unity3d	2595942988	9	2595942988
+data.table.unity3d	2158203141	10	2158203141
+data.language_kor.unity3d	1947474553	10	1947474553
