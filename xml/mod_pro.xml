@@ -5,7 +5,7 @@
     <PackInfo Name="pack_001.bin" Size="10658237" MB="10.2" FileCount="7" FileCRC="2380090436" Time="20200629_173134" BuildInfo="1.53_2036_915b0e06_IOS">
       <Data Time="20200720_152406" BuildInfo="1.53_1786_534cdb62_IOS" Path="data.bin.joblevel.ifo" Version="1" Size="107756" KB="105.2" FileCRC="3704248145" CRC="3704248145" />
       <Data Time="20200720_152406" BuildInfo="1.53_1786_534cdb62_IOS" Path="data.bin.lan.kor.ifo" Version="1" Size="564664" KB="551.4" FileCRC="2630433816" CRC="2630433816" />
-      <Data Time="20200720_152406" BuildInfo="1.53_1786_534cdb62_IOS" Path="data.bin.lan.kor.tbl" Version="12" Size="5350395" KB="5,223.2" FileCRC="2625952932" CRC="2625952932" />
+      <Data Time="20200720_152406" BuildInfo="1.53_1786_534cdb62_IOS" Path="data.bin.lan.kor.tbl" Version="1" Size="5348529" KB="5,223.2" FileCRC="3123587494" CRC="3123587494" />
       <AssetBundle Time="20200714_165614" BuildInfo="1.53_1785_014c6674_IOS" Path="data.table.unity3d" Version="12" Size="6881817" KB="1,005.5" FileCRC="2158203141" CRC="2158203141" />
       <Data Time="20200708_100117" BuildInfo="1.53_2038_a3c3607d_IOS" Path="data.bin.slang.tbl" Version="1" Size="90862" KB="88.7" FileCRC="3692880049" CRC="3692880049" />
       <Data Time="20200702_161937" BuildInfo="1.53_2037_a2459880_IOS" Path="data.bin.client.guildmark.ifo" Version="1" Size="18828" KB="18.4" FileCRC="2829832966" CRC="2829832966" />
