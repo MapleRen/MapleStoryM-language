@@ -1,6 +1,6 @@
 data.bin.joblevel.ifo	3704248145	1	3704248145
 data.bin.lan.kor.ifo	2630433816	1	2630433816
-data.bin.lan.kor.tbl	3123587494	12	3123587494
+data.bin.lan.kor.tbl	2547869771	12	2547869771
 data.bin.slang.tbl	3692880049	1	3692880049
 data.bin.client.guildmark.ifo	2829832966	1	2829832966
 data.bin.client.skill.descriptionset.tbl	3463819514	1	3463819514
