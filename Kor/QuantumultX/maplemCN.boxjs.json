@@ -1,26 +1,30 @@
 {
     "id": "maplemCN.app.sub",
-    "name": "冒险岛M应用",
+    "name": "冒险岛M汉化配置订阅",
     "author": "@Ren",
     "icon": "https://avatars2.githubusercontent.com/u/40163424",
     "repo": "https://github.com/MapleRen/MapleStoryM-language",
     "apps": [
         {
             "id": "maplemKR2CN",
-            "name": "冒险岛M汉化配置",
+            "name": "冒险岛M韩服",
             "keys": [
                 "maplem-kr-mode"
             ],
             "settings": [
                 {
-                    "id": "msm-trans-mode",
-                    "name": "仓库地址",
+                    "id": "maplem-kr-mode",
+                    "name": "汉化模式",
                     "val": "CLEAR",
                     "type": "radios",
                     "items": [
                         {
                             "key": "CLEAR",
                             "label": "清理缓存(Clear)"
+                        },
+                        {
+                            "key": "RESTORE",
+                            "label": "韩文原版(Restore)"
                         },
                         {
                             "key": "BASE",
