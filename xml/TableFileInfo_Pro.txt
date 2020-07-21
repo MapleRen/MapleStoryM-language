@@ -1,5 +1,6 @@
-data.bin.lan.kor.ifo	1200110253	1	1200110253
-data.bin.lan.kor.tbl	274815157	10	274815157
+data.bin.joblevel.ifo	3704248145	1	3704248145
+data.bin.lan.kor.ifo	2630433816	1	2630433816
+data.bin.lan.kor.tbl	2625952932	12	2625952932
 data.bin.slang.tbl	3692880049	1	3692880049
 data.bin.client.guildmark.ifo	2829832966	1	2829832966
 data.bin.client.skill.descriptionset.tbl	3463819514	1	3463819514
@@ -46,7 +47,6 @@ data.bin.setitems.tbl	3832988963	1	3832988963
 data.bin.arrange.ifo	3048170511	1	3048170511
 data.bin.client.face.tbl	3241760737	1	3241760737
 data.bin.client.hair.tbl	3176217605	1	3176217605
-data.bin.joblevel.ifo	3559384692	1	3559384692
 data.bin.joblevel.tbl	132421913	1	132421913
 data.bin.petequipcode.tbl	1981499567	1	1981499567
 data.bin.petsetoption.tbl	2779608905	1	2779608905
@@ -83,5 +83,5 @@ data.bin.table_version.ifo	2927010390	1	2927010390
 data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
-data.table.unity3d	2158203141	10	2158203141
-data.language_kor.unity3d	1947474553	10	1947474553
+data.table.unity3d	2158203141	12	2158203141
+data.language_kor.unity3d	1947474553	12	1947474553

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20200625_135515" Region="Korea" BuildInfo="1.53_2026_0b099aec_IOS" CommitHash="0b099aec6d486db4baafb27c1e5d00231ea03dac" DependencyHash="255ecad5519386eeacbc490fc7824cd7ea4c9545a411f0d1d0d4aff038e2c0" PackCount="260" FileCount="15008" TotalSize="3192808396" MB="3,044.9" />
+  <Header CRC="20200625_135515" Region="Korea" BuildInfo="1.53_2026_0b099aec_IOS" CommitHash="0b099aec6d486db4baafb27c1e5d00231ea03dac" DependencyHash="255ecad5519386eeacbc490fc7824cd7ea4c9545a411f0d1d0d4aff038e2c0" PackCount="260" FileCount="15008" TotalSize="3192808392" MB="3,044.9" />
   <PackList Count="260">
     <PackInfo Name="pack_001.bin" Size="14383545" MB="13.7" FileCount="2" FileCRC="833231376" Time="20200625_135515" BuildInfo="1.53_2026_0b099aec_IOS">
       <AssetBundle Time="20200625_135515" BuildInfo="1.53_2026_0b099aec_IOS" Path="common.dynamictexture.monthlypackage.unity3d" Version="1" Size="8158399" KB="7,967.2" FileCRC="2777795124" CRC="3968754031" />
@@ -808,12 +808,12 @@
       <AssetBundle Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS" Path="common.ui._v4_0.themadungeon.cookingdungeon.cookingdungeon.unity3d" Version="1" Size="4720565" KB="4,609.9" FileCRC="1213968352" CRC="3098593413" />
       <AssetBundle Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS" Path="common.ui._v4_0.themadungeon.eventgreatadventure.ingameinterface.unity3d" Version="1" Size="28579289" KB="27,909.5" FileCRC="552072623" CRC="1451738334" />
     </PackInfo>
-    <PackInfo Name="pack_039.bin" Size="11479017" MB="10.9" FileCount="7" FileCRC="3434429586" Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS">
+    <PackInfo Name="pack_039.bin" Size="11479015" MB="10.9" FileCount="7" FileCRC="1792508051" Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS">
       <AssetBundle Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS" Path="common.ui._v4_0.themadungeon.expeditiontimeattack.unity3d" Version="1" Size="159242" KB="155.5" FileCRC="531800118" CRC="2174595274" />
       <AssetBundle Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS" Path="common.ui._v4_0.themadungeon.guildladder.unity3d" Version="1" Size="541543" KB="528.9" FileCRC="2533302660" CRC="2331555265" />
       <AssetBundle Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS" Path="common.ui._v4_0.themadungeon.monhunt.monhunt.unity3d" Version="1" Size="472535" KB="461.5" FileCRC="2934036335" CRC="2999990788" />
       <AssetBundle Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS" Path="common.ui._v4_0.themadungeon.partyplacedungeon.partyplacedungeonpanel.unity3d" Version="1" Size="136281" KB="133.1" FileCRC="4129573962" CRC="3044258944" />
-      <AssetBundle Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS" Path="common.ui._v4_0.violettapopup.unity3d" Version="1" Size="1324812" KB="1,293.8" FileCRC="1838079375" CRC="2966646676" />
+      <AssetBundle Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS" Path="common.ui._v4_0.violettapopup.unity3d" Version="1" Size="1324810" KB="1,293.8" FileCRC="4011083710" CRC="2966646676" />
       <AssetBundle Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS" Path="common.ui._v4_0.wispwonderberry.unity3d" Version="1" Size="2365861" KB="2,310.4" FileCRC="2186107097" CRC="3154545530" />
       <AssetBundle Time="20200526_111007" BuildInfo="1.52_1951_bbeb76f9_IOS" Path="common.ui.@global.dutypackagepopup.unity3d" Version="1" Size="6478320" KB="6,326.5" FileCRC="4016163447" CRC="4013703697" />
     </PackInfo>
@@ -5993,7 +5993,7 @@
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.fx.static.ui_number.onmonster.damageskin_148.unity3d" Version="1" Size="96053" KB="93.8" FileCRC="1509258607" CRC="2053627101" legacyCRC="3896706374" legacyCRC_0="3896706374" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.fx.static.ui_number.onmonster.damageskin_150.unity3d" Version="1" Size="102123" KB="99.7" FileCRC="3440991660" CRC="1221638410" legacyCRC="4195829440" legacyCRC_0="4195829440" />
     </PackInfo>
-    <PackInfo Name="pack_179.bin" Size="13579526" MB="13.0" FileCount="67" FileCRC="3804343333" Time="20200109_142620" BuildInfo="1.48_1627_d8336fef">
+    <PackInfo Name="pack_179.bin" Size="13579524" MB="13.0" FileCount="67" FileCRC="10053630" Time="20200109_142620" BuildInfo="1.48_1627_d8336fef">
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.fx.static.ui_number.onmonster.damageskin_152.unity3d" Version="1" Size="59576" KB="58.2" FileCRC="1852505856" CRC="819527071" legacyCRC="1102704249" legacyCRC_0="1102704249" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.fx.static.ui_number.onmonster.damageskin_153_sheep.unity3d" Version="1" Size="69896" KB="68.3" FileCRC="1388692274" CRC="3999804338" legacyCRC="2455097167" legacyCRC_0="2455097167" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.fx.static.ui_number.onmonster.damageskin_154.unity3d" Version="1" Size="85835" KB="83.8" FileCRC="2801392143" CRC="196106211" legacyCRC="92809574" legacyCRC_0="92809574" />
@@ -6037,7 +6037,7 @@
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.fx.static.ui.bossclear.unity3d" Version="1" Size="308777" KB="301.5" FileCRC="3546850728" CRC="2488164814" legacyCRC="1349724756" legacyCRC_0="1349724756" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.fx.static.ui.combatstatus.unity3d" Version="1" Size="58319" KB="57.0" FileCRC="2462298339" CRC="1166652443" legacyCRC="509945103" legacyCRC_0="509945103" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.fx.static.ui.contentsopen.unity3d" Version="1" Size="100044" KB="97.7" FileCRC="3862025032" CRC="2194910998" legacyCRC="3933752430" legacyCRC_0="3933752430" />
-      <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.fx.static.ui.eff_quest.unity3d" Version="1" Size="157494" KB="153.8" FileCRC="2107781506" CRC="1255064117" legacyCRC="836260101" legacyCRC_0="836260101" />
+      <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.fx.static.ui.eff_quest.unity3d" Version="1" Size="157492" KB="153.8" FileCRC="3227879019" CRC="1255064117" legacyCRC="836260101" legacyCRC_0="836260101" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.fx.static.ui.eff_skilllvup.unity3d" Version="1" Size="268524" KB="262.2" FileCRC="2607004974" CRC="1498812938" legacyCRC="3396550150" legacyCRC_0="3396550150" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.fx.static.ui.enchant.unity3d" Version="1" Size="720406" KB="703.5" FileCRC="3202364447" CRC="26704614" legacyCRC="1414189812" legacyCRC_0="1414189812" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.fx.static.ui.event_effect.amorian_aura.unity3d" Version="1" Size="46908" KB="45.8" FileCRC="636290015" CRC="592097699" legacyCRC="786854600" legacyCRC_0="786854600" />
@@ -6152,7 +6152,7 @@
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.map.minarforest.00_enviroment.unity3d" Version="1" Size="2088357" KB="2,039.4" FileCRC="1549885533" CRC="161168433" legacyCRC="4089510121" legacyCRC_0="4089510121" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.map.minarforest.unity3d" Version="1" Size="11996856" KB="11,715.7" FileCRC="3085719769" CRC="961127485" legacyCRC="1366769320" legacyCRC_0="1366769320" />
     </PackInfo>
-    <PackInfo Name="pack_190.bin" Size="10747135" MB="10.2" FileCount="25" FileCRC="1833137387" Time="20200109_142620" BuildInfo="1.48_1627_d8336fef">
+    <PackInfo Name="pack_190.bin" Size="10747133" MB="10.2" FileCount="25" FileCRC="2440483915" Time="20200109_142620" BuildInfo="1.48_1627_d8336fef">
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.map.mini01yut.00_enviroment.unity3d" Version="1" Size="17719" KB="17.3" FileCRC="2383653335" CRC="3405254027" legacyCRC="645257670" legacyCRC_0="645257670" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.map.mini01yut.unity3d" Version="1" Size="21631" KB="21.1" FileCRC="204782784" CRC="1021035687" legacyCRC="2446279983" legacyCRC_0="2446279983" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.map.mini02space.00_enviroment.unity3d" Version="1" Size="17724" KB="17.3" FileCRC="3594257632" CRC="2596696417" legacyCRC="4172021485" legacyCRC_0="4172021485" />
@@ -6179,7 +6179,7 @@
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.map.monsterhunter02.00_enviroment.unity3d" Version="1" Size="367170" KB="358.6" FileCRC="2303124320" CRC="2909583504" legacyCRC="786351270" legacyCRC_0="786351270" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.map.monsterhunter02.unity3d" Version="1" Size="481516" KB="470.2" FileCRC="3463656267" CRC="3953024265" legacyCRC="2163211854" legacyCRC_0="2163211854" />
     </PackInfo>
-    <PackInfo Name="pack_191.bin" Size="17012830" MB="16.2" FileCount="6" FileCRC="2934907049" Time="20200109_142620" BuildInfo="1.48_1627_d8336fef">
+    <PackInfo Name="pack_191.bin" Size="17012828" MB="16.2" FileCount="6" FileCRC="1098338731" Time="20200109_142620" BuildInfo="1.48_1627_d8336fef">
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.map.monsterpark.00_enviroment.unity3d" Version="1" Size="1380975" KB="1,348.6" FileCRC="4072616161" CRC="2730956771" legacyCRC="2194527159" legacyCRC_0="2194527159" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.map.monsterpark.unity3d" Version="1" Size="4923488" KB="4,808.1" FileCRC="3197739523" CRC="2076982394" legacyCRC="3710620076" legacyCRC_0="3710620076" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.map.moonbunnysricecake.00_enviroment.unity3d" Version="1" Size="723880" KB="706.9" FileCRC="2739108657" CRC="1669448604" legacyCRC="3085914763" legacyCRC_0="3085914763" />
@@ -6187,7 +6187,7 @@
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.map.mulungdojo.unity3d" Version="1" Size="1867668" KB="1,823.9" FileCRC="3855656450" CRC="2091836881" legacyCRC="2955036001" legacyCRC_0="2955036001" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.map.mulunggarden.unity3d" Version="1" Size="6779903" KB="6,621.0" FileCRC="1685422618" CRC="2513317910" legacyCRC="2102780117" legacyCRC_0="2102780117" />
     </PackInfo>
-    <PackInfo Name="pack_192.bin" Size="12101978" MB="11.5" FileCount="9" FileCRC="1545752706" Time="20200109_142620" BuildInfo="1.48_1627_d8336fef">
+    <PackInfo Name="pack_192.bin" Size="12101976" MB="11.5" FileCount="9" FileCRC="990465538" Time="20200109_142620" BuildInfo="1.48_1627_d8336fef">
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.map.murgothdungeon.00_enviroment.unity3d" Version="1" Size="314061" KB="306.7" FileCRC="473651859" CRC="3549317073" legacyCRC="3635275874" legacyCRC_0="3635275874" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.map.murgothdungeon.unity3d" Version="1" Size="799335" KB="780.6" FileCRC="2644983015" CRC="2933495545" legacyCRC="547498882" legacyCRC_0="547498882" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.map.nettspyramid.unity3d" Version="1" Size="858774" KB="838.6" FileCRC="1094263671" CRC="3410349113" legacyCRC="3174310839" legacyCRC_0="3174310839" />
@@ -12369,7 +12369,7 @@
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.ui.darkness.unity3d" Version="1" Size="22443" KB="21.9" FileCRC="422058000" CRC="3249280508" legacyCRC="754271693" legacyCRC_0="754271693" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.ui.dutypackagepopup.unity3d" Version="1" Size="3169967" KB="3,095.7" FileCRC="2410784672" CRC="3305894771" legacyCRC="3740846542" legacyCRC_0="3740846542" />
     </PackInfo>
-    <PackInfo Name="pack_241.bin" Size="10885275" MB="10.4" FileCount="28" FileCRC="216921732" Time="20200109_142620" BuildInfo="1.48_1627_d8336fef">
+    <PackInfo Name="pack_241.bin" Size="10885273" MB="10.4" FileCount="28" FileCRC="1458681075" Time="20200109_142620" BuildInfo="1.48_1627_d8336fef">
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.ui.evantutorialhand.unity3d" Version="1" Size="61405" KB="60.0" FileCRC="2297691133" CRC="3533498737" legacyCRC="1903569224" legacyCRC_0="1903569224" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.ui.eventcomebackuserpopup.unity3d" Version="1" Size="25029" KB="24.4" FileCRC="3023861935" CRC="9045038" legacyCRC="2188485519" legacyCRC_0="2188485519" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.ui.eventdicepopup.unity3d" Version="1" Size="360910" KB="352.5" FileCRC="2657955423" CRC="3641896055" legacyCRC="1208719351" legacyCRC_0="1208719351" />
@@ -12399,7 +12399,7 @@
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.ui.levelrewardpackage.archmagecristalgrowpackage.unity3d" Version="1" Size="368772" KB="360.1" FileCRC="1870638724" CRC="4139723558" legacyCRC="1849880598" legacyCRC_0="1849880598" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.ui.levelrewardpackage.buccaneercristalgrowpackage.unity3d" Version="1" Size="1071316" KB="1,046.2" FileCRC="2852957941" CRC="3952850943" legacyCRC="3480097403" legacyCRC_0="3480097403" />
     </PackInfo>
-    <PackInfo Name="pack_242.bin" Size="10856572" MB="10.4" FileCount="20" FileCRC="4070152788" Time="20200109_142620" BuildInfo="1.48_1627_d8336fef">
+    <PackInfo Name="pack_242.bin" Size="10856570" MB="10.4" FileCount="20" FileCRC="733303827" Time="20200109_142620" BuildInfo="1.48_1627_d8336fef">
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.ui.levelrewardpackage.demonavengergrowpackage.unity3d" Version="1" Size="429285" KB="419.2" FileCRC="1231704976" CRC="499981908" legacyCRC="3771994396" legacyCRC_0="3771994396" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.ui.levelrewardpackage.demonslayergrowpackage.unity3d" Version="1" Size="443036" KB="432.7" FileCRC="3946192449" CRC="4181095520" legacyCRC="3398951848" legacyCRC_0="3398951848" />
       <AssetBundle Time="20200109_142620" BuildInfo="1.48_1627_d8336fef" Path="common.ui.levelrewardpackage.growpackage_201903.unity3d" Version="1" Size="1046682" KB="1,022.2" FileCRC="3153918521" CRC="178164887" legacyCRC="134625950" legacyCRC_0="134625950" />
@@ -12448,7 +12448,7 @@
       <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.dynamictexture.commonpackage.package_typec_blackfriday_bg.unity3d" Version="1" Size="356535" KB="348.2" FileCRC="1634487626" CRC="365463309" />
       <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.dynamictexture.commonpackage.package_typec_christmas_equipment_bg.unity3d" Version="1" Size="1274125" KB="1,244.3" FileCRC="1678360432" CRC="2251586043" />
     </PackInfo>
-    <PackInfo Name="pack_244.bin" Size="11285077" MB="10.8" FileCount="11" FileCRC="3019936765" Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf">
+    <PackInfo Name="pack_244.bin" Size="11285075" MB="10.8" FileCount="11" FileCRC="2482421635" Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf">
       <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.dynamictexture.commonpackage.package_typec_christmas_starforce_bg.unity3d" Version="1" Size="1320383" KB="1,289.4" FileCRC="2952400794" CRC="3023376155" />
       <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.dynamictexture.commonpackage.package_typec_illusioncloth_bg.unity3d" Version="1" Size="489427" KB="478.0" FileCRC="1853375183" CRC="2968613584" />
       <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.dynamictexture.commonpackage.package_typec_mannequin_bg.unity3d" Version="1" Size="324319" KB="316.7" FileCRC="1497979232" CRC="649936782" />
@@ -12461,7 +12461,7 @@
       <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.dynamictexture.commonpackage.package_typed_legendaryupgradestone_bg.unity3d" Version="1" Size="1746750" KB="1,705.8" FileCRC="1475850495" CRC="161011006" />
       <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.dynamictexture.commonpackage.package_typed_meso_bg.unity3d" Version="1" Size="1000445" KB="977.0" FileCRC="87646656" CRC="3703463878" />
     </PackInfo>
-    <PackInfo Name="pack_245.bin" Size="18827197" MB="18.0" FileCount="15" FileCRC="3098273949" Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf">
+    <PackInfo Name="pack_245.bin" Size="18827195" MB="18.0" FileCount="15" FileCRC="1153306771" Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf">
       <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.dynamictexture.commonpackage.type_b_bg.unity3d" Version="1" Size="64231" KB="62.7" FileCRC="1253149210" CRC="2929059650" />
       <AssetBundle Time="20191029_202205" BuildInfo="1.46_1080Q_bfa4bbbf" Path="common.dynamictexture.commonpackage.wp_bg.unity3d" Version="1" Size="1093227" KB="1,067.6" FileCRC="3668579362" CRC="4122701800" />
       <AssetBundle Time="" BuildInfo="" Path="common.dynamictexture.aranboost.unity3d" Version="1" Size="131748" KB="128.7" FileCRC="1192865607" CRC="503874065" />
@@ -12478,7 +12478,7 @@
       <AssetBundle Time="" BuildInfo="" Path="common.dynamictexture.guilddungeon.unity3d" Version="1" Size="1880806" KB="1,836.7" FileCRC="1453517246" CRC="1555062148" />
       <AssetBundle Time="" BuildInfo="" Path="common.dynamictexture.lakeness.unity3d" Version="1" Size="9170032" KB="8,955.1" FileCRC="2066494117" CRC="2496739985" />
     </PackInfo>
-    <PackInfo Name="pack_246.bin" Size="10701429" MB="10.2" FileCount="18" FileCRC="3515564458" Time="O" BuildInfo="">
+    <PackInfo Name="pack_246.bin" Size="10701427" MB="10.2" FileCount="18" FileCRC="4131860387" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.dynamictexture.luminouscinema.unity3d" Version="1" Size="241917" KB="236.2" FileCRC="3214534431" CRC="290216881" />
       <AssetBundle Time="" BuildInfo="" Path="common.dynamictexture.luminoustutorialcinema.unity3d" Version="1" Size="739747" KB="722.4" FileCRC="1802165341" CRC="2140699678" />
       <AssetBundle Time="" BuildInfo="" Path="common.dynamictexture.mercedestutorialcinema.unity3d" Version="1" Size="2097219" KB="2,048.1" FileCRC="688366017" CRC="2929184017" />
@@ -12498,7 +12498,7 @@
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.ambience.warning.unity3d" Version="1" Size="6734" KB="6.6" FileCRC="2053761599" CRC="821054721" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.ancientmove.unity3d" Version="1" Size="929462" KB="907.7" FileCRC="1825015272" CRC="3493527378" />
     </PackInfo>
-    <PackInfo Name="pack_247.bin" Size="10638870" MB="10.1" FileCount="11" FileCRC="861843205" Time="O" BuildInfo="">
+    <PackInfo Name="pack_247.bin" Size="10638868" MB="10.1" FileCount="11" FileCRC="3206024630" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.ariant.unity3d" Version="1" Size="1725172" KB="1,684.7" FileCRC="2816535024" CRC="1645231989" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.badguys_kerningcity_town.unity3d" Version="1" Size="890303" KB="869.4" FileCRC="800633113" CRC="1829868424" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.banbantime.unity3d" Version="1" Size="33230" KB="32.5" FileCRC="3744199145" CRC="2535408416" />
@@ -12511,7 +12511,7 @@
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.caveofhontale.unity3d" Version="1" Size="1576381" KB="1,539.4" FileCRC="80510955" CRC="2158128735" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.comewithme.unity3d" Version="1" Size="855296" KB="835.3" FileCRC="3636100494" CRC="2678350385" />
     </PackInfo>
-    <PackInfo Name="pack_248.bin" Size="10889919" MB="10.4" FileCount="14" FileCRC="216560091" Time="O" BuildInfo="">
+    <PackInfo Name="pack_248.bin" Size="10889917" MB="10.4" FileCount="14" FileCRC="3522799412" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.courtyard.unity3d" Version="1" Size="1934189" KB="1,888.9" FileCRC="3941174598" CRC="3819477069" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.crimsontower.unity3d" Version="1" Size="801191" KB="782.4" FileCRC="3437315478" CRC="64445300" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.crystalcave.unity3d" Version="1" Size="634645" KB="619.8" FileCRC="3945816395" CRC="2987393300" />
@@ -12527,7 +12527,7 @@
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.destructiontown.unity3d" Version="1" Size="684356" KB="668.3" FileCRC="1999703407" CRC="126252589" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.dispute.unity3d" Version="1" Size="605334" KB="591.1" FileCRC="2046642346" CRC="1202255068" />
     </PackInfo>
-    <PackInfo Name="pack_249.bin" Size="10490088" MB="10.0" FileCount="10" FileCRC="387549966" Time="O" BuildInfo="">
+    <PackInfo Name="pack_249.bin" Size="10490086" MB="10.0" FileCount="10" FileCRC="2177152676" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.downtothecave_dungeon.unity3d" Version="1" Size="914948" KB="893.5" FileCRC="823723376" CRC="3872374798" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.dragondream.unity3d" Version="1" Size="594945" KB="581.0" FileCRC="2886706930" CRC="2741190250" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.dragonload.unity3d" Version="1" Size="1733003" KB="1,692.4" FileCRC="3765508582" CRC="4278370036" />
@@ -12539,7 +12539,7 @@
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.elincave.unity3d" Version="1" Size="1017216" KB="993.4" FileCRC="3222102707" CRC="1729392156" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.eregos.unity3d" Version="1" Size="636554" KB="621.6" FileCRC="2037521540" CRC="4258862609" />
     </PackInfo>
-    <PackInfo Name="pack_250.bin" Size="10969610" MB="10.5" FileCount="13" FileCRC="1283150166" Time="O" BuildInfo="">
+    <PackInfo Name="pack_250.bin" Size="10969608" MB="10.5" FileCount="13" FileCRC="2466386709" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.evileyes_dungeon.unity3d" Version="1" Size="1119636" KB="1,093.4" FileCRC="3304110324" CRC="3093441701" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.fairytale.unity3d" Version="1" Size="687479" KB="671.4" FileCRC="1922428559" CRC="609671264" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.fairytalediffvers.unity3d" Version="1" Size="4065094" KB="3,969.8" FileCRC="2268703415" CRC="2063548919" />
@@ -12554,7 +12554,7 @@
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.flytothemoon.unity3d" Version="1" Size="778678" KB="760.4" FileCRC="367599345" CRC="2561688340" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.forgetfulness.unity3d" Version="1" Size="637664" KB="622.7" FileCRC="574665748" CRC="2959454837" />
     </PackInfo>
-    <PackInfo Name="pack_251.bin" Size="11794958" MB="11.2" FileCount="9" FileCRC="310587264" Time="O" BuildInfo="">
+    <PackInfo Name="pack_251.bin" Size="11794956" MB="11.2" FileCount="9" FileCRC="3454715685" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.funnytimemaker.unity3d" Version="1" Size="2111801" KB="2,062.3" FileCRC="4182887562" CRC="3915886850" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.gelimerlab.unity3d" Version="1" Size="624232" KB="609.6" FileCRC="3560356242" CRC="2322208182" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.gopicnic_henesys_market.unity3d" Version="1" Size="289473" KB="282.7" FileCRC="110226685" CRC="4194843625" />
@@ -12565,7 +12565,7 @@
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.hontale.unity3d" Version="1" Size="3218881" KB="3,143.4" FileCRC="1912274016" CRC="454798894" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.hotdesert.unity3d" Version="1" Size="1673042" KB="1,633.8" FileCRC="2694260001" CRC="507441772" />
     </PackInfo>
-    <PackInfo Name="pack_252.bin" Size="13104996" MB="12.5" FileCount="16" FileCRC="2322930620" Time="O" BuildInfo="">
+    <PackInfo Name="pack_252.bin" Size="13104994" MB="12.5" FileCount="16" FileCRC="1841898454" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.injustice.unity3d" Version="1" Size="664068" KB="648.5" FileCRC="2174626096" CRC="2843481556" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.innautilus.unity3d" Version="1" Size="513886" KB="501.8" FileCRC="2036689328" CRC="1515410206" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.inwartime.unity3d" Version="1" Size="636550" KB="621.6" FileCRC="3612703758" CRC="580494168" />
@@ -12583,7 +12583,7 @@
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.moonlightshadow.unity3d" Version="1" Size="619393" KB="604.9" FileCRC="3775384954" CRC="2832015417" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.mureungforest.unity3d" Version="1" Size="3123345" KB="3,050.1" FileCRC="349893320" CRC="332305397" />
     </PackInfo>
-    <PackInfo Name="pack_253.bin" Size="10622896" MB="10.1" FileCount="8" FileCRC="1886318152" Time="O" BuildInfo="">
+    <PackInfo Name="pack_253.bin" Size="10622894" MB="10.1" FileCount="8" FileCRC="2751623882" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.mureunghill.unity3d" Version="1" Size="3253518" KB="3,177.3" FileCRC="1063779061" CRC="1803858153" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.mureungschool1.unity3d" Version="1" Size="1026053" KB="1,002.0" FileCRC="1503077414" CRC="1871677678" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.mureungschool2.unity3d" Version="1" Size="671253" KB="655.5" FileCRC="115655865" CRC="1995712287" />
@@ -12593,7 +12593,7 @@
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.nautilus.unity3d" Version="1" Size="973434" KB="950.6" FileCRC="3146670425" CRC="1492217702" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.netspiramid.unity3d" Version="1" Size="1914309" KB="1,869.4" FileCRC="2150098695" CRC="3448773349" />
     </PackInfo>
-    <PackInfo Name="pack_254.bin" Size="10754163" MB="10.3" FileCount="15" FileCRC="2832305213" Time="O" BuildInfo="">
+    <PackInfo Name="pack_254.bin" Size="10754161" MB="10.3" FileCount="15" FileCRC="1353118323" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.nightmare_perion_town.unity3d" Version="1" Size="770194" KB="752.1" FileCRC="1282536034" CRC="2622770035" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.novasanctum.unity3d" Version="1" Size="534947" KB="522.4" FileCRC="3620557868" CRC="1443945964" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.pantheon_mapleload.unity3d" Version="1" Size="505742" KB="493.9" FileCRC="1284036668" CRC="1066965261" />
@@ -12610,7 +12610,7 @@
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.ruincastle.unity3d" Version="1" Size="552550" KB="539.6" FileCRC="3673428399" CRC="307391286" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.rustythrone.unity3d" Version="1" Size="623912" KB="609.3" FileCRC="1817843772" CRC="2734464272" />
     </PackInfo>
-    <PackInfo Name="pack_255.bin" Size="11171611" MB="10.7" FileCount="12" FileCRC="764264186" Time="O" BuildInfo="">
+    <PackInfo Name="pack_255.bin" Size="11171609" MB="10.7" FileCount="12" FileCRC="1359635088" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.serenity.unity3d" Version="1" Size="571011" KB="557.6" FileCRC="2992644414" CRC="2378460277" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.shininharbor.unity3d" Version="1" Size="391251" KB="382.1" FileCRC="1712383537" CRC="2272052776" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.silence.unity3d" Version="1" Size="1713" KB="1.7" FileCRC="4179521145" CRC="2897136069" />
@@ -12624,7 +12624,7 @@
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.therush.unity3d" Version="1" Size="4318421" KB="4,217.2" FileCRC="1628242323" CRC="1622157692" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.thestormyforest.unity3d" Version="1" Size="709788" KB="693.2" FileCRC="2978923648" CRC="3655039378" />
     </PackInfo>
-    <PackInfo Name="pack_256.bin" Size="11076634" MB="10.6" FileCount="10" FileCRC="2051034945" Time="O" BuildInfo="">
+    <PackInfo Name="pack_256.bin" Size="11076632" MB="10.6" FileCount="10" FileCRC="522288567" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.timeattack_dungeon.unity3d" Version="1" Size="457709" KB="447.0" FileCRC="3112019184" CRC="3983742835" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.timechaos.unity3d" Version="1" Size="659078" KB="643.6" FileCRC="2879569927" CRC="1520650802" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.timegate.unity3d" Version="1" Size="684883" KB="668.8" FileCRC="944385680" CRC="2422683168" />
@@ -12636,7 +12636,7 @@
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.tresuregamemulti.unity3d" Version="1" Size="1232264" KB="1,203.4" FileCRC="2586973551" CRC="1797687202" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.tresuregamesingle.unity3d" Version="1" Size="1262880" KB="1,233.3" FileCRC="3052150329" CRC="3948096952" />
     </PackInfo>
-    <PackInfo Name="pack_257.bin" Size="10962364" MB="10.5" FileCount="14" FileCRC="3975300531" Time="O" BuildInfo="">
+    <PackInfo Name="pack_257.bin" Size="10962362" MB="10.5" FileCount="14" FileCRC="3055170562" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.undergroundplace.unity3d" Version="1" Size="647822" KB="632.6" FileCRC="306881360" CRC="1900383945" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.vikingship.unity3d" Version="1" Size="579064" KB="565.5" FileCRC="258372659" CRC="4206572422" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.vikingskipper.unity3d" Version="1" Size="539981" KB="527.3" FileCRC="1953108752" CRC="3838859246" />
@@ -12652,7 +12652,7 @@
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.windandflower.unity3d" Version="1" Size="588065" KB="574.3" FileCRC="1221159197" CRC="3297354967" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.wolfwood.unity3d" Version="1" Size="633480" KB="618.6" FileCRC="166264697" CRC="2284727481" />
     </PackInfo>
-    <PackInfo Name="pack_258.bin" Size="10486746" MB="10.0" FileCount="1092" FileCRC="2486214636" Time="O" BuildInfo="">
+    <PackInfo Name="pack_258.bin" Size="10486744" MB="10.0" FileCount="1092" FileCRC="534561466" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.sound.bgm.yggdrasilprayer.unity3d" Version="1" Size="605076" KB="590.9" FileCRC="2544014578" CRC="3347331681" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.camerafocus.unity3d" Version="1" Size="4181" KB="4.1" FileCRC="1243006209" CRC="4024534531" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.class.bowman.3001004_hit.unity3d" Version="1" Size="4378" KB="4.3" FileCRC="2364131802" CRC="1486518827" />
@@ -13746,7 +13746,7 @@
       <AssetBundle Time="" BuildInfo="" Path="common.sound.monster.4230114_chardam1.unity3d" Version="1" Size="4859" KB="4.7" FileCRC="2829051205" CRC="2405004996" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.monster.4230114_damage.unity3d" Version="1" Size="2775" KB="2.7" FileCRC="1281391760" CRC="2739241292" />
     </PackInfo>
-    <PackInfo Name="pack_259.bin" Size="10500104" MB="10.0" FileCount="1457" FileCRC="1280269050" Time="O" BuildInfo="">
+    <PackInfo Name="pack_259.bin" Size="10500102" MB="10.0" FileCount="1457" FileCRC="4135055228" Time="O" BuildInfo="">
       <AssetBundle Time="" BuildInfo="" Path="common.sound.monster.4230114_die.unity3d" Version="1" Size="6009" KB="5.9" FileCRC="652304084" CRC="1904091400" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.monster.4230115_attack1.unity3d" Version="1" Size="8773" KB="8.6" FileCRC="2828055758" CRC="4073015162" />
       <AssetBundle Time="" BuildInfo="" Path="common.sound.monster.4230115_chardam1.unity3d" Version="1" Size="2972" KB="2.9" FileCRC="988496240" CRC="505967093" />
