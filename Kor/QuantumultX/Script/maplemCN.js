@@ -105,6 +105,7 @@ if(mode == 'CLEAR'){
         $done(mResponse);
     }
     else if (isMarketVersions) {
+        console.log("CLEAR-缓存修改")
         var body = $response.body;
         var list = body.split('\n');
         var fileList = ['data.bin.lan.kor.tbl', 'data.language_kor.unity3d', 'data.table.unity3d']
@@ -117,6 +118,7 @@ if(mode == 'CLEAR'){
         $done(xmlData)
     } 
     else if(isAssetBundleTable) {
+        console.log("CLEAR-TABLE修改")
         var body = $response.body;
         var list = body.split('\n');
         var fileList = ['data.bin.lan.kor.tbl', 'data.language_kor.unity3d', 'data.table.unity3d']
@@ -130,10 +132,8 @@ if(mode == 'CLEAR'){
         $done(xmlData)
     }
     else{
-        $done({
-            status:"HTTP/1.1 200 OK",
-            headers: {"Location": "https://example.com"}
-        });
+        console.log("CLEAR-放行")
+        $done({});
     }
 }
 else if (mode == 'BASE' || mode == 'PRO'){
@@ -143,9 +143,8 @@ else if (mode == 'BASE' || mode == 'PRO'){
         redirect(modeConfig[mode]);
     }
 }else{
-    $done({
-        status:"HTTP/1.1 200 OK"
-    });
+    console.log("韩文原版模式")
+    $done({});
 }
 
 
