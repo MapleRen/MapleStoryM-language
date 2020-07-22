@@ -8,6 +8,7 @@
         {
             "id": "maplemKR2CN",
             "name": "冒险岛M韩服",
+            "keys":["maplem-kr-mode"],
             "settings": [
                 {
                     "id": "maplem-kr-mode",
