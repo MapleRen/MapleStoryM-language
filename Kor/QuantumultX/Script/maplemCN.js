@@ -93,7 +93,7 @@ function redirect(config) {
 
 
 if(mode == 'CLEAR'){
-    console.log("缓存清除模式")
+    console.log("缓存清除模式"+isRedirect+";"+isMarketVersions+";"+isAssetBundleTable);
     if(isRedirect){
         console.log("重定向")
         var mStatus = "HTTP/1.1 302 Found";
