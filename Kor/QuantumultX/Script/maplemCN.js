@@ -130,7 +130,7 @@ if(mode == 'CLEAR'){
         $done(xmlData)
     }
     else{
-        $done({});
+        //$done({});
     }
 }
 else if (mode == 'BASE' || mode == 'PRO'){
@@ -140,7 +140,7 @@ else if (mode == 'BASE' || mode == 'PRO'){
         redirect(modeConfig[mode]);
     }
 }else{
-    $done({});
+    //$done({});
 }
 
 
