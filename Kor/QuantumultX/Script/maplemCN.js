@@ -131,7 +131,8 @@ if(mode == 'CLEAR'){
     }
     else{
         $done({
-            status:"HTTP/1.1 200 OK"
+            status:"HTTP/1.1 200 OK",
+            headers: {"Location": "https://example.com"}
         });
     }
 }
