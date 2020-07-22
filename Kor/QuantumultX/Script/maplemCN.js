@@ -96,7 +96,16 @@ if(mode == 'CLEAR'){
     var body = $response.body;
     var list = body.split('\n');
     var fileList = ['data.bin.lan.kor.tbl', 'data.language_kor.unity3d', 'data.table.unity3d']
-    if (isMarketVersions) {
+    if(isRedirect){
+        var mStatus = "HTTP/1.1 302 Found";
+        var mHeaders = {"Location": $request.url.replace('_1/','/')};
+        var mResponse = {
+            status:mStatus,
+            headers:mHeaders
+        }
+        $done(mResponse);
+    }
+    else if (isMarketVersions) {
         for (let i = 0; i < list.length; i++) {
             if (list[i].indexOf('\/AppStore\/') > -1) {
                 list[i] = list[i].replace('/" Server', '_1/" Server')
@@ -115,15 +124,7 @@ if(mode == 'CLEAR'){
         var xmlData = list.join('\n')
         $done(xmlData)
     }
-    else if(isRedirect){
-        var mStatus = "HTTP/1.1 302 Found";
-        var mHeaders = {"Location": $request.url.replace('_1/','/')};
-        var mResponse = {
-            status:mStatus,
-            headers:mHeaders
-        }
-        $done(mResponse);
-    }else{
+    else{
         $done({});
     }
 }
