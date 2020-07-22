@@ -93,8 +93,9 @@ function redirect(config) {
 
 
 if(mode == 'CLEAR'){
-    
+    console.log("缓存清除模式")
     if(isRedirect){
+        console.log("重定向")
         var mStatus = "HTTP/1.1 302 Found";
         var mHeaders = {"Location": $request.url.replace('_1/','/')};
         var mResponse = {
