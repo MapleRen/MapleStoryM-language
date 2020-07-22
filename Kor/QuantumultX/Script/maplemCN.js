@@ -130,7 +130,9 @@ if(mode == 'CLEAR'){
         $done(xmlData)
     }
     else{
-        //$done({});
+        $done({
+            status:"HTTP/1.1 200 OK"
+        });
     }
 }
 else if (mode == 'BASE' || mode == 'PRO'){
@@ -140,7 +142,9 @@ else if (mode == 'BASE' || mode == 'PRO'){
         redirect(modeConfig[mode]);
     }
 }else{
-    //$done({});
+    $done({
+        status:"HTTP/1.1 200 OK"
+    });
 }
 
 
