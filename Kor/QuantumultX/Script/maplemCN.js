@@ -79,14 +79,17 @@ function redirect(config) {
     const github_path = 'https://raw.githubusercontent.com/MapleRen/MapleStoryM-language/master/';
     const need_redirect = $prefs.valueForKey(config.prefix);
     const file_name = $request.url.slice($request.url.lastIndexOf('@') + 1);
+    console.log(`${mode}-NEED_REDIRECT_${need_redirect}`);
     if (need_redirect == 'true') {
-        const mStatus = "HTTP/1.1 302 Found";
+        const mStatus = "HTTP/1.1 302 Temporary Redirect"//"HTTP/1.1 302 Found";
         const mHeaders = { "Location": `${github_path}${file_name}` };
         const mResponse = {
             status: mStatus,
             headers: mHeaders
         }
         $done(mResponse);
+    }else{
+        $done({});
     }
 }
 
@@ -137,9 +140,12 @@ if(mode == 'CLEAR'){
     }
 }
 else if (mode == 'BASE' || mode == 'PRO'){
+    console.log(`${mode}`)
     if(isAssetBundleTable){
+        console.log(`${mode}-TABLE修改`)
         rewrite(modeConfig[mode]);
     }else{
+        console.log(`${mode}-TBL重定向`)
         redirect(modeConfig[mode]);
     }
 }else{
