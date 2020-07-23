@@ -80,7 +80,7 @@ function redirect(config) {
     const need_redirect = $prefs.valueForKey(config.prefix);
     const file_name = $request.url.slice($request.url.lastIndexOf('@') + 1);
     console.log(`${mode}-NEED_REDIRECT_${need_redirect}_${file_name}`);
-    if (need_redirect == 'true') {
+    if (need_redirect == 'true' && config.files.indexOf(file_name)>-1) {
         const mStatus = "HTTP/1.1 302 Temporary Redirect"//"HTTP/1.1 302 Found";
         const mHeaders = { "Location": `${github_path}${file_name}` };
         const mResponse = {
@@ -144,6 +144,9 @@ else if (mode == 'BASE' || mode == 'PRO'){
     if(isAssetBundleTable){
         console.log(`${mode}-TABLE修改`)
         rewrite(modeConfig[mode]);
+    }else if(isMarketVersions){
+        console.log(`${mode}-跳过`)
+        $done({});
     }else{
         console.log(`${mode}-TBL重定向`)
         redirect(modeConfig[mode]);
