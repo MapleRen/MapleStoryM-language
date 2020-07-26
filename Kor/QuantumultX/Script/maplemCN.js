@@ -83,7 +83,7 @@ function redirect() {
     const github_path = 'https://raw.githubusercontent.com/MapleRen/MapleStoryM-language/master/';
     const need_redirect = $prefs.valueForKey(isNeedRedirect);
     const file_name = $request.url.slice($request.url.lastIndexOf('@') + 1);
-    if (need_redirect == 'true' && files.indexOf(file_name)>-1) {
+    if (need_redirect == 'true' && config.files.indexOf(file_name)>-1) {
         const mStatus = "HTTP/1.1 302 Temporary Redirect"//"HTTP/1.1 302 Found";
         const mHeaders = { "Location": `${github_path}${file_name}` };
         const mResponse = {
