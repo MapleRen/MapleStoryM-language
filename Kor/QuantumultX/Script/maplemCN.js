@@ -3,10 +3,10 @@ const isAssetBundleTable = $request.url.indexOf('AssetBundle_table.xml') > -1;
 const isRedirect = $request.url.indexOf('_1/') > -1;
 const mode = $prefs.valueForKey('maplem-kr-mode');//汉化模式
 const isNeedRedirect = 'maplem-kr_redirect';//是否资源重定向
-const files = $prefs.valueForKey('maplem-kr-files');//汉化模式
 const config = {
     API:'https://raw.githubusercontent.com/MapleRen/MapleStoryM-language/master/xml/mod_pro.xml',
-    title:'冒险岛M韩服汉化'
+    title:'冒险岛M韩服汉化',
+    files = $prefs.valueForKey('maplem-kr-files')//汉化模式
 }
 // const modeConfig = {
 //     'BASE':{
