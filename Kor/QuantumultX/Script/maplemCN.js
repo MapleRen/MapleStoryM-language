@@ -37,8 +37,9 @@ function rewrite() {
             notifyAndSetValue(config.title,'汉化文件未更新，请关注微博"冒险岛M第三汉化委"获取最新消息','false',isNeedRedirect);
             $done({});
         }else{
-            for (let i = 0; i < config.files.length; i++) {
-                const file = config.files[i]
+            const files = config.files?config.files.split(','):[];
+            for (let i = 0; i < files.length; i++) {
+                const file = files[i]
                 const fileCRC = latestXml.getXmlAttr(file,"FileCRC");
                 const fileSize = latestXml.getXmlAttr(file,"Size");
                 body = body.setXmlAttr(file,"FileCRC",fileCRC).setXmlAttr(file,"CRC",fileCRC).setXmlAttr(file,"Size",fileSize);
