@@ -5,7 +5,7 @@ data.bin.physicx_terrain.tbl	2113329520	1	2113329520
 data.bin.slang.tbl	2987815177	1	2987815177
 data.bin.client.dummy.tbl	3257571333	1	3257571333
 data.bin.lan.kor.ifo	2171888967	1	2171888967
-data.bin.lan.kor.tbl	1037624680	6	1037624680
+data.bin.lan.kor.tbl	3434850461	7	3434850461
 data.bin.lang.kor.questxml.ifo	2523261582	1	2523261582
 data.bin.lang.kor.questxml.tbl	4016414563	1	4016414563
 data.bin.task.ifo	2800298644	1	2800298644
@@ -83,5 +83,5 @@ data.bin.table_version.ifo	2927010390	1	2927010390
 data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
-data.table.unity3d	3779836659	6	3779836659
+data.table.unity3d	3779836659	7	3779836659
 data.language_kor.unity3d	2102156347	1	2663202377
