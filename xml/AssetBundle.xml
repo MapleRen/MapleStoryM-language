@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20200730_150832" Region="Korea" BuildInfo="1.54_2079_df9119d5_IOS" CommitHash="df9119d5573bb38cad3cfe75af3cabc1f979f8b9" DependencyHash="86d5f0b73aaf402e143783f5eb9140c127ec6aa57a99d89c4263e24dd828692" PackCount="274" FileCount="15744" TotalSize="3390932629" MB="3,233.8" />
+  <Header CRC="20200730_150832" Region="Korea" BuildInfo="1.54_2079_df9119d5_IOS" CommitHash="df9119d5573bb38cad3cfe75af3cabc1f979f8b9" DependencyHash="86d5f0b73aaf402e143783f5eb9140c127ec6aa57a99d89c4263e24dd828692" PackCount="274" FileCount="15744" TotalSize="3390932631" MB="3,233.8" />
   <PackList Count="274">
     <PackInfo Name="pack_001.bin" Size="13355727" MB="12.7" FileCount="2" FileCRC="326683193" Time="20200730_150832" BuildInfo="1.54_2079_df9119d5_IOS">
       <AssetBundle Time="20200730_150832" BuildInfo="1.54_2079_df9119d5_IOS" Path="common.map.kerningcity.unity3d" Version="1" Size="6293964" KB="6,146.4" FileCRC="1581743860" CRC="2923707781" />
@@ -1055,7 +1055,7 @@
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.ui._v4_0.battlerockpaperscissorspopup.unity3d" Version="1" Size="541436" KB="528.7" FileCRC="1735921314" CRC="1618006612" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.ui._v4_0.charactercreate2.unity3d" Version="1" Size="1813347" KB="1,770.8" FileCRC="4185025616" CRC="2878138534" />
     </PackInfo>
-    <PackInfo Name="pack_034.bin" Size="10641199" MB="10.1" FileCount="12" FileCRC="2197026786" Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS">
+    <PackInfo Name="pack_034.bin" Size="10641201" MB="10.1" FileCount="12" FileCRC="622719381" Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS">
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.ui._v4_0.characterselect.unity3d" Version="1" Size="751039" KB="733.4" FileCRC="2569954578" CRC="625895372" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.ui._v4_0.chatgroupsubpopup.unity3d" Version="1" Size="17093" KB="16.7" FileCRC="4301668" CRC="2779328034" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.ui._v4_0.crystalcharge.unity3d" Version="1" Size="196651" KB="192.0" FileCRC="198538333" CRC="821894311" />
@@ -1067,7 +1067,7 @@
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.ui._v4_0.event.dreamsharebox.unity3d" Version="1" Size="430891" KB="420.8" FileCRC="1480467553" CRC="1676345638" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.ui._v4_0.event.eventmikudungeon.panel.unity3d" Version="1" Size="139680" KB="136.4" FileCRC="3766415707" CRC="191459355" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.ui._v4_0.event.eventmikudungeon.popup.unity3d" Version="1" Size="1380733" KB="1,348.4" FileCRC="2651553698" CRC="3486746190" />
-      <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.ui._v4_0.event.eventmikudungeon.resultpopup.unity3d" Version="1" Size="654990" KB="639.6" FileCRC="366798785" CRC="2473265749" />
+      <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.ui._v4_0.event.eventmikudungeon.resultpopup.unity3d" Version="1" Size="654992" KB="639.6" FileCRC="335536534" CRC="2473265749" />
     </PackInfo>
     <PackInfo Name="pack_035.bin" Size="11684955" MB="11.1" FileCount="14" FileCRC="3190120585" Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS">
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.ui._v4_0.event.eventmuseum.unity3d" Version="1" Size="907242" KB="886.0" FileCRC="3152351959" CRC="29505053" />
