@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20200730_150832" Region="Korea" BuildInfo="1.54_2079_df9119d5_IOS" CommitHash="df9119d5573bb38cad3cfe75af3cabc1f979f8b9" DependencyHash="86d5f0b73aaf402e143783f5eb9140c127ec6aa57a99d89c4263e24dd828692" PackCount="274" FileCount="15744" TotalSize="3390932631" MB="3,233.8" />
+  <Header CRC="20200730_150832" Region="Korea" BuildInfo="1.54_2079_df9119d5_IOS" CommitHash="df9119d5573bb38cad3cfe75af3cabc1f979f8b9" DependencyHash="86d5f0b73aaf402e143783f5eb9140c127ec6aa57a99d89c4263e24dd828692" PackCount="274" FileCount="15744" TotalSize="3390932635" MB="3,233.8" />
   <PackList Count="274">
     <PackInfo Name="pack_001.bin" Size="13355727" MB="12.7" FileCount="2" FileCRC="326683193" Time="20200730_150832" BuildInfo="1.54_2079_df9119d5_IOS">
       <AssetBundle Time="20200730_150832" BuildInfo="1.54_2079_df9119d5_IOS" Path="common.map.kerningcity.unity3d" Version="1" Size="6293964" KB="6,146.4" FileCRC="1581743860" CRC="2923707781" />
@@ -271,7 +271,7 @@
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.commonpackage.package_typea_mechanic01_bg.unity3d" Version="1" Size="430461" KB="420.4" FileCRC="2671375888" CRC="3728909415" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.commonpackage.package_typea_mechanic02_bg.unity3d" Version="1" Size="457297" KB="446.6" FileCRC="1436399333" CRC="958013072" />
     </PackInfo>
-    <PackInfo Name="pack_019.bin" Size="10879045" MB="10.4" FileCount="24" FileCRC="2615137550" Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS">
+    <PackInfo Name="pack_019.bin" Size="10879047" MB="10.4" FileCount="24" FileCRC="2003922447" Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS">
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.commonpackage.package_typea_mechanic03_bg.unity3d" Version="1" Size="487463" KB="476.0" FileCRC="2180775706" CRC="2151697767" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.commonpackage.package_typea_wildhunter_high_bg.unity3d" Version="1" Size="454687" KB="444.0" FileCRC="1762357617" CRC="3576788509" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.commonpackage.package_typea_wildhunter_hypher_bg.unity3d" Version="1" Size="491080" KB="479.6" FileCRC="4131811823" CRC="3180277899" />
@@ -291,13 +291,13 @@
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.itemicon.buff.unity3d" Version="1" Size="36221" KB="35.4" FileCRC="1832771749" CRC="3547726812" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.itemicon.cash_etc.unity3d" Version="1" Size="106560" KB="104.1" FileCRC="2742698928" CRC="3702095647" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.itemicon.commanderdungeon.unity3d" Version="1" Size="5150" KB="5.0" FileCRC="352908974" CRC="4086635203" />
-      <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.itemicon.cube.unity3d" Version="1" Size="12253" KB="12.0" FileCRC="1538171994" CRC="3993577978" />
+      <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.itemicon.cube.unity3d" Version="1" Size="12255" KB="12.0" FileCRC="1855974431" CRC="3993577978" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.itemicon.damageskin.unity3d" Version="1" Size="181230" KB="177.0" FileCRC="1431619333" CRC="1590828536" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.itemicon.emblem.unity3d" Version="1" Size="16384" KB="16.0" FileCRC="2813370619" CRC="327623290" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.itemicon.equip_cash.cap.unity3d" Version="1" Size="811137" KB="792.1" FileCRC="1443819708" CRC="4098070599" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.itemicon.equip_cash.cape.unity3d" Version="1" Size="411329" KB="401.7" FileCRC="2822888227" CRC="3309624445" />
     </PackInfo>
-    <PackInfo Name="pack_020.bin" Size="33698558" MB="32.1" FileCount="66" FileCRC="4138805359" Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS">
+    <PackInfo Name="pack_020.bin" Size="33698560" MB="32.1" FileCount="66" FileCRC="3268666193" Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS">
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.itemicon.equip_cash.chair.unity3d" Version="1" Size="592375" KB="578.5" FileCRC="4233635679" CRC="706198357" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.itemicon.equip_cash.coat.unity3d" Version="1" Size="217116" KB="212.0" FileCRC="1549427995" CRC="3017936382" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.itemicon.equip_cash.earacc.unity3d" Version="1" Size="26642" KB="26.0" FileCRC="1199160897" CRC="2192992901" />
@@ -329,7 +329,7 @@
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.itemicon.equip.ring.unity3d" Version="1" Size="69976" KB="68.3" FileCRC="803577625" CRC="2474707980" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.itemicon.equip.shoes.unity3d" Version="1" Size="78101" KB="76.3" FileCRC="3480316337" CRC="1443276331" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.itemicon.equip.shoulder.unity3d" Version="1" Size="16641" KB="16.3" FileCRC="1971933070" CRC="4120324101" />
-      <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.itemicon.equip.subweapon.unity3d" Version="1" Size="138779" KB="135.5" FileCRC="1270865286" CRC="1223957514" />
+      <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.itemicon.equip.subweapon.unity3d" Version="1" Size="138781" KB="135.5" FileCRC="1791737733" CRC="1223957514" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.itemicon.equip.weapon.bow.unity3d" Version="1" Size="3407" KB="3.3" FileCRC="3850527256" CRC="2074179059" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.itemicon.equip.weapon.claw.unity3d" Version="1" Size="3671" KB="3.6" FileCRC="4081591113" CRC="3869822535" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.dynamictexture.itemicon.equip.weapon.crossbow.unity3d" Version="1" Size="11310" KB="11.0" FileCRC="4173150596" CRC="1064583236" />
