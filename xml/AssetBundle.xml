@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20200730_150832" Region="Korea" BuildInfo="1.54_2079_df9119d5_IOS" CommitHash="df9119d5573bb38cad3cfe75af3cabc1f979f8b9" DependencyHash="86d5f0b73aaf402e143783f5eb9140c127ec6aa57a99d89c4263e24dd828692" PackCount="274" FileCount="15744" TotalSize="3390932635" MB="3,233.8" />
+  <Header CRC="20200730_150832" Region="Korea" BuildInfo="1.54_2079_df9119d5_IOS" CommitHash="df9119d5573bb38cad3cfe75af3cabc1f979f8b9" DependencyHash="86d5f0b73aaf402e143783f5eb9140c127ec6aa57a99d89c4263e24dd828692" PackCount="274" FileCount="15744" TotalSize="3390932633" MB="3,233.8" />
   <PackList Count="274">
     <PackInfo Name="pack_001.bin" Size="13355727" MB="12.7" FileCount="2" FileCRC="326683193" Time="20200730_150832" BuildInfo="1.54_2079_df9119d5_IOS">
       <AssetBundle Time="20200730_150832" BuildInfo="1.54_2079_df9119d5_IOS" Path="common.map.kerningcity.unity3d" Version="1" Size="6293964" KB="6,146.4" FileCRC="1581743860" CRC="2923707781" />
@@ -1187,7 +1187,7 @@
       <AssetBundle Time="20200611_060606" BuildInfo="1.53_1978_fb640351_IOS" Path="common.map.episoded02.00_enviroment.episoded02_bg_effect.unity3d" Version="1" Size="48856" KB="47.7" FileCRC="1659548834" CRC="1448061682" />
       <AssetBundle Time="20200611_060606" BuildInfo="1.53_1978_fb640351_IOS" Path="common.map.episoded02.00_enviroment.unity3d" Version="1" Size="1610736" KB="1,573.0" FileCRC="3480060079" CRC="3889978384" />
     </PackInfo>
-    <PackInfo Name="pack_044.bin" Size="14346885" MB="13.7" FileCount="12" FileCRC="3261699612" Time="20200609_075919" BuildInfo="1.53_1974_d747a46b_IOS">
+    <PackInfo Name="pack_044.bin" Size="14346883" MB="13.7" FileCount="12" FileCRC="3846246216" Time="20200609_075919" BuildInfo="1.53_1974_d747a46b_IOS">
       <AssetBundle Time="20200611_060606" BuildInfo="1.53_1978_fb640351_IOS" Path="common.sound.minigame.episodedungeonfish.1.unity3d" Version="1" Size="6674" KB="6.5" FileCRC="3011734340" CRC="3679238894" />
       <AssetBundle Time="20200611_060606" BuildInfo="1.53_1978_fb640351_IOS" Path="common.sound.minigame.episodedungeonfish.2.unity3d" Version="1" Size="6785" KB="6.6" FileCRC="530524840" CRC="4042981080" />
       <AssetBundle Time="20200611_060606" BuildInfo="1.53_1978_fb640351_IOS" Path="common.sound.minigame.episodedungeonfish.3.unity3d" Version="1" Size="6854" KB="6.7" FileCRC="3695912820" CRC="2326620724" />
@@ -1195,7 +1195,7 @@
       <AssetBundle Time="20200611_060606" BuildInfo="1.53_1978_fb640351_IOS" Path="common.sound.minigame.episodedungeonfish.start.unity3d" Version="1" Size="8521" KB="8.3" FileCRC="2011406969" CRC="4265589530" />
       <AssetBundle Time="20200610_060658" BuildInfo="1.53_1975_95f4c51c_IOS" Path="common.sound.minigame.episodedungeonfish.fishbomb.unity3d" Version="1" Size="11219" KB="11.0" FileCRC="2529506649" CRC="2269771876" />
       <AssetBundle Time="20200610_060658" BuildInfo="1.53_1975_95f4c51c_IOS" Path="common.sound.minigame.episodedungeonfish.fishdead.unity3d" Version="1" Size="10023" KB="9.8" FileCRC="3500954128" CRC="4142897906" />
-      <AssetBundle Time="20200610_060658" BuildInfo="1.53_1975_95f4c51c_IOS" Path="common.ui._v4_0.themadungeon.episodedungeon.episodedungeonminigame.effect3.unity3d" Version="1" Size="222598" KB="217.4" FileCRC="1319496427" CRC="1305861799" />
+      <AssetBundle Time="20200610_060658" BuildInfo="1.53_1975_95f4c51c_IOS" Path="common.ui._v4_0.themadungeon.episodedungeon.episodedungeonminigame.effect3.unity3d" Version="1" Size="222596" KB="217.4" FileCRC="3721395949" CRC="1305861799" />
       <AssetBundle Time="20200609_075919" BuildInfo="1.53_1974_d747a46b_IOS" Path="common.map.azwan.00_enviroment.azwan_bg_effect.unity3d" Version="1" Size="33672" KB="32.9" FileCRC="2595612607" CRC="2838090500" />
       <AssetBundle Time="20200609_075919" BuildInfo="1.53_1974_d747a46b_IOS" Path="common.map.azwan.00_enviroment.unity3d" Version="1" Size="2460425" KB="2,402.8" FileCRC="77356947" CRC="925428082" />
       <AssetBundle Time="20200609_075919" BuildInfo="1.53_1974_d747a46b_IOS" Path="common.map.empressroad.00_enviroment.unity3d" Version="1" Size="362338" KB="353.8" FileCRC="1821627139" CRC="946618737" />
