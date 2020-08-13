@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20200730_150832" Region="Korea" BuildInfo="1.54_2079_df9119d5_IOS" CommitHash="df9119d5573bb38cad3cfe75af3cabc1f979f8b9" DependencyHash="86d5f0b73aaf402e143783f5eb9140c127ec6aa57a99d89c4263e24dd828692" PackCount="274" FileCount="15744" TotalSize="3390932633" MB="3,233.8" />
+  <Header CRC="20200730_150832" Region="Korea" BuildInfo="1.54_2079_df9119d5_IOS" CommitHash="df9119d5573bb38cad3cfe75af3cabc1f979f8b9" DependencyHash="86d5f0b73aaf402e143783f5eb9140c127ec6aa57a99d89c4263e24dd828692" PackCount="274" FileCount="15744" TotalSize="3390932635" MB="3,233.8" />
   <PackList Count="274">
     <PackInfo Name="pack_001.bin" Size="13355727" MB="12.7" FileCount="2" FileCRC="326683193" Time="20200730_150832" BuildInfo="1.54_2079_df9119d5_IOS">
       <AssetBundle Time="20200730_150832" BuildInfo="1.54_2079_df9119d5_IOS" Path="common.map.kerningcity.unity3d" Version="1" Size="6293964" KB="6,146.4" FileCRC="1581743860" CRC="2923707781" />
@@ -1069,7 +1069,7 @@
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.ui._v4_0.event.eventmikudungeon.popup.unity3d" Version="1" Size="1380733" KB="1,348.4" FileCRC="2651553698" CRC="3486746190" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.ui._v4_0.event.eventmikudungeon.resultpopup.unity3d" Version="1" Size="654992" KB="639.6" FileCRC="335536534" CRC="2473265749" />
     </PackInfo>
-    <PackInfo Name="pack_035.bin" Size="11684955" MB="11.1" FileCount="14" FileCRC="3190120585" Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS">
+    <PackInfo Name="pack_035.bin" Size="11684957" MB="11.1" FileCount="14" FileCRC="3795610858" Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS">
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.ui._v4_0.event.eventmuseum.unity3d" Version="1" Size="907242" KB="886.0" FileCRC="3152351959" CRC="29505053" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.ui._v4_0.event.hotelmaple.infinitypool.unity3d" Version="1" Size="597488" KB="583.5" FileCRC="2400049430" CRC="2078018952" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.ui._v4_0.event.hotelmaple.lobby.unity3d" Version="1" Size="2835202" KB="2,768.8" FileCRC="4196798196" CRC="1270821418" />
@@ -1081,7 +1081,7 @@
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.ui._v4_0.event.rhythmpopup.unity3d" Version="1" Size="1042089" KB="1,017.7" FileCRC="2002646872" CRC="585108586" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.ui._v4_0.event.selectpopup.unity3d" Version="1" Size="22762" KB="22.2" FileCRC="1746395758" CRC="1460677747" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.ui._v4_0.eventanniversarycoin.unity3d" Version="1" Size="39740" KB="38.8" FileCRC="755480748" CRC="2401168627" />
-      <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.ui._v4_0.eventanniversarycoinpopup.unity3d" Version="1" Size="331364" KB="323.6" FileCRC="4049514107" CRC="3881787428" />
+      <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.ui._v4_0.eventanniversarycoinpopup.unity3d" Version="1" Size="331366" KB="323.6" FileCRC="47561234" CRC="3881787428" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.ui._v4_0.eventgradecoinshoppopup.unity3d" Version="1" Size="336060" KB="328.2" FileCRC="821717319" CRC="467877757" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.ui._v4_0.eventheinzdicepopup.unity3d" Version="1" Size="1624206" KB="1,586.1" FileCRC="78349732" CRC="1608421883" />
     </PackInfo>
