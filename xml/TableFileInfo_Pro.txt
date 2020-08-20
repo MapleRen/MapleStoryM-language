@@ -1,6 +1,6 @@
 data.bin.auctionrenewal.tbl	3752687411	1	3752687411
 data.bin.lan.kor.ifo	3938555032	1	3938555032
-data.bin.lan.kor.tbl	3022489469	3	3022489469
+data.bin.lan.kor.tbl	2838303231	4	2838303231
 data.bin.place.tbl	3527987175	1	3527987175
 data.bin.client.item.ifo	1639851776	1	1639851776
 data.bin.client.item.tbl	2494470123	1	2494470123
@@ -83,5 +83,5 @@ data.bin.table_version.ifo	2927010390	1	2927010390
 data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
-data.table.unity3d	88890347	3	88890347
-data.language_kor.unity3d	3219002633	3	3219002633
+data.table.unity3d	88890347	4	88890347
+data.language_kor.unity3d	3219002633	4	3219002633
