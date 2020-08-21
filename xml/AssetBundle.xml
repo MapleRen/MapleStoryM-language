@@ -1,27 +1,27 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20200820_120819" Region="Korea" BuildInfo="1.55_2129_1a3f8a66_IOS" CommitHash="1a3f8a66a49a4860814e087f5f947bdcd351057c" DependencyHash="e6fccd12a3d2d2f4b6f5973e813b1eb416d65ae2a7dd660c07a1998b484a3" PackCount="283" FileCount="15942" TotalSize="3504049718" MB="3,341.7" />
+  <Header CRC="20200820_181924" Region="Korea" BuildInfo="1.55_2130_ef813a95_IOS" CommitHash="ef813a95aa205aece7287299efbdf759a6f96ddf" DependencyHash="3fb9807542bc77fe11cac8cc1e1fb2299523c5fdcc4a052961e5c947e935e5d" PackCount="283" FileCount="15942" TotalSize="3504049756" MB="3,341.7" />
   <PackList Count="283">
-    <PackInfo Name="pack_001.bin" Size="36694890" MB="35.0" FileCount="3" FileCRC="3842124828" Time="20200819_163159" BuildInfo="1.55_2123_8df13a09_IOS">
-      <AssetBundle Time="20200820_120819" BuildInfo="1.55_2129_1a3f8a66_IOS" Path="common.map.kerningcity.unity3d" Version="1" Size="6293964" KB="6,146.4" FileCRC="1581743860" CRC="2923707781" />
+    <PackInfo Name="pack_001.bin" Size="40559785" MB="38.7" FileCount="4" FileCRC="3375941854" Time="20200819_163159" BuildInfo="1.55_2123_8df13a09_IOS">
+      <AssetBundle Time="20200820_181924" BuildInfo="1.55_2130_ef813a95_IOS" Path="common.map.kerningcity.unity3d" Version="1" Size="6293964" KB="6,146.4" FileCRC="1581743860" CRC="2923707781" />
+      <AssetBundle Time="20200820_181924" BuildInfo="1.55_2130_ef813a95_IOS" Path="common.ui._v4_0.themadungeon.onecard.unity3d" Version="1" Size="3864843" KB="3,774.3" FileCRC="3149996018" CRC="208437911" />
       <AssetBundle Time="20200820_120819" BuildInfo="1.55_2129_1a3f8a66_IOS" Path="common.ui._v4_0.mesomarket.unity3d" Version="1" Size="52731" KB="51.5" FileCRC="467177233" CRC="3245856813" />
       <AssetBundle Time="20200819_163159" BuildInfo="1.55_2123_8df13a09_IOS" Path="common.dynamictexture.storemainbanner.unity3d" Version="1" Size="30348047" KB="29,636.8" FileCRC="4259111002" CRC="1273306671" />
     </PackInfo>
-    <PackInfo Name="pack_002.bin" Size="11941044" MB="11.4" FileCount="3" FileCRC="248615466" Time="20200819_040231" BuildInfo="1.55_2121_d86d40d2_IOS">
+    <PackInfo Name="pack_002.bin" Size="15838499" MB="15.1" FileCount="4" FileCRC="721331083" Time="20200818_123412" BuildInfo="1.55_2120_ecc71493_IOS">
       <AssetBundle Time="20200819_163159" BuildInfo="1.55_2123_8df13a09_IOS" Path="common.ui._v4_0.partymatchmanager.unity3d" Version="1" Size="556326" KB="543.3" FileCRC="1067982121" CRC="843349585" />
-      <AssetBundle Time="20200819_124210" BuildInfo="1.55_2122_442c23b5_IOS" Path="common.ui._v4_0.themadungeon.onecard.unity3d" Version="1" Size="3864805" KB="3,774.2" FileCRC="2652062715" CRC="865961349" />
       <AssetBundle Time="20200819_040231" BuildInfo="1.55_2121_d86d40d2_IOS" Path="common.map.nautilus.unity3d" Version="1" Size="7519762" KB="7,343.5" FileCRC="3345773069" CRC="2928371921" />
-    </PackInfo>
-    <PackInfo Name="pack_003.bin" Size="12370899" MB="11.8" FileCount="3" FileCRC="2134455032" Time="20200818_123412" BuildInfo="1.55_2120_ecc71493_IOS">
       <AssetBundle Time="20200819_040231" BuildInfo="1.55_2121_d86d40d2_IOS" Path="common.ui._v4_0.event.hotelmaple.infinitypool.unity3d" Version="1" Size="700229" KB="683.8" FileCRC="2516424121" CRC="3314856577" />
       <AssetBundle Time="20200818_123412" BuildInfo="1.55_2120_ecc71493_IOS" Path="common.map.pantheon.unity3d" Version="1" Size="7061987" KB="6,896.5" FileCRC="1639625295" CRC="3595463365" />
-      <AssetBundle Time="20200818_123412" BuildInfo="1.55_2120_ecc71493_IOS" Path="common.map.tyrantcastle.unity3d" Version="1" Size="4608533" KB="4,500.5" FileCRC="4293229742" CRC="1270638813" />
     </PackInfo>
-    <PackInfo Name="pack_004.bin" Size="23204309" MB="22.1" FileCount="5" FileCRC="2295081213" Time="20200812_181828" BuildInfo="1.55_2112_1f1bf28e_IOS">
+    <PackInfo Name="pack_003.bin" Size="11518292" MB="11.0" FileCount="5" FileCRC="2876172352" Time="20200813_050516" BuildInfo="1.55_2113_59f63eae_IOS">
+      <AssetBundle Time="20200818_123412" BuildInfo="1.55_2120_ecc71493_IOS" Path="common.map.tyrantcastle.unity3d" Version="1" Size="4608533" KB="4,500.5" FileCRC="4293229742" CRC="1270638813" />
       <AssetBundle Time="20200818_123412" BuildInfo="1.55_2120_ecc71493_IOS" Path="common.ui._v4_0.event.hotelmaple.punchking.unity3d" Version="1" Size="183652" KB="179.3" FileCRC="1617766696" CRC="322265096" />
       <AssetBundle Time="20200814_040316" BuildInfo="1.55_2119_599055de_IOS" Path="common.ui.custompackage.unity3d" Version="1" Size="2730897" KB="2,666.9" FileCRC="2927439204" CRC="3930106491" />
       <AssetBundle Time="20200813_132823" BuildInfo="1.55_2115_c2043b1e_IOS" Path="common.ui.nobject.unity3d" Version="1" Size="2082669" KB="2,033.9" FileCRC="2585373220" CRC="1196786094" />
       <AssetBundle Time="20200813_050516" BuildInfo="1.55_2113_59f63eae_IOS" Path="common.map.expedition05.unity3d" Version="1" Size="1912318" KB="1,867.5" FileCRC="2353811733" CRC="2858296970" />
+    </PackInfo>
+    <PackInfo Name="pack_004.bin" Size="16294604" MB="15.5" FileCount="1" FileCRC="3037406094" Time="20200812_181828" BuildInfo="1.55_2112_1f1bf28e_IOS">
       <AssetBundle Time="20200812_181828" BuildInfo="1.55_2112_1f1bf28e_IOS" Path="common.dynamictexture.packageportalbanner.unity3d" Version="1" Size="16294532" KB="15,912.6" FileCRC="1596456113" CRC="3496432062" />
     </PackInfo>
     <PackInfo Name="pack_005.bin" Size="10625943" MB="10.1" FileCount="14" FileCRC="2955934123" Time="20200812_050509" BuildInfo="1.55_2111_3508613b_IOS">
