@@ -84,39 +84,3 @@ if($request.url.indexOf('AssetBundle_table.xml') != -1){
 }else{
     redirect();
 }
-
-String.prototype.getXmlAttr =function(path,attr){
-    var reg = new RegExp(`^(.*Path=\"${path}\"[^\>]*${attr}}=\")(\\d+)(\".*)`)
-    return this.replace(reg,'$2')
-}
-String.prototype.setXmlAttr =function(path,attr,value){
-    var reg = new RegExp(`^(.*Path=\"${path}\"[^\>]*${attr}}=\")\\d+(\".*)`)
-    return this.replace(reg,`$1${value}$2`)
-}
-
-
-function notifyAndSetValue(msg,success){
-    $notify(config.title, "", msg);
-    $prefs.setValueForKey(success, config.prefix)
-}
-
-function redirect() {
-    const github_path = 'https://raw.githubusercontent.com/MapleRen/MapleStoryM-language/master/';
-    const need_redirect = $prefs.valueForKey(config.prefix);
-    const file_name = $request.url.slice($request.url.lastIndexOf('@') + 1);
-    if (need_redirect == 'true') {
-        var mStatus = "HTTP/1.1 302 Found";
-        var mHeaders = { "Location": `${github_path}${file_name}` };
-        var mResponse = {
-            status: mStatus,
-            headers: mHeaders
-        }
-        $done(mResponse);
-    }
-}
-
-if($request.url.indexOf('AssetBundle_table.xml') != -1){
-    rewrite();
-}else{
-    redirect();
-}
