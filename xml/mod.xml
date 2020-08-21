@@ -10,12 +10,12 @@
     </PackInfo>
     <PackInfo Name="pack_002.bin" Size="10565993" MB="10.1" FileCount="4" FileCRC="1872795609" Time="20200820_182907" BuildInfo="1.55_2130_0918b6c1_IOS">
       <Data Time="20200820_182907" BuildInfo="1.55_2130_0918b6c1_IOS" Path="data.bin.lan.kor.ifo" Version="1" Size="592758" KB="578.9" FileCRC="4234728630" CRC="4234728630" />
-      <Data Time="20200820_182907" BuildInfo="1.55_2130_0918b6c1_IOS" Path="data.bin.lan.kor.tbl" Version="5" Size="5632707" KB="5,500.7" FileCRC="2004506918" CRC="2004506918" />
+      <Data Time="20200820_182907" BuildInfo="1.55_2130_0918b6c1_IOS" Path="data.bin.lan.kor.tbl" Version="1" Size="5632707" KB="5,500.7" FileCRC="2004506918" CRC="2004506918" />
       <Data Time="20200820_182907" BuildInfo="1.55_2130_0918b6c1_IOS" Path="data.bin.result.tbl" Version="1" Size="4233257" KB="4,134.0" FileCRC="1952932820" CRC="1952932820" />
       <Data Time="20200820_182907" BuildInfo="1.55_2130_0918b6c1_IOS" Path="data.bin.slang.tbl" Version="1" Size="107147" KB="104.6" FileCRC="610653978" CRC="610653978" />
     </PackInfo>
     <PackInfo Name="pack_003.bin" Size="10656436" MB="10.2" FileCount="7" FileCRC="528402719" Time="20200819_200845" BuildInfo="1.55_2124_71049393_IOS">
-      <AssetBundle Time="20200820_182907" BuildInfo="1.55_2130_0918b6c1_IOS" Path="data.table.unity3d" Version="5" Size="7361273" KB="1,082.4" FileCRC="3922232782" CRC="3922232782" />
+      <AssetBundle Time="20200820_182907" BuildInfo="1.55_2130_0918b6c1_IOS" Path="data.table.unity3d" Version="1" Size="7361273" KB="1,082.4" FileCRC="3922232782" CRC="3922232782" />
       <Data Time="20200820_115305" BuildInfo="1.55_2128_ab1fd26c_IOS" Path="data.bin.place.tbl" Version="1" Size="550316" KB="537.4" FileCRC="3527987175" CRC="3527987175" />
       <Data Time="20200819_200845" BuildInfo="1.55_2124_71049393_IOS" Path="data.bin.client.activator.tbl" Version="1" Size="427845" KB="417.8" FileCRC="657301896" CRC="657301896" />
       <Data Time="20200819_200845" BuildInfo="1.55_2124_71049393_IOS" Path="data.bin.client.skill.tbl" Version="1" Size="7393062" KB="7,219.8" FileCRC="3687379458" CRC="3687379458" />
