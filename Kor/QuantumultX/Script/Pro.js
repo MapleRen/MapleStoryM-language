@@ -9,7 +9,7 @@ const config ={
 function rewrite() {
     let body = compressXml($response.body);
     const crcReg = /.*<Header CRC=\"(.*?)\"([^\[]*)/gm;
-      
+    notifyAndSetValue('正在获取最新汉化信息...','false');
     const xmlCRC = body.replace(crcReg,'$1');$task.fetch({url:config.API}).then(response => {
 
         if (response.statusCode != 200) {
