@@ -4,14 +4,14 @@
   <PackList Count="7">
     <PackInfo Name="pack_001.bin" Size="12799643" MB="12.2" FileCount="5" FileCRC="4185797478" Time="20200820_182907" BuildInfo="1.55_2130_0918b6c1_IOS">
       <Data Time="20200821_124055" BuildInfo="1.55_2132_1feba8c4_IOS" Path="data.bin.client.buff.tbl" Version="1" Size="1889086" KB="1,844.8" FileCRC="2184523612" CRC="2184523612" />
-      <AssetBundle Time="20200821_124055" BuildInfo="1.55_2132_1feba8c4_IOS" Path="data.table.unity3d" Version="6" Size="7361273" KB="1,082.5" FileCRC="2886409757" CRC="2886409757" />
+      <AssetBundle Time="20200821_124055" BuildInfo="1.55_2132_1feba8c4_IOS" Path="data.table.unity3d" Version="5" Size="7361273" KB="1,082.5" FileCRC="2886409757" CRC="2886409757" />
       <Data Time="20200820_182907" BuildInfo="1.55_2130_0918b6c1_IOS" Path="data.bin.auctionrenewal.tbl" Version="1" Size="84032" KB="82.1" FileCRC="105043070" CRC="105043070" />
       <Data Time="20200820_182907" BuildInfo="1.55_2130_0918b6c1_IOS" Path="data.bin.client.item.ifo" Version="1" Size="602393" KB="588.3" FileCRC="591904910" CRC="591904910" />
       <Data Time="20200820_182907" BuildInfo="1.55_2130_0918b6c1_IOS" Path="data.bin.client.item.tbl" Version="1" Size="9115531" KB="8,901.9" FileCRC="2360141936" CRC="2360141936" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" Size="10565993" MB="10.1" FileCount="4" FileCRC="1872795609" Time="20200820_182907" BuildInfo="1.55_2130_0918b6c1_IOS">
       <Data Time="20200820_182907" BuildInfo="1.55_2130_0918b6c1_IOS" Path="data.bin.lan.kor.ifo" Version="1" Size="592758" KB="578.9" FileCRC="4234728630" CRC="4234728630" />
-      <Data Time="20200820_182907" BuildInfo="1.55_2130_0918b6c1_IOS" Path="data.bin.lan.kor.tbl" Version="6" Size="5632707" KB="5,500.7" FileCRC="2004506918" CRC="2004506918" />
+      <Data Time="20200820_182907" BuildInfo="1.55_2130_0918b6c1_IOS" Path="data.bin.lan.kor.tbl" Version="5" Size="5632707" KB="5,500.7" FileCRC="247833698" CRC="247833698" />
       <Data Time="20200820_182907" BuildInfo="1.55_2130_0918b6c1_IOS" Path="data.bin.result.tbl" Version="1" Size="4233257" KB="4,134.0" FileCRC="1952932820" CRC="1952932820" />
       <Data Time="20200820_182907" BuildInfo="1.55_2130_0918b6c1_IOS" Path="data.bin.slang.tbl" Version="1" Size="107147" KB="104.6" FileCRC="610653978" CRC="610653978" />
     </PackInfo>
