@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20200902_135435" Region="Korea" BuildInfo="1.55_1805_66687af7_IOS" CommitHash="" DependencyHash="" PackCount="6" FileCount="87" TotalSize="77965685" MB="74.4" Compressed="false" Source="/Jenkins/workspace/KoreaStage/Korea_AT_IOS_Stage/TABLE/Table/" />
+  <Header CRC="20200910_154146" Region="Korea" BuildInfo="1.55_1807_a214eb3f_IOS" CommitHash="" DependencyHash="" PackCount="6" FileCount="87" TotalSize="77965973" MB="74.4" Compressed="false" Source="/Jenkins/workspace/KoreaStage/Korea_AT_IOS_Stage/TABLE/Table/" />
   <PackList Count="6">
-    <PackInfo Name="pack_001.bin" Size="15353079" MB="14.6" FileCount="3" FileCRC="2455681264" Time="20200902_135435" BuildInfo="1.55_1805_66687af7_IOS">
+    <PackInfo Name="pack_001.bin" Size="15353367" MB="14.6" FileCount="3" FileCRC="3643196650" Time="20200902_135435" BuildInfo="1.55_1805_66687af7_IOS">
+      <Data Time="20200910_154146" BuildInfo="1.55_1807_a214eb3f_IOS" Path="data.bin.lan.kor.ifo" Version="1" Size="593446" KB="579.5" FileCRC="1161193718" CRC="1161193718" />
+      <Data Time="20200910_154146" BuildInfo="1.55_1807_a214eb3f_IOS" Path="data.bin.lan.kor.tbl" Version="99" Size="5644281" KB="5,512.0" FileCRC="1116327914" CRC="1116327914" />
       <Data Time="20200902_135435" BuildInfo="1.55_1805_66687af7_IOS" Path="data.bin.client.item.tbl" Version="1" Size="9115537" KB="8,901.9" FileCRC="2343942981" CRC="2343942981" />
-      <Data Time="20200902_135435" BuildInfo="1.55_1805_66687af7_IOS" Path="data.bin.lan.kor.ifo" Version="1" Size="593424" KB="579.5" FileCRC="3128535205" CRC="3128535205" />
-      <Data Time="20200902_135435" BuildInfo="1.55_1805_66687af7_IOS" Path="data.bin.lan.kor.tbl" Version="99" Size="5644015" KB="5,511.7" FileCRC="3091367249" CRC="3091367249" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" Size="16580855" MB="15.8" FileCount="10" FileCRC="2778482819" Time="20200819_200845" BuildInfo="1.55_2124_71049393_IOS">
       <Data Time="20200901_154059" BuildInfo="1.55_1804_dfb45dfb_IOS" Path="data.bin.client.vehicle.tbl" Version="1" Size="184964" KB="180.6" FileCRC="2223854614" CRC="2223854614" />
