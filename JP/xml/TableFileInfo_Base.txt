@@ -1,6 +1,6 @@
+data.bin.lan.jpn.ifo	1796681280	1	1796681280
+data.bin.lan.jpn.tbl	2786815574	1	2786815574
 data.bin.client.ear.tbl	4234028732	1	4234028732
-data.bin.lan.jpn.ifo	2680598683	1	2680598683
-data.bin.lan.jpn.tbl	3926596928	2	3926596928
 data.bin.lan.kor.ifo	2732669430	1	2732669430
 data.bin.lan.kor.tbl	1883675789	1	1883675789
 data.bin.client.dummy.tbl	351275838	1	351275838
@@ -89,7 +89,7 @@ data.bin.table_version.ifo	3814106525	1	3814106525
 data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
-data.table.unity3d	654181301	2	654181301
+data.table.unity3d	654181301	1	654181301
 data.language_jpn.unity3d	2031048024	1	2614549362
 data.language_kor.unity3d	2469951471	1	2038484389
 data.language_usa.unity3d	3481452170	1	3323237130
