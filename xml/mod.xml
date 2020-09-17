@@ -10,9 +10,9 @@
       <Data Time="20200917_111906" BuildInfo="1.56_2181_a9a1ede5_IOS" Path="data.bin.client.item.tbl" Version="1" Size="9392594" KB="9,172.5" FileCRC="1670206222" CRC="1670206222" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" Size="10523352" MB="10.0" FileCount="10" FileCRC="2992940638" Time="20200916_041451" BuildInfo="1.56_2174_218d0fd8_IOS">
-      <AssetBundle Time="20200917_103002" BuildInfo="1.56_2180_da21ace4_IOS" Path="data.table.unity3d" Version="3" Size="7645897" KB="1,117.1" FileCRC="30927811" CRC="30927811" />
+      <AssetBundle Time="20200917_103002" BuildInfo="1.56_2180_da21ace4_IOS" Path="data.table.unity3d" Version="4" Size="7645897" KB="1,117.1" FileCRC="30927811" CRC="30927811" />
       <Data Time="20200916_225154" BuildInfo="1.56_2179_acef733b_IOS" Path="data.bin.lan.kor.ifo" Version="1" Size="604504" KB="590.3" FileCRC="3660292595" CRC="3660292595" />
-      <Data Time="20200916_225154" BuildInfo="1.56_2179_acef733b_IOS" Path="data.bin.lan.kor.tbl" Version="3" Size="5746041" KB="5,611.4" FileCRC="2276264395" CRC="2276264395" />
+      <Data Time="20200916_225154" BuildInfo="1.56_2179_acef733b_IOS" Path="data.bin.lan.kor.tbl" Version="4" Size="5746041" KB="5,611.4" FileCRC="381916809" CRC="381916809" />
       <Data Time="20200916_220937" BuildInfo="1.56_2178_e51feea3_IOS" Path="data.bin.gachaitem.tbl" Version="1" Size="1172368" KB="1,144.9" FileCRC="1516901697" CRC="1516901697" />
       <Data Time="20200916_220937" BuildInfo="1.56_2178_e51feea3_IOS" Path="data.bin.lang.kor.questxml.ifo" Version="1" Size="49778" KB="48.6" FileCRC="30860294" CRC="30860294" />
       <Data Time="20200916_220937" BuildInfo="1.56_2178_e51feea3_IOS" Path="data.bin.lang.kor.questxml.tbl" Version="1" Size="627852" KB="613.1" FileCRC="264923408" CRC="264923408" />
