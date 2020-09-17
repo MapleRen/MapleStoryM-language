@@ -1,7 +1,9 @@
+data.bin.client.partsset.ifo	1082455796	1	1082455796
+data.bin.client.partsset.tbl	2425274308	1	2425274308
 data.bin.client.item.ifo	1026807474	1	1026807474
 data.bin.client.item.tbl	1670206222	1	1670206222
 data.bin.lan.kor.ifo	3660292595	1	3660292595
-data.bin.lan.kor.tbl	2276264395	2	2276264395
+data.bin.lan.kor.tbl	2276264395	3	2276264395
 data.bin.gachaitem.tbl	1516901697	1	1516901697
 data.bin.lang.kor.questxml.ifo	30860294	1	30860294
 data.bin.lang.kor.questxml.tbl	264923408	1	264923408
@@ -29,8 +31,6 @@ data.bin.client.buff.tbl	2967976462	1	2967976462
 data.bin.client.icon.ifo	2345193544	1	2345193544
 data.bin.client.icon.tbl	2776524334	1	2776524334
 data.bin.upgradedefault.tbl	1741467337	1	1741467337
-data.bin.client.partsset.ifo	115465850	1	115465850
-data.bin.client.partsset.tbl	3259233619	1	3259233619
 data.bin.client.effect.ifo	3825766954	1	3825766954
 data.bin.physicx_terrain.ifo	3399769984	1	3399769984
 data.bin.physicx_terrain.tbl	4099411381	1	4099411381
@@ -83,5 +83,5 @@ data.bin.table_version.ifo	2927010390	1	2927010390
 data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
-data.language_kor.unity3d	3893294349	1	4076274343
-data.table.unity3d	30927811	2	30927811
+data.language_kor.unity3d	226996906	1	248447087
+data.table.unity3d	30927811	3	30927811
