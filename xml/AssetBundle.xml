@@ -1,19 +1,20 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20200921_132336" Region="Korea" BuildInfo="1.56_2190_be9b0aa9_IOS" CommitHash="be9b0aa9dbe2958e89659d15f2679d7b1b187cc3" DependencyHash="fd9561ead43acb76e4b517f885cf4fd736352a1b4e73c0911c90f45fba89772b" PackCount="285" FileCount="16224" TotalSize="3530548518" MB="3,367.0" />
+  <Header CRC="20200925_135718" Region="Korea" BuildInfo="1.56_1813_78c2f055_IOS" CommitHash="78c2f0555d85fd82d4461ccd49efae1c128b2492" DependencyHash="7e88239245d9eec0bcc97a4d1dc92d3ecf56eaef2d1cf66a81cf57dd8d1e9db3" PackCount="285" FileCount="16224" TotalSize="3530548520" MB="3,367.0" />
   <PackList Count="285">
-    <PackInfo Name="pack_001.bin" Size="18534563" MB="17.7" FileCount="1" FileCRC="4136130131" Time="20200921_132336" BuildInfo="1.56_2190_be9b0aa9_IOS">
+    <PackInfo Name="pack_001.bin" Size="12613780" MB="12.0" FileCount="2" FileCRC="1128741979" Time="20200925_135718" BuildInfo="1.56_1813_78c2f055_IOS">
+      <AssetBundle Time="20200925_135718" BuildInfo="1.56_1813_78c2f055_IOS" Path="common.map.kerningcity.unity3d" Version="1" Size="6342061" KB="6,193.4" FileCRC="3654226751" CRC="3508448108" />
+      <AssetBundle Time="20200925_135718" BuildInfo="1.56_1813_78c2f055_IOS" Path="common.map.twilightperion.unity3d" Version="1" Size="6271625" KB="6,124.6" FileCRC="3673844701" CRC="3071370470" />
+    </PackInfo>
+    <PackInfo Name="pack_002.bin" Size="27302827" MB="26.0" FileCount="1" FileCRC="4252629312" Time="20200925_135718" BuildInfo="1.56_1813_78c2f055_IOS">
+      <AssetBundle Time="20200925_135718" BuildInfo="1.56_1813_78c2f055_IOS" Path="common.sky_set.ossyriacontinent.unity3d" Version="1" Size="27302765" KB="26,662.9" FileCRC="2264907626" CRC="3194246717" />
+    </PackInfo>
+    <PackInfo Name="pack_003.bin" Size="20427869" MB="19.5" FileCount="2" FileCRC="2069654901" Time="20200921_132336" BuildInfo="1.56_2190_be9b0aa9_IOS">
+      <AssetBundle Time="20200925_135718" BuildInfo="1.56_1813_78c2f055_IOS" Path="common.ui._v4_0.themadungeon.rescuemission.ingameinterface.unity3d" Version="1" Size="1893232" KB="1,848.9" FileCRC="1996330951" CRC="254960167" />
       <AssetBundle Time="20200921_132336" BuildInfo="1.56_2190_be9b0aa9_IOS" Path="common.dynamictexture.packageportalbanner.unity3d" Version="1" Size="18534491" KB="18,100.1" FileCRC="2930966221" CRC="3403948310" />
     </PackInfo>
-    <PackInfo Name="pack_002.bin" Size="32929407" MB="31.4" FileCount="1" FileCRC="2129398604" Time="20200921_132336" BuildInfo="1.56_2190_be9b0aa9_IOS">
+    <PackInfo Name="pack_004.bin" Size="32929407" MB="31.4" FileCount="1" FileCRC="2129398604" Time="20200921_132336" BuildInfo="1.56_2190_be9b0aa9_IOS">
       <AssetBundle Time="20200921_132336" BuildInfo="1.56_2190_be9b0aa9_IOS" Path="common.dynamictexture.storemainbanner.unity3d" Version="1" Size="32929339" KB="32,157.6" FileCRC="3635824504" CRC="1855403898" />
-    </PackInfo>
-    <PackInfo Name="pack_003.bin" Size="12613780" MB="12.0" FileCount="2" FileCRC="1128741979" Time="20200921_132336" BuildInfo="1.56_2190_be9b0aa9_IOS">
-      <AssetBundle Time="20200921_132336" BuildInfo="1.56_2190_be9b0aa9_IOS" Path="common.map.kerningcity.unity3d" Version="1" Size="6342061" KB="6,193.4" FileCRC="3654226751" CRC="3508448108" />
-      <AssetBundle Time="20200921_132336" BuildInfo="1.56_2190_be9b0aa9_IOS" Path="common.map.twilightperion.unity3d" Version="1" Size="6271625" KB="6,124.6" FileCRC="3673844701" CRC="3071370470" />
-    </PackInfo>
-    <PackInfo Name="pack_004.bin" Size="27302827" MB="26.0" FileCount="1" FileCRC="4252629312" Time="20200921_132336" BuildInfo="1.56_2190_be9b0aa9_IOS">
-      <AssetBundle Time="20200921_132336" BuildInfo="1.56_2190_be9b0aa9_IOS" Path="common.sky_set.ossyriacontinent.unity3d" Version="1" Size="27302765" KB="26,662.9" FileCRC="2264907626" CRC="3194246717" />
     </PackInfo>
     <PackInfo Name="pack_005.bin" Size="17804610" MB="17.0" FileCount="5" FileCRC="3566519898" Time="20200916_154958" BuildInfo="1.56_2176_a80acfb5_IOS">
       <AssetBundle Time="20200921_132336" BuildInfo="1.56_2190_be9b0aa9_IOS" Path="common.ui.simplepackagepopup.illusionclothpackagepopup.unity3d" Version="1" Size="459354" KB="448.6" FileCRC="775183432" CRC="534049109" />
@@ -30,11 +31,10 @@
       <AssetBundle Time="20200910_174247" BuildInfo="1.56_2167_ab35cfa1_IOS" Path="common.character.skill.explorers.hero.shout.unity3d" Version="1" Size="383512" KB="374.5" FileCRC="744551535" CRC="526906207" />
       <AssetBundle Time="20200910_050526" BuildInfo="1.56_2165_287bf873_IOS" Path="common.dynamictexture.itemicon.box.unity3d" Version="1" Size="325606" KB="318.0" FileCRC="1212370414" CRC="962702056" />
     </PackInfo>
-    <PackInfo Name="pack_007.bin" Size="14508318" MB="13.8" FileCount="10" FileCRC="3853305599" Time="20200908_183606" BuildInfo="1.56_2160_c2f09dd1_IOS">
+    <PackInfo Name="pack_007.bin" Size="12615014" MB="12.0" FileCount="9" FileCRC="491897092" Time="20200908_183606" BuildInfo="1.56_2160_c2f09dd1_IOS">
       <AssetBundle Time="20200910_050526" BuildInfo="1.56_2165_287bf873_IOS" Path="common.temp.equipment_cash.longcoat.cash_longcoat_1910_01053114.unity3d" Version="1" Size="90966" KB="88.8" FileCRC="2809190277" CRC="4184071215" />
       <AssetBundle Time="20200909_183837" BuildInfo="1.56_2164_f7b8d56e_IOS" Path="common.dynamictexture.itemicon.scissors.unity3d" Version="1" Size="18770" KB="18.3" FileCRC="178095660" CRC="3088242331" />
       <AssetBundle Time="20200909_183837" BuildInfo="1.56_2164_f7b8d56e_IOS" Path="common.dynamictexture.skillshopicon.unity3d" Version="1" Size="1451236" KB="1,417.2" FileCRC="3831507055" CRC="4009756363" />
-      <AssetBundle Time="20200909_183837" BuildInfo="1.56_2164_f7b8d56e_IOS" Path="common.ui._v4_0.themadungeon.rescuemission.ingameinterface.unity3d" Version="1" Size="1893230" KB="1,848.9" FileCRC="2118391076" CRC="1080446534" />
       <AssetBundle Time="20200909_123447" BuildInfo="1.56_2163_967b238a_IOS" Path="common.dynamictexture.itemicon.equip_cash.cap.unity3d" Version="1" Size="824779" KB="805.4" FileCRC="1453494770" CRC="662943310" />
       <AssetBundle Time="20200909_123447" BuildInfo="1.56_2163_967b238a_IOS" Path="common.temp.equipment_cash.cap.cash_cap_2009_mk1000004.unity3d" Version="1" Size="22436" KB="21.9" FileCRC="640609322" CRC="1155556039" />
       <AssetBundle Time="20200909_123447" BuildInfo="1.56_2163_967b238a_IOS" Path="common.ui._v4_0.petdeckpopup.unity3d" Version="1" Size="150783" KB="147.2" FileCRC="1038635683" CRC="3524860667" />
@@ -72,7 +72,7 @@
       <AssetBundle Time="20200908_124632" BuildInfo="1.56_2156_e1477699_IOS" Path="common.ui._v4_0.grainwarehouseattackpopup.unity3d" Version="1" Size="430679" KB="420.6" FileCRC="2283225894" CRC="1586149691" />
       <AssetBundle Time="20200908_124632" BuildInfo="1.56_2156_e1477699_IOS" Path="common.ui._v4_0.guild.unity3d" Version="1" Size="2579335" KB="2,518.9" FileCRC="530742669" CRC="3907142671" />
     </PackInfo>
-    <PackInfo Name="pack_011.bin" Size="11903668" MB="11.4" FileCount="19" FileCRC="1176475265" Time="20200908_050726" BuildInfo="1.56_2155_1bd9aead_IOS">
+    <PackInfo Name="pack_011.bin" Size="11903670" MB="11.4" FileCount="19" FileCRC="821616481" Time="20200908_050726" BuildInfo="1.56_2155_1bd9aead_IOS">
       <AssetBundle Time="20200908_124632" BuildInfo="1.56_2156_e1477699_IOS" Path="common.ui._v4_0.hyperstat.unity3d" Version="1" Size="382709" KB="373.7" FileCRC="2471540894" CRC="2186192191" />
       <AssetBundle Time="20200908_124632" BuildInfo="1.56_2156_e1477699_IOS" Path="common.ui._v4_0.levelupinfo.unity3d" Version="1" Size="332452" KB="324.7" FileCRC="2104225295" CRC="143963001" />
       <AssetBundle Time="20200908_124632" BuildInfo="1.56_2156_e1477699_IOS" Path="common.ui._v4_0.randomboxresultpopup.effect.unity3d" Version="1" Size="197589" KB="193.0" FileCRC="2185479057" CRC="3801040579" />
@@ -87,7 +87,7 @@
       <AssetBundle Time="20200908_050726" BuildInfo="1.56_2155_1bd9aead_IOS" Path="common.dummyobject.npc.defaultscene.pantheon.unity3d" Version="1" Size="881913" KB="861.2" FileCRC="765302360" CRC="2667915319" />
       <AssetBundle Time="20200908_050726" BuildInfo="1.56_2155_1bd9aead_IOS" Path="common.fx.static.ui_number.onmonster.damageskin_006_club_henesys.unity3d" Version="1" Size="60584" KB="59.2" FileCRC="1066375175" CRC="2796374578" />
       <AssetBundle Time="20200908_050726" BuildInfo="1.56_2155_1bd9aead_IOS" Path="common.map.event15.00_enviroment.unity3d" Version="1" Size="17768" KB="17.4" FileCRC="3782966763" CRC="3239487015" />
-      <AssetBundle Time="20200908_050726" BuildInfo="1.56_2155_1bd9aead_IOS" Path="common.map.event15.unity3d" Version="1" Size="21089" KB="20.6" FileCRC="691357315" CRC="2267445262" />
+      <AssetBundle Time="20200908_050726" BuildInfo="1.56_2155_1bd9aead_IOS" Path="common.map.event15.unity3d" Version="1" Size="21091" KB="20.6" FileCRC="1885430662" CRC="2267445262" />
       <AssetBundle Time="20200908_050726" BuildInfo="1.56_2155_1bd9aead_IOS" Path="common.sound.class.angelicbuster.60011220_use.unity3d" Version="1" Size="11524" KB="11.3" FileCRC="1713854008" CRC="394820563" />
       <AssetBundle Time="20200908_050726" BuildInfo="1.56_2155_1bd9aead_IOS" Path="common.sound.class.hero.luminous.voice.voice_luminous_m_47.unity3d" Version="1" Size="7081" KB="6.9" FileCRC="2972109427" CRC="3822329617" />
       <AssetBundle Time="20200908_050726" BuildInfo="1.56_2155_1bd9aead_IOS" Path="common.ui._v4_0.combinedduty.unity3d" Version="1" Size="831179" KB="811.7" FileCRC="995341289" CRC="3085960912" />
@@ -1131,7 +1131,7 @@
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.equipment.cap.unity3d" Version="1" Size="303415" KB="296.3" FileCRC="806349023" CRC="4099144788" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.fx.msm.project.effects.unity3d" Version="1" Size="1319541" KB="1,288.6" FileCRC="1398222843" CRC="1824256333" />
     </PackInfo>
-    <PackInfo Name="pack_055.bin" Size="14086879" MB="13.4" FileCount="16" FileCRC="1620334754" Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS">
+    <PackInfo Name="pack_055.bin" Size="14086877" MB="13.4" FileCount="16" FileCRC="978431329" Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS">
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.fx.object.chaireff.autochargechairbuff.unity3d" Version="1" Size="56430" KB="55.1" FileCRC="411159489" CRC="1996623904" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.fx.object.chaireff.equipchairbuff.unity3d" Version="1" Size="31939" KB="31.2" FileCRC="546154846" CRC="2976791913" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.fx.object.runeeff.unity3d" Version="1" Size="1651607" KB="1,612.9" FileCRC="3104757426" CRC="3136589121" />
@@ -1147,7 +1147,7 @@
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.fx.static.ui_number.onmonster.damageskin_256.unity3d" Version="1" Size="152467" KB="148.9" FileCRC="44146146" CRC="938345150" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.fx.static.ui_number.onmonster.damageskin_275.unity3d" Version="1" Size="77187" KB="75.4" FileCRC="2686874779" CRC="1944996061" />
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.fx.static.ui.event_effect.hotelmaplem.unity3d" Version="1" Size="224262" KB="219.0" FileCRC="3611908797" CRC="102926847" />
-      <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.map.ellinia.unity3d" Version="1" Size="10459797" KB="10,214.7" FileCRC="3297100361" CRC="1060905699" />
+      <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.map.ellinia.unity3d" Version="1" Size="10459795" KB="10,214.6" FileCRC="3822948544" CRC="1060905699" />
     </PackInfo>
     <PackInfo Name="pack_056.bin" Size="14276800" MB="13.6" FileCount="6" FileCRC="3375577192" Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS">
       <AssetBundle Time="20200727_151110" BuildInfo="1.54_2069_2ebf99ce_IOS" Path="common.map.event13.00_enviroment.unity3d" Version="1" Size="675473" KB="659.6" FileCRC="1988872501" CRC="2091661046" />
