@@ -1,7 +1,7 @@
 data.bin.client.ear.tbl	3977543724	1	3977543724
 data.bin.client.item.tbl	662292927	1	662292927
 data.bin.lan.kor.ifo	468710591	1	468710591
-data.bin.lan.kor.tbl	2334480825	11	2334480825
+data.bin.lan.kor.tbl	2270194180	12	2270194180
 data.bin.lang.kor.questxml.tbl	133128882	1	133128882
 data.bin.client.partsset.ifo	1082455796	1	1082455796
 data.bin.client.partsset.tbl	2425274308	1	2425274308
@@ -84,4 +84,4 @@ data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
 data.language_kor.unity3d	3218016276	1	28706800
-data.table.unity3d	1345937448	11	1345937448
+data.table.unity3d	1345937448	12	1345937448
