@@ -30,7 +30,7 @@
       <Data Time="20200910_210428" BuildInfo="1.560_2109_10361666_IOS" Path="data.bin.client.world.tbl" Version="1" Size="507643" KB="495.7" FileCRC="1699567757" CRC="1699567757" />
       <Data Time="20200910_210428" BuildInfo="1.560_2109_10361666_IOS" Path="data.bin.result.ifo" Version="1" Size="419759" KB="409.9" FileCRC="4058967167" CRC="4058967167" />
       <Data Time="20200910_210428" BuildInfo="1.560_2109_10361666_IOS" Path="data.bin.result.tbl" Version="1" Size="3467254" KB="3,386.0" FileCRC="1069603191" CRC="1069603191" />
-      <AssetBundle Time="20200908_190611" BuildInfo="1.560_2102_57460f7c_IOS" Path="data.language_jpn.unity3d" Version="2" Size="2472774" KB="2,443.0" FileCRC="2614549362" CRC="2614549362" />
+      <AssetBundle Time="20200908_190611" BuildInfo="1.560_2102_57460f7c_IOS" Path="data.language_jpn.unity3d" Version="1" Size="2501622" KB="2,443.0" FileCRC="3112508245" CRC="858926758" />
       <Data Time="20200908_052109" BuildInfo="1.560_2101_3a9c5565_IOS" Path="data.bin.arrange.ifo" Version="1" Size="192492" KB="188.0" FileCRC="3941098350" CRC="3941098350" />
       <Data Time="20200908_052109" BuildInfo="1.560_2101_3a9c5565_IOS" Path="data.bin.arrange.tbl" Version="1" Size="457160" KB="446.4" FileCRC="2093192611" CRC="2093192611" />
     </PackInfo>

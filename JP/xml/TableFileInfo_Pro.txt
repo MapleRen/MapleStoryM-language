@@ -90,6 +90,6 @@ data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
 data.table.unity3d	3001879916	2	3001879916
-data.language_jpn.unity3d	2614549362	2	2614549362
+data.language_jpn.unity3d	858926758	1	3112508245
 data.language_kor.unity3d	622771741	1	3774406404
 data.language_usa.unity3d	3481452170	1	3323237130
