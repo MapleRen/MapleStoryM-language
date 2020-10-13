@@ -15,6 +15,8 @@
     <Application URL="https://play.google.com/store/apps/details?id=com.nexon.nsc.maplem">
       <Release ClientVersion="1.56.2169" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/GooglePlay/156_1813S_1/" Server="1.56.2.1039" />
       <Release ClientVersion="1.56.2188" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/GooglePlay/156_1813S_1/" Server="1.56.2.1039" />
+      <Release ClientVersion="1.57.2217" LoginServerIP="KOR_RV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/GooglePlay/157_2217Q/" Server="1.57.3.1092" />
+      <Release ClientVersion="1.57.2221" LoginServerIP="KOR_RV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/GooglePlay/157_2221Q/" Server="1.57.3.1098" />
     </Application>
   </GooglePlay>
   <AppStore>
@@ -22,6 +24,8 @@
       <Release ClientVersion="1.56.2169" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/AppStore/156_1813S_1/" Server="1.56.2.1039" />
       <Release ClientVersion="1.56.2188" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/AppStore/156_1813S_1/" Server="1.56.2.1039" />
       <Release ClientVersion="1.56.2194" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/AppStore/156_1813S_1/" Server="1.56.2.1039" />
+      <Release ClientVersion="1.57.2217" LoginServerIP="KOR_RV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/AppStore/157_2217Q/" Server="1.57.3.1092" />
+      <Release ClientVersion="1.57.2221" LoginServerIP="KOR_RV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/AppStore/157_2221Q/" Server="1.57.3.1098" />
     </Application>
   </AppStore>
   <Unity>
