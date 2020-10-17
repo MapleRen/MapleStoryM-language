@@ -3,12 +3,12 @@
   <Header CRC="20201016_153523" Region="Korea" BuildInfo="1.57_2237_9d7c4d8c_IOS" CommitHash="" DependencyHash="" PackCount="7" FileCount="88" TotalSize="81169758" MB="77.4" Compressed="false" Source="/Jenkins/workspace/KoreaQA/Korea_AT_IOS_QA/TABLE/Table/" />
   <PackList Count="7">
     <PackInfo Name="pack_001.bin" Size="11423220" MB="10.9" FileCount="3" FileCRC="262893576" Time="20201016_114806" BuildInfo="1.57_2236_0ab8a2ce_IOS">
-      <AssetBundle Time="20201016_153523" BuildInfo="1.57_2237_9d7c4d8c_IOS" Path="data.table.unity3d" Version="4" Size="8695241" KB="1,179.4" FileCRC="789491706" CRC="789491706" />
+      <AssetBundle Time="20201016_153523" BuildInfo="1.57_2237_9d7c4d8c_IOS" Path="data.table.unity3d" Version="5" Size="8695241" KB="1,179.4" FileCRC="789491706" CRC="789491706" />
       <Data Time="20201016_114806" BuildInfo="1.57_2236_0ab8a2ce_IOS" Path="data.bin.client.item.ifo" Version="1" Size="624228" KB="609.6" FileCRC="229226871" CRC="229226871" />
       <Data Time="20201016_114806" BuildInfo="1.57_2236_0ab8a2ce_IOS" Path="data.bin.client.item.tbl" Version="1" Size="9591136" KB="9,366.3" FileCRC="2747181933" CRC="2747181933" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" Size="11541699" MB="11.0" FileCount="3" FileCRC="1466384773" Time="20201015_140127" BuildInfo="1.57_2235_ab0e03b9_IOS">
-      <Data Time="20201016_114806" BuildInfo="1.57_2236_0ab8a2ce_IOS" Path="data.bin.lan.kor.tbl" Version="4" Size="5869462" KB="5,731.9" FileCRC="1444504998" CRC="1444504998" />
+      <Data Time="20201016_114806" BuildInfo="1.57_2236_0ab8a2ce_IOS" Path="data.bin.lan.kor.tbl" Version="5" Size="5869462" KB="5,731.9" FileCRC="1512940729" CRC="1512940729" />
       <Data Time="20201015_140127" BuildInfo="1.57_2235_ab0e03b9_IOS" Path="data.bin.client.buff.tbl" Version="1" Size="1939562" KB="1,894.1" FileCRC="269229684" CRC="269229684" />
       <Data Time="20201015_140127" BuildInfo="1.57_2235_ab0e03b9_IOS" Path="data.bin.client.skill.descriptionset.tbl" Version="1" Size="3732552" KB="3,645.1" FileCRC="1684164495" CRC="1684164495" />
     </PackInfo>
