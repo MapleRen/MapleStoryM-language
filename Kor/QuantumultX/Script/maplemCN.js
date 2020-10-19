@@ -31,7 +31,7 @@ function rewrite() {
     const xmlCRC = body.replace(crcReg,'$1');
     ren.get({url:config.API},(error,response,data)=>{
         if(response){
-            if (response.statusCode != 200) {
+            if (response.status != 200) {
                 notifyAndSetValue(config.title,'XML请求失败，请重试','false',isNeedRedirect);
                 ren.done({});
             }
