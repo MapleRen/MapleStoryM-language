@@ -29,31 +29,34 @@ function rewrite() {
     const crcReg = /.*<Header CRC=\"(.*?)\"([^\[]*)/gm;
       
     const xmlCRC = body.replace(crcReg,'$1');
-    ren.get(config.API).then(response => {
-        if (response.statusCode != 200) {
-            notifyAndSetValue(config.title,'XML请求失败，请重试','false',isNeedRedirect);
-            ren.done({});
-        }
-        const latestXml = compressXml(response.body);
-        const latestXmlCRC = latestXml.replace(crcReg,'$1');
-        if(xmlCRC != latestXmlCRC){
-            notifyAndSetValue(config.title,'汉化文件未更新，请关注微博"冒险岛M第三汉化委"获取最新消息','false',isNeedRedirect);
-            ren.done({});
-        }else{
-            const files = config.files?config.files.split(','):[];
-            for (let i = 0; i < files.length; i++) {
-                const file = files[i]
-                const fileCRC = latestXml.getXmlAttr(file,"FileCRC");
-                const fileSize = latestXml.getXmlAttr(file,"Size");
-                body = body.setXmlAttr(file,"FileCRC",fileCRC).setXmlAttr(file,"CRC",fileCRC).setXmlAttr(file,"Size",fileSize);
+    ren.get(config.API,(error,response,data)=>{
+        if(response){
+            if (response.statusCode != 200) {
+                notifyAndSetValue(config.title,'XML请求失败，请重试','false',isNeedRedirect);
+                ren.done({});
             }
-            notifyAndSetValue(config.title,'补丁下载完成即可完成汉化','true',isNeedRedirect);
+            const latestXml = compressXml(response.body);
+            const latestXmlCRC = latestXml.replace(crcReg,'$1');
+            if(xmlCRC != latestXmlCRC){
+                notifyAndSetValue(config.title,'汉化文件未更新，请关注微博"冒险岛M第三汉化委"获取最新消息','false',isNeedRedirect);
+                ren.done({});
+            }else{
+                const files = config.files?config.files.split(','):[];
+                for (let i = 0; i < files.length; i++) {
+                    const file = files[i]
+                    const fileCRC = latestXml.getXmlAttr(file,"FileCRC");
+                    const fileSize = latestXml.getXmlAttr(file,"Size");
+                    body = body.setXmlAttr(file,"FileCRC",fileCRC).setXmlAttr(file,"CRC",fileCRC).setXmlAttr(file,"Size",fileSize);
+                }
+                notifyAndSetValue(config.title,'补丁下载完成即可完成汉化','true',isNeedRedirect);
+                ren.done(body);
+            }
+        }
+        if(error){
+            notifyAndSetValue(config.title,reason.error,'false',isNeedRedirect);
             ren.done(body);
         }
-    }, reason => {
-        notifyAndSetValue(config.title,reason.error,'false',isNeedRedirect);
-        ren.done(body);
-    });
+    })
 }
 
 String.prototype.getXmlAttr =function(path,attr){
@@ -182,7 +185,7 @@ function init() {
       }
       if (isQuanX()) {
         url.method = 'GET'
-        $task.fetch(url).then((resp) => cb(null, {}, resp.body))
+        $task.fetch(url).then((resp) => cb(null, {}, resp.body), reason => cb(reason.error, null, null))
       }
     }
     post = (options, callback) => {
