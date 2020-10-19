@@ -68,7 +68,7 @@ function init() {
       }
       if (isQuanX()) {
         url.method = 'GET'
-        $task.fetch(url).then((resp) => cb(null, {}, resp.body), reason => cb(reason.error, null, null))
+        $task.fetch(url).then((resp) => cb(null, resp, resp.body), reason => cb(reason.error, null, null))
       }
     }
     post = (options, callback) => {
