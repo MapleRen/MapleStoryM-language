@@ -13,7 +13,7 @@ function rewrite() {
     const crcReg = /.*<Header CRC=\"(.*?)\"([^\[]*)/gm;
     notifyAndSetValue('正在获取最新汉化信息...','false');
     const xmlCRC = body.replace(crcReg,'$1');
-    ren.get(config.API,(error,response,data)=>{
+    ren.get({url:config.API},(error,response,data)=>{
         if(response){
             if (response.statusCode != 200) {
                 notifyAndSetValue('XML请求失败，请重试','false');

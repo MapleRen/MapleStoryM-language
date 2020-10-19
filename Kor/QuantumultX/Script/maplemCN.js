@@ -29,7 +29,7 @@ function rewrite() {
     const crcReg = /.*<Header CRC=\"(.*?)\"([^\[]*)/gm;
       
     const xmlCRC = body.replace(crcReg,'$1');
-    ren.get(config.API,(error,response,data)=>{
+    ren.get({url:config.API},(error,response,data)=>{
         if(response){
             if (response.statusCode != 200) {
                 notifyAndSetValue(config.title,'XML请求失败，请重试','false',isNeedRedirect);
