@@ -1,13 +1,16 @@
+var ren  = init();
 const isMarketVersions = $request.url.indexOf('MarketVersion') > -1;
 const isAssetBundleTable = $request.url.indexOf('AssetBundle_table.xml') > -1;
 const isRedirect = $request.url.indexOf('_1/') > -1;
-const mode = $prefs.valueForKey('maplem-kr-mode');//汉化模式
+const mode = ren.getdata('maplem-kr-mode');//汉化模式
 const isNeedRedirect = 'maplem-kr_redirect';//是否资源重定向
 const config = {
     API:'https://raw.githubusercontent.com/MapleRen/MapleStoryM-language/master/xml/mod_pro.xml',
     title:'冒险岛M韩服汉化',
-    files :$prefs.valueForKey('maplem-kr-files')//汉化模式
+    files :ren.getdata('maplem-kr-files')//汉化模式
 }
+
+
 // const modeConfig = {
 //     'BASE':{
 //         API:'https://raw.githubusercontent.com/MapleRen/MapleStoryM-language/master/xml/mod.xml',
@@ -26,16 +29,16 @@ function rewrite() {
     const crcReg = /.*<Header CRC=\"(.*?)\"([^\[]*)/gm;
       
     const xmlCRC = body.replace(crcReg,'$1');
-    $task.fetch({url:config.API}).then(response => {
+    ren.get(config.API).then(response => {
         if (response.statusCode != 200) {
             notifyAndSetValue(config.title,'XML请求失败，请重试','false',isNeedRedirect);
-            $done({});
+            ren.done({});
         }
         const latestXml = compressXml(response.body);
         const latestXmlCRC = latestXml.replace(crcReg,'$1');
         if(xmlCRC != latestXmlCRC){
             notifyAndSetValue(config.title,'汉化文件未更新，请关注微博"冒险岛M第三汉化委"获取最新消息','false',isNeedRedirect);
-            $done({});
+            ren.done({});
         }else{
             const files = config.files?config.files.split(','):[];
             for (let i = 0; i < files.length; i++) {
@@ -45,11 +48,11 @@ function rewrite() {
                 body = body.setXmlAttr(file,"FileCRC",fileCRC).setXmlAttr(file,"CRC",fileCRC).setXmlAttr(file,"Size",fileSize);
             }
             notifyAndSetValue(config.title,'补丁下载完成即可完成汉化','true',isNeedRedirect);
-            $done(body);
+            ren.done(body);
         }
     }, reason => {
         notifyAndSetValue(config.title,reason.error,'false',isNeedRedirect);
-        $done(body);
+        ren.done(body);
     });
 }
 
@@ -75,13 +78,13 @@ function compressXml(xml){
 }
 
 function notifyAndSetValue(title,msg,success,prefix){
-    $notify(title, "", msg);
-    $prefs.setValueForKey(success, prefix)
+    ren.msg(title, "", msg);
+    ren.setdata(prefix,success)
 }
 
 function redirect() {
     const github_path = 'https://raw.githubusercontent.com/MapleRen/MapleStoryM-language/master/';
-    const need_redirect = $prefs.valueForKey(isNeedRedirect);
+    const need_redirect = ren.getdata(isNeedRedirect);
     const file_name = $request.url.slice($request.url.lastIndexOf('@') + 1);
     if (need_redirect == 'true' && config.files.indexOf(file_name)>-1) {
         const mStatus = "HTTP/1.1 302 Temporary Redirect"//"HTTP/1.1 302 Found";
@@ -90,9 +93,9 @@ function redirect() {
             status: mStatus,
             headers: mHeaders
         }
-        $done(mResponse);
+        ren.done(mResponse);
     }else{
-        $done({});
+        ren.done({});
     }
 }
 
@@ -107,7 +110,7 @@ if(mode == 'CLEAR'){
             status:mStatus,
             headers:mHeaders
         }
-        $done(mResponse);
+        ren.done(mResponse);
     }
     else if (isMarketVersions) {
         var body = $response.body;
@@ -119,7 +122,7 @@ if(mode == 'CLEAR'){
             }
         }
         var xmlData = list.join('\n')
-        $done(xmlData)
+        ren.done(xmlData)
     } 
     else if(isAssetBundleTable) {
         var body = $response.body;
@@ -132,24 +135,69 @@ if(mode == 'CLEAR'){
             }
         }
         var xmlData = list.join('\n')
-        $done(xmlData)
+        ren.done(xmlData)
     }
     else{
-        $done({});
+        ren.done({});
     }
 }
 else if (mode == 'RUN'){
     if(isAssetBundleTable){
         rewrite();
     }else if(isMarketVersions){
-        $done({});
+        ren.done({});
     }else{
         redirect();
     }
 }else{
     console.log("韩文原版模式")
-    $done({});
+    ren.done({});
 }
 
 
 
+function init() {
+    isSurge = () => {
+      return undefined === this.$httpClient ? false : true
+    }
+    isQuanX = () => {
+      return undefined === this.$task ? false : true
+    }
+    getdata = (key) => {
+      if (isSurge()) return $persistentStore.read(key)
+      if (isQuanX()) return $prefs.valueForKey(key)
+    }
+    setdata = (key, val) => {
+      if (isSurge()) return $persistentStore.write(key, val)
+      if (isQuanX()) return $prefs.setValueForKey(key, val)
+    }
+    msg = (title, subtitle, body) => {
+      if (isSurge()) $notification.post(title, subtitle, body)
+      if (isQuanX()) $notify(title, subtitle, body)
+    }
+    log = (message) => console.log(message)
+    get = (url, cb) => {
+      if (isSurge()) {
+        $httpClient.get(url, cb)
+      }
+      if (isQuanX()) {
+        url.method = 'GET'
+        $task.fetch(url).then((resp) => cb(null, {}, resp.body))
+      }
+    }
+    post = (options, callback) => {
+      if (isQuanX()) {
+        if (typeof options == "string") options = { url: options }
+        options["method"] = "POST"
+        $task.fetch(options).then(response => {
+          response["status"] = response.statusCode
+          callback(null, response, response.body)
+        }, reason => callback(reason.error, null, null))
+      }
+      if (isSurge()) $httpClient.post(options, callback)
+    }
+    done = (value = {}) => {
+      $done(value)
+    }
+    return { isSurge, isQuanX, msg, log, getdata, setdata, get, post, done }
+  }
