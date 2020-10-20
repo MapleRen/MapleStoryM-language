@@ -1,8 +1,9 @@
+//  https://github.com/sazs34/TaskConfig
+let isQuantumultX=void 0!=$task,isSurge=void 0!=$httpClient;var $task=isQuantumultX?$task:{},$httpClient=isSurge?$httpClient:{},$prefs=isQuantumultX?$prefs:{},$persistentStore=isSurge?$persistentStore:{},$notify=isQuantumultX?$notify:{},$notification=isSurge?$notification:{};if(isQuantumultX){var errorInfo={error:""};$httpClient={get:(t,r)=>{var e;e="string"==typeof t?{url:t}:t,$task.fetch(e).then(t=>{r(void 0,t,t.body)},t=>{errorInfo.error=t.error,r(errorInfo,response,"")})},post:(t,r)=>{var e;e="string"==typeof t?{url:t}:t,t.method="POST",$task.fetch(e).then(t=>{r(void 0,t,t.body)},t=>{errorInfo.error=t.error,r(errorInfo,response,"")})}}}isSurge&&($task={fetch:t=>new Promise((r,e)=>{"POST"==t.method?$httpClient.post(t,(t,e,o)=>{e?(e.body=o,r(e,{error:t})):r(null,{error:t})}):$httpClient.get(t,(t,e,o)=>{e?(e.body=o,r(e,{error:t})):r(null,{error:t})})})}),isQuantumultX&&($persistentStore={read:t=>$prefs.valueForKey(t),write:(t,r)=>$prefs.setValueForKey(t,r)}),isSurge&&($prefs={valueForKey:t=>$persistentStore.read(t),setValueForKey:(t,r)=>$persistentStore.write(t,r)}),isQuantumultX&&($notification={post:(t,r,e)=>{$notify(t,r,e)}}),isSurge&&($notify=function(t,r,e){$notification.post(t,r,e)});
+
 var isMarketVersions = $request.url.indexOf('MarketVersion') > -1;
 var isAssetBundleTable = $request.url.indexOf('AssetBundle_table.xml') > -1;
 var isRedirect = $request.url.indexOf('_1/') > -1;
-var ren  = init();
-
 if (isMarketVersions) {
     //资源版本缓存强制清理
     var body = $response.body;
@@ -13,7 +14,7 @@ if (isMarketVersions) {
         }
     }
     var xmlData = list.join('\n')
-    ren.done(xmlData)
+    $done(xmlData)
 } else if (isRedirect) {
     //资源版本重定向
     var mStatus = "HTTP/1.1 302 Found";
@@ -22,7 +23,7 @@ if (isMarketVersions) {
         status: mStatus,
         headers: mHeaders
     }
-    ren.done(mResponse);
+    $done(mResponse);
 } else if (isAssetBundleTable) {
     //修改官方文件Version，强制清空已下载的文件
     var fileList = ['data.bin.lan.kor.tbl', 'data.language_kor.unity3d', 'data.table.unity3d']
@@ -34,56 +35,9 @@ if (isMarketVersions) {
             list[i] = list[i].replace(/Version="[0-9.]*?"/i, 'Version="99"')
         }
     }
-    ren.msg("冒险岛M", "", "文件重置完成，弹出更新框后(也可下载完毕后)关闭游戏，切换模式后重新进入游戏即可完成汉化");
+    $notify("冒险岛M", "", "文件重置完成，弹出更新框后(也可下载完毕后)关闭游戏，切换模式后重新进入游戏即可完成汉化");
     var xmlData = list.join('\n')
-    ren.done(xmlData)
+    $done(xmlData)
 } else {
-    ren.done({});
+    $done({});
 }
-
-
-function init() {
-    isSurge = () => {
-      return undefined === this.$httpClient ? false : true
-    }
-    isQuanX = () => {
-      return undefined === this.$task ? false : true
-    }
-    getdata = (key) => {
-      if (isSurge()) return $persistentStore.read(key)
-      if (isQuanX()) return $prefs.valueForKey(key)
-    }
-    setdata = (key, val) => {
-      if (isSurge()) return $persistentStore.write(key, val)
-      if (isQuanX()) return $prefs.setValueForKey(val, key)
-    }
-    msg = (title, subtitle, body) => {
-      if (isSurge()) $notification.post(title, subtitle, body)
-      if (isQuanX()) $notify(title, subtitle, body)
-    }
-    log = (message) => console.log(message)
-    get = (url, cb) => {
-      if (isSurge()) {
-        $httpClient.get(url, cb)
-      }
-      if (isQuanX()) {
-        url.method = 'GET'
-        $task.fetch(url).then((resp) => cb(null, resp, resp.body), reason => cb(reason.error, null, null))
-      }
-    }
-    post = (options, callback) => {
-      if (isQuanX()) {
-        if (typeof options == "string") options = { url: options }
-        options["method"] = "POST"
-        $task.fetch(options).then(response => {
-          response["status"] = response.statusCode
-          callback(null, response, response.body)
-        }, reason => callback(reason.error, null, null))
-      }
-      if (isSurge()) $httpClient.post(options, callback)
-    }
-    done = (value = {}) => {
-      $done(value)
-    }
-    return { isSurge, isQuanX, msg, log, getdata, setdata, get, post, done }
-  }
