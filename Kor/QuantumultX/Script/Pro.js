@@ -71,13 +71,13 @@ function redirect() {
   const need_redirect = $prefs.valueForKey(config.prefix);
   const file_name = $request.url.slice($request.url.lastIndexOf('@') + 1);
   if (need_redirect == 'true') {
-      // const mStatus = "HTTP/1.1 302 Found";
-      // const mHeaders = { "Location": `${github_path}${file_name}` };
-      // const mResponse = {
-      //     status: mStatus,
-      //     headers: mHeaders
-      // }
-      $done({url:`${github_path}${file_name}`});
+      const mStatus = isQuantumultX?"HTTP/1.1 302 Found":302;
+      const mHeaders = { "Location": `${github_path}${file_name}` };
+      const mResponse = {
+          status: mStatus,
+          headers: mHeaders
+      }
+      $done(mResponse);
   }
 }
 

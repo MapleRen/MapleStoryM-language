@@ -10,19 +10,6 @@ const config = {
     title:'冒险岛M韩服汉化',
     files :$prefs.valueForKey('maplem-kr-files')//汉化模式
 }
-// const modeConfig = {
-//     'BASE':{
-//         API:'https://raw.githubusercontent.com/MapleRen/MapleStoryM-language/master/xml/mod.xml',
-//         files:['data.bin.lan.kor.tbl', 'data.table.unity3d'],
-//         title:'基础汉化'
-//     },
-//     'PRO':{
-//         API:'https://raw.githubusercontent.com/MapleRen/MapleStoryM-language/master/xml/mod_pro.xml',
-//         files:['data.bin.lan.kor.tbl', 'data.table.unity3d','data.language_kor.unity3d'],
-//         title:'进阶汉化'
-//     }
-// }
-
 function rewrite() {
     let body = compressXml($response.body);
     const crcReg = /.*<Header CRC=\"(.*?)\"([^\[]*)/gm;
@@ -86,13 +73,13 @@ function redirect() {
     const need_redirect = $prefs.valueForKey(isNeedRedirect);
     const file_name = $request.url.slice($request.url.lastIndexOf('@') + 1);
     if (need_redirect == 'true' && config.files.indexOf(file_name)>-1) {
-        // const mStatus = "HTTP/1.1 302 Temporary Redirect"//"HTTP/1.1 302 Found";
-        // const mHeaders = { "Location": `${github_path}${file_name}` };
-        // const mResponse = {
-        //     status: mStatus,
-        //     headers: mHeaders
-        // }
-        $done({url:`${github_path}${file_name}`});
+        const mStatus = isQuantumultX?"HTTP/1.1 302 Found":302;
+        const mHeaders = { "Location": `${github_path}${file_name}` };
+        const mResponse = {
+            status: mStatus,
+            headers: mHeaders
+        }
+        $done(mResponse);
     }else{
         $done({});
     }
@@ -103,13 +90,13 @@ function redirect() {
 if(mode == 'CLEAR'){
     console.log('缓存清理')
     if(isRedirect){
-        // var mStatus = "HTTP/1.1 302 Found";
-        // var mHeaders = {"Location": $request.url.replace('_1/','/')};
-        // var mResponse = {
-        //     status:mStatus,
-        //     headers:mHeaders
-        // }
-        $done({url:$request.url.replace('_1/','/')});
+        var mStatus = isQuantumultX?"HTTP/1.1 302 Found":302;
+        var mHeaders = {"Location": $request.url.replace('_1/','/')};
+        var mResponse = {
+            status:mStatus,
+            headers:mHeaders
+        }
+        $done(mResponse);
     }
     else if (isMarketVersions) {
         var body = $response.body;
@@ -149,6 +136,6 @@ else if (mode == 'RUN'){
         redirect();
     }
 }else{
-    console.log("韩文原版模式")
+    //console.log("韩文原版模式")
     $done({});
 }
