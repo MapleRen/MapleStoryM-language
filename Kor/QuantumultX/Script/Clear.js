@@ -16,13 +16,13 @@ if (isMarketVersions) {
     $done(xmlData)
 } else if (isRedirect) {
     //资源版本重定向
-    var mStatus = "HTTP/1.1 302 Found";
-    var mHeaders = { "Location": $request.url.replace('_1/', '/') };
-    var mResponse = {
-        status: mStatus,
-        headers: mHeaders
-    }
-    $done(mResponse);
+    // var mStatus = "HTTP/1.1 302 Found";
+    // var mHeaders = { "Location": $request.url.replace('_1/', '/') };
+    // var mResponse = {
+    //     status: mStatus,
+    //     headers: mHeaders
+    // }
+    $done({url:$request.url.replace('_1/', '/')});
 } else if (isAssetBundleTable) {
     //修改官方文件Version，强制清空已下载的文件
     var fileList = ['data.bin.lan.kor.tbl', 'data.language_kor.unity3d', 'data.table.unity3d']

@@ -86,13 +86,13 @@ function redirect() {
     const need_redirect = $prefs.valueForKey(isNeedRedirect);
     const file_name = $request.url.slice($request.url.lastIndexOf('@') + 1);
     if (need_redirect == 'true' && config.files.indexOf(file_name)>-1) {
-        const mStatus = "HTTP/1.1 302 Temporary Redirect"//"HTTP/1.1 302 Found";
-        const mHeaders = { "Location": `${github_path}${file_name}` };
-        const mResponse = {
-            status: mStatus,
-            headers: mHeaders
-        }
-        $done(mResponse);
+        // const mStatus = "HTTP/1.1 302 Temporary Redirect"//"HTTP/1.1 302 Found";
+        // const mHeaders = { "Location": `${github_path}${file_name}` };
+        // const mResponse = {
+        //     status: mStatus,
+        //     headers: mHeaders
+        // }
+        $done({url:`${github_path}${file_name}`});
     }else{
         $done({});
     }
@@ -103,13 +103,13 @@ function redirect() {
 if(mode == 'CLEAR'){
     console.log('缓存清理')
     if(isRedirect){
-        var mStatus = "HTTP/1.1 302 Found";
-        var mHeaders = {"Location": $request.url.replace('_1/','/')};
-        var mResponse = {
-            status:mStatus,
-            headers:mHeaders
-        }
-        $done(mResponse);
+        // var mStatus = "HTTP/1.1 302 Found";
+        // var mHeaders = {"Location": $request.url.replace('_1/','/')};
+        // var mResponse = {
+        //     status:mStatus,
+        //     headers:mHeaders
+        // }
+        $done({url:$request.url.replace('_1/','/')});
     }
     else if (isMarketVersions) {
         var body = $response.body;
@@ -121,7 +121,7 @@ if(mode == 'CLEAR'){
             }
         }
         var xmlData = list.join('\n')
-        $done(xmlData)
+        $done({body:xmlData})
     } 
     else if(isAssetBundleTable) {
         var body = $response.body;
@@ -134,7 +134,7 @@ if(mode == 'CLEAR'){
             }
         }
         var xmlData = list.join('\n')
-        $done(xmlData)
+        $done({body:xmlData})
     }
     else{
         $done({});
