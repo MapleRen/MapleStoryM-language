@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20201019_193634" Region="Korea" BuildInfo="1.57_2195_f6621439_IOS" CommitHash="" DependencyHash="" PackCount="6" FileCount="88" TotalSize="81169740" MB="77.4" Compressed="false" Source="/Jenkins/workspace/KoreaStage/Korea_AT_IOS_Stage/TABLE/Table/" />
+  <Header CRC="20201022_112733" Region="Korea" BuildInfo="1.57_2196_7148e3d5_IOS" CommitHash="" DependencyHash="" PackCount="6" FileCount="88" TotalSize="81169635" MB="77.4" Compressed="false" Source="/Jenkins/workspace/KoreaStage/Korea_AT_IOS_Stage/TABLE/Table/" />
   <PackList Count="6">
-    <PackInfo Name="pack_001.bin" Size="17908784" MB="17.1" FileCount="5" FileCRC="2463489280" Time="20201016_114806" BuildInfo="1.57_2236_0ab8a2ce_IOS">
-      <Data Time="20201019_193634" BuildInfo="1.57_2195_f6621439_IOS" Path="data.bin.lan.kor.ifo" Version="1" Size="616070" KB="601.6" FileCRC="2940736922" CRC="2940736922" />
-      <Data Time="20201019_193634" BuildInfo="1.57_2195_f6621439_IOS" Path="data.bin.lan.kor.tbl" Version="8" Size="5869438" KB="5,731.9" FileCRC="3745028988" CRC="3745028988" />
-      <AssetBundle Time="20201016_153523" BuildInfo="1.57_2237_9d7c4d8c_IOS" Path="data.table.unity3d" Version="8" Size="8695241" KB="1,179.4" FileCRC="789491706" CRC="789491706" />
+    <PackInfo Name="pack_001.bin" Size="17908679" MB="17.1" FileCount="5" FileCRC="1305959197" Time="20201016_114806" BuildInfo="1.57_2236_0ab8a2ce_IOS">
+      <Data Time="20201022_112733" BuildInfo="1.57_2196_7148e3d5_IOS" Path="data.bin.lan.kor.ifo" Version="1" Size="616088" KB="601.6" FileCRC="2580903315" CRC="2580903315" />
+      <Data Time="20201022_112733" BuildInfo="1.57_2196_7148e3d5_IOS" Path="data.bin.lan.kor.tbl" Version="9" Size="5869630" KB="5,732.1" FileCRC="4287973177" CRC="4287973177" />
+      <AssetBundle Time="20201022_112733" BuildInfo="1.57_2196_7148e3d5_IOS" Path="data.table.unity3d" Version="9" Size="8692425" KB="1,179.1" FileCRC="837361823" CRC="837361823" />
       <Data Time="20201016_114806" BuildInfo="1.57_2236_0ab8a2ce_IOS" Path="data.bin.client.item.ifo" Version="1" Size="624228" KB="609.6" FileCRC="229226871" CRC="229226871" />
       <Data Time="20201016_114806" BuildInfo="1.57_2236_0ab8a2ce_IOS" Path="data.bin.client.item.tbl" Version="1" Size="9591136" KB="9,366.3" FileCRC="2747181933" CRC="2747181933" />
     </PackInfo>
