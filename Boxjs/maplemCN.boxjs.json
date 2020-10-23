@@ -57,8 +57,60 @@
             "author": "微博@冒险岛M第三汉化委",
             "repo": "https://github.com/MapleRen/MapleStoryM-language",
             "icons": [
-                "https://raw.githubusercontent.com/MapleRen/MapleStoryM-language/master/Kor/QuantumultX/icon.png",
-                "https://raw.githubusercontent.com/MapleRen/MapleStoryM-language/master/Kor/QuantumultX/icon.png"
+                "https://raw.githubusercontent.com/MapleRen/MapleStoryM-language/master/Boxjs/icon.png",
+                "https://raw.githubusercontent.com/MapleRen/MapleStoryM-language/master/Boxjs/icon.png"
+            ]
+        },
+        {
+            "id": "maplemJP2CN",
+            "name": "冒险岛M日服",
+            "keys":[],
+            "settings": [
+                {
+                    "id": "maplem-jpn-mode",
+                    "name": "模式选择",
+                    "val": "CLEAR",
+                    "type": "radios",
+                    "items": [
+                        {
+                            "key": "CLEAR",
+                            "label": "清理缓存"
+                        },
+                        {
+                            "key": "RESTORE",
+                            "label": "还原"
+                        },
+                        {
+                            "key": "RUN",
+                            "label": "汉化"
+                        }
+                    ],
+                    "desc": "选择进入游戏时使用的模式；必须先选择\"清理缓存\"，再选择\"汉化\"/\"还原\"模式"
+                },
+                {
+                    "id":"maplem-jpn-files",
+                    "name": "汉化定制",
+                    "type": "checkboxes",
+                    "desc": "",
+                    "val":["data.bin.lan.jpn.tbl", "data.table.unity3d"],
+                    "items":[
+                        {
+                            "key":"data.bin.lan.jpn.tbl",
+                            "label":"界面汉化(BASE)"
+                        },
+                        {
+                            "key":"data.table.unity3d",
+                            "label":"潜能汉化(BASE)"
+                        }
+                    ]
+                    
+                }
+            ],
+            "author": "微博@冒险岛M第三汉化委",
+            "repo": "https://github.com/MapleRen/MapleStoryM-language",
+            "icons": [
+                "https://raw.githubusercontent.com/MapleRen/MapleStoryM-language/master/Boxjs/icon.png",
+                "https://raw.githubusercontent.com/MapleRen/MapleStoryM-language/master/Boxjs/icon.png"
             ]
         }
     ]

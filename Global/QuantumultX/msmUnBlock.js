@@ -9,10 +9,10 @@
 
 
 [rewrite_local]
-^https://m-api.nexon.com/sdk/enterToy.nx url script-response-body msmunlock.js
+^https://m-api.nexon.com/sdk/enterToy.nx url script-response-body https://raw.githubusercontent.com/MapleRen/MapleStoryM-language/master/Global/QuantumultX/msmUnBlock.js
 
-[MITM]
-m-api.nexon.com
+[mitm]
+hostname = m-api.nexon.com
 
 */
 
@@ -25,7 +25,7 @@ if(url == limitpath){
 		obj['errorCode']=0;
 		$notify("冒险岛M", "", "国际服锁区解除完成");
 	}
-	if(obj.result.service.title.indexOf("Japan")>-1){
+	else if(obj.result.service.title.indexOf("Japan")>-1){
 		obj['errorCode']=0;
 		$notify("冒险岛M", "", "日服锁区解除完成");
 	}

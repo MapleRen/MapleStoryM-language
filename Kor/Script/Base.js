@@ -32,7 +32,6 @@ function rewrite() {
               body = body.setXmlAttr(file,"FileCRC",fileCRC).setXmlAttr(file,"CRC",fileCRC).setXmlAttr(file,"Size",fileSize);
           }
           notifyAndSetValue('补丁下载完成即可完成汉化','true');
-          //console.log(body);
           $done(body);
       }
   }, reason => {
