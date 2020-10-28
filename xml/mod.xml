@@ -4,8 +4,8 @@
   <PackList Count="6">
     <PackInfo Name="pack_001.bin" Size="17908679" MB="17.1" FileCount="5" FileCRC="1305959197" Time="20201016_114806" BuildInfo="1.57_2236_0ab8a2ce_IOS">
       <Data Time="20201022_112733" BuildInfo="1.57_2196_7148e3d5_IOS" Path="data.bin.lan.kor.ifo" Version="1" Size="616088" KB="601.6" FileCRC="2580903315" CRC="2580903315" />
-      <Data Time="20201022_112733" BuildInfo="1.57_2196_7148e3d5_IOS" Path="data.bin.lan.kor.tbl" Version="9" Size="5869630" KB="5,732.1" FileCRC="4287973177" CRC="4287973177" />
-      <AssetBundle Time="20201022_112733" BuildInfo="1.57_2196_7148e3d5_IOS" Path="data.table.unity3d" Version="9" Size="8692425" KB="1,179.1" FileCRC="837361823" CRC="837361823" />
+      <Data Time="20201022_112733" BuildInfo="1.57_2196_7148e3d5_IOS" Path="data.bin.lan.kor.tbl" Version="10" Size="5869630" KB="5,732.1" FileCRC="1159160968" CRC="1159160968" />
+      <AssetBundle Time="20201022_112733" BuildInfo="1.57_2196_7148e3d5_IOS" Path="data.table.unity3d" Version="10" Size="8692425" KB="1,179.1" FileCRC="837361823" CRC="837361823" />
       <Data Time="20201016_114806" BuildInfo="1.57_2236_0ab8a2ce_IOS" Path="data.bin.client.item.ifo" Version="1" Size="624228" KB="609.6" FileCRC="229226871" CRC="229226871" />
       <Data Time="20201016_114806" BuildInfo="1.57_2236_0ab8a2ce_IOS" Path="data.bin.client.item.tbl" Version="1" Size="9591136" KB="9,366.3" FileCRC="2747181933" CRC="2747181933" />
     </PackInfo>
