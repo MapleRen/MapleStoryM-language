@@ -10,7 +10,7 @@ const config = {
     title:'冒险岛M韩服汉化',
     files :$prefs.valueForKey('maplem-kr-files')//汉化模式
 }
-function rewrite() {
+async function rewrite() {
     let body = compressXml($response.body);
     const crcReg = /.*<Header CRC=\"(.*?)\"([^\[]*)/gm;
       
@@ -130,7 +130,7 @@ if(mode == 'CLEAR'){
 }
 else if (mode == 'RUN'){
     if(isAssetBundleTable){
-        rewrite();
+        await rewrite();
     }else if(isMarketVersions){
         $done({});
     }else{

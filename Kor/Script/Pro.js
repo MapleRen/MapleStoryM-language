@@ -8,7 +8,7 @@ const config ={
   title:'进阶汉化'
 }
 
-function rewrite() {
+async function rewrite() {
   let body = compressXml($response.body);
   const crcReg = /.*<Header CRC=\"(.*?)\"([^\[]*)/gm;
   notifyAndSetValue('正在获取最新汉化信息...','false');
@@ -83,7 +83,7 @@ function redirect() {
 }
 
 if($request.url.indexOf('AssetBundle_table.xml') != -1){
-  rewrite();
+  await rewrite();
 }else{
   redirect();
 }
