@@ -80,9 +80,10 @@ function redirect() {
       $done(mResponse);
   }
 }
-
-if($request.url.indexOf('AssetBundle_table.xml') != -1){
-  await rewrite();
-}else{
-  redirect();
-}
+(async function(){
+  if($request.url.indexOf('AssetBundle_table.xml') != -1){
+    await rewrite();
+  }else{
+    redirect();
+  }
+})()
