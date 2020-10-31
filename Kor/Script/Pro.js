@@ -32,11 +32,12 @@ function rewrite() {
           }
           notifyAndSetValue('补丁下载完成即可完成汉化','true');
           //console.log(body);
-          $done(body);
+          $done({body:body});
       }
   }, reason => {
       notifyAndSetValue(reason.error,'false');
-      $done(body);
+      $done({});
+
   });
 }
 
