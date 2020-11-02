@@ -12,7 +12,8 @@ async function rewrite() {
   let body = compressXml($response.body);
   const crcReg = /.*<Header CRC=\"(.*?)\"([^\[]*)/gm;
   notifyAndSetValue('正在获取最新汉化信息...','false');
-  const xmlCRC = body.replace(crcReg,'$1');$task.fetch({url:config.API}).then(response => {
+  const xmlCRC = body.replace(crcReg,'$1');
+  $task.fetch({url:config.API}).then(response => {
 
       if (response.statusCode != 200) {
           notifyAndSetValue('XML请求失败，请重试','false');
@@ -36,8 +37,7 @@ async function rewrite() {
       }
   }, reason => {
       notifyAndSetValue(reason.error,'false');
-      $done({});
-
+      $done(body);
   });
 }
 
@@ -82,9 +82,9 @@ function redirect() {
   }
 }
 (async function(){
-  if($request.url.indexOf('AssetBundle_table.xml') != -1){
-    await rewrite();
-  }else{
-    redirect();
-  }
+	if($request.url.indexOf('AssetBundle_table.xml') != -1){
+	  await rewrite();
+	}else{
+	  redirect();
+	}
 })()
