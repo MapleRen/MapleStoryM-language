@@ -11,8 +11,8 @@
       <Data Time="20201103_182258" BuildInfo="1.57_2198_6a0f8822_AOS" Path="data.bin.lang.kor.questxml.ifo" Version="1" Size="49772" KB="48.6" FileCRC="1080439511" CRC="1080439511" />
       <Data Time="20201103_182258" BuildInfo="1.57_2198_6a0f8822_AOS" Path="data.bin.task.ifo" Version="1" Size="131536" KB="128.5" FileCRC="1737510362" CRC="1737510362" />
       <Data Time="20201029_160143" BuildInfo="1.57_2197_96ab1a11_AOS" Path="data.bin.lan.kor.ifo" Version="1" Size="616096" KB="601.7" FileCRC="2432446150" CRC="2432446150" />
-      <Data Time="20201029_160143" BuildInfo="1.57_2197_96ab1a11_AOS" Path="data.bin.lan.kor.tbl" Version="2" Size="5869608" KB="5,732.0" FileCRC="2498410568" CRC="2498410568" />
-      <AssetBundle Time="20201029_160143" BuildInfo="1.57_2197_96ab1a11_AOS" Path="data.table.unity3d" Version="2" Size="8692461" KB="1,175.9" FileCRC="864916322" CRC="864916322" />
+      <Data Time="20201029_160143" BuildInfo="1.57_2197_96ab1a11_AOS" Path="data.bin.lan.kor.tbl" Version="3" Size="5869608" KB="5,732.0" FileCRC="3004992235" CRC="3004992235" />
+      <AssetBundle Time="20201029_160143" BuildInfo="1.57_2197_96ab1a11_AOS" Path="data.table.unity3d" Version="3" Size="8692461" KB="1,175.9" FileCRC="864916322" CRC="864916322" />
       <Data Time="20201015_140126" BuildInfo="1.57_2235_ab0e03b9_AOS" Path="data.bin.client.buff.tbl" Version="1" Size="1939562" KB="1,894.1" FileCRC="269229684" CRC="269229684" />
       <Data Time="20201015_140126" BuildInfo="1.57_2235_ab0e03b9_AOS" Path="data.bin.client.skill.descriptionset.tbl" Version="1" Size="3732552" KB="3,645.1" FileCRC="1684164495" CRC="1684164495" />
     </PackInfo>
