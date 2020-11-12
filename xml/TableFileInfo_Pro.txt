@@ -84,5 +84,5 @@ data.bin.table_version.ifo	2927010390	1	2927010390
 data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
-data.table.unity3d	4013468079	2	4013468079
-data.language_kor.unity3d	1008241660	2	1008241660
+data.table.unity3d	3821538968	2	3821538968
+data.language_kor.unity3d	4019733702	2	4019733702
