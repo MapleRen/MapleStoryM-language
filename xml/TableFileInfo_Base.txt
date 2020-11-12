@@ -1,7 +1,7 @@
 data.bin.client.item.ifo	3512387488	1	3512387488
 data.bin.client.item.tbl	1933312511	1	1933312511
 data.bin.lan.kor.ifo	2056384971	1	2056384971
-data.bin.lan.kor.tbl	3462912524	2	3462912524
+data.bin.lan.kor.tbl	3462912524	3	3462912524
 data.bin.client.dummy.tbl	1616394719	1	1616394719
 data.bin.client.buff.tbl	3541036846	1	3541036846
 data.bin.client.vehicle.tbl	2951787475	1	2951787475
@@ -84,5 +84,5 @@ data.bin.table_version.ifo	2927010390	1	2927010390
 data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
-data.table.unity3d	3821538968	2	3821538968
+data.table.unity3d	3821538968	3	3821538968
 data.language_kor.unity3d	1245526425	1	4019733702
