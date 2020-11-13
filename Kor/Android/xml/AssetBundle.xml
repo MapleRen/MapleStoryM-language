@@ -1,19 +1,21 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20201112_144333" Region="Korea" BuildInfo="1.58_2309_91ae95e7_AOS" CommitHash="91ae95e7515e8065edf4af95cf7caa2dda8b8686" DependencyHash="335c29c291998ed7500b9333c7530fa69355948b4add0d97adde517624efa6" PackCount="293" FileCount="16695" TotalSize="3603000993" MB="3,436.1" />
+  <Header CRC="20201113_005838" Region="Korea" BuildInfo="1.58_2313_6096f29e_AOS" CommitHash="6096f29e55bd0c504b776c98e90eeef4c4cd2084" DependencyHash="64698f84747d5749221d0f68fe87755b4c4d270a01db38f4e4d1f7e6462a4" PackCount="293" FileCount="16695" TotalSize="3603018264" MB="3,436.1" />
   <PackList Count="293">
-    <PackInfo Name="pack_001.bin" Size="13635609" MB="13.0" FileCount="6" FileCRC="2293285744" Time="20201112_144333" BuildInfo="1.58_2309_91ae95e7_AOS">
+    <PackInfo Name="pack_001.bin" Size="13221000" MB="12.6" FileCount="3" FileCRC="2022861341" Time="20201113_005838" BuildInfo="1.58_2313_6096f29e_AOS">
+      <AssetBundle Time="20201113_005838" BuildInfo="1.58_2313_6096f29e_AOS" Path="common.dynamictexture.nametag.unity3d" Version="1" Size="625420" KB="610.8" FileCRC="2737669714" CRC="2182741447" />
+      <AssetBundle Time="20201113_005838" BuildInfo="1.58_2313_6096f29e_AOS" Path="common.map.kerningcity.unity3d" Version="1" Size="6310594" KB="6,162.7" FileCRC="1656734133" CRC="1941284499" />
+      <AssetBundle Time="20201113_005838" BuildInfo="1.58_2313_6096f29e_AOS" Path="common.map.twilightperion.unity3d" Version="1" Size="6284847" KB="6,137.5" FileCRC="4207811159" CRC="3766125070" />
+    </PackInfo>
+    <PackInfo Name="pack_002.bin" Size="27291661" MB="26.0" FileCount="1" FileCRC="596740212" Time="20201113_005838" BuildInfo="1.58_2313_6096f29e_AOS">
+      <AssetBundle Time="20201113_005838" BuildInfo="1.58_2313_6096f29e_AOS" Path="common.sky_set.ossyriacontinent.unity3d" Version="1" Size="27291599" KB="26,652.0" FileCRC="4162205179" CRC="2527595787" />
+    </PackInfo>
+    <PackInfo Name="pack_003.bin" Size="39044015" MB="37.2" FileCount="7" FileCRC="1297565673" Time="20201112_010646" BuildInfo="1.58_2306_d6236dcb_AOS">
+      <AssetBundle Time="20201113_005838" BuildInfo="1.58_2313_6096f29e_AOS" Path="common.ui._v4_0.hyperstat.unity3d" Version="1" Size="388183" KB="379.1" FileCRC="4189596578" CRC="3031675578" />
       <AssetBundle Time="20201112_144333" BuildInfo="1.58_2309_91ae95e7_AOS" Path="common.dynamictexture.itemicon.damageskin.unity3d" Version="1" Size="235442" KB="229.9" FileCRC="2139495106" CRC="741193170" />
       <AssetBundle Time="20201112_144333" BuildInfo="1.58_2309_91ae95e7_AOS" Path="common.dynamictexture.itemicon.equip_cash.title.unity3d" Version="1" Size="190149" KB="185.7" FileCRC="3215948264" CRC="3154445808" />
       <AssetBundle Time="20201112_144333" BuildInfo="1.58_2309_91ae95e7_AOS" Path="common.dynamictexture.itemicon.equip.medal.unity3d" Version="1" Size="284295" KB="277.6" FileCRC="451635350" CRC="2701343170" />
       <AssetBundle Time="20201112_144333" BuildInfo="1.58_2309_91ae95e7_AOS" Path="common.dynamictexture.itemicon.packageitems.unity3d" Version="1" Size="329951" KB="322.2" FileCRC="1447623928" CRC="1434115347" />
-      <AssetBundle Time="20201112_144333" BuildInfo="1.58_2309_91ae95e7_AOS" Path="common.map.kerningcity.unity3d" Version="1" Size="6310594" KB="6,162.7" FileCRC="1656734133" CRC="1941284499" />
-      <AssetBundle Time="20201112_144333" BuildInfo="1.58_2309_91ae95e7_AOS" Path="common.map.twilightperion.unity3d" Version="1" Size="6284847" KB="6,137.5" FileCRC="4207811159" CRC="3766125070" />
-    </PackInfo>
-    <PackInfo Name="pack_002.bin" Size="27291661" MB="26.0" FileCount="1" FileCRC="596740212" Time="20201112_144333" BuildInfo="1.58_2309_91ae95e7_AOS">
-      <AssetBundle Time="20201112_144333" BuildInfo="1.58_2309_91ae95e7_AOS" Path="common.sky_set.ossyriacontinent.unity3d" Version="1" Size="27291599" KB="26,652.0" FileCRC="4162205179" CRC="2527595787" />
-    </PackInfo>
-    <PackInfo Name="pack_003.bin" Size="37615717" MB="35.9" FileCount="2" FileCRC="3784407565" Time="20201112_010646" BuildInfo="1.58_2306_d6236dcb_AOS">
       <AssetBundle Time="20201112_144333" BuildInfo="1.58_2309_91ae95e7_AOS" Path="common.ui._v4_0.unionsystempopup.unity3d" Version="1" Size="1806432" KB="1,764.1" FileCRC="4063449802" CRC="1732874567" />
       <AssetBundle Time="20201112_010646" BuildInfo="1.58_2306_d6236dcb_AOS" Path="common.dynamictexture.storemainbanner.unity3d" Version="1" Size="35809169" KB="34,969.9" FileCRC="3158577783" CRC="1570538185" />
     </PackInfo>
@@ -232,7 +234,7 @@
       <AssetBundle Time="20201106_060814" BuildInfo="1.58_2292_ce969c88_AOS" Path="common.ui._v4_0.mvppopup.unity3d" Version="1" Size="261449" KB="255.3" FileCRC="4166615998" CRC="3721233112" />
       <AssetBundle Time="20201106_060814" BuildInfo="1.58_2292_ce969c88_AOS" Path="common.ui._v4_0.themadungeon.burningdungeonpopup.unity3d" Version="1" Size="1026388" KB="1,002.3" FileCRC="1857621799" CRC="1460424081" />
     </PackInfo>
-    <PackInfo Name="pack_008.bin" Size="11478655" MB="10.9" FileCount="17" FileCRC="1131800195" Time="20201105_184549" BuildInfo="1.58_2290_359c787c_AOS">
+    <PackInfo Name="pack_008.bin" Size="10870466" MB="10.4" FileCount="16" FileCRC="3460389772" Time="20201105_184549" BuildInfo="1.58_2290_359c787c_AOS">
       <AssetBundle Time="20201106_060814" BuildInfo="1.58_2292_ce969c88_AOS" Path="common.ui.simplepackagepopup.58_winteriscoming_package.unity3d" Version="1" Size="322466" KB="314.9" FileCRC="3821412972" CRC="300302736" />
       <AssetBundle Time="20201105_184549" BuildInfo="1.58_2290_359c787c_AOS" Path="common.dynamictexture.itemicon.equip_cash.cap.unity3d" Version="1" Size="853778" KB="833.8" FileCRC="777169117" CRC="1478405506" />
       <AssetBundle Time="20201105_184549" BuildInfo="1.58_2290_359c787c_AOS" Path="common.dynamictexture.itemicon.equip_cash.cape.unity3d" Version="1" Size="440725" KB="430.4" FileCRC="4066122389" CRC="2934374280" />
@@ -247,7 +249,6 @@
       <AssetBundle Time="20201105_184549" BuildInfo="1.58_2290_359c787c_AOS" Path="common.dynamictexture.itemicon.equip_cash.shoes.unity3d" Version="1" Size="287220" KB="280.5" FileCRC="3810920472" CRC="255396438" />
       <AssetBundle Time="20201105_184549" BuildInfo="1.58_2290_359c787c_AOS" Path="common.dynamictexture.itemicon.equip_cash.weapon.unity3d" Version="1" Size="478558" KB="467.3" FileCRC="3489940736" CRC="1084411707" />
       <AssetBundle Time="20201105_184549" BuildInfo="1.58_2290_359c787c_AOS" Path="common.dynamictexture.itempreview.damageskin.unity3d" Version="1" Size="3263152" KB="3,186.7" FileCRC="2486853574" CRC="125502462" />
-      <AssetBundle Time="20201105_184549" BuildInfo="1.58_2290_359c787c_AOS" Path="common.dynamictexture.nametag.unity3d" Version="1" Size="608144" KB="593.9" FileCRC="4257888017" CRC="4060692899" />
       <AssetBundle Time="20201105_184549" BuildInfo="1.58_2290_359c787c_AOS" Path="common.ui._v4_0.androidpopup.unity3d" Version="1" Size="233173" KB="227.7" FileCRC="739486802" CRC="304282998" />
       <AssetBundle Time="20201105_184549" BuildInfo="1.58_2290_359c787c_AOS" Path="common.ui._v4_0.guildmenu.unity3d" Version="1" Size="3035210" KB="2,964.1" FileCRC="157361576" CRC="3477096443" />
     </PackInfo>
@@ -639,7 +640,7 @@
       <AssetBundle Time="20201023_211808" BuildInfo="1.58_2256_64466cd2_AOS" Path="common.ui._v4_0.friendfollowresult.unity3d" Version="1" Size="9398" KB="9.2" FileCRC="2078781214" CRC="750912997" />
       <AssetBundle Time="20201023_211808" BuildInfo="1.58_2256_64466cd2_AOS" Path="common.ui._v4_0.gacha.unity3d" Version="1" Size="3438579" KB="3,358.0" FileCRC="3492683743" CRC="3733439275" />
     </PackInfo>
-    <PackInfo Name="pack_030.bin" Size="10495328" MB="10.0" FileCount="65" FileCRC="1855862143" Time="20201023_211808" BuildInfo="1.58_2256_64466cd2_AOS">
+    <PackInfo Name="pack_030.bin" Size="10872150" MB="10.4" FileCount="66" FileCRC="29786272" Time="20201023_211808" BuildInfo="1.58_2256_64466cd2_AOS">
       <AssetBundle Time="20201023_211808" BuildInfo="1.58_2256_64466cd2_AOS" Path="common.ui._v4_0.gacharesult.unity3d" Version="1" Size="68657" KB="67.0" FileCRC="2172425961" CRC="2895464703" />
       <AssetBundle Time="20201023_211808" BuildInfo="1.58_2256_64466cd2_AOS" Path="common.ui._v4_0.ghostcollectorspopup.unity3d" Version="1" Size="1181076" KB="1,153.4" FileCRC="3051578595" CRC="4210559260" />
       <AssetBundle Time="20201023_211808" BuildInfo="1.58_2256_64466cd2_AOS" Path="common.ui._v4_0.goldapplepopup.unity3d" Version="1" Size="525276" KB="513.0" FileCRC="3421228649" CRC="3125069795" />
@@ -655,7 +656,6 @@
       <AssetBundle Time="20201023_211808" BuildInfo="1.58_2256_64466cd2_AOS" Path="common.ui._v4_0.guildmanagepopup.unity3d" Version="1" Size="56251" KB="54.9" FileCRC="3924220109" CRC="1535445281" />
       <AssetBundle Time="20201023_211808" BuildInfo="1.58_2256_64466cd2_AOS" Path="common.ui._v4_0.guildsearchpopup.unity3d" Version="1" Size="31317" KB="30.6" FileCRC="4229885871" CRC="109136843" />
       <AssetBundle Time="20201023_211808" BuildInfo="1.58_2256_64466cd2_AOS" Path="common.ui._v4_0.guildsimplepopup.unity3d" Version="1" Size="16314" KB="15.9" FileCRC="331376122" CRC="3303383072" />
-      <AssetBundle Time="20201023_211808" BuildInfo="1.58_2256_64466cd2_AOS" Path="common.ui._v4_0.hyperstat.unity3d" Version="1" Size="388188" KB="379.1" FileCRC="1127588443" CRC="488511116" />
       <AssetBundle Time="20201023_211808" BuildInfo="1.58_2256_64466cd2_AOS" Path="common.ui._v4_0.illegalreportpopup.unity3d" Version="1" Size="14803" KB="14.5" FileCRC="31433374" CRC="2625433880" />
       <AssetBundle Time="20201023_211808" BuildInfo="1.58_2256_64466cd2_AOS" Path="common.ui._v4_0.illegalreportpopuprenewal.unity3d" Version="1" Size="64905" KB="63.4" FileCRC="3397757131" CRC="869204212" />
       <AssetBundle Time="20201023_211808" BuildInfo="1.58_2256_64466cd2_AOS" Path="common.ui._v4_0.inocentitem.unity3d" Version="1" Size="43778" KB="42.8" FileCRC="1002028514" CRC="1191075282" />
@@ -705,10 +705,10 @@
       <AssetBundle Time="20201023_211808" BuildInfo="1.58_2256_64466cd2_AOS" Path="common.ui._v4_0.itemselectpopup.unity3d" Version="1" Size="267788" KB="261.5" FileCRC="2622708237" CRC="1017866293" />
       <AssetBundle Time="20201023_211808" BuildInfo="1.58_2256_64466cd2_AOS" Path="common.ui._v4_0.itemteleportpopup.unity3d" Version="1" Size="22433" KB="21.9" FileCRC="688600932" CRC="2759802872" />
       <AssetBundle Time="20201023_211808" BuildInfo="1.58_2256_64466cd2_AOS" Path="common.ui._v4_0.itemunequipdisappearpopup.unity3d" Version="1" Size="22384" KB="21.9" FileCRC="1942264170" CRC="445963650" />
-    </PackInfo>
-    <PackInfo Name="pack_031.bin" Size="11792126" MB="11.2" FileCount="38" FileCRC="4076316050" Time="20201023_211808" BuildInfo="1.58_2256_64466cd2_AOS">
       <AssetBundle Time="20201023_211808" BuildInfo="1.58_2256_64466cd2_AOS" Path="common.ui._v4_0.jewelchange.unity3d" Version="1" Size="95324" KB="93.1" FileCRC="467270289" CRC="1772395325" />
       <AssetBundle Time="20201023_211808" BuildInfo="1.58_2256_64466cd2_AOS" Path="common.ui._v4_0.jewelcombineresultpopup.unity3d" Version="1" Size="669629" KB="653.9" FileCRC="841508378" CRC="3824099363" />
+    </PackInfo>
+    <PackInfo Name="pack_031.bin" Size="11027075" MB="10.5" FileCount="36" FileCRC="1104620165" Time="20201023_211808" BuildInfo="1.58_2256_64466cd2_AOS">
       <AssetBundle Time="20201023_211808" BuildInfo="1.58_2256_64466cd2_AOS" Path="common.ui._v4_0.jeweldetach.unity3d" Version="1" Size="94785" KB="92.6" FileCRC="2227014424" CRC="4030011434" />
       <AssetBundle Time="20201023_211808" BuildInfo="1.58_2256_64466cd2_AOS" Path="common.ui._v4_0.jewelpageexpand.unity3d" Version="1" Size="27296" KB="26.7" FileCRC="2847251048" CRC="2895169929" />
       <AssetBundle Time="20201023_211808" BuildInfo="1.58_2256_64466cd2_AOS" Path="common.ui._v4_0.jewelpageusepopup.unity3d" Version="1" Size="8456" KB="8.3" FileCRC="325924512" CRC="954035581" />
