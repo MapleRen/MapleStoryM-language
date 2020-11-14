@@ -9,7 +9,7 @@
     </PackInfo>
     <PackInfo Name="pack_002.bin" Size="12178048" MB="11.6" FileCount="4" FileCRC="600778849" Time="20201112_011911" BuildInfo="1.58_2306_1f3fc11f_IOS">
       <Data Time="20201113_010959" BuildInfo="1.58_2313_3fedddde_IOS" Path="data.bin.lan.kor.ifo" Version="1" Size="628574" KB="613.8" FileCRC="3811574180" CRC="3811574180" />
-      <Data Time="20201113_010959" BuildInfo="1.58_2313_3fedddde_IOS" Path="data.bin.lan.kor.tbl" Version="6" Size="5995367" KB="5,854.9" FileCRC="2181950710" CRC="2181950710" />
+      <Data Time="20201113_010959" BuildInfo="1.58_2313_3fedddde_IOS" Path="data.bin.lan.kor.tbl" Version="6" Size="5995367" KB="5,854.9" FileCRC="2833418347" CRC="2833418347" />
       <AssetBundle Time="20201113_010959" BuildInfo="1.58_2313_3fedddde_IOS" Path="data.table.unity3d" Version="6" Size="603629" KB="1,244.9" FileCRC="1415197921" CRC="1415197921" />
       <Data Time="20201112_011911" BuildInfo="1.58_2306_1f3fc11f_IOS" Path="data.bin.client.dummy.tbl" Version="1" Size="4279186" KB="4,178.9" FileCRC="1616394719" CRC="1616394719" />
     </PackInfo>
