@@ -6,8 +6,8 @@
       <Data Time="20201116_174210" BuildInfo="1.58_2315_b7a88ba3_AOS" Path="data.bin.gachaitem.ifo" Version="1" Size="51630" KB="50.4" FileCRC="85381784" CRC="85381784" />
       <Data Time="20201116_174210" BuildInfo="1.58_2315_b7a88ba3_AOS" Path="data.bin.gachaitem.tbl" Version="1" Size="1207242" KB="1,178.9" FileCRC="3808812076" CRC="3808812076" />
       <Data Time="20201116_174210" BuildInfo="1.58_2315_b7a88ba3_AOS" Path="data.bin.lan.kor.ifo" Version="1" Size="628574" KB="613.8" FileCRC="2406828472" CRC="2406828472" />
-      <Data Time="20201116_174210" BuildInfo="1.58_2315_b7a88ba3_AOS" Path="data.bin.lan.kor.tbl" Version="8" Size="5995371" KB="5,854.9" FileCRC="3505376901" CRC="3505376901" />
-      <AssetBundle Time="20201116_174210" BuildInfo="1.58_2315_b7a88ba3_AOS" Path="data.table.unity3d" Version="8" Size="603503" KB="1,247.0" FileCRC="1868337942" CRC="1868337942" />
+      <Data Time="20201116_174210" BuildInfo="1.58_2315_b7a88ba3_AOS" Path="data.bin.lan.kor.tbl" Version="10" Size="5995371" KB="5,854.9" FileCRC="2822800355" CRC="2822800355" />
+      <AssetBundle Time="20201116_174210" BuildInfo="1.58_2315_b7a88ba3_AOS" Path="data.table.unity3d" Version="10" Size="603503" KB="1,247.0" FileCRC="1868337942" CRC="1868337942" />
       <Data Time="20201113_010856" BuildInfo="1.58_2313_3fedddde_AOS" Path="data.bin.client.buff.tbl" Version="1" Size="1960371" KB="1,914.4" FileCRC="2394617984" CRC="2394617984" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" Size="14623097" MB="13.9" FileCount="3" FileCRC="1657053835" Time="20201112_011656" BuildInfo="1.58_2306_1f3fc11f_AOS">
