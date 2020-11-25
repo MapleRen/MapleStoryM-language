@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20201113_005838" Region="Korea" BuildInfo="1.58_2313_6096f29e_AOS" CommitHash="6096f29e55bd0c504b776c98e90eeef4c4cd2084" DependencyHash="64698f84747d5749221d0f68fe87755b4c4d270a01db38f4e4d1f7e6462a4" PackCount="293" FileCount="16695" TotalSize="3603018264" MB="3,436.1" />
+  <Header CRC="20201113_005838" Region="Korea" BuildInfo="1.58_2313_6096f29e_AOS" CommitHash="6096f29e55bd0c504b776c98e90eeef4c4cd2084" DependencyHash="64698f84747d5749221d0f68fe87755b4c4d270a01db38f4e4d1f7e6462a4" PackCount="293" FileCount="16695" TotalSize="3603018262" MB="3,436.1" />
   <PackList Count="293">
     <PackInfo Name="pack_001.bin" Size="13221000" MB="12.6" FileCount="3" FileCRC="2022861341" Time="20201113_005838" BuildInfo="1.58_2313_6096f29e_AOS">
       <AssetBundle Time="20201113_005838" BuildInfo="1.58_2313_6096f29e_AOS" Path="common.dynamictexture.nametag.unity3d" Version="1" Size="625420" KB="610.8" FileCRC="2737669714" CRC="2182741447" />
@@ -1878,9 +1878,9 @@
       <AssetBundle Time="20200924_183841" BuildInfo="1.57_2191_7d031315_AOS" Path="common.map.elnath.unity3d" Version="1" Size="6523063" KB="6,370.2" FileCRC="4047695906" CRC="2740164165" />
       <AssetBundle Time="20200924_183841" BuildInfo="1.57_2191_7d031315_AOS" Path="common.map.elnathmts.unity3d" Version="1" Size="4837810" KB="4,724.4" FileCRC="882561844" CRC="2363671927" />
     </PackInfo>
-    <PackInfo Name="pack_066.bin" Size="14199038" MB="13.5" FileCount="7" FileCRC="2450092380" Time="20200924_183841" BuildInfo="1.57_2191_7d031315_AOS">
+    <PackInfo Name="pack_066.bin" Size="14199036" MB="13.5" FileCount="7" FileCRC="725926150" Time="20200924_183841" BuildInfo="1.57_2191_7d031315_AOS">
       <AssetBundle Time="20200924_183841" BuildInfo="1.57_2191_7d031315_AOS" Path="common.map.event15.00_enviroment.unity3d" Version="1" Size="17020" KB="16.6" FileCRC="2951526109" CRC="1588849378" />
-      <AssetBundle Time="20200924_183841" BuildInfo="1.57_2191_7d031315_AOS" Path="common.map.event15.unity3d" Version="1" Size="20351" KB="19.9" FileCRC="2388700731" CRC="1417901522" />
+      <AssetBundle Time="20200924_183841" BuildInfo="1.57_2191_7d031315_AOS" Path="common.map.event15.unity3d" Version="1" Size="20349" KB="19.9" FileCRC="2680109729" CRC="1417901522" />
       <AssetBundle Time="20200924_183841" BuildInfo="1.57_2191_7d031315_AOS" Path="common.map.kerningcity.kerningcity_18dswampregion07darkbog_12.unity3d" Version="1" Size="6014" KB="5.9" FileCRC="2969706727" CRC="1179463870" />
       <AssetBundle Time="20200924_183841" BuildInfo="1.57_2191_7d031315_AOS" Path="common.map.mulungdojo.unity3d" Version="1" Size="353066" KB="344.8" FileCRC="2196680414" CRC="3325348368" />
       <AssetBundle Time="20200924_183841" BuildInfo="1.57_2191_7d031315_AOS" Path="common.map.sixroad.unity3d" Version="1" Size="4446837" KB="4,342.6" FileCRC="2676745440" CRC="2663899386" />
