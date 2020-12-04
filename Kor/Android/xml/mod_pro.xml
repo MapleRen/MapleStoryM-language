@@ -12,7 +12,7 @@
       <Data Time="20201125_155555" BuildInfo="1.58_2208_21f1b9d9_AOS" Path="data.bin.lan.kor.ifo" Version="1" Size="628296" KB="613.6" FileCRC="1909729907" CRC="1909729907" />
       <Data Time="20201125_155555" BuildInfo="1.58_2208_21f1b9d9_AOS" Path="data.bin.lan.kor.tbl" Version="12" Size="5993445" KB="5,853.0" FileCRC="3588044219" CRC="3588044219" />
       <Data Time="20201125_155555" BuildInfo="1.58_2208_21f1b9d9_AOS" Path="data.bin.lang.kor.questxml.tbl" Version="1" Size="627852" KB="613.1" FileCRC="3057286794" CRC="3057286794" />
-      <AssetBundle Time="20201125_155555" BuildInfo="1.58_2208_21f1b9d9_AOS" Path="data.table.unity3d" Version="12" Size="603475" KB="1,247.0" FileCRC="801041509" CRC="801041509" />
+      <AssetBundle Time="20201125_155555" BuildInfo="1.58_2208_21f1b9d9_AOS" Path="data.table.unity3d" Version="12" Size="1276888" KB="1,247.0" FileCRC="2756752019" CRC="2756752019" />
       <Data Time="20201116_174210" BuildInfo="1.58_2315_b7a88ba3_AOS" Path="data.bin.gachaitem.ifo" Version="1" Size="51630" KB="50.4" FileCRC="85381784" CRC="85381784" />
       <Data Time="20201116_174210" BuildInfo="1.58_2315_b7a88ba3_AOS" Path="data.bin.gachaitem.tbl" Version="1" Size="1207242" KB="1,178.9" FileCRC="3808812076" CRC="3808812076" />
       <Data Time="20201113_010856" BuildInfo="1.58_2313_3fedddde_AOS" Path="data.bin.client.buff.tbl" Version="1" Size="1960371" KB="1,914.4" FileCRC="2394617984" CRC="2394617984" />
