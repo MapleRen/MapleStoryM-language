@@ -96,6 +96,7 @@ function redirect() {
                 status:mStatus,
                 headers:mHeaders
             }
+            $notify("冒险岛M", "", "文件重置完成，弹出更新框或读条完毕后关闭游戏，切换模式后重新进入游戏即可完成汉化");
             $done(mResponse);
         }
         else if (isMarketVersions) {
@@ -120,7 +121,7 @@ function redirect() {
                     list[i] = list[i].replace(/Version="[0-9.]*?"/i, 'Version="99"')
                 }
             }
-            $notify("冒险岛M", "", "文件重置完成，弹出更新框后(也可下载完毕后)关闭游戏，切换模式后重新进入游戏即可完成汉化");
+            
             var xmlData = list.join('\n')
             $done({body:xmlData})
         }
