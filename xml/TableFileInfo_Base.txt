@@ -2,7 +2,7 @@ data.bin.client.skill.descriptionset.ifo	3756156147	1	3756156147
 data.bin.client.skill.descriptionset.tbl	2964417729	1	2964417729
 data.bin.client.skill.tbl	3108700982	1	3108700982
 data.bin.lan.kor.ifo	2514953777	1	2514953777
-data.bin.lan.kor.tbl	4196927103	3	4196927103
+data.bin.lan.kor.tbl	746729148	3	746729148
 data.bin.result.ifo	2430325675	1	2430325675
 data.bin.result.tbl	2477557788	1	2477557788
 data.bin.client.dummy.tbl	725091776	1	725091776
