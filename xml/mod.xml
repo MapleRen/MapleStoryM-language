@@ -9,12 +9,12 @@
     </PackInfo>
     <PackInfo Name="pack_002.bin" HighPriority="1" Size="13725516" MB="13.1" FileCount="4" FileCRC="1739902746" Time="20201217_152026" BuildInfo="1.59_2388_1c5d274d_IOS">
       <Data Time="20201217_152026" BuildInfo="1.59_2388_1c5d274d_IOS" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="674758" KB="658.9" FileCRC="2514953777" CRC="2514953777" />
-      <Data Time="20201217_152026" BuildInfo="1.59_2388_1c5d274d_IOS" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="2" Size="6489332" KB="6,337.2" FileCRC="4196927103" CRC="4196927103" />
+      <Data Time="20201217_152026" BuildInfo="1.59_2388_1c5d274d_IOS" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="3" Size="6489332" KB="6,337.2" FileCRC="4196927103" CRC="4196927103" />
       <Data Time="20201217_152026" BuildInfo="1.59_2388_1c5d274d_IOS" HighPriority="1" Path="data.bin.result.ifo" Version="1" Size="706441" KB="689.9" FileCRC="2430325675" CRC="2430325675" />
       <Data Time="20201217_152026" BuildInfo="1.59_2388_1c5d274d_IOS" HighPriority="1" Path="data.bin.result.tbl" Version="1" Size="5854860" KB="5,717.6" FileCRC="2477557788" CRC="2477557788" />
     </PackInfo>
     <PackInfo Name="pack_003.bin" HighPriority="1" Size="16249795" MB="15.5" FileCount="3" FileCRC="1189611078" Time="20201217_115702" BuildInfo="1.59_2387_775f6b71_IOS">
-      <AssetBundle Time="20201217_152026" BuildInfo="1.59_2388_1c5d274d_IOS" HighPriority="1" Path="data.table.unity3d" Version="2" Size="672817" KB="1,380.9" FileCRC="3597571135" CRC="3597571135" />
+      <AssetBundle Time="20201217_152026" BuildInfo="1.59_2388_1c5d274d_IOS" HighPriority="1" Path="data.table.unity3d" Version="3" Size="672511" KB="1,380.9" FileCRC="3664075045" CRC="3664075045" />
       <Data Time="20201217_115702" BuildInfo="1.59_2387_775f6b71_IOS" HighPriority="1" Path="data.bin.client.dummy.tbl" Version="1" Size="4773872" KB="4,662.0" FileCRC="725091776" CRC="725091776" />
       <Data Time="20201217_115702" BuildInfo="1.59_2387_775f6b71_IOS" HighPriority="1" Path="data.bin.client.item.tbl" Version="1" Size="10061759" KB="9,825.9" FileCRC="1973027312" CRC="1973027312" />
     </PackInfo>
