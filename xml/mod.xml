@@ -6,11 +6,11 @@
       <Data Time="20201218_155454" BuildInfo="1.59_2395_7e4db066_IOS" HighPriority="1" Path="data.bin.client.world.ifo" Version="1" Size="63352" KB="61.9" FileCRC="2572666305" CRC="2572666305" />
       <Data Time="20201218_155454" BuildInfo="1.59_2395_7e4db066_IOS" HighPriority="1" Path="data.bin.client.world.tbl" Version="1" Size="766307" KB="748.3" FileCRC="2994483179" CRC="2994483179" />
       <Data Time="20201218_155454" BuildInfo="1.59_2395_7e4db066_IOS" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="674766" KB="659.0" FileCRC="1602582870" CRC="1602582870" />
-      <Data Time="20201218_155454" BuildInfo="1.59_2395_7e4db066_IOS" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="6" Size="6489334" KB="6,337.2" FileCRC="3173205387" CRC="3173205387" />
+      <Data Time="20201218_155454" BuildInfo="1.59_2395_7e4db066_IOS" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="7" Size="6489334" KB="6,337.2" FileCRC="3784737007" CRC="3784737007" />
       <Data Time="20201218_143153" BuildInfo="1.59_2393_2a42093e_IOS" HighPriority="1" Path="data.bin.client.dummy.tbl" Version="1" Size="4773872" KB="4,662.0" FileCRC="3623179285" CRC="3623179285" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" HighPriority="1" Size="16441502" MB="15.7" FileCount="4" FileCRC="3467878083" Time="20201218_001625" BuildInfo="1.59_2392_4466df4d_IOS">
-      <AssetBundle Time="20201218_143153" BuildInfo="1.59_2393_2a42093e_IOS" HighPriority="1" Path="data.table.unity3d" Version="6" Size="673057" KB="1,381.1" FileCRC="459726906" CRC="459726906" />
+      <AssetBundle Time="20201218_143153" BuildInfo="1.59_2393_2a42093e_IOS" HighPriority="1" Path="data.table.unity3d" Version="7" Size="673057" KB="1,381.1" FileCRC="459726906" CRC="459726906" />
       <Data Time="20201218_001625" BuildInfo="1.59_2392_4466df4d_IOS" HighPriority="1" Path="data.bin.client.skill.descriptionset.ifo" Version="1" Size="323195" KB="315.6" FileCRC="3433868626" CRC="3433868626" />
       <Data Time="20201218_001625" BuildInfo="1.59_2392_4466df4d_IOS" HighPriority="1" Path="data.bin.client.skill.descriptionset.tbl" Version="1" Size="4854663" KB="4,740.9" FileCRC="1133929586" CRC="1133929586" />
       <Data Time="20201218_001625" BuildInfo="1.59_2392_4466df4d_IOS" HighPriority="1" Path="data.bin.client.skill.tbl" Version="1" Size="9849215" KB="9,618.4" FileCRC="1027796815" CRC="1027796815" />
