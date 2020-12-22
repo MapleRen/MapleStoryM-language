@@ -8,8 +8,8 @@
     </PackInfo>
     <PackInfo Name="pack_002.bin" HighPriority="1" Size="14182832" MB="13.5" FileCount="6" FileCRC="1541561226" Time="20201218_143153" BuildInfo="1.59_2393_2a42093e_IOS">
       <Data Time="20201221_212426" BuildInfo="1.59_2398_55ad8822_IOS" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="674800" KB="659.0" FileCRC="386023898" CRC="386023898" />
-      <Data Time="20201221_212426" BuildInfo="1.59_2398_55ad8822_IOS" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="8" Size="6490041" KB="6,337.9" FileCRC="3878394415" CRC="3878394415" />
-      <AssetBundle Time="20201221_212426" BuildInfo="1.59_2398_55ad8822_IOS" HighPriority="1" Path="data.table.unity3d" Version="8" Size="672688" KB="1,381.1" FileCRC="753610296" CRC="753610296" />
+      <Data Time="20201221_212426" BuildInfo="1.59_2398_55ad8822_IOS" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="9" Size="6490041" KB="6,337.9" FileCRC="2332639922" CRC="2332639922" />
+      <AssetBundle Time="20201221_212426" BuildInfo="1.59_2398_55ad8822_IOS" HighPriority="1" Path="data.table.unity3d" Version="9" Size="672688" KB="1,381.1" FileCRC="753610296" CRC="753610296" />
       <Data Time="20201218_155454" BuildInfo="1.59_2395_7e4db066_IOS" HighPriority="1" Path="data.bin.client.world.ifo" Version="1" Size="63352" KB="61.9" FileCRC="2572666305" CRC="2572666305" />
       <Data Time="20201218_155454" BuildInfo="1.59_2395_7e4db066_IOS" HighPriority="1" Path="data.bin.client.world.tbl" Version="1" Size="766307" KB="748.3" FileCRC="2994483179" CRC="2994483179" />
       <Data Time="20201218_143153" BuildInfo="1.59_2393_2a42093e_IOS" HighPriority="1" Path="data.bin.client.dummy.tbl" Version="1" Size="4773872" KB="4,662.0" FileCRC="3623179285" CRC="3623179285" />
