@@ -37,7 +37,7 @@ async function rewrite() {
       }
   }, reason => {
       notifyAndSetValue(reason.error,'false');
-      $done(body);
+      $done({body:body})
   });
 }
 

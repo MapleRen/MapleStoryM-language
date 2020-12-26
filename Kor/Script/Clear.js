@@ -14,7 +14,7 @@ if (isMarketVersions) {
     }
     $notify("冒险岛M", "", "文件重置完成，弹出更新框或读条完毕后关闭游戏，切换模式后重新进入游戏即可完成汉化");
     var xmlData = list.join('\n')
-    $done(xmlData)
+    $done({body:xmlData})
 } else if (isRedirect) {
     //资源版本重定向
     var mStatus = isQuantumultX?"HTTP/1.1 302 Found":302;
@@ -38,7 +38,7 @@ if (isMarketVersions) {
     }
     //$notify("冒险岛M", "", "文件重置完成，弹出更新框后(也可下载完毕后)关闭游戏，切换模式后重新进入游戏即可完成汉化");
     var xmlData = list.join('\n')
-    $done(xmlData)
+    $done({body:xmlData})
 } else {
     $done({});
 }
