@@ -3,13 +3,13 @@
   <Header CRC="20201223_175550" Region="Korea" BuildInfo="1.59_2405_ddcc3e9a_IOS" CommitHash="" DependencyHash="" PackCount="8" FileCount="89" TotalSize="91940905" MB="87.7" Compressed="false" Source="/Jenkins/workspace/KoreaQA/Korea_AT_IOS_QA/TABLE/Table/" />
   <PackList Count="8">
     <PackInfo Name="pack_001.bin" HighPriority="1" Size="16450057" MB="15.7" FileCount="4" FileCRC="3398649080" Time="20201222_194943" BuildInfo="1.59_2402_704d9a3f_IOS">
-      <AssetBundle Time="20201223_175550" BuildInfo="1.59_2405_ddcc3e9a_IOS" HighPriority="1" Path="data.table.unity3d" Version="13" Size="672922" KB="1,381.3" FileCRC="2116953175" CRC="2116953175" />
+      <AssetBundle Time="20201223_175550" BuildInfo="1.59_2405_ddcc3e9a_IOS" HighPriority="1" Path="data.table.unity3d" Version="14" Size="672922" KB="1,381.3" FileCRC="2116953175" CRC="2116953175" />
       <Data Time="20201222_194943" BuildInfo="1.59_2402_704d9a3f_IOS" HighPriority="1" Path="data.bin.client.skill.descriptionset.ifo" Version="1" Size="323195" KB="315.6" FileCRC="4083279948" CRC="4083279948" />
       <Data Time="20201222_194943" BuildInfo="1.59_2402_704d9a3f_IOS" HighPriority="1" Path="data.bin.client.skill.descriptionset.tbl" Version="1" Size="4854387" KB="4,740.6" FileCRC="3829585929" CRC="3829585929" />
       <Data Time="20201222_194943" BuildInfo="1.59_2402_704d9a3f_IOS" HighPriority="1" Path="data.bin.client.skill.tbl" Version="1" Size="9857863" KB="9,626.8" FileCRC="2414212577" CRC="2414212577" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" HighPriority="1" Size="13051542" MB="12.4" FileCount="3" FileCRC="114022837" Time="20201222_194943" BuildInfo="1.59_2402_704d9a3f_IOS">
-      <Data Time="20201222_194943" BuildInfo="1.59_2402_704d9a3f_IOS" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="13" Size="6490122" KB="6,338.0" FileCRC="267588943" CRC="267588943" />
+      <Data Time="20201222_194943" BuildInfo="1.59_2402_704d9a3f_IOS" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="14" Size="6490122" KB="6,338.0" FileCRC="2750229529" CRC="2750229529" />
       <Data Time="20201222_194943" BuildInfo="1.59_2402_704d9a3f_IOS" HighPriority="1" Path="data.bin.result.ifo" Version="1" Size="706447" KB="689.9" FileCRC="233013933" CRC="233013933" />
       <Data Time="20201222_194943" BuildInfo="1.59_2402_704d9a3f_IOS" HighPriority="1" Path="data.bin.result.tbl" Version="1" Size="5854876" KB="5,717.7" FileCRC="2079304273" CRC="2079304273" />
     </PackInfo>
@@ -32,7 +32,7 @@
       <Data Time="20201217_113228" BuildInfo="1.59_2386_845431e6_IOS" HighPriority="1" Path="data.bin.gachaitem.ifo" Version="1" Size="52287" KB="51.1" FileCRC="3099010137" CRC="3099010137" />
       <Data Time="20201217_113228" BuildInfo="1.59_2386_845431e6_IOS" HighPriority="1" Path="data.bin.gachaitem.tbl" Version="1" Size="1436131" KB="1,402.5" FileCRC="3834838669" CRC="3834838669" />
       <Data Time="20201217_100410" BuildInfo="1.59_2384_312550bb_IOS" HighPriority="1" Path="data.bin.auctionrenewal.tbl" Version="1" Size="91172" KB="89.0" FileCRC="2444107187" CRC="2444107187" />
-      <AssetBundle Time="20201217_100410" BuildInfo="1.59_2384_312550bb_IOS" HighPriority="1" Path="data.language_kor.unity3d" Version="13" Size="2039971" KB="3,226.9" FileCRC="2176153573" CRC="2176153573" />
+      <AssetBundle Time="20201217_100410" BuildInfo="1.59_2384_312550bb_IOS" HighPriority="1" Path="data.language_kor.unity3d" Version="14" Size="2039971" KB="3,226.9" FileCRC="2176153573" CRC="2176153573" />
       <Data Time="20201217_050427" BuildInfo="1.59_2381_5542ff53_IOS" HighPriority="1" Path="data.bin.client.icon.ifo" Version="1" Size="393572" KB="384.3" FileCRC="1934208045" CRC="1934208045" />
       <Data Time="20201217_050427" BuildInfo="1.59_2381_5542ff53_IOS" HighPriority="1" Path="data.bin.client.icon.tbl" Version="1" Size="780444" KB="762.2" FileCRC="3397812771" CRC="3397812771" />
       <Data Time="20201217_050427" BuildInfo="1.59_2381_5542ff53_IOS" HighPriority="1" Path="data.bin.upgradedefault.tbl" Version="1" Size="1092902" KB="1,067.3" FileCRC="269387424" CRC="269387424" />
