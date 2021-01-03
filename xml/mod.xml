@@ -6,7 +6,7 @@
       <Data Time="20201230_163024" BuildInfo="1.59_2326_b913ce9b_IOS" HighPriority="1" Path="data.bin.gachaitem.ifo" Version="1" Size="52287" KB="51.1" FileCRC="1591542649" CRC="1591542649" />
       <Data Time="20201230_163024" BuildInfo="1.59_2326_b913ce9b_IOS" HighPriority="1" Path="data.bin.gachaitem.tbl" Version="1" Size="1436115" KB="1,402.5" FileCRC="346446305" CRC="346446305" />
       <Data Time="20201230_145550" BuildInfo="1.59_2325_6b09bc29_IOS" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="674814" KB="659.0" FileCRC="1818982283" CRC="1818982283" />
-      <Data Time="20201230_145550" BuildInfo="1.59_2325_6b09bc29_IOS" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="18" Size="6490098" KB="6,338.0" FileCRC="3544448384" CRC="3544448384" />
+      <Data Time="20201230_145550" BuildInfo="1.59_2325_6b09bc29_IOS" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="19" Size="6490098" KB="6,338.0" FileCRC="943612502" CRC="943612502" />
       <Data Time="20201229_161632" BuildInfo="1.59_2322_46571d6d_IOS" HighPriority="1" Path="data.bin.client.skill.descriptionset.ifo" Version="1" Size="323195" KB="315.6" FileCRC="1476279042" CRC="1476279042" />
       <Data Time="20201229_161632" BuildInfo="1.59_2322_46571d6d_IOS" HighPriority="1" Path="data.bin.client.skill.descriptionset.tbl" Version="1" Size="4851507" KB="4,737.8" FileCRC="4177626908" CRC="4177626908" />
     </PackInfo>
@@ -16,7 +16,7 @@
     </PackInfo>
     <PackInfo Name="pack_003.bin" HighPriority="1" Size="11007189" MB="10.5" FileCount="4" FileCRC="3493346127" Time="20201222_171259" BuildInfo="1.59_2401_3d77e1fb_IOS">
       <Data Time="20201229_161632" BuildInfo="1.59_2322_46571d6d_IOS" HighPriority="1" Path="data.bin.result.tbl" Version="1" Size="5856166" KB="5,718.9" FileCRC="2627228885" CRC="2627228885" />
-      <AssetBundle Time="20201229_161632" BuildInfo="1.59_2322_46571d6d_IOS" HighPriority="1" Path="data.table.unity3d" Version="18" Size="672913" KB="1,381.4" FileCRC="4198530869" CRC="4198530869" />
+      <AssetBundle Time="20201229_161632" BuildInfo="1.59_2322_46571d6d_IOS" HighPriority="1" Path="data.table.unity3d" Version="19" Size="672913" KB="1,381.4" FileCRC="4198530869" CRC="4198530869" />
       <Data Time="20201222_171259" BuildInfo="1.59_2401_3d77e1fb_IOS" HighPriority="1" Path="data.bin.client.activator.tbl" Version="1" Size="556716" KB="543.7" FileCRC="3431339615" CRC="3431339615" />
       <Data Time="20201222_171259" BuildInfo="1.59_2401_3d77e1fb_IOS" HighPriority="1" Path="data.bin.client.buff.tbl" Version="1" Size="3179607" KB="3,105.1" FileCRC="3272397891" CRC="3272397891" />
     </PackInfo>
