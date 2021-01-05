@@ -1,7 +1,7 @@
 data.bin.gachaitem.ifo	1591542649	1	1591542649
 data.bin.gachaitem.tbl	346446305	1	346446305
 data.bin.lan.kor.ifo	1818982283	1	1818982283
-data.bin.lan.kor.tbl	943612502	19	943612502
+data.bin.lan.kor.tbl	380057203	20	380057203
 data.bin.client.skill.descriptionset.ifo	1476279042	1	1476279042
 data.bin.client.skill.descriptionset.tbl	4177626908	1	4177626908
 data.bin.client.skill.tbl	4205022137	1	4205022137
@@ -85,5 +85,5 @@ data.bin.table_version.ifo	2927010390	1	2927010390
 data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
-data.table.unity3d	2116219110	19	2116219110
-data.language_kor.unity3d	3314684723	19	3314684723
+data.table.unity3d	2116219110	20	2116219110
+data.language_kor.unity3d	3314684723	20	3314684723
