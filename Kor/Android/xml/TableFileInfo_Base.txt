@@ -1,7 +1,9 @@
+data.bin.client.item.ifo	2190604510	1	2190604510
+data.bin.client.item.tbl	960531097	1	960531097
+data.bin.lan.kor.ifo	2819563563	1	2819563563
+data.bin.lan.kor.tbl	1214931503	21	1214931503
 data.bin.gachaitem.ifo	1591542649	1	1591542649
 data.bin.gachaitem.tbl	346446305	1	346446305
-data.bin.lan.kor.ifo	1818982283	1	1818982283
-data.bin.lan.kor.tbl	380057203	20	380057203
 data.bin.client.skill.descriptionset.ifo	1476279042	1	1476279042
 data.bin.client.skill.descriptionset.tbl	4177626908	1	4177626908
 data.bin.client.skill.tbl	4205022137	1	4205022137
@@ -12,8 +14,6 @@ data.bin.client.buff.tbl	3272397891	1	3272397891
 data.bin.client.dummy.tbl	3308359298	1	3308359298
 data.bin.client.effect.ifo	2363881975	1	2363881975
 data.bin.client.effect.tbl	4167977539	1	4167977539
-data.bin.client.item.ifo	3298239208	1	3298239208
-data.bin.client.item.tbl	1151146891	1	1151146891
 data.bin.client.world.ifo	2572666305	1	2572666305
 data.bin.client.world.tbl	2994483179	1	2994483179
 data.bin.petequipcode.tbl	4113627216	1	4113627216
@@ -85,5 +85,5 @@ data.bin.table_version.ifo	2927010390	1	2927010390
 data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
-data.table.unity3d	2116219110	20	2116219110
+data.table.unity3d	1855164329	21	1855164329
 data.language_kor.unity3d	448345043	1	1576799934
