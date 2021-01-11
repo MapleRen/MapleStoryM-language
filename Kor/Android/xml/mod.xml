@@ -8,8 +8,8 @@
     </PackInfo>
     <PackInfo Name="pack_002.bin" HighPriority="1" Size="15244958" MB="14.5" FileCount="7" FileCRC="3798476681" Time="20201229_172910" BuildInfo="1.59_2323_46571d6d_AOS">
       <Data Time="20210107_193631" BuildInfo="1.59_2329_f626183d_AOS" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="674848" KB="659.0" FileCRC="2819563563" CRC="2819563563" />
-      <Data Time="20210107_193631" BuildInfo="1.59_2329_f626183d_AOS" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="21" Size="6490400" KB="6,338.3" FileCRC="1214931503" CRC="1214931503" />
-      <AssetBundle Time="20210104_180346" BuildInfo="1.59_2328_f6fc8493_AOS" HighPriority="1" Path="data.table.unity3d" Version="21" Size="672582" KB="1,383.2" FileCRC="1855164329" CRC="1855164329" />
+      <Data Time="20210107_193631" BuildInfo="1.59_2329_f626183d_AOS" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="22" Size="6490400" KB="6,338.3" FileCRC="4044763127" CRC="4044763127" />
+      <AssetBundle Time="20210104_180346" BuildInfo="1.59_2328_f6fc8493_AOS" HighPriority="1" Path="data.table.unity3d" Version="22" Size="672582" KB="1,383.2" FileCRC="1855164329" CRC="1855164329" />
       <Data Time="20201230_162538" BuildInfo="1.59_2326_b913ce9b_AOS" HighPriority="1" Path="data.bin.gachaitem.ifo" Version="1" Size="52287" KB="51.1" FileCRC="1591542649" CRC="1591542649" />
       <Data Time="20201230_162538" BuildInfo="1.59_2326_b913ce9b_AOS" HighPriority="1" Path="data.bin.gachaitem.tbl" Version="1" Size="1436115" KB="1,402.5" FileCRC="346446305" CRC="346446305" />
       <Data Time="20201229_172910" BuildInfo="1.59_2323_46571d6d_AOS" HighPriority="1" Path="data.bin.client.skill.descriptionset.ifo" Version="1" Size="323195" KB="315.6" FileCRC="1476279042" CRC="1476279042" />
