@@ -4,7 +4,7 @@
   <PackList Count="7">
     <PackInfo Name="pack_001.bin" HighPriority="1" Size="10930504" MB="10.4" FileCount="3" FileCRC="700610502" Time="20210114_185808" BuildInfo="1.60_2453_6b94722f_IOS">
       <Data Time="20210114_230316" BuildInfo="1.60_2455_323add60_IOS" HighPriority="1" Path="data.bin.result.tbl" Version="1" Size="6259117" KB="6,112.4" FileCRC="3448101361" CRC="3448101361" />
-      <AssetBundle Time="20210114_230316" BuildInfo="1.60_2455_323add60_IOS" HighPriority="1" Path="data.table.unity3d" Version="2" Size="694090" KB="1,426.7" FileCRC="2791735844" CRC="2791735844" />
+      <AssetBundle Time="20210114_230316" BuildInfo="1.60_2455_323add60_IOS" HighPriority="1" Path="data.table.unity3d" Version="3" Size="694090" KB="1,426.7" FileCRC="2791735844" CRC="2791735844" />
       <Data Time="20210114_185808" BuildInfo="1.60_2453_6b94722f_IOS" HighPriority="1" Path="data.bin.client.buff.tbl" Version="1" Size="3210323" KB="3,135.1" FileCRC="2475593922" CRC="2475593922" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" HighPriority="1" Size="15532765" MB="14.8" FileCount="7" FileCRC="157717622" Time="20210114_185808" BuildInfo="1.60_2453_6b94722f_IOS">
@@ -14,7 +14,7 @@
       <Data Time="20210114_185808" BuildInfo="1.60_2453_6b94722f_IOS" HighPriority="1" Path="data.bin.client.skill.descriptionset.tbl" Version="1" Size="5028652" KB="4,910.8" FileCRC="2673263907" CRC="2673263907" />
       <Data Time="20210114_185808" BuildInfo="1.60_2453_6b94722f_IOS" HighPriority="1" Path="data.bin.client.world.tbl" Version="1" Size="789076" KB="770.6" FileCRC="1737767985" CRC="1737767985" />
       <Data Time="20210114_185808" BuildInfo="1.60_2453_6b94722f_IOS" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="687368" KB="671.3" FileCRC="3034037923" CRC="3034037923" />
-      <Data Time="20210114_185808" BuildInfo="1.60_2453_6b94722f_IOS" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="2" Size="6630126" KB="6,474.7" FileCRC="3943078289" CRC="3943078289" />
+      <Data Time="20210114_185808" BuildInfo="1.60_2453_6b94722f_IOS" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="3" Size="6630126" KB="6,474.7" FileCRC="3943078289" CRC="3943078289" />
     </PackInfo>
     <PackInfo Name="pack_003.bin" HighPriority="1" Size="16795670" MB="16.0" FileCount="3" FileCRC="3747518601" Time="20210113_223848" BuildInfo="1.60_2449_a7f0f827_IOS">
       <Data Time="20210113_223848" BuildInfo="1.60_2449_a7f0f827_IOS" HighPriority="1" Path="data.bin.activator.tbl" Version="1" Size="1458008" KB="1,423.8" FileCRC="4003709759" CRC="4003709759" />
@@ -23,7 +23,7 @@
     </PackInfo>
     <PackInfo Name="pack_004.bin" HighPriority="1" Size="14532481" MB="13.9" FileCount="4" FileCRC="1689986943" Time="20210113_191552" BuildInfo="1.60_2448_c1922520_IOS">
       <Data Time="20210113_223848" BuildInfo="1.60_2449_a7f0f827_IOS" HighPriority="1" Path="data.bin.client.vehicle.tbl" Version="1" Size="217263" KB="212.2" FileCRC="215161502" CRC="215161502" />
-      <AssetBundle Time="20210113_223848" BuildInfo="1.60_2449_a7f0f827_IOS" HighPriority="1" Path="data.language_kor.unity3d" Version="2" Size="2097743" KB="3,328.5" FileCRC="2230894134" CRC="2230894134" />
+      <AssetBundle Time="20210113_223848" BuildInfo="1.60_2449_a7f0f827_IOS" HighPriority="1" Path="data.language_kor.unity3d" Version="3" Size="2097743" KB="3,328.5" FileCRC="2230894134" CRC="2230894134" />
       <Data Time="20210113_191552" BuildInfo="1.60_2448_c1922520_IOS" HighPriority="1" Path="data.bin.client.item.ifo" Version="1" Size="649280" KB="634.1" FileCRC="1289078683" CRC="1289078683" />
       <Data Time="20210113_191552" BuildInfo="1.60_2448_c1922520_IOS" HighPriority="1" Path="data.bin.client.item.tbl" Version="1" Size="10257388" KB="10,017.0" FileCRC="1640775945" CRC="1640775945" />
     </PackInfo>
