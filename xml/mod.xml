@@ -3,11 +3,11 @@
   <Header CRC="20210115_215449" Region="Korea" BuildInfo="1.60_2463_7e631557_IOS" CommitHash="" DependencyHash="" PackCount="8" FileCount="89" TotalSize="94894059" MB="90.5" Compressed="false" Source="/Jenkins/workspace/KoreaQA/Korea_AT_IOS_QA/TABLE/Table/" />
   <PackList Count="8">
     <PackInfo Name="pack_001.bin" HighPriority="1" Size="14143170" MB="13.5" FileCount="5" FileCRC="3418477898" Time="20210115_200828" BuildInfo="1.60_2460_a78a3875_IOS">
-      <AssetBundle Time="20210115_215449" BuildInfo="1.60_2463_7e631557_IOS" HighPriority="1" Path="data.table.unity3d" Version="5" Size="694440" KB="1,427.0" FileCRC="1411138552" CRC="1411138552" />
+      <AssetBundle Time="20210115_215449" BuildInfo="1.60_2463_7e631557_IOS" HighPriority="1" Path="data.table.unity3d" Version="6" Size="694440" KB="1,427.0" FileCRC="1411138552" CRC="1411138552" />
       <Data Time="20210115_200828" BuildInfo="1.60_2460_a78a3875_IOS" HighPriority="1" Path="data.bin.client.skill.descriptionset.ifo" Version="1" Size="335084" KB="327.2" FileCRC="1536792378" CRC="1536792378" />
       <Data Time="20210115_200828" BuildInfo="1.60_2460_a78a3875_IOS" HighPriority="1" Path="data.bin.client.skill.descriptionset.tbl" Version="1" Size="5029083" KB="4,911.2" FileCRC="4292834244" CRC="4292834244" />
       <Data Time="20210115_200828" BuildInfo="1.60_2460_a78a3875_IOS" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="687382" KB="671.3" FileCRC="3839318181" CRC="3839318181" />
-      <Data Time="20210115_200828" BuildInfo="1.60_2460_a78a3875_IOS" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="5" Size="6630196" KB="6,474.8" FileCRC="416038426" CRC="416038426" />
+      <Data Time="20210115_200828" BuildInfo="1.60_2460_a78a3875_IOS" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="6" Size="6630196" KB="6,474.8" FileCRC="1140854549" CRC="1140854549" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" HighPriority="1" Size="11922800" MB="11.4" FileCount="6" FileCRC="3284728584" Time="20210114_230316" BuildInfo="1.60_2455_323add60_IOS">
       <Data Time="20210115_200828" BuildInfo="1.60_2460_a78a3875_IOS" HighPriority="1" Path="data.bin.task.ifo" Version="1" Size="137038" KB="133.8" FileCRC="1615795241" CRC="1615795241" />
