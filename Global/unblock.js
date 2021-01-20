@@ -7,10 +7,10 @@
 
 保证第3步能成功后才能使用免拔卡的方法
 
+QuantumultX
 
 [rewrite_local]
 ^https://m-api.nexon.com/sdk/enterToy.nx url script-response-body https://raw.githubusercontent.com/MapleRen/MapleStoryM-language/master/Global/QuantumultX/msmUnBlock.js
-
 [mitm]
 hostname = m-api.nexon.com
 
@@ -35,4 +35,4 @@ if(url == limitpath){
 	//console.log(body)
 }
 body = JSON.stringify(obj)
-$done(body)
+$done({body:body});
