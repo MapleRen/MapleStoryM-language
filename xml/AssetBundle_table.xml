@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20210118_160843" Region="Korea" BuildInfo="1.60_2466_b54ba00a_IOS" CommitHash="" DependencyHash="" PackCount="7" FileCount="89" TotalSize="94894271" MB="90.5" Compressed="false" Source="/Jenkins/workspace/KoreaQA/Korea_AT_IOS_QA/TABLE/Table/" />
+  <Header CRC="20210119_183536" Region="Korea" BuildInfo="1.60_2467_b54ba00a_IOS" CommitHash="" DependencyHash="" PackCount="7" FileCount="89" TotalSize="94894271" MB="90.5" Compressed="false" Source="/Jenkins/workspace/KoreaQA/Korea_AT_IOS_QA/TABLE/Table/" />
   <PackList Count="7">
     <PackInfo Name="pack_001.bin" HighPriority="1" Size="15892350" MB="15.2" FileCount="5" FileCRC="3285561972" Time="20210118_154325" BuildInfo="1.60_2465_b54ba00a_IOS">
       <Data Time="20210118_154325" BuildInfo="1.60_2465_b54ba00a_IOS" HighPriority="1" Path="data.bin.client.buff.tbl" Version="1" Size="3210362" KB="3,135.1" FileCRC="3885640705" CRC="3885640705" />
