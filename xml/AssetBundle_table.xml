@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20210126_152210" Region="Korea" BuildInfo="1.60_2333_74873fe3_IOS" CommitHash="" DependencyHash="" PackCount="8" FileCount="89" TotalSize="94894300" MB="90.5" Compressed="false" Source="/Users/nexon/Jenkins/workspace/KoreaStage/Korea_AT_IOS_Stage/TABLE/Table/" />
+  <Header CRC="20210127_114235" Region="Korea" BuildInfo="1.60_2335_8c1c9881_IOS" CommitHash="" DependencyHash="" PackCount="8" FileCount="89" TotalSize="94894300" MB="90.5" Compressed="false" Source="/Users/nexon/Jenkins/workspace/KoreaStage/Korea_AT_IOS_Stage/TABLE/Table/" />
   <PackList Count="8">
     <PackInfo Name="pack_001.bin" HighPriority="1" Size="10905372" MB="10.4" FileCount="6" FileCRC="3031867500" Time="20210122_115153" BuildInfo="1.60_2331_ca5819eb_IOS">
       <Data Time="20210126_152210" BuildInfo="1.60_2333_74873fe3_IOS" HighPriority="1" Path="data.bin.auctionrenewal.tbl" Version="1" Size="93113" KB="90.9" FileCRC="2519124654" CRC="2519124654" />
