@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20210126_151724" Region="Korea" BuildInfo="1.60_2333_74873fe3_AOS" CommitHash="" DependencyHash="" PackCount="8" FileCount="89" TotalSize="94882474" MB="90.5" Compressed="false" Source="/Users/nexon/Jenkins/workspace/KoreaStage/Korea_AT_AOS_Stage/TABLE/Table/" />
+  <Header CRC="20210127_113730" Region="Korea" BuildInfo="1.60_2335_8c1c9881_AOS" CommitHash="" DependencyHash="" PackCount="8" FileCount="89" TotalSize="94882474" MB="90.5" Compressed="false" Source="/Users/nexon/Jenkins/workspace/KoreaStage/Korea_AT_AOS_Stage/TABLE/Table/" />
   <PackList Count="8">
     <PackInfo Name="pack_001.bin" HighPriority="1" Size="10909017" MB="10.4" FileCount="6" FileCRC="549926840" Time="20210122_115231" BuildInfo="1.60_2331_ca5819eb_AOS">
       <Data Time="20210126_151724" BuildInfo="1.60_2333_74873fe3_AOS" HighPriority="1" Path="data.bin.auctionrenewal.tbl" Version="1" Size="93113" KB="90.9" FileCRC="2519124654" CRC="2519124654" />
       <Data Time="20210126_151724" BuildInfo="1.60_2333_74873fe3_AOS" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="687390" KB="671.3" FileCRC="694345046" CRC="694345046" />
-      <Data Time="20210126_151724" BuildInfo="1.60_2333_74873fe3_AOS" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="13" Size="6630599" KB="6,475.2" FileCRC="4168036539" CRC="4168036539" />
-      <AssetBundle Time="20210126_151724" BuildInfo="1.60_2333_74873fe3_AOS" HighPriority="1" Path="data.table.unity3d" Version="13" Size="694714" KB="1,430.6" FileCRC="3706991529" CRC="3706991529" />
+      <Data Time="20210126_151724" BuildInfo="1.60_2333_74873fe3_AOS" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="14" Size="6630599" KB="6,475.2" FileCRC="1106121034" CRC="1106121034" />
+      <AssetBundle Time="20210126_151724" BuildInfo="1.60_2333_74873fe3_AOS" HighPriority="1" Path="data.table.unity3d" Version="14" Size="694714" KB="1,430.6" FileCRC="3706991529" CRC="3706991529" />
       <Data Time="20210122_115231" BuildInfo="1.60_2331_ca5819eb_AOS" HighPriority="1" Path="data.bin.activator.tbl" Version="1" Size="1458008" KB="1,423.8" FileCRC="3546767149" CRC="3546767149" />
       <Data Time="20210122_115231" BuildInfo="1.60_2331_ca5819eb_AOS" HighPriority="1" Path="data.bin.client.activator.tbl" Version="1" Size="574724" KB="561.3" FileCRC="1233830368" CRC="1233830368" />
     </PackInfo>
