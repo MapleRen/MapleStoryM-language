@@ -1,5 +1,5 @@
 data.bin.lan.kor.ifo	74496337	1	74496337
-data.bin.lan.kor.tbl	838143974	17	838143974
+data.bin.lan.kor.tbl	615005290	18	615005290
 data.bin.auctionrenewal.tbl	2519124654	1	2519124654
 data.bin.activator.tbl	3546767149	1	3546767149
 data.bin.client.activator.tbl	1233830368	1	1233830368
@@ -85,5 +85,5 @@ data.bin.table_version.ifo	2927010390	1	2927010390
 data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
-data.table.unity3d	3706991529	17	3706991529
-data.language_kor.unity3d	2107384112	17	2107384112
+data.table.unity3d	3706991529	18	3706991529
+data.language_kor.unity3d	2107384112	18	2107384112
