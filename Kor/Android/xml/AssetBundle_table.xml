@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20210209_152609" Region="Korea" BuildInfo="1.61_2510_4dbd5b11" CommitHash="" DependencyHash="" PackCount="8" FileCount="91" TotalSize="95238421" MB="90.8" Compressed="false" Source="/Users/nexon/Jenkins/workspace/KoreaQA/Korea_AT_AOS_QA/TABLE/Table/" />
+  <Header CRC="20210210_141140" Region="Korea" BuildInfo="1.61_2512_4dbd5b11" CommitHash="" DependencyHash="" PackCount="8" FileCount="91" TotalSize="95238421" MB="90.8" Compressed="false" Source="/Users/nexon/Jenkins/workspace/KoreaQA/Korea_AT_AOS_QA/TABLE/Table/" />
   <PackList Count="8">
     <PackInfo Name="pack_001.bin" HighPriority="1" Size="15175786" MB="14.5" FileCount="4" FileCRC="1047256938" Time="20210209_141442" BuildInfo="1.61_2509_378e55c3">
       <AssetBundle Time="20210209_152609" BuildInfo="1.61_2510_4dbd5b11" HighPriority="1" Path="data.table.unity3d" Version="99" Size="1500786" KB="1,465.6" FileCRC="1910444920" CRC="3105205449" />
