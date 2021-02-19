@@ -5,12 +5,12 @@
     <PackInfo Name="pack_001.bin" HighPriority="1" Size="15037581" MB="14.3" FileCount="5" FileCRC="146152389" Time="20210216_163304" BuildInfo="1.61_2514_01f4e79e">
       <Data Time="20210216_170901" BuildInfo="1.61_2515_913c900e" HighPriority="1" Path="data.bin.questreward.tbl" Version="1" Size="631491" KB="616.7" FileCRC="981375498" CRC="981375498" />
       <Data Time="20210216_163304" BuildInfo="1.61_2514_01f4e79e" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="693726" KB="677.5" FileCRC="583378673" CRC="583378673" />
-      <Data Time="20210216_163304" BuildInfo="1.61_2514_01f4e79e" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="11" Size="6708220" KB="6,551.0" FileCRC="510675708" CRC="510675708" />
+      <Data Time="20210216_163304" BuildInfo="1.61_2514_01f4e79e" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="12" Size="6708220" KB="6,551.0" FileCRC="2249796904" CRC="2249796904" />
       <Data Time="20210216_163304" BuildInfo="1.61_2514_01f4e79e" HighPriority="1" Path="data.bin.result.ifo" Version="1" Size="731048" KB="713.9" FileCRC="328765639" CRC="328765639" />
       <Data Time="20210216_163304" BuildInfo="1.61_2514_01f4e79e" HighPriority="1" Path="data.bin.result.tbl" Version="1" Size="6272939" KB="6,125.9" FileCRC="4244753211" CRC="4244753211" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" HighPriority="1" Size="12505845" MB="11.9" FileCount="3" FileCRC="3875520198" Time="20210209_130225" BuildInfo="1.61_2508_c0b93c5f">
-      <AssetBundle Time="20210216_163304" BuildInfo="1.61_2514_01f4e79e" HighPriority="1" Path="data.table.unity3d" Version="11" Size="715250" KB="1,465.8" FileCRC="2918856241" CRC="2918856241" />
+      <AssetBundle Time="20210216_163304" BuildInfo="1.61_2514_01f4e79e" HighPriority="1" Path="data.table.unity3d" Version="12" Size="715250" KB="1,465.8" FileCRC="2918856241" CRC="2918856241" />
       <Data Time="20210209_130225" BuildInfo="1.61_2508_c0b93c5f" HighPriority="1" Path="data.bin.client.item.ifo" Version="1" Size="655440" KB="640.1" FileCRC="1063038878" CRC="1063038878" />
       <Data Time="20210209_130225" BuildInfo="1.61_2508_c0b93c5f" HighPriority="1" Path="data.bin.client.item.tbl" Version="1" Size="10349330" KB="10,106.8" FileCRC="639475892" CRC="639475892" />
     </PackInfo>
