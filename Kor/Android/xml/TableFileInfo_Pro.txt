@@ -1,6 +1,6 @@
 data.bin.questreward.tbl	981375498	1	981375498
 data.bin.lan.kor.ifo	583378673	1	583378673
-data.bin.lan.kor.tbl	2059257695	13	2059257695
+data.bin.lan.kor.tbl	2072581694	14	2072581694
 data.bin.result.ifo	328765639	1	328765639
 data.bin.result.tbl	4244753211	1	4244753211
 data.bin.client.item.ifo	1063038878	1	1063038878
@@ -87,5 +87,5 @@ data.bin.table_version.ifo	2927010390	1	2927010390
 data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
-data.table.unity3d	2918856241	13	2918856241
-data.language_kor.unity3d	3683856908	13	3683856908
+data.table.unity3d	2918856241	14	2918856241
+data.language_kor.unity3d	3683856908	14	3683856908
