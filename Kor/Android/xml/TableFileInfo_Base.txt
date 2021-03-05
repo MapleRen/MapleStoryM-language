@@ -1,7 +1,10 @@
+data.bin.joblevel.ifo	4287414220	1	4287414220
+data.bin.lang.kor.questxml.ifo	673726903	1	673726903
+data.bin.upgradedefault.tbl	3675621518	1	3675621518
 data.bin.client.skill.descriptionset.tbl	1256654878	1	1256654878
 data.bin.client.skill.tbl	643525960	1	643525960
 data.bin.lan.kor.ifo	2847073547	1	2847073547
-data.bin.lan.kor.tbl	1794316129	15	1794316129
+data.bin.lan.kor.tbl	4223383369	18	4223383369
 data.bin.questreward.tbl	981375498	1	981375498
 data.bin.result.ifo	328765639	1	328765639
 data.bin.result.tbl	4244753211	1	4244753211
@@ -17,7 +20,6 @@ data.bin.client.world.ifo	2706117705	1	2706117705
 data.bin.client.world.tbl	3118793119	1	3118793119
 data.bin.gachaitem.ifo	4093489399	1	4093489399
 data.bin.gachaitem.tbl	1318847687	1	1318847687
-data.bin.upgradedefault.tbl	1267796033	1	1267796033
 data.bin.client.activator.tbl	761188852	1	761188852
 data.bin.client.buff.tbl	1499672376	1	1499672376
 data.bin.client.effect.tbl	2503470867	1	2503470867
@@ -34,7 +36,6 @@ data.bin.client.vehicle.tbl	884987257	1	884987257
 data.bin.tag.tbl	10499677	1	10499677
 data.bin.task.ifo	856041215	1	856041215
 data.bin.task.tbl	1468079719	1	1468079719
-data.bin.lang.kor.questxml.ifo	2823935532	1	2823935532
 data.bin.lang.kor.questxml.tbl	371120513	1	371120513
 data.bin.auctionrenewal.tbl	3354565436	1	3354565436
 data.bin.physicx_terrain.ifo	3378156248	1	3378156248
@@ -54,7 +55,6 @@ data.bin.client.body.tbl	3956707572	1	3956707572
 data.bin.client.ear.tbl	452389071	1	452389071
 data.bin.physicx_slope.ifo	4025517979	1	4025517979
 data.bin.physicx_slope.tbl	1350001536	1	1350001536
-data.bin.joblevel.ifo	351250586	1	351250586
 data.bin.client.guildmark.tbl	3442818001	1	3442818001
 data.bin.client.itemcharactereffect.tbl	2710979950	1	2710979950
 data.bin.client.mixedvehicleframe.tbl	1327808206	1	1327808206
@@ -87,5 +87,5 @@ data.bin.table_version.ifo	2927010390	1	2927010390
 data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
-data.table.unity3d	3351687451	15	3351687451
+data.table.unity3d	1539103029	18	1539103029
 data.language_kor.unity3d	3330457948	1	2489742585
