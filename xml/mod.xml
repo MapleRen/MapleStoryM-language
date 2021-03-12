@@ -6,7 +6,7 @@
       <Data Time="20210311_180759" BuildInfo="1.62_2559_fc5eee6a" HighPriority="1" Path="data.bin.client.skill.descriptionset.ifo" Version="1" Size="345094" KB="337.0" FileCRC="3681783538" CRC="3681783538" />
       <Data Time="20210311_180759" BuildInfo="1.62_2559_fc5eee6a" HighPriority="1" Path="data.bin.client.skill.descriptionset.tbl" Version="1" Size="5179346" KB="5,058.0" FileCRC="341168068" CRC="341168068" />
       <Data Time="20210311_180759" BuildInfo="1.62_2559_fc5eee6a" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="711672" KB="695.0" FileCRC="24149981" CRC="24149981" />
-      <Data Time="20210311_180759" BuildInfo="1.62_2559_fc5eee6a" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="3" Size="6867535" KB="6,706.6" FileCRC="1389780318" CRC="1389780318" />
+      <Data Time="20210311_180759" BuildInfo="1.62_2559_fc5eee6a" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="4" Size="6867535" KB="6,706.6" FileCRC="618307629" CRC="618307629" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" HighPriority="1" Size="20700376" MB="19.7" FileCount="4" FileCRC="3282301355" Time="20210311_015651" BuildInfo="1.62_2555_4b633e5f">
       <Data Time="20210311_164925" BuildInfo="1.62_2558_710c5664" HighPriority="1" Path="data.bin.client.buff.tbl" Version="1" Size="3287784" KB="3,210.7" FileCRC="1300339631" CRC="1300339631" />
@@ -15,7 +15,7 @@
       <Data Time="20210311_015651" BuildInfo="1.62_2555_4b633e5f" HighPriority="1" Path="data.bin.client.skill.tbl" Version="1" Size="10785368" KB="10,532.6" FileCRC="3210929697" CRC="3210929697" />
     </PackInfo>
     <PackInfo Name="pack_003.bin" HighPriority="1" Size="12936388" MB="12.3" FileCount="3" FileCRC="1864486873" Time="20210310_224225" BuildInfo="1.62_2551_556dbab5">
-      <AssetBundle Time="20210311_003408" BuildInfo="1.62_2554_f4090fab" HighPriority="1" Path="data.table.unity3d" Version="3" Size="737370" KB="1,519.7" FileCRC="3676976768" CRC="3676976768" />
+      <AssetBundle Time="20210311_003408" BuildInfo="1.62_2554_f4090fab" HighPriority="1" Path="data.table.unity3d" Version="4" Size="737370" KB="1,519.7" FileCRC="3676976768" CRC="3676976768" />
       <Data Time="20210310_224225" BuildInfo="1.62_2551_556dbab5" HighPriority="1" Path="data.bin.client.item.ifo" Version="1" Size="672211" KB="656.5" FileCRC="2664533994" CRC="2664533994" />
       <Data Time="20210310_224225" BuildInfo="1.62_2551_556dbab5" HighPriority="1" Path="data.bin.client.item.tbl" Version="1" Size="10707893" KB="10,456.9" FileCRC="497009540" CRC="497009540" />
     </PackInfo>
