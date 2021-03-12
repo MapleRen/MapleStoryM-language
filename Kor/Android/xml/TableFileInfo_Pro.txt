@@ -1,7 +1,7 @@
 data.bin.client.skill.descriptionset.ifo	3681783538	1	3681783538
 data.bin.client.skill.descriptionset.tbl	341168068	1	341168068
 data.bin.lan.kor.ifo	24149981	1	24149981
-data.bin.lan.kor.tbl	1389780318	3	1389780318
+data.bin.lan.kor.tbl	618307629	4	618307629
 data.bin.client.buff.tbl	1300339631	1	1300339631
 data.bin.client.vehicle.tbl	1308170911	1	1308170911
 data.bin.result.tbl	361008038	1	361008038
@@ -87,5 +87,5 @@ data.bin.table_version.ifo	2927010390	1	2927010390
 data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
-data.table.unity3d	1894994650	3	1894994650
-data.language_kor.unity3d	3236997942	3	3236997942
+data.table.unity3d	1894994650	4	1894994650
+data.language_kor.unity3d	3239056184	4	3239056184
