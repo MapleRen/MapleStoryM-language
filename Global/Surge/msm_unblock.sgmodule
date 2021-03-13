@@ -1,0 +1,11 @@
+#!name=MapleStoryM Unblock
+#!desc=用于岛M的锁区解除，使用前请先拔卡挂梯子成功进入一次游戏，之后才能使用该模块进行解锁
+#!system=ios
+
+
+[MITM]
+hostname = %APPEND% m-api.nexon.com
+
+[Script]
+
+unblock.js = type=http-response,requires-body=1,pattern=^https?://m-api\.nexon\.com/sdk/enterToy.nx,script-path=https://raw.githubusercontent.com/MapleRen/MapleStoryM-language/master/Global/unblock.js
