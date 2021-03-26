@@ -1,25 +1,30 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20210324_202728" Region="Korea" BuildInfo="1.62_2548_4839864a" CommitHash="" DependencyHash="" PackCount="7" FileCount="91" TotalSize="98938702" MB="94.4" Compressed="false" Source="/Users/nexon/Jenkins/workspace/KoreaStage/Korea_AT_IOS_Stage/TABLE/Table/" />
-  <PackList Count="7">
-    <PackInfo Name="pack_001.bin" HighPriority="1" Size="18960115" MB="18.1" FileCount="4" FileCRC="4175015753" Time="20210322_181225" BuildInfo="1.62_2546_1742e84d">
+  <Header CRC="20210326_124506" Region="Korea" BuildInfo="1.62_2549_41a9e4d0" CommitHash="" DependencyHash="" PackCount="8" FileCount="91" TotalSize="98938622" MB="94.4" Compressed="false" Source="/Users/nexon/Jenkins/workspace/KoreaStage/Korea_AT_IOS_Stage/TABLE/Table/" />
+  <PackList Count="8">
+    <PackInfo Name="pack_001.bin" HighPriority="1" Size="14836763" MB="14.1" FileCount="3" FileCRC="1165608438" Time="20210326_124506" BuildInfo="1.62_2549_41a9e4d0">
+      <Data Time="20210326_124506" BuildInfo="1.62_2549_41a9e4d0" HighPriority="1" Path="data.bin.client.buff.tbl" Version="1" Size="3287598" KB="3,210.5" FileCRC="622510044" CRC="622510044" />
+      <Data Time="20210326_124506" BuildInfo="1.62_2549_41a9e4d0" HighPriority="1" Path="data.bin.physicx_terrain.ifo" Version="1" Size="14386" KB="14.0" FileCRC="4284730528" CRC="4284730528" />
+      <Data Time="20210326_124506" BuildInfo="1.62_2549_41a9e4d0" HighPriority="1" Path="data.bin.physicx_terrain.tbl" Version="1" Size="11534660" KB="11,264.3" FileCRC="983777355" CRC="983777355" />
+    </PackInfo>
+    <PackInfo Name="pack_002.bin" HighPriority="1" Size="19590037" MB="18.7" FileCount="5" FileCRC="499700051" Time="20210322_181225" BuildInfo="1.62_2546_1742e84d">
+      <Data Time="20210326_124506" BuildInfo="1.62_2549_41a9e4d0" HighPriority="1" Path="data.bin.place.tbl" Version="1" Size="629896" KB="615.1" FileCRC="110816656" CRC="110816656" />
       <Data Time="20210324_184124" BuildInfo="1.62_2547_4839864a" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="711710" KB="695.0" FileCRC="4095253180" CRC="4095253180" />
       <Data Time="20210324_184124" BuildInfo="1.62_2547_4839864a" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="99" Size="6868052" KB="6,707.1" FileCRC="3095537764" CRC="3095537764" />
       <Data Time="20210322_181225" BuildInfo="1.62_2546_1742e84d" HighPriority="1" Path="data.bin.client.item.ifo" Version="1" Size="672217" KB="656.5" FileCRC="335398611" CRC="335398611" />
       <Data Time="20210322_181225" BuildInfo="1.62_2546_1742e84d" HighPriority="1" Path="data.bin.client.item.tbl" Version="1" Size="10708001" KB="10,457.0" FileCRC="776968219" CRC="776968219" />
     </PackInfo>
-    <PackInfo Name="pack_002.bin" HighPriority="1" Size="10591214" MB="10.1" FileCount="5" FileCRC="3353137756" Time="20210311_164925" BuildInfo="1.62_2558_710c5664">
+    <PackInfo Name="pack_003.bin" HighPriority="1" Size="13707937" MB="13.1" FileCount="5" FileCRC="2080723959" Time="20210311_164925" BuildInfo="1.62_2558_710c5664">
       <Data Time="20210322_181225" BuildInfo="1.62_2546_1742e84d" HighPriority="1" Path="data.bin.client.skill.descriptionset.tbl" Version="1" Size="5179352" KB="5,058.0" FileCRC="3207402028" CRC="3207402028" />
       <AssetBundle Time="20210315_153333" BuildInfo="1.62_2561_d39d1162" HighPriority="1" Path="data.table.unity3d" Version="99" Size="1556210" KB="1,519.7" FileCRC="2130227432" CRC="681620569" />
       <Data Time="20210311_180759" BuildInfo="1.62_2559_fc5eee6a" HighPriority="1" Path="data.bin.client.skill.descriptionset.ifo" Version="1" Size="345094" KB="337.0" FileCRC="3681783538" CRC="3681783538" />
-      <Data Time="20210311_164925" BuildInfo="1.62_2558_710c5664" HighPriority="1" Path="data.bin.client.buff.tbl" Version="1" Size="3287784" KB="3,210.7" FileCRC="1300339631" CRC="1300339631" />
       <Data Time="20210311_164925" BuildInfo="1.62_2558_710c5664" HighPriority="1" Path="data.bin.client.vehicle.tbl" Version="1" Size="222570" KB="217.4" FileCRC="1308170911" CRC="1308170911" />
-    </PackInfo>
-    <PackInfo Name="pack_003.bin" HighPriority="1" Size="17189955" MB="16.4" FileCount="2" FileCRC="2506089998" Time="20210311_015651" BuildInfo="1.62_2555_4b633e5f">
       <Data Time="20210311_164925" BuildInfo="1.62_2558_710c5664" HighPriority="1" Path="data.bin.result.tbl" Version="1" Size="6404512" KB="6,254.4" FileCRC="361008038" CRC="361008038" />
+    </PackInfo>
+    <PackInfo Name="pack_004.bin" HighPriority="1" Size="10785416" MB="10.3" FileCount="1" FileCRC="2054368013" Time="20210311_015651" BuildInfo="1.62_2555_4b633e5f">
       <Data Time="20210311_015651" BuildInfo="1.62_2555_4b633e5f" HighPriority="1" Path="data.bin.client.skill.tbl" Version="1" Size="10785368" KB="10,532.6" FileCRC="3210929697" CRC="3210929697" />
     </PackInfo>
-    <PackInfo Name="pack_004.bin" HighPriority="1" Size="12359595" MB="11.8" FileCount="7" FileCRC="571165412" Time="20210310_191050" BuildInfo="1.62_2550_ae519d5f">
+    <PackInfo Name="pack_005.bin" HighPriority="1" Size="12359595" MB="11.8" FileCount="7" FileCRC="571165412" Time="20210310_191050" BuildInfo="1.62_2550_ae519d5f">
       <Data Time="20210310_224225" BuildInfo="1.62_2551_556dbab5" HighPriority="1" Path="data.bin.lang.kor.questxml.ifo" Version="1" Size="59370" KB="58.0" FileCRC="2836975559" CRC="2836975559" />
       <Data Time="20210310_224225" BuildInfo="1.62_2551_556dbab5" HighPriority="1" Path="data.bin.lang.kor.questxml.tbl" Version="1" Size="735094" KB="717.9" FileCRC="23420459" CRC="23420459" />
       <Data Time="20210310_224225" BuildInfo="1.62_2551_556dbab5" HighPriority="1" Path="data.bin.tag.tbl" Version="1" Size="2164" KB="2.1" FileCRC="2346380012" CRC="2346380012" />
@@ -28,7 +33,7 @@
       <Data Time="20210310_191050" BuildInfo="1.62_2550_ae519d5f" HighPriority="1" Path="data.bin.client.dummy.tbl" Version="1" Size="5081130" KB="4,962.0" FileCRC="728779001" CRC="728779001" />
       <Data Time="20210310_191050" BuildInfo="1.62_2550_ae519d5f" HighPriority="1" Path="data.bin.client.effect.tbl" Version="1" Size="2083188" KB="2,034.4" FileCRC="4275530047" CRC="4275530047" />
     </PackInfo>
-    <PackInfo Name="pack_005.bin" HighPriority="1" Size="10857456" MB="10.4" FileCount="13" FileCRC="2471485881" Time="20210309_192331" BuildInfo="1.62_2545_b2bd6221">
+    <PackInfo Name="pack_006.bin" HighPriority="1" Size="11713050" MB="11.2" FileCount="13" FileCRC="485288264" Time="20210309_072709" BuildInfo="1.62_2543_33aadea4">
       <Data Time="20210310_191050" BuildInfo="1.62_2550_ae519d5f" HighPriority="1" Path="data.bin.client.world.tbl" Version="1" Size="833631" KB="814.1" FileCRC="2739150989" CRC="2739150989" />
       <Data Time="20210310_191050" BuildInfo="1.62_2550_ae519d5f" HighPriority="1" Path="data.bin.gachaitem.ifo" Version="1" Size="55386" KB="54.1" FileCRC="3619391069" CRC="3619391069" />
       <Data Time="20210310_191050" BuildInfo="1.62_2550_ae519d5f" HighPriority="1" Path="data.bin.gachaitem.tbl" Version="1" Size="1512475" KB="1,477.0" FileCRC="3680481477" CRC="3680481477" />
@@ -41,10 +46,9 @@
       <Data Time="20210310_072737" BuildInfo="1.62_2546_1ad0801f" HighPriority="1" Path="data.bin.task.tbl" Version="1" Size="5404208" KB="5,277.5" FileCRC="3266730965" CRC="3266730965" />
       <Data Time="20210310_072737" BuildInfo="1.62_2546_1ad0801f" HighPriority="1" Path="data.bin.warp.ifo" Version="1" Size="130901" KB="127.8" FileCRC="2788236666" CRC="2788236666" />
       <Data Time="20210310_072737" BuildInfo="1.62_2546_1ad0801f" HighPriority="1" Path="data.bin.warp.tbl" Version="1" Size="552208" KB="539.3" FileCRC="970336697" CRC="970336697" />
-      <Data Time="20210309_192331" BuildInfo="1.62_2545_b2bd6221" HighPriority="1" Path="data.bin.place.tbl" Version="1" Size="629896" KB="615.1" FileCRC="3576377445" CRC="3576377445" />
-    </PackInfo>
-    <PackInfo Name="pack_006.bin" HighPriority="1" Size="19699593" MB="18.8" FileCount="12" FileCRC="2097646365" Time="20210303_191024" BuildInfo="1.62_2533_392536f5">
       <Data Time="20210309_072709" BuildInfo="1.62_2543_33aadea4" HighPriority="1" Path="data.bin.activator.tbl" Version="1" Size="1485486" KB="1,450.7" FileCRC="251081152" CRC="251081152" />
+    </PackInfo>
+    <PackInfo Name="pack_007.bin" HighPriority="1" Size="13385493" MB="12.8" FileCount="11" FileCRC="1493011118" Time="20210302_185810" BuildInfo="1.62_2531_1ea8157c">
       <Data Time="20210309_072709" BuildInfo="1.62_2543_33aadea4" HighPriority="1" Path="data.bin.client.activator.tbl" Version="1" Size="588343" KB="574.6" FileCRC="987755631" CRC="987755631" />
       <Data Time="20210309_072709" BuildInfo="1.62_2543_33aadea4" HighPriority="1" Path="data.bin.client.effect.ifo" Version="1" Size="62820" KB="61.3" FileCRC="4281972543" CRC="4281972543" />
       <Data Time="20210309_072709" BuildInfo="1.62_2543_33aadea4" HighPriority="1" Path="data.bin.client.icon.ifo" Version="1" Size="406678" KB="397.1" FileCRC="4009241386" CRC="4009241386" />
@@ -55,11 +59,9 @@
       <Data Time="20210305_012054" BuildInfo="1.62_2539_10449e33" HighPriority="1" Path="data.bin.upgradedefault.tbl" Version="1" Size="1094646" KB="1,069.0" FileCRC="1648785806" CRC="1648785806" />
       <Data Time="20210303_191024" BuildInfo="1.62_2533_392536f5" HighPriority="1" Path="data.bin.auctionrenewal.tbl" Version="1" Size="94605" KB="92.4" FileCRC="1716749277" CRC="1716749277" />
       <Data Time="20210303_191024" BuildInfo="1.62_2533_392536f5" HighPriority="1" Path="data.bin.notuseskillarea.tbl" Version="1" Size="631" KB="0.6" FileCRC="738806474" CRC="738806474" />
-      <Data Time="20210303_191024" BuildInfo="1.62_2533_392536f5" HighPriority="1" Path="data.bin.physicx_terrain.tbl" Version="1" Size="11534554" KB="11,264.2" FileCRC="2205447391" CRC="2205447391" />
-    </PackInfo>
-    <PackInfo Name="pack_007.bin" HighPriority="1" Size="9283780" MB="8.9" FileCount="48" FileCRC="1273434388" Time="20191217_181511" BuildInfo="1.47_967Q_442a9ff6">
       <Data Time="20210302_185810" BuildInfo="1.62_2531_1ea8157c" HighPriority="1" Path="data.bin.joblevel.tbl" Version="1" Size="6705977" KB="6,548.8" FileCRC="1426340224" CRC="1426340224" />
-      <Data Time="20210302_185810" BuildInfo="1.62_2531_1ea8157c" HighPriority="1" Path="data.bin.physicx_terrain.ifo" Version="1" Size="14386" KB="14.0" FileCRC="245974801" CRC="245974801" />
+    </PackInfo>
+    <PackInfo Name="pack_008.bin" HighPriority="1" Size="2563352" MB="2.4" FileCount="46" FileCRC="2042762862" Time="20191217_181511" BuildInfo="1.47_967Q_442a9ff6">
       <Data Time="20210302_185810" BuildInfo="1.62_2531_1ea8157c" HighPriority="1" Path="data.bin.setitems.tbl" Version="1" Size="57978" KB="56.6" FileCRC="3577291966" CRC="3577291966" />
       <Data Time="20210225_191209" BuildInfo="1.62_2526_4e7f8a35" HighPriority="1" Path="data.bin.client.face.tbl" Version="1" Size="152572" KB="149.0" FileCRC="3309803449" CRC="3309803449" />
       <Data Time="20210225_191209" BuildInfo="1.62_2526_4e7f8a35" HighPriority="1" Path="data.bin.client.hair.tbl" Version="1" Size="260312" KB="254.2" FileCRC="2612251617" CRC="2612251617" />
