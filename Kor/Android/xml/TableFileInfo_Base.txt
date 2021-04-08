@@ -1,5 +1,6 @@
-data.bin.lan.kor.ifo	2634574346	1	2634574346
-data.bin.lan.kor.tbl	2857399595	2	2857399595
+data.bin.lan.kor.ifo	618450425	1	618450425
+data.bin.lan.kor.tbl	3487451263	3	3487451263
+data.bin.slang.tbl	227709896	1	227709896
 data.bin.client.skill.descriptionset.tbl	3365072957	1	3365072957
 data.bin.client.world.tbl	1294499464	1	1294499464
 data.bin.result.tbl	111898601	1	111898601
@@ -24,7 +25,6 @@ data.bin.physicx_terrain.ifo	2098204067	1	2098204067
 data.bin.physicx_terrain.tbl	1935445879	1	1935445879
 data.bin.activator.tbl	921837519	1	921837519
 data.bin.client.activator.tbl	1608140682	1	1608140682
-data.bin.slang.tbl	1382962927	1	1382962927
 data.bin.tag.tbl	3757953727	1	3757953727
 data.bin.client.partsset.ifo	2498792209	1	2498792209
 data.bin.client.partsset.tbl	1460097157	1	1460097157
@@ -88,5 +88,5 @@ data.bin.table_version.ifo	2927010390	1	2927010390
 data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
-data.table.unity3d	1662151287	2	1662151287
+data.table.unity3d	1662151287	3	1662151287
 data.language_kor.unity3d	2106001836	1	436506363
