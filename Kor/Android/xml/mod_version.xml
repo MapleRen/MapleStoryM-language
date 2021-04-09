@@ -13,14 +13,14 @@
   </OptionAttributes>
   <GooglePlay>
     <Application URL="https://play.google.com/store/apps/details?id=com.nexon.nsc.maplem">
-      <Release ClientVersion="1.63.2629" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/GooglePlay/163_2640Q_1/" Server="1.63.3.1629" />
-      <Release ClientVersion="1.63.2628" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/GooglePlay/163_2640Q_1/" Server="1.63.3.1629" />
+      <Release ClientVersion="1.63.2642" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/GooglePlay/163_2640Q_1/" Server="1.63.3.1629" />
     </Application>
   </GooglePlay>
   <AppStore>
     <Application URL="https://itunes.apple.com/kr/app/id1133463693">
       <Release ClientVersion="1.63.2629" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/AppStore/163_2640Q_1/" Server="1.63.3.1629" />
       <Release ClientVersion="1.63.2628" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/AppStore/163_2640Q_1/" Server="1.63.3.1629" />
+      <Release ClientVersion="1.63.2642" LoginServerIP="KOR_RV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/AppStore/163_2640Q_1/" Server="1.63.3.1629" />
     </Application>
   </AppStore>
   <Unity>
