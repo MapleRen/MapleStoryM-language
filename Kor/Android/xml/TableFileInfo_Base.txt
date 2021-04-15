@@ -89,4 +89,4 @@ data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
 data.table.unity3d	774246769	8	774246769
-data.language_kor.unity3d	3006537648	1	1406494752
+data.language_kor.unity3d	2106001836	1	436506363
