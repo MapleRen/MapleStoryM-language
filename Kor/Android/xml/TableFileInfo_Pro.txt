@@ -1,5 +1,7 @@
+data.bin.client.item.ifo	3331730966	1	3331730966
+data.bin.client.item.tbl	2249648192	1	2249648192
 data.bin.lan.kor.ifo	1103594892	1	1103594892
-data.bin.lan.kor.tbl	1590564623	9	1590564623
+data.bin.lan.kor.tbl	384086329	11	384086329
 data.bin.joblevel.ifo	1475648512	1	1475648512
 data.bin.joblevel.tbl	141381660	1	141381660
 data.bin.client.dummy.ifo	2742479221	1	2742479221
@@ -13,8 +15,6 @@ data.bin.arrange.tbl	1300244331	1	1300244331
 data.bin.client.buff.tbl	1302714327	1	1302714327
 data.bin.client.effect.ifo	1727849659	1	1727849659
 data.bin.client.effect.tbl	744043338	1	744043338
-data.bin.client.item.ifo	3646045733	1	3646045733
-data.bin.client.item.tbl	609072603	1	609072603
 data.bin.client.skill.descriptionset.ifo	1923339106	1	1923339106
 data.bin.place.tbl	2822759571	1	2822759571
 data.bin.task.ifo	3326900090	1	3326900090
@@ -88,5 +88,5 @@ data.bin.table_version.ifo	2927010390	1	2927010390
 data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
-data.table.unity3d	774246769	9	774246769
-data.language_kor.unity3d	3361856287	9	3361856287
+data.table.unity3d	774246769	11	774246769
+data.language_kor.unity3d	3361856287	11	3361856287
