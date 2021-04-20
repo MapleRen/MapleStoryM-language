@@ -4,14 +4,14 @@
   <PackList Count="8">
     <PackInfo Name="pack_001.bin" HighPriority="1" Size="13282392" MB="12.7" FileCount="4" FileCRC="1364876611" Time="20210420_174255" BuildInfo="1.63_2554_82c43814">
       <Data Time="20210420_180703" BuildInfo="1.63_2555_692e2eac" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="723688" KB="706.7" FileCRC="4102733641" CRC="4102733641" />
-      <Data Time="20210420_180703" BuildInfo="1.63_2555_692e2eac" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="13" Size="6998836" KB="6,834.9" FileCRC="2547014196" CRC="2547014196" />
+      <Data Time="20210420_180703" BuildInfo="1.63_2555_692e2eac" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="12" Size="6998836" KB="6,834.9" FileCRC="2547014196" CRC="2547014196" />
       <Data Time="20210420_174255" BuildInfo="1.63_2554_82c43814" HighPriority="1" Path="data.bin.client.skill.descriptionset.ifo" Version="1" Size="345138" KB="337.0" FileCRC="1478259240" CRC="1478259240" />
       <Data Time="20210420_174255" BuildInfo="1.63_2554_82c43814" HighPriority="1" Path="data.bin.client.skill.descriptionset.tbl" Version="1" Size="5214462" KB="5,092.2" FileCRC="2118319842" CRC="2118319842" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" HighPriority="1" Size="20443130" MB="19.5" FileCount="5" FileCRC="4220697640" Time="20210416_181302" BuildInfo="1.63_2553_81a8c950">
       <Data Time="20210420_174255" BuildInfo="1.63_2554_82c43814" HighPriority="1" Path="data.bin.result.ifo" Version="1" Size="748839" KB="731.3" FileCRC="278934385" CRC="278934385" />
       <Data Time="20210420_174255" BuildInfo="1.63_2554_82c43814" HighPriority="1" Path="data.bin.result.tbl" Version="1" Size="6462272" KB="6,310.8" FileCRC="2529499993" CRC="2529499993" />
-      <AssetBundle Time="20210420_174255" BuildInfo="1.63_2554_82c43814" HighPriority="1" Path="data.table.unity3d" Version="13" Size="753974" KB="1,550.8" FileCRC="2680659437" CRC="2680659437" />
+      <AssetBundle Time="20210420_174255" BuildInfo="1.63_2554_82c43814" HighPriority="1" Path="data.table.unity3d" Version="12" Size="753974" KB="1,550.8" FileCRC="2680659437" CRC="2680659437" />
       <Data Time="20210416_181302" BuildInfo="1.63_2553_81a8c950" HighPriority="1" Path="data.bin.client.item.ifo" Version="1" Size="676765" KB="660.9" FileCRC="3331730966" CRC="3331730966" />
       <Data Time="20210416_181302" BuildInfo="1.63_2553_81a8c950" HighPriority="1" Path="data.bin.client.item.tbl" Version="1" Size="10967045" KB="10,710.0" FileCRC="2249648192" CRC="2249648192" />
     </PackInfo>
