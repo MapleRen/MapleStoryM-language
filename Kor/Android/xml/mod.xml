@@ -6,7 +6,7 @@
       <Data Time="20210506_190014" BuildInfo="1.64_2690_265067ad" HighPriority="1" Path="data.bin.client.skill.descriptionset.ifo" Version="1" Size="355069" KB="346.7" FileCRC="264156012" CRC="264156012" />
       <Data Time="20210506_190014" BuildInfo="1.64_2690_265067ad" HighPriority="1" Path="data.bin.client.skill.descriptionset.tbl" Version="1" Size="5392078" KB="5,265.7" FileCRC="2999861463" CRC="2999861463" />
       <Data Time="20210506_190014" BuildInfo="1.64_2690_265067ad" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="731496" KB="714.4" FileCRC="3947519664" CRC="3947519664" />
-      <Data Time="20210506_190014" BuildInfo="1.64_2690_265067ad" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="5" Size="7097240" KB="6,930.9" FileCRC="2568842996" CRC="2568842996" />
+      <Data Time="20210506_190014" BuildInfo="1.64_2690_265067ad" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="6" Size="7097240" KB="6,930.9" FileCRC="1321200735" CRC="1321200735" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" HighPriority="1" Size="19368956" MB="18.5" FileCount="4" FileCRC="3918685074" Time="20210506_121804" BuildInfo="1.64_2688_1251dc8e">
       <Data Time="20210506_164034" BuildInfo="1.64_2689_0f99b55f" HighPriority="1" Path="data.bin.activator.tbl" Version="1" Size="1521470" KB="1,485.8" FileCRC="2963571330" CRC="2963571330" />
@@ -15,7 +15,7 @@
       <Data Time="20210506_121804" BuildInfo="1.64_2688_1251dc8e" HighPriority="1" Path="data.bin.client.skill.tbl" Version="1" Size="11147523" KB="10,886.3" FileCRC="420587793" CRC="420587793" />
     </PackInfo>
     <PackInfo Name="pack_003.bin" HighPriority="1" Size="11785787" MB="11.2" FileCount="5" FileCRC="305980163" Time="20210504_224031" BuildInfo="1.64_2685_7e45ff6a">
-      <AssetBundle Time="20210506_121804" BuildInfo="1.64_2688_1251dc8e" HighPriority="1" Path="data.table.unity3d" Version="5" Size="768787" KB="1,576.8" FileCRC="48210270" CRC="48210270" />
+      <AssetBundle Time="20210506_121804" BuildInfo="1.64_2688_1251dc8e" HighPriority="1" Path="data.table.unity3d" Version="6" Size="768787" KB="1,576.8" FileCRC="48210270" CRC="48210270" />
       <Data Time="20210505_011556" BuildInfo="1.64_2686_a1f29d12" HighPriority="1" Path="data.bin.client.dummy.tbl" Version="1" Size="5328833" KB="5,203.9" FileCRC="2841737168" CRC="2841737168" />
       <Data Time="20210505_011556" BuildInfo="1.64_2686_a1f29d12" HighPriority="1" Path="data.bin.result.ifo" Version="1" Size="767017" KB="749.0" FileCRC="3345477421" CRC="3345477421" />
       <Data Time="20210504_224031" BuildInfo="1.64_2685_7e45ff6a" HighPriority="1" Path="data.bin.client.activator.tbl" Version="1" Size="617756" KB="603.3" FileCRC="1435755378" CRC="1435755378" />
