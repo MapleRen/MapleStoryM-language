@@ -1,0 +1,6356 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+
+  
+<Quest code="Tutorial01" index="1001" sort="Normal">
+
+	<Title>안녕, 새로운 모험가</Title>
+
+	<Task index="1">
+		<Body>
+			<Page position="Left" speaker="player">
+				<s>약속시간이 다 되었는데 [ff7b50]마이[-]님은 왜 안 오시지? 단풍나무 아래에서 만나기로 했는데…</s>
+			</Page>
+			<Page position="Left" speaker="player">
+				<s>앗, 마이님이다! 저 손짓은 따라오라는 건가?</s>
+				<s>[ff7b50]어서 가보자![-]</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page speaker="Mapleroad_Mai">
+				<s>#un#, 모험을 떠날 거란 소리를 들었어. 역시 너도 [ff7b50]모험가[-]였구나.</s>
+			</Page>
+			<Page speaker="player">
+				<s>[ff7b50]모험가[-]요?</s>
+			</Page>
+			<Page speaker="Mapleroad_Mai">
+				<s>그래. [ff7b50]모험가[-]란, 너처럼 다른 세계에서 온 이방인을 뜻해. 그들은 각자의 목적을 가지고 [ff7b50]메이플 아일랜드[-]에서 최초의 모험을 시작하지.</s>
+			</Page>
+			<Page speaker="Mapleroad_Mai">
+				<s>메이플 아일랜드가 낯선 너에게 모험에 대해 간단하게 알려주고 메이플 아일랜드를 여행할 때 도움이 될만한 작은 [ff7b50]선물[-]도 주려고 불렀지.</s>
+			</Page>
+			<Page speaker="Mapleroad_Mai">
+				<s>만약 내 설명이 듣고 싶지 않다면 바로 친구들에게 보내주도록 할게.</s>
+				<s>이해했으면 자, 선택의 시간이야</s>
+			</Page>
+			<Page speaker="Mapleroad_Mai">
+				<s>어느 쪽으로 할래?</s>
+				<s></s>
+				<s>[a3a3a3]설명 듣기 - 튜토리얼 진행[-]</s>
+				<s>[a3a3a3]건너뛰기 - 튜토리얼 스킵[-]</s>
+				<Select target="Accept">설명 듣기</Select>
+				<Select target="Refuse">건너뛰기</Select>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="4">
+		<Body>
+			<Page speaker="Mapleroad_Mai">
+				<s>잘 선택했어!</s>
+				<s>바로 시작해볼까?</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Tutorial02" index="1002" sort="Normal">
+
+	<Title>퀘스트를 시작하자</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>우선은 [ff7b50]퀘스트[-]에 대해 알려줄게. 사실 이미 넌 훌륭하게 퀘스트를 해내고 있어. 퀘스트란 모든 NPC와의 [ff7b50]대화[-]라고 생각하면 돼.</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]전구 아이콘[-]을 지닌 사람을 터치하면 퀘스트를 시작할 수 있어. 퀘스트를 수행하고 난 후, [ff7b50]책 아이콘[-]을 지닌 사람에게 가면 퀘스트를 완료하고 보상을 받을 수 있지.</s>
+			</Page>
+			<Page>
+				<s>보상으로는 [ff7b50]경험치[-]나 각종 [ff7b50]아이템[-] 등이 있으니까, 잊지 말고 체크하도록 해!</s>
+			</Page>
+			<Page>
+  			    <s>이론을 배웠으니, 한 번 시험해볼까? 해내면 작은 [ff7b50]선물[-]을 줄게.</s>
+			</Page>
+			<Page>
+				<s>이제 내 머리 위에 [ff7b50]퀘스트 완료 아이콘[-]을 띄울거야. 나를 [ff7b50]터치[-]해서 퀘스트를 완료해봐.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>아주 잘했어! 퀘스트는 보통은 너의 [ff7b50]레벨에 맞는 퀘스트[-]만 아이콘으로 나타나. 그러니 전구 아이콘을 본다면 확인해보는게 좋아.</s>
+			</Page>
+			<Page>
+				<s>그럼 약속대로 여기. 작은 선물을 줄게. 다음 순서는 메이플 월드를 모험하려면 반드시 익혀야 하는 [ff7b50]이동 기술[-]을 알려줄게.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Tutorial03" index="1003" sort="Normal">
+
+	<Title>자유롭게 이동하자</Title>
+
+	<Task index="1">
+		<Body>
+      			<Page speaker="Mapleroad_Mai">
+				<s>지금부터 이동 기술 중, 로프를 타는 방법과 하향점프하는 방법을 배울 거야. 그럼 먼저 [ff7b50]로프타기[-]부터 시작해볼까?</s>
+			</Page>
+			<Page speaker="Mapleroad_Mai">
+				<s>여기서 위쪽 단으로 올라가려면 로프를 이용해야만 해. [ff7b50]로프 아래[-]에서 [ff7b50]점프[-]를 터치하면 로프에 매달릴 수 있지. 그 상태에서 [ff7b50]위[-], [ff7b50]아래 방향키[-]를 터치하면 로프를 탈 수 있어.</s>
+			</Page>
+			<Page speaker="Mapleroad_Mai">
+				<s>자, 그럼 도전해볼까? 난 먼저 기다리고 있을게. 로프를 이용해서 [ff7b50]내가 있는 곳[-]까지 올라와봐!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="2">
+		<Body>
+      		<Page speaker="Mapleroad_Mai">
+				<s>훌륭해! 이 기세를 몰아 [ff7b50]하향점프[-]를 배워볼까?</s>
+			</Page>
+			<Page speaker="Mapleroad_Mai">
+				<s>하향점프는 [ff7b50]점프[-]와 [ff7b50]아래쪽 방향키[-]를 [ff7b50]함께[-] 터치해야 해.</s>
+			</Page>
+			<Page speaker="Mapleroad_Mai">
+				<s>훈련을 위해 로프를 치웠으니까, [ff7b50]하향점프[-]를 해서 [ff7b50]바닥[-]으로 내려와봐! 먼저 내려가서 지켜보고 있을게.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+      		<Page speaker="Mapleroad_Mai">
+				<s>후후, 이동 기술은 이정도면 완벽해! 다음은 [ff7b50]포탈[-]을 이용하는 법을 배워볼까?</s>
+			</Page>
+			<Page speaker="Mapleroad_Mai">
+				<s>포탈을 이용하기 위해선 [ff7b50]포탈[-]위에 서서 [ff7b50]위쪽 방향키[-]를 누르면 돼. 다음 수업은 맵을 이동한 후에 진행하자.</s>
+			</Page>
+			<Page speaker="Mapleroad_Mai">
+				<s>난 먼저 가서 준비하고 있을게.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Tutorial04" index="1004" sort="Normal">
+
+	<Title>음식을 먹으면 회복한다</Title>
+
+	<Task index="1">
+		<Body>
+      <Page speaker="Mapleroad_Mai">
+        <s>포탈 사용법을 잘 숙지했네! 이제 원하는 곳이면 어디든 갈 수 있을거야. 이번에는 [ff7b50]아이템 사용[-]에 대해서 알아볼까?</s>
+      </Page>
+	  <Page speaker="Mapleroad_Mai">
+        <s>여행을 하다보면 사냥과 전투를 하게 될텐데, 체력과 마력이 소모되어 어려움에 처할 때가 있을거야.</s>
+	  </Page>
+	  <Page speaker="Mapleroad_Mai">	
+		<s>이럴 때 [ff7b50]소비 아이템[-]을 사용하면 회복할 수 있어.</s>
+      </Page>
+      <Page speaker="Mapleroad_Mai">
+				<s>아이템을 보관하는 [ff7b50]인벤토리[-]를 열고 원하는 아이템을 선택한 후, [ff7b50]사용 버튼[-]을 터치해서 사용할 수 있어.</s>
+			</Page>
+      <Page speaker="Mapleroad_Mai">
+				<s>[ff7b50]소비 아이템[-]은 [ff7b50]단축키[-]에 등록해서 더욱더 편리하게 사용할 수 있지. 선물로 [ff7b50]사과[-]를 줄게. [ff7b50]단축키[-]에 등록 해볼래?</s>
+			</Page>
+		</Body>
+	</Task>
+		
+	<Task index="3">
+		<Body>
+			<Page speaker="Mapleroad_Mai">
+				<s>[ff7b50]첫 번째[-]와 [ff7b50]두 번째 슬롯[-]에는 [ff7b50]버프 및 충전권[-], [ff7b50]텔레포트[-] 관련된 [ff7b50]소비 아이템[-]을 등록할 수 있어.</s>
+			</Page>
+			<Page speaker="Mapleroad_Mai">
+				<s>[ff7b50]세 번째 슬롯[-]에는 [ff7b50]체력 포션[-]을, [ff7b50]네 번째 슬롯[-]에는 [ff7b50]마나 포션[-]을 등록할 수 있지.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="Tutorial05" index="1005" sort="Normal">
+
+	<Title>스킬을 사용해보자</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="Mapleroad_Mai">
+				<s>사냥과 전투를 통해 [ff7b50]레벨[-]이 오르게 되고 [ff7b50]특정한 경지[-]에 다다를 때 마다 [ff7b50]새로운 스킬들[-]을 사용할 수 있게 돼.</s>
+			</Page>
+            <Page speaker="Mapleroad_Mai">
+				<s>그럼 잠시 스킬창을 열어볼 시간을 줄게. 메뉴 중에서 스킬 아이콘을 터치하여 네가 쓸 수 있는 스킬들을 확인하고 [ff7b50]스킬 단축키[-]에 등록해봐!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="2">
+		<Body>
+            <Page speaker="Mapleroad_Mai">
+				<s>레벨이 오를 때 마다 레벨에 맞는 [ff7b50]스킬 포인트[-]를 지급받게 될거야. [ff7b50]스킬 포인트[-]로 어떤 스킬을 올리느냐에 따라서 전투와 사냥의 판도가 변할 수도 있어.</s>
+			</Page>
+			<Page speaker="Mapleroad_Mai">
+ 			    <s>상황에 맞게 전략적으로 [ff7b50]스킬[-]을 올려야겠지?</s>
+			</Page>
+			<Page speaker="Mapleroad_Mai">
+				<s>지루한 설명을 듣느라고 고생했어. 부디 멋진 모험가가 되길 바랄게.</s>
+				<s>다음 맵에 [ff7b50]친구들[-]이 기다리고 있어, 어서 가봐.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="Tutorial07" index="1007" sort="Normal">
+
+    <Title>튜토리얼 스킵</Title>
+
+    <Task index="2">
+      <Body>
+        <Page speaker="Player">
+         <s>응? 이게 뭐지?</s>
+		 <s>주머니에 [ff7b50]쪽지[-]랑 [ff7b50]선물[-]이 있네. 마이님이 주신건가?</s>
+	</Page>
+	<Page speaker="Mapleroad_Mai">
+		 <s>#un#, 네 모험에 도움이 될만한 [ff7b50]작은 선물[-]을 준비해봤어. 부디 멋진 모험가가 되길 바랄게.</s>
+	</Page>
+      </Body>
+    </Task>
+
+</Quest> 
+
+
+<Quest code="Tutorial08" index="1008" sort="Normal">
+
+    <Title>여행의 시작</Title>
+
+    <Task index="1">
+      <Body>
+        <Page position="Left" speaker="player">
+          <s>모험가로서 딛는 첫걸음이야! 본격적인 모험을 시작해볼까?</s>
+		  <s>모험을 떠나기 전에 [ff7b50]친구들[-]부터 만나보자!</s>
+		  </Page>
+      </Body>
+    </Task>
+
+</Quest>
+
+<Quest code="TutorialCygnus01" index="1009" sort="Normal">
+
+  <Title>신입 기사단원</Title>
+
+  <Task index="1">
+    <Body>
+      <Page speaker="Empressroad_Kinu_01">
+        <s>어서 오세요, 당신 이름이…… #un#님이시군요? [ff7b50]시그너스 기사단[-]의 신입이 오는 게 얼마만인지 모르겠네요. 반갑습니다.</s>
+      </Page>
+      <Page speaker="Empressroad_Kinu_01">
+        <s>우선 [ff7b50]제 앞에 있는 의자[-]로 와주시겠어요?</s>
+      </Page>
+    </Body>
+  </Task>
+
+  <Task index="3">
+    <Body>
+      <Page speaker="Empressroad_Kinu_01">
+        <s>시그너스 기사단원이 되기 전, 질의응답 시간입니다. 물어보고 싶은 것이 있다면 주저하지 말고 물어보세요.</s>
+      </Page>
+      <Page position="Right" speaker="player">
+        <s>[ff7b50]시그너스 여제님[-]은 어떤 분이신가요?</s>
+      </Page>
+      <Page speaker="Empressroad_Kinu_01">
+        <s>시그너스 여제님은 말 그대로 황제, [ff7b50]세계를 다스리는 분[-]이시죠. [ff7b50]군림하되 지배하지 않으며[-], [ff7b50]메이플 월드를 지켜보는 것[-]이 그분의 [ff7b50]임무[-]입니다.</s>
+      </Page>
+      <Page position="Right" speaker="player">
+        <s>어려워요… 무슨 말인지 잘…</s>
+      </Page>
+	  <Page speaker="Empressroad_Kinu_01">
+        <s>간단히 말하면 메이플 월드의 평화를 위해 힘쓰고 계신 분입니다. [ff7b50]시그너스 기사단[-]은 시그너스님이 [ff7b50]검은 마법사에게서 메이플 월드를 지키고[-], [ff7b50]그에게 대항하기 위해 만든 기사단[-]입니다.</s>
+      </Page>
+	  <Page speaker="Empressroad_Kinu_01">
+        <s>너무 걱정하지 마세요. 자, 이론 훈련은 이쯤 하도록 하죠. 이제, [ff7b50]실전 훈련[-]이 남았군요. 메이플 월드에서 어떻게 [ff7b50]이동[-]하고, [ff7b50]대화[-]하며 [ff7b50]아이템 및 스킬을 사용[-]하는지 [ff7b50]배워보는 시간[-]이죠.</s>
+      </Page>
+	  <Page speaker="Empressroad_Kinu_01">
+        <s>물론, 필수는 아닙니다. 이미 이동과 대화, 아이템 및 스킬을 사용하는데 어려움이 없다면 실전 훈련은 넘어가셔도 좋습니다. 바로 기사단원으로 투입되는 거죠.</s>
+      </Page>
+      <Page speaker="Empressroad_Kinu_01">
+        <s>[ff7b50]실전 훈련[-]을 진행하겠습니까?</s>
+		<s></s>
+		<s>[a3a3a3]훈련 시작 - 튜토리얼 진행[-]</s>
+		<s>[a3a3a3]실전 투입 - 튜토리얼 스킵[-]</s>
+        <Select target="Accept">훈련 시작</Select>
+        <Select target="Refuse">실전 투입</Select>
+      </Page>
+    </Body>
+  </Task>
+
+  <Task index="4">
+    <Body>
+      <Page speaker="Empressroad_Kinu_01">
+        <s>기사단에 투입되기 전, 자기 자신을 점검하겠다는 마음가짐! 정말 멋집니다.</s>
+      </Page>
+	  <Page speaker="Empressroad_Kinu_01">
+        <s>그럼 바로 시작해 볼까요?</s>
+      </Page>
+    </Body>
+  </Task>
+
+</Quest>
+
+<Quest code="TutorialCygnus02" index="1010" sort="Normal">
+
+  <Title>퀘스트를 시작하자</Title>
+
+  <Task index="1">
+    <Body>
+      <Page speaker="Empressroad_Kinu_01">
+        <s>우선 [ff7b50]퀘스트[-]에 대해서 알려드리겠습니다. 사실 #un#님은 이미 훌륭하게 해내고 있습니다. 퀘스트란 [ff7b50]모든 NPC와의 대화[-]라고 할 수 있으니까요.</s>
+      </Page>
+	  <Page speaker="Empressroad_Kinu_01">
+        <s>[ff7b50]전구 아이콘[-]을 지닌 NPC를 [ff7b50]터치[-]하면 [ff7b50]퀘스트[-]를 [ff7b50]시작[-]할 수 있죠.</s>
+	  </Page>
+	  <Page speaker="Empressroad_Kinu_01">	
+		<s>퀘스트를 수행하고 난 후, [ff7b50]책 아이콘[-]을 지닌 NPC에게 가면 [ff7b50]퀘스트[-]를 [ff7b50]완료[-]하고 [ff7b50]보상[-]을 받을 수 있습니다.</s>
+      </Page>
+	  <Page speaker="Empressroad_Kinu_01">
+        <s>[ff7b50]보상[-]으로는 [ff7b50]경험치[-]나 [ff7b50]각종 아이템[-] 등이 있으니, 빠른 성장을 원하신다면 퀘스트를 체크하는 것이 중요합니다.</s>
+      </Page>
+	  <Page speaker="Empressroad_Kinu_01">
+        <s>백번 듣는 것보다 한번 해보는 것이 좋을 것 같군요. 이제 제 머리 위에 [ff7b50]퀘스트 완료 아이콘[-]을 띄우겠습니다. 저를 [ff7b50]터치[-]해서 퀘스트를 완료해 주세요.</s>
+      </Page>
+    </Body>
+  </Task>
+
+  <Task index="2">
+    <Body>
+      <Page speaker="Empressroad_Kinu_01">
+        <s>습득이 빠르시군요! 퀘스트는 #un#님의 레벨에 따라 NPC들의 머리 위에 아이콘으로 나타납니다. 그러니 전구 아이콘을 본다면 확인해 보는 것을 추천합니다.</s>
+      </Page>
+	  <Page speaker="Empressroad_Kinu_01">
+        <s>다음은 메이플 월드를 자유롭게 돌아다니기 위한 [ff7b50]포탈 사용 방법[-]과 [ff7b50]이동[-]에 대해서 알려드리겠습니다.</s>
+      </Page>
+    </Body>
+  </Task>
+
+</Quest>
+
+<Quest code="TutorialCygnus03" index="1011" sort="Normal">
+
+  <Title>포탈을 이용하자</Title>
+
+  <Task index="1">
+    <Body>
+      <Page speaker="Empressroad_Kinu_01">
+        <s>메이플 월드를 돌아다니면서 임무를 수행하기 위해선 [ff7b50]포탈 사용[-]과 [ff7b50]이동[-]이 자유로워야 합니다. 이동은 [ff7b50]체력 단련장[-]에서 [ff7b50]키무[-]가 훈련을 진행할 겁니다.</s>
+      </Page>
+      <Page speaker="Empressroad_Kinu_01">
+        <s>그럼, 체력 단련장으로 가기 위해 포탈을 이용해 볼까요? 포탈을 이용하기 위해선 [ff7b50]포탈 위에 서서 위쪽 방향키를 누르면 됩니다[-].</s>
+	  </Page>
+      <Page speaker="Empressroad_Kinu_01">	
+		<s>[ff7b50]포탈[-]을 [ff7b50]이용[-]하여 [ff7b50]체력 단련장[-]으로 [ff7b50]이동[-]해 주시길 바랍니다.</s>
+      </Page>
+    </Body>
+  </Task>
+
+</Quest>
+
+<Quest code="TutorialCygnus04" index="1012" sort="Normal">
+
+  <Title>자유롭게 이동하자</Title>
+
+  <Task index="1">
+    <Body>
+      <Page speaker="Empressroad_Kimu_01">
+        <s>체력 단련장에 잘 오셨어요. 이곳에서는 자유로운 [ff7b50]이동[-]을 위한 훈련과 [ff7b50]아이템 및 스킬 사용 방법[-]에 대해 훈련을 진행할 예정입니다. #un#님이라면 무리 없이 따라오실 수 있을 거예요.</s>
+      </Page>
+      <Page speaker="Empressroad_Kimu_01">
+        <s>우선 이동 훈련부터 진행하겠습니다. 훈련의 목표부터 말씀 드리자면, [ff7b50]하향 점프[-]와 [ff7b50]로프 타는 법[-]을 배우는 것 입니다.</s>
+      </Page>
+	  <Page speaker="Empressroad_Kimu_01">
+        <s>어떻게 사용하냐고요? 걱정 마세요! 화면 상단에 보이는 [ff7b50]안내 메시지[-]와 [ff7b50]가이드 화살표[-]를 따라 이동하다 보면, 어느새 목표지점에 도착해 있을 겁니다.</s>
+      </Page>
+	  <Page speaker="Empressroad_Kimu_01">
+        <s>저는 먼저 목표 지점으로 이동해, #un#님을 지켜보고 있을게요!</s>
+      </Page>
+    </Body>
+  </Task>
+
+  <Task index="3">
+    <Body>
+	  <Page speaker="Empressroad_Kimu_01">
+        <s>잘 하셨어요. 간단했죠? 메이플 월드 어느 지역에서 임무를 수행하든, 이동 기술은 필수니까 꼭 기억해두세요!</s>
+      </Page>
+    </Body>
+  </Task>
+
+</Quest>
+
+<Quest code="TutorialCygnus05" index="1013" sort="Normal">
+
+  <Title>아이템을 쉽게 사용해보자</Title>
+
+  <Task index="1">
+    <Body>
+      <Page speaker="Empressroad_Kimu_01">
+        <s>주어진 임무를 수행하다 보면, 체력과 마력이 소모되어 어려움에 처할 때가 있을 겁니다. 이럴 때, [ff7b50]소비 아이템[-]을 사용하면 회복할 수 있죠.</s>
+      </Page>
+      <Page speaker="Empressroad_Kimu_01">
+        <s>아이템을 보관하는 [ff7b50]인벤토리[-]를 열고 원하는 아이템을 선택한 후, [ff7b50]사용 버튼[-]을 터치하여 사용할 수도 있습니다.</s>
+      </Page>
+	  <Page speaker="Empressroad_Kimu_01">
+        <s>[ff7b50]소비 아이템[-]은 [ff7b50]단축키[-]에 등록해서 더욱더 편리하고 빠르게 사용할 수 있죠.</s>
+		</Page>
+	  <Page speaker="Empressroad_Kimu_01">
+	    <s>단축키 사용법을 익히기 위해 [ff7b50]사과[-]를 지급해 드리겠습니다. 안내 메시지를 따라 [ff7b50]단축키[-]에 등록해보시겠어요?</s>
+      </Page>
+    </Body>
+  </Task>
+
+  <Task index="3">
+    <Body>
+      <Page speaker="Empressroad_Kimu_01">
+        <s>[ff7b50]첫 번째[-]와 [ff7b50]두 번째[-] [ff7b50]슬롯[-]에는 [ff7b50]버프 및 충전권[-], [ff7b50]텔레포트[-] 관련된 [ff7b50]소비 아이템[-]을 등록할 수 있습니다.</s>
+      </Page>
+	  <Page speaker="Empressroad_Kimu_01">
+        <s>[ff7b50]세 번째 슬롯[-]에는 [ff7b50]체력 포션[-]을, [ff7b50]네 번째 슬롯[-]에는 [ff7b50]마나 포션[-]을 등록할 수 있죠.</s>
+      </Page>
+	  <Page speaker="Empressroad_Kimu_01">
+        <s>소비 아이템이 부족하여 체력과 마력이 떨어지지 않도록 항상 신경 써서 아이템을 준비해야 하는 걸 잊지 마세요!</s>
+      </Page>
+    </Body>
+  </Task>
+
+</Quest>
+
+<Quest code="TutorialCygnus06" index="1014" sort="Normal">
+
+  <Title>스킬을 쉽게 사용해보자</Title>
+
+  <Task index="1">
+    <Body>
+      <Page speaker="Empressroad_Kimu_01">
+        <s>메이플 월드에서 임무를 수행하다 보면 [ff7b50]레벨[-]이 오르게 되고, [ff7b50]특정한 레벨[-]에 다다를 때 마다 [ff7b50]새로운 스킬[-]을 사용할 수 있게 됩니다.</s>
+      </Page>
+	  <Page speaker="Empressroad_Kimu_01">
+        <s>이제 #un#님께서 어떤 스킬을 사용할 수 있는지 확인해 볼까요? [ff7b50]안내[-]에 따라 스킬을 확인하고 [ff7b50]스킬 단축키[-]에 스킬을 등록해 보세요!</s>
+      </Page>
+    </Body>
+  </Task>
+
+  <Task index="2">
+    <Body>
+      <Page speaker="Empressroad_Kimu_01">
+        <s>이것으로 실전 연습은 모두 마쳤습니다. 임무를 받기 전 나인하트님께 인정을 받을 때까지 훈련을 받게 되겠지만, 당신이라면 잘 해내실 수 있을 거예요.</s>
+	  </Page>
+	  <Page speaker="Empressroad_Kimu_01">
+		<s>메이플 월드의 평화를 지키는 당신께, 여제의 축복이 함께 하길……</s>
+      </Page>
+    </Body>
+  </Task>
+
+</Quest>
+
+<Quest code="TutorialCygnus07" index="1015" sort="Normal">
+
+    <Title>튜토리얼 스킵</Title>
+
+    <Task index="2">
+      <Body>
+        <Page speaker="Empressroad_Kinu_01">
+          <s>어차피 나인하트님께 인정을 받을 때까지 훈련을 받을 테니, 굳이 실전 훈련이 필요 없겠죠. 확신이자 예언입니다. 당신이라면 잘 해내실 수 있을 거예요.</s>
+        </Page>
+        <Page speaker="Empressroad_Kinu_01">
+          <s>메이플 월드의 평화를 지키는 당신께, 여제의 축복이 함께 하길……</s>
+        </Page>
+      </Body>
+    </Task>
+
+</Quest>
+
+<Quest code="TutorialCygnus08" index="1016" sort="Normal">
+
+    <Title>신입 기사단원의 첫걸음</Title>
+
+    <Task index="1">
+      <Body>
+        <Page position="Left" speaker="player">
+          <s>나인하트님의 마음에 들 때까지 훈련이라니……</s>
+		  <s>어떤 [ff7b50]훈련[-]을 받게 될까? 마음 단단히 먹고 준비하자!</s>
+        </Page>
+      </Body>
+    </Task>
+
+</Quest>
+
+
+  <Quest code="TutorialAran01" index="3001" sort="Normal">
+
+    <Title>소란스러운 막사</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="player">
+          <s>으으… 온몸이 난도질당한 것처럼 아파. 정신도 몽롱하고… 아직 몸이 회복되지 않은 건가?</s>
+        </Page>
+        <Page speaker="player">
+          <s>소란스러워서 잠에서 깨긴 했는데… 여긴…?</s>
+		  <s></s>
+		  <s>[a3a3a3]밖으로 나간다 - 튜토리얼 진행[-]</s>
+		  <s>[a3a3a3]다시 눈을 감는다 - 튜토리얼 스킵[-]</s>
+          <Select target="Accept">밖으로 나간다</Select>
+          <Select target="Refuse">다시 눈을 감는다</Select>
+        </Page>
+      </Body>
+    </Task>
+
+    <Task index="2">
+      <Body>
+        <Page speaker="player">
+          <s>그래, 우선 [ff7b50]밖[-]으로 [ff7b50]나가서[-] 상황을 살펴보자.</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+
+  <Quest code="TutorialAran02" index="3002" sort="Normal">
+
+    <Title>헬레나와 퀘스트</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="player">
+          <s>저기 헬레나가 있군.</s>
+		  <s>머리 위에 [ff7b50]퀘스트 아이콘[-]이 떠있는 걸 보니, 나에게 할 말이 있는 모양이야. [ff7b50]헬레나에게 가보자[-].</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+
+  <Quest code="TutorialAran03" index="3003" sort="Normal">
+
+    <Title>헬레나와 퀘스트</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="AthenaPierce_01">
+          <s>이제 깨어났군요, 아란! 다친 곳은 괜찮은가요?</s>
+          <s>…네? 상황이요? 피난 준비는 거의 끝나가고 있어요.</s>
+        </Page>
+        <Page speaker="AthenaPierce_01">
+          <s>탈 수 있는 사람들은 모두 방주에 태웠어요. 이제 마무리만 끝나면 바로 빅토리아 아일랜드로 출발할 예정입니다.</s>
+        </Page>
+        <Page speaker="AthenaPierce_01">
+          <s>아란의 동료들이요? 그들은…</s>
+          <s>우리가 피난하는 동안 검은 마법사를 막겠다며 떠났어요.</s>
+        </Page>
+        <Page speaker="AthenaPierce_01">
+          <s>네? 당신도 검은 마법사에게 가겠다고요? 안 돼요! 당신은 부상자잖아요. 우리와 함께 피난가요!</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+  
+  <Quest code="TutorialAran04" index="3004" sort="Normal">
+
+    <Title>준비부터 든든히!</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="AthenaPierce_01">
+          <s>이런! 아이 한 명이 숲에 남겨진 모양이에요! 아이를 두고 우리만 도망칠 수는 없어요. 아란, 미안하지만 아이를 찾아주세요!</s>
+        </Page>
+		<Page speaker="AthenaPierce_01">
+          <s>혹시 모르니, 비상용으로 이 [ff7b50]사과[-]를 챙겨가세요.</s>
+		  <s>[ff7b50]단축키[-]에 [ff7b50]등록[-]하는 방법은 아시죠?</s>
+        </Page>
+      </Body>
+    </Task>
+
+    <Task index="3">
+      <Body>
+        <Page speaker="AthenaPierce_01">
+          <s>다친 당신에게 이런 부탁을 하게 돼서 미안해요.</s>
+		  <s>더 좋은 포션을 챙겨드리고 싶은데 피난 준비 중이라 여의치 않네요.</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+
+  <Quest code="TutorialAran05" index="3005" sort="Normal">
+
+    <Title>스킬을 알아보자</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="AthenaPierce_01">
+          <s>아이를 찾으러 가기 전에, 아란의 스킬을 한 번 더 점검해야 할 것 같습니다. 아직 몸이 회복되지 않은 상태라 스킬을 제대로 점검하고 가지 않으면 위험할거에요!</s>
+        </Page>
+		<Page speaker="AthenaPierce_01">
+          <s>몸이 좋지 않으니, 스킬을 한번 사용하더라도 효율적으로 사용할 수 있는 방법을 찾아야 해요.</s>
+        </Page>
+		<Page speaker="player">
+          <s>그 부분은 걱정하지 않아도 좋아. 자동사냥을 사용하지 않고 [ff7b50]수동[-]으로 [ff7b50]스킬[-]을 [ff7b50]직접 사용[-]하면 효율이 올라가거든.</s>
+        </Page>
+		<Page speaker="player">
+          <s>예를 들어, 스메쉬 웨이브를 [ff7b50]수동[-]으로 [ff7b50]직접 사용[-]하게 되면 자동사냥에 사용되는 스메쉬 웨이브보다 [ff7b50]타격 범위[-]가 [ff7b50]길어져[-].</s>
+        </Page>
+      </Body>
+    </Task>
+
+    <Task index="2">
+      <Body>
+        <Page speaker="player">
+          <s>꼭 타격 범위가 아니더라도, [ff7b50]수동[-]으로 직접 [ff7b50]스킬[-]을 [ff7b50]사용[-]하게 되면 몬스터에게 [ff7b50]스턴[-]이나 [ff7b50]빙결[-]이 걸릴 확률이 생기지. 또 [ff7b50]타격 콤보[-]가 쌓일수록 나에게 [ff7b50]추가 버프 효과[-]가 생겨.</s>
+        </Page>
+		<Page speaker="AthenaPierce_01">
+          <s>그렇군요! 그렇다면 [ff7b50]스킬[-]을 사용하기 편하게 [ff7b50]단축키[-]로 [ff7b50]등록[-]해 놔야겠네요.</s>
+		  <s>걱정이 지나치다 생각하지 말고, 단축키 등록하는 방법을 꼭 기억해 두세요.</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+
+  <Quest code="TutorialAran06" index="3006" sort="Normal">
+
+    <Title>구출 준비 완료</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="AthenaPierce_01">
+          <s>완벽해요! 이제 안심하고 부탁드릴 수 있겠어요.</s>
+		  <s>숲은 [ff7b50]좌측 포탈[-]을 이용하면 들어갈 수 있어요. 부디 아란과 아이 둘 다 다치지 않고 무사히 돌아오길 빌어요.</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+
+  <Quest code="TutorialAran07" index="3007" sort="Normal">
+
+    <Title>길 잃은 아이 구출</Title>
+
+    <Task index="1">
+      <Body>
+        <Page>
+          <s>으앙… 훌쩍훌쩍. 어? 아란님이다!</s>
+          <s>절 구해주러 오신 건가요? 무서워서 혼났어요.</s>
+          <s>훌쩍! 어서 헬레나님께 데려가 주세요!</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+  
+  <Quest code="TutorialAran08" index="3008" sort="Normal">
+
+    <Title>피난 준비 완료</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="AthenaPierce_01">
+          <s>아아, 무사하셨군요! 아이는?</s>
+		      <s>아이는 데려오셨나요?</s>
+		      <s>다행이에요… 정말 다행이다…</s>
+        </Page>
+		    <Page speaker="player">
+            <s>어서 방주에 타! 더 이상 시간이 없어!</s>
+        </Page>
+		    <Page speaker="AthenaPierce_01">
+            <s>마, 맞아요. 이럴 때가 아니죠. 검은 마법사의 기운이 점점 가까워지고 있어요! 아무래도 우리의 위치를 알아낸 것 같아요. 당장 출발하지 않으면 위험할 거예요!</s>
+        </Page>
+		    <Page speaker="player">
+            <s>지금 당장 출발해!</s>
+        </Page>
+		    <Page speaker="AthenaPierce_01">
+            <s>아란! 당신도 방주에 타세요! 동료와 함께 싸우고 싶은 마음은 알겠지만… 이미 늦었어요! 싸움은 그들에게 맡기고 함께 빅토리아 아일랜드로 가요!</s>
+        </Page>
+		    <Page speaker="player">
+            <s>그럴 순 없어! 헬레나, 당신은 피난민들과 함께 먼저 빅토리아 아일랜드로 떠나. 절대 죽지 않고 나중에 꼭 합류할게. 난 동료와 함께 검은 마법사를 막겠어!</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+  
+  <Quest code="TutorialAran09" index="3009" sort="Normal">
+    
+    <Title>튜토리얼 스킵</Title>
+    
+  </Quest>
+ 
+
+  <Quest code="TutorialMercedes01" index="1018" sort="Normal">
+
+    <Title>싸움이 끝난 후</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="player">
+          <s>으으… 여긴 어디지? 몸에 힘이 하나도 없어…</s>
+		  <s>방금 전까지 분명… 검은 마법사와…</s>
+        </Page>
+        <Page speaker="player">
+		  <s>정신을 잃을 것 같아… 다른 동료들은 어디에…?</s>
+		  <s></s>
+		  <s>[a3a3a3]동료를 찾아본다 - 튜토리얼 진행[-]</s>
+		  <s>[a3a3a3]눈을 감는다 - 튜토리얼 스킵[-]</s>
+          <Select target="Accept">동료를 찾아본다</Select>
+          <Select target="Refuse">눈을 감는다</Select>
+        </Page>
+      </Body>
+    </Task>
+    
+    <Task index="2">
+      <Body>
+        <Page speaker="player">
+          <s>그래, 지금은 정신을 놓을 때가 아니야.</s>
+		  <s>다들 무사한지 확인 해야돼!</s>
+		  <s>[ff7b50]앞[-]에 [ff7b50]누군가[-]가 있는 것 같아.</s>
+        </Page>
+		<Page speaker="player">
+          <s>저건… 아프리엔과 프리드?</s>
+		  <s>상황이 좋지 않아보여. [ff7b50]얼른 가서 살펴보자[-]!</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+
+  <Quest code="TutorialMercedes02" index="1019" sort="Normal">
+
+    <Title>저주와 영웅</Title>
+
+    <Task index="1">
+      <Body>
+		<Page speaker="player">
+          <s>아프리엔! 괜찮은 거야? 프리드는?!</s>
+		  <s>…휴, 정신만 잃은 거구나…</s>
+        </Page>
+		<Page speaker="Afrien_02">
+          <s>메르세데스… 살아 남았군.</s>
+        </Page>
+		<Page speaker="player">
+          <s>당연하지! [ff7b50]검은 마법사를 봉인[-] 했는데 여기서 주저앉을 수는 없잖아. 그러고보니 다른 녀석들은?</s>
+		  <s>다들 어디에 있는 거지?</s>
+        </Page>
+		<Page speaker="Afrien_02">
+          <s>검은 마법사의 마지막 마법 때문에 다들 뿔뿔이 흩어져 버린 것 같군. 그것보다… 느껴지지 않는 건가, 메르세데스? [ff7b50]검은 마법사[-]를 [ff7b50]봉인한 모두[-]에게 내려진 이 [ff7b50]거대한 저주[-] 말이다.</s>
+        </Page>
+		<Page speaker="player">
+          <s>저주…? 그러고보니 춥고, 몸에 힘이 점점 빠지고 있어. 프리드… 프리드는 괜찮은거야?</s>
+		  <s>이 녀석, 안 그래도 체력이 약하잖아.</s>
+        </Page>
+        <Page speaker="Afrien_02">
+          <s>프리드는 내가 돌볼 수 있을 것이다. 나는 네가 더 걱정이다, 메르세데스. 너는 엘프의 왕. 네게 내려진 저주는… [ff7b50]엘프 전체[-]에 내려진 것과 동일하지 않나?</s>
+        </Page>
+		<Page speaker="player">
+          <s>…!</s>
+        </Page>
+		<Page speaker="Afrien_02">
+          <s>어서 [ff7b50]에우렐[-]로 가봐라. 만약 정말 검은 마법사의 저주가 엘프 전체에 영향을 미쳤다면… 왕인 네가 가봐야 할 것이다.</s>
+        </Page>
+		<Page speaker="player">
+          <s>우리 다시 만날 수 있겠지, 아프리엔…?</s>
+        </Page>
+		<Page speaker="Afrien_02">
+          <s>그러길 기원하지…</s>
+        </Page>
+		<Page speaker="player">
+          <s>(다른 동료들을 만나지 못해서 불안하지만, 그들을 믿는 수밖에 없어… 우선 [ff7b50]에우렐[-]로 가서 [ff7b50]엘프들을 살펴야해[-]!)</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+
+  <Quest code="TutorialMercedes03" index="1020" sort="Normal">
+
+    <Title>에우렐을 향해</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="player">
+          <s>(추워… 몸을 움직이기가 점점 힘들어지고 있어…</s>
+		  <s>안 돼. 정신 차려야해…! [ff7b50]폭포 근처[-]의 [ff7b50]포탈[-]만 지나면 [ff7b50]에우렐[-]에 [ff7b50]도착[-]할 수 있어!)</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+
+  <Quest code="TutorialMercedes04" index="1021" sort="Normal">
+
+    <Title>에우렐 도착</Title>
+
+    <Task index="1">
+      <Body>
+        <Page>
+          <s>(나의 마을 에우렐… 에우렐이 [ff7b50]얼어붙고 있어[-]…!</s>
+		  <s>우선 [ff7b50]장로들[-]부터 [ff7b50]찾아보자[-]!)</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+
+  <Quest code="TutorialMercedes05" index="1022" sort="Normal">
+
+    <Title>저주와 봉인</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="player">
+          <s>장로들!!</s>
+		  <s>다들 무사했구나! 하지만… 하지만, 우리 마을이!</s>
+        </Page>
+      </Body>
+    </Task>
+
+    <Task index="2">
+      <Body>
+        <Page speaker="Philius_01">
+          <s>메르세데스님! 돌아오셨군요. 이 느낌은… 메르세데스님께 굉장히 차갑고 음습한 기운이 강력하게 느껴집니다.</s>
+        </Page>
+		<Page speaker="Danika_01">
+          <s>이 기운은… 마을을 감싸고 있는 기운과 비슷해요! 설마 검은 마법사의 힘인가요?!</s>
+        </Page>
+		<Page speaker="Astilda_01">
+          <s>[ff7b50]마을과 함께 어린 아이들부터 얼음 속에 갇히기 시작[-]했어요. 힘이 강할수록 그 기운의 영향을 늦게 받아, 저희 장로들이 남았지만… 저희도 곧…</s>
+        </Page>
+		<Page speaker="player">
+          <s>미안… 모두 내 잘못이야… 검은 마법사를 봉인하는 건 성공했지만, 그가 남긴 저주가 우리 마을에까지…</s>
+        </Page>
+		<Page speaker="Philius_01">
+          <s>왕에게 내려진 저주가 모든 엘프에게 영향을 주고 있는 것이군요… 자신을 탓하지 마십시요. 오히려 잘못은 저희에게 있습니다.</s>
+        </Page>
+		<Page speaker="Philius_01">
+          <s>가장 강하다는 이유 하나만으로, 왕이 된지 얼마 되지도 않고 나이도 어린 당신을 보낼 수 밖에 없던 우리에게…</s>
+        </Page>
+		<Page speaker="player">
+          <s>뭔가 방법이 있을까…?</s>
+        </Page>
+		<Page speaker="Philius_01">
+          <s>왕께서 무사하신 이상 희망이 남아 있습니다. 우리는 엘프. 긴 세월을 사는 자들… 시간은 항상 우리의 편이죠.</s>
+        </Page>
+		<Page speaker="Philius_01">
+          <s>검은 마법사의 저주가 우리 모두를 잠재우기 전에 [ff7b50]에우렐[-]을 [ff7b50]봉인[-]해주십시오. 어차피 저주를 피할 수 없다면</s>
+        </Page>
+		<Page speaker="Philius_01">
+          <s>저주가 사라질 때까지 마을을 완전히 봉인하고 [ff7b50]모든 엘프가 함께 잠이 드는 겁니다[-].</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+  
+  <Quest code="TutorialMercedes06" index="1023" sort="Normal">
+
+    <Title>봉인 대비 1</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="Astilda_01">
+          <s>아이들은 저주의 영향을 받기 전에 먼저 준비 시켜두었습니다, 메르세데스님.</s>
+        </Page>
+		<Page speaker="Astilda_01">
+          <s>각자가 봉인에서 풀리는 날이 다를 수 있기에 비상 식량을 모두에게 나누어 주었지요.</s>
+        </Page>
+		<Page speaker="Astilda_01">
+          <s>왕께서도 제가 드리는 [ff7b50]사과[-]를 챙겨, [ff7b50]단축키에 등록[-]해주시길 바랍니다.</s>
+        </Page>
+      </Body>
+    </Task>
+
+    <Task index="3">
+      <Body>
+        <Page speaker="Astilda_01">
+          <s>잘하셨습니다. 어릴 때부터 왕께서는 총명한 학생이었죠.</s>
+        </Page>
+        <Page speaker="Astilda_01">
+          <s>이제 안심이 되는군요. 저는… 이제 한계인 것 같습니다… 먼저 잠들겠습니다, 메르세데스님…</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+
+  <Quest code="TutorialMercedes07" index="1024" sort="Normal">
+
+    <Title>봉인 대비 2</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="Danika_01">
+          <s>마을 자체를 봉인할 예정이지만, 봉인에서 깨어날 때 어떤 상황이 눈 앞에 펼쳐질지 몰라요!</s>
+        </Page>
+		<Page speaker="Danika_01">
+          <s>봉인에서 깨어났을 때, 어떤 상황이든 대처할 수 있게 준비해둬야 해요!</s>
+        </Page>
+		<Page speaker="Danika_01">
+          <s>메르세데스님의 특기인 [ff7b50]연계기[-]는 상황에 맞게 [ff7b50]다양한 스킬을 연계[-]하여 공격의 [ff7b50]딜레이를 줄이고 연계 효과[-]를 낼 수 있기에</s>
+        </Page>
+        <Page speaker="Danika_01">
+          <s>단축키 등록이 정말 중요해요! 제가 안심할 수 있도록 제 앞에서 [ff7b50]스킬[-]을 [ff7b50]단축키[-]에 등록해 주시겠어요?</s>
+        </Page>>
+      </Body>
+    </Task>
+
+    <Task index="3">
+      <Body>
+        <Page speaker="Danika_01">
+          <s>이제 안심이 되네요. 저도 이제 더 이상 버틸 수가 없어요… 이렇게나 약한 전투장로라니…</s>
+        </Page>
+		<Page speaker="Danika_01">
+          <s>아… 이제 못버티겠어요. 안녕히… 주무세요…</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+
+  <Quest code="TutorialMercedes08" index="1025" sort="Normal">
+
+    <Title>봉인의 마무리</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="Philius_01">
+          <s>이제 봉인의 마무리만 남았습니다. [ff7b50]왼쪽[-]에 있는 [ff7b50]에우렐 입구[-]를 [ff7b50]봉인[-]할 수 있는 이는 왕인 당신 뿐입니다.</s>
+        </Page>
+		<Page speaker="Philius_01">
+          <s>봉인은 어렵지 않을 겁니다. 부디, 마을의 안전을 위해 에우렐 입구를 봉인해주십시오.</s>
+        </Page>
+      </Body>
+    </Task>
+
+    <Task index="2">
+      <Body>
+        <Page speaker="ElluelEntrance_03">
+          <s>(결계에 주문을 외워 누구도 이 마을에 침입할 수 없게 만들었다. 이제 마을은 안전하겠지…)</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+
+  <Quest code="TutorialMercedes09" index="1026" sort="Normal">
+
+    <Title>봉인의 끝</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="Philius_01">
+          <s>어쩌면 행운일지도 모르겠습니다. 검은 마법사로 인해 황폐해진 메이플 월드로부터, 우리는 잠시 떠나 있는 것과 마찬가지일 테니까요.</s>
+        </Page>
+		<Page speaker="Philius_01">
+          <s>봉인이 풀리고 다시 돌아왔을 때, 이 세상은 어떻게 변해 있을까요…</s>
+        </Page>
+		<Page speaker="Philius_01">
+          <s>더 아름다운 세상이 되어 있길 기다리면서 먼저 잠을 청하겠습니다, 메르세데스님…</s>
+        </Page>
+		<Page speaker="player">
+          <s>(이제 나도 잠을 청해야겠다. [ff7b50]왕의 쉼터[-]로 가자.)</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+  
+  <Quest code="TutorialMercedes10" index="1027" sort="Normal">
+
+    <Title>잠든 에우렐</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="player">
+          <s>봉인은 모두 마쳤다… 더 이상… 할 일은 없겠지? 있다 하더라도… 버티기 어려울 것 같지만… 저주 때문인가? 눈이 감겨…</s>
+        </Page>
+		
+      </Body>
+    </Task>
+
+  </Quest>
+ <Quest code="TutorialMercedes11" index="1028" sort="Normal">
+
+    <Title>튜토리얼 스킵</Title>
+
+  </Quest>
+  <Quest code="TutorialEvan01" index="1030" sort="Normal">
+
+    <Title>하루의 시작</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="player">
+          <s>나를 부르는 목소리가 들려. 누구지…?</s>
+          <s></s>
+          <s>[a3a3a3]유타 - 튜토리얼 진행[-]</s>
+          <s>[a3a3a3]미르 - 튜토리얼 스킵[-]</s>
+          <Select target="Accept">유타</Select>
+          <Select target="Refuse">미르</Select>
+        </Page>
+      </Body>
+    </Task>
+
+    <Task index="2">
+      <Body>
+        <Page speaker="player">
+          <s>(유타가 뚱한 표정으로 날 보고 손짓한다.</s>
+          <s>[ff7b50]유타[-]에게 [ff7b50]말을 걸어보자[-].)</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+
+  <Quest code="TutorialEvan02" index="1031" sort="Normal">
+
+    <Title>유타의 심부름</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="Tuto_Utah_01">
+          <s>에반, 오늘따라 왜 이리 굼떠? 심부름에 늦었잖아.</s>
+        </Page>
+        <Page speaker="Tuto_Utah_01">
+          <s>자, 엄마가 만든 이 도시락을 어서 아빠에게 전해줘.</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+
+  <Quest code="TutorialEvan03" index="1032" sort="Normal">
+
+    <Title>유타의 심부름</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="Tuto_Utah_01">
+          <s>아! 출발하기 전에 [ff7b50]가방[-] 좀 열어 봐. 아침에 딴 신선한 사과를 줄 테니까. 배고플 때 빨리 먹을 수 있도록 미리 [ff7b50]단축키[-]에 [ff7b50]등록[-]해 두는 게 좋을걸?</s>
+        </Page>
+      </Body>
+    </Task>
+
+    <Task index="3">
+      <Body>
+        <Page speaker="Tuto_Utah_01">
+          <s>후후, 잘했어. 그렇게 형님의 조언을 새겨 들어야 착한 아우지.</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+
+  <Quest code="TutorialEvan04" index="1033" sort="Normal">
+
+    <Title>유타의 심부름</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="Tuto_Utah_01">
+          <s>자, 그럼 도시락이 식기 전에 어서 아빠에게 전해 줘. [ff7b50]좌측 포탈[-]을 [ff7b50]사용[-]하면 금방 도착할 거야.</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+
+  <Quest code="TutorialEvan05" index="1034" sort="Normal">
+
+    <Title>도시락 배달</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="player">
+          <s>(저기 [ff7b50]아빠[-]가 보인다. 아빠한테 직접 [ff7b50]도시락[-]을 가져다드리면 좋아하시겠지?)</s>
+        </Page>
+      </Body>
+    </Task>
+
+    <Task index="2">
+      <Body>  
+		<Page speaker="Tuto_Gustav_01">
+          <s>오! 에반 아니냐. 여기까지 웬일이니? 아… 이건 애나의 사랑이 담긴 도시락! 그렇지 않아도 배고팠는데, 정말 고맙구나.</s>
+        </Page>
+		<Page speaker="Tuto_Gustav_01">
+          <s>아빠는 이 도시락을 먹고 힘내서 일할 테니, 넌 먼저 집으로 돌아가렴. 아무리 익숙한 숲이라도 방심하면 길을 잃을 수 있으니 조심하거라.</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+
+  <Quest code="TutorialEvan06" index="1035" sort="Normal">
+
+    <Title>만남 그리고…</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="player">
+          <s>엇, 여기는 어디지?</s>
+		  <s>마음이 이끄는 대로 무작정 걷다가 길을 잃었다…</s>
+        </Page>
+		<Page speaker="player">
+          <s>…어? 저 [ff7b50]앞에 무언가[-] 빛나고 있어! 대체 뭐지?</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+
+  <Quest code="TutorialEvan07" index="1036" sort="Normal">
+
+    <Title>만남 그리고…</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="player">
+          <s>우, 우와… 이렇게 커다란 알은 처음 봐! 한 번 만져 볼까?</s>
+        </Page>
+	  </Body>
+    </Task>
+	
+	<Task index="2">
+      <Body>
+        <Page speaker="player">
+          <s>우와앗, 내 손등에 [ff7b50]이상한 문양[-]이 생겼어! 그리고 알이 빛난다…!</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+
+  <Quest code="TutorialEvan08" index="1037" sort="Normal">
+
+    <Title>만남 그리고 마스터?</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="Tuto_Mir_01">
+          <s>드디어 깨어났다! 흐읍~ 이게 바로 세상의 공기! 오옷, 저것이 바로 태양이라는 것이군! 저게 나무! 저게 풀! 굉장해! 알 속에서 생각했던 것보다 훨씬 멋져!</s>
+        </Page>
+		<Page speaker="Tuto_Mir_01">
+          <s>그리고… 응? 네가 내 [ff7b50]마스터[-]인가? 이건 또 기대와는 다른 얼굴인데?</s>
+        </Page>
+		<Page speaker="player">
+          <s>우우우우우와아악! 말을 한다?!</s>
+        </Page>
+		<Page speaker="Tuto_Mir_01">
+          <s>그…내 마스터는 이상한 사람이네. 하지만 [ff7b50]계약[-]은 이미 이루어졌으니 이제 와서 다른 주인을 택할 수도 없지. 에효, 앞으로 잘 부탁해. 내 이름은 [ff7b50]미르[-]야!</s>
+        </Page>
+		<Page speaker="player">
+          <s>엥? 그게 무슨 말이야? 앞으로 잘 부탁한다니…? 계약? 그건 또 뭐야?</s>
+        </Page>
+		<Page speaker="Tuto_Mir_01">
+          <s>왜 그리 놀라? 네가 나를 깨워서 [ff7b50]영혼을 하나로 묶는 계약[-]을 했잖아? 그러니 넌 내 마스터야. 따라서 내가 더 크고 강해지도록 나를 돌봐줘야 하지. …앗, 설마 싫다는 거야?</s>
+        </Page>
+		<Page speaker="player">
+          <s>아니, 싫은 건 아니지만 네가 하는 말이 무슨 소린지 전혀 모르겠어. 그리고 무엇보다 애완동물을 길러도 될지 모르겠는데…</s>
+        </Page>
+		<Page speaker="Tuto_Mir_01">
+          <s>애, 애완동무울~?! 나, 나를 애완동물로 생각한 거야?! 파트너에게 실례잖아!</s>
+        </Page>
+		<Page speaker="Tuto_Mir_01">
+          <s>에이잇, 참을 수 없어! 내 힘을 증명해 주마! 자, 각오는 되어 있겠지? 그럼 지금 당장 [ff7b50]스킬 창[-]을 열어 봐!</s>
+        </Page>
+      </Body>
+    </Task>
+
+    <Task index="3">
+      <Body>
+        <Page speaker="Tuto_Mir_01">
+          <s>엣헴! 봤어? 마스터와 나의 스킬 말이야! 우리가 더욱 강해지면 엄청난 [ff7b50]융합 스킬[-]을 쓸 수 있다고! 계약자란 건 그런 거지. 어때? 훌륭하지? 멋지지? 이 몸을 마구 우러러 보고 싶어지지?</s>
+        </Page>
+        <Page speaker="player">
+          <s>(어째서 내가 이런 기술을 사용할 수 있는 거지? 정말로 이 미르라는 녀석과 계약했기 때문…?)</s>
+        </Page>
+		<Page speaker="Tuto_Mir_01">
+          <s>그럼 앞으로 잘 부탁해, 마스터!</s>
+        </Page>
+        <Page speaker="player">
+          <s>(모든 걸 이해할 순 없지만… 나 때문에 알에서 깨어났으니 내가 책임을 지는 게 옳겠지. 그러니까 일단 미르를 데리고 집으로 돌아가자!)</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+
+  <Quest code="TutorialEvan09" index="1038" sort="Normal">
+
+    <Title>튜토리얼 스킵</Title>
+
+    <Task index="2">
+      <Body>
+        <Page speaker="Tuto_Mir_01">
+          <s>마스터! 마스터!</s>
+        </Page>
+		<Page speaker="player">
+          <s>아차! 미르가 말했었지. 우리는 [ff7b50]영혼을 하나로 묶는 계약[-]을 한 사이이기 때문에 결코 떨어질 수 없다고…</s>
+        </Page>
+		<Page speaker="player">
+          <s>미르가 불안해 하기 전에 어서 다락방으로 돌아가자!</s>
+        </Page>
+      </Body>
+    </Task>
+	
+  </Quest>
+
+  <Quest code="TutorialLuminous01" index="1040" sort="Normal">
+
+    <Title>결전의 날</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="player">
+          <s>드디어 [ff7b50]결전의 날[-]이군.</s>
+		  <s>이제 한 걸음 남았어. 프리드의 작전대로라면 먼저 간 동료들이 지금쯤 시간의 신전 끝에 도달했겠지.</s>
+        </Page>
+		<Page speaker="player">
+          <s>한시라도 빨리 합류해야 해!</s>
+		  <s></s>
+		  <s>[a3a3a3]진행 - 튜토리얼 진행[-]</s>
+		  <s>[a3a3a3]건너뛰기 - 튜토리얼 스킵[-]</s>
+          <Select target="Accept">진행</Select>
+          <Select target="Refuse">건너뛰기</Select>
+        </Page>
+      </Body>
+    </Task>
+
+    <Task index="2">
+      <Body>
+        <Page speaker="player">
+          <s>부디 쓸데없는 걱정이길 바라지만… 프리드의 계획과는 다르게 상황이 이상하게 흘러가고 있어. [ff7b50]군단장 매그너스[-]는 무슨 생각인 거지?</s>
+        </Page>
+		<Page speaker="player">
+          <s>동료인 [ff7b50]구와르를 해치우고 그의 힘을 흡수[-]하다니! 원래는 구와르를 상대하고 동료들과 합류하려 했지만… 이렇게 된 김에 서둘러야겠어.</s>
+        </Page>
+		<Page speaker="player">
+          <s>문 안쪽에서 짙은 [ff7b50]어둠의 기운[-]이 느껴져. [ff7b50]검은 마법사[-]의 힘이 이 정도였나? [ff7b50]어서 가서[-] 프리드와 메르세데스를 도와야 해!</s>
+        </Page>
+      </Body>
+    </Task>
+	
+	<Task index="3">
+      <Body>
+        <Page speaker="player">
+          <s>검은 마법사와 상대하기 위해선 모든 준비가 완벽하게 되어 있어야 해. [ff7b50]스킬[-]을 제대로 [ff7b50]장착[-]했는지 확인해보자.</s>
+        </Page>
+      </Body>
+    </Task>
+	
+	<Task index="4">
+      <Body>
+        <Page speaker="player">
+          <s>이제 [ff7b50]포탈[-]을 [ff7b50]사용[-]해 검은 마법사의 방으로 이동하자.</s>
+        </Page>
+      </Body>
+    </Task>
+	
+	<Task index="5">
+      <Body>
+        <Page speaker="player">
+          <s>검은 마법사!!</s>
+        </Page>
+		<Page speaker="Tuto_BlackMages_01">
+          <s>어리석은 불나방이 한 마리 더 날아들었구나.</s>
+        </Page>
+		<Page speaker="player">
+          <s>(프리드와 메르세데스는? 저기 앞에 주저앉아 있다. 프리드와 메르세데스의 [ff7b50]상태[-]부터 [ff7b50]확인[-]해보자.)</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+
+  <Quest code="TutorialLuminous02" index="1041" sort="Normal">
+
+    <Title>빛과 어둠의 대립</Title>
+
+    <Task index="1">
+      <Body>
+        <Page speaker="Tuto_FreudMer_00">
+          <s>으… 왔구나, 나름 애를 써봤는데 조금 부족했어.</s>
+        </Page>
+		<Page speaker="player">
+          <s>프리드…! 메르세데스는?</s>
+        </Page>
+		<Page speaker="Tuto_FreudMer_00">
+          <s>잠시 정신을 잃은 것뿐이야. 계획이 어긋났어. 이유를 찾자면 검은 마법사가 우리 생각보다 훨씬 더 강력한 존재였다는 점이지.</s>
+        </Page>
+		<Page speaker="Tuto_FreudMer_00">
+          <s>(잘 들어. 이제부터 하는 말은 너 외엔 들리지 않아. 전에 말했던 봉인 생각 나?)</s>
+        </Page>
+		<Page speaker="Tuto_FreudMer_00">
+          <s>(검은 마법사가 [ff7b50]륀느님으로부터 빼앗은 시간의 힘[-]을 [ff7b50]역이용[-]해서 사용하는 [ff7b50]봉인[-] 말이야. 아무리 검은 마법사가 강력하더라도 절대 빠져나올 수 없을 거야.)</s>
+        </Page>
+		<Page speaker="Tuto_FreudMer_00">
+          <s>(다만 봉인을 발동시키려면 검은 마법사로부터 [ff7b50]시간의 힘[-]을 [ff7b50]끌어내야 해[-]. 검은 마법사가 시간의 힘을 끌어내면 자동으로 봉인이 발동될 거야.)</s>
+        </Page>
+		<Page speaker="Tuto_FreudMer_00">
+          <s>(나와 메르세데스만으로는 검은 마법사가 시간의 힘을 쓰도록 몰아붙일 수 없었어. 이제 희망은 너뿐이야.)</s>
+        </Page>
+		<Page speaker="player">
+          <s>(알았어, 맡겨둬.)</s>
+        </Page>
+		<Page speaker="Tuto_BlackMages_01">
+          <s>유희는 이제 끝났다. 작별 인사를 해두어라.</s>
+        </Page>
+		<Page speaker="player">
+          <s>걱정하지 마, 프리드.</s>
+		  <s>바로 지금, 여기서 모든 것이 끝날 테니까.</s>
+        </Page>
+      </Body>
+    </Task>
+  </Quest>
+  <Quest code="TutorialLuminous03" index="1042" sort="Normal">
+	<Title>만남 그리고 시작</Title>
+	<Task index="1">
+      <Body>
+        <Page speaker="player">
+          <s>…으으</s>
+        </Page>
+		<Page speaker="Tuto_LanlaKid_00">
+          <s>페니! 어딜 간 거야?</s>
+        </Page>
+		<Page speaker="Tuto_LanlaKid_00">
+          <s>앗, 사람이 쓰러져 있어!</s>
+        </Page>
+		<Page speaker="Tuto_LanlaKid_00">
+          <s>어서 치료해야 해. 내가 가진 이 사과를 이 사람의 [ff7b50]단축키[-]에 넣으면 빨리 회복할 수 있을 거야.</s>
+        </Page>
+      </Body>
+    </Task>
+	
+	<Task index="3">
+      <Body>
+        <Page speaker="Tuto_LanlaKid_00">
+          <s>휴우, 응급 처치는 끝났다.</s>
+        </Page>
+		<Page speaker="player">
+          <s>……</s>
+        </Page>
+		<Page speaker="Tuto_LanlaKid_00">
+          <s>숨소리가 한결 편해진 것 같아. 다행이야.</s>
+        </Page>
+		<Page speaker="Tuto_LanlaKid_00">
+          <s>하지만 아직도 많이 고통스러워 보여…</s>
+        </Page>
+		<Page speaker="Tuto_LanlaKid_00">
+          <s>페니가 반대하겠지만… 그래도 아픈 사람을 모른 척 할 순 없지. 이 사람을 집으로 데려가서 돌봐 주자.</s>
+        </Page>
+      </Body>
+    </Task>
+
+  </Quest>
+  
+	<Quest code="TutorialPhantom01" index="1043" sort="Normal">
+		<Title>잠입 작전</Title>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>드디어 결전의 시간인가.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>훗, 조금 긴장되는걸. 이런 기분 오랜만이군.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>그럼 슬슬 움직여 볼까? 여유 부리다가 타이밍을 놓치는 부끄러운 실수를 하기 전에.</s>
+					<Select target="Accept">진행</Select>
+					<Select target="Refuse">건너뛰기</Select>
+				</Page>
+			</Body>
+		</Task>
+	
+		<Task index="5">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>좋아, 각오도 다졌으니 지금 바로 나가자.</s>
+				</Page>
+			</Body>
+		</Task>
+	
+	</Quest>
+	
+	<Quest code="TutorialPhantom02" index="1044" sort="Normal">
+		<Title>잠입 작전</Title>
+	
+		<Task index="1">
+			<Body>
+				<Page speaker="Gaston_PhantomTuto_01">
+					<s>기다리고 있었습니다, 주인님. 아무래도 곧 시작될 것 같으니 채비를 서두르시지요.</s>
+				</Page>
+				<Page speaker="Gaston_PhantomTuto_01">
+					<s>이번 작전은 자칫하면 전투가 일어날 수도 있습니다. 그러니 먼저 [ff7b50]스킬[-]을 점검하시는 게 좋겠습니다.</s>
+				</Page>
+			</Body>
+		</Task>
+	
+		<Task index="3">
+			<Body>
+				<Page speaker="Gaston_PhantomTuto_01">
+					<s>잘하셨습니다. 주인님, 여기 [ff7b50]물약[-]을 준비해 두었습니다. 필요할 때면 언제든 바로 쓸 수 있도록 잘 챙기십시오.</s>
+				</Page>
+			</Body>
+		</Task>
+	
+		<Task index="6">
+			<Body>
+				<Page speaker="Gaston_PhantomTuto_01">
+					<s>훌륭하십니다. 하지만 저희의 작전대로 환영 마법이 성공한다면 에레브에서 스킬이나 물약을 쓸 일은 없겠지요.</s>
+				</Page>
+				<Page speaker="Gaston_PhantomTuto_01">
+					<s>…주인님, 그 표정은 그만둬 주시겠습니까? 만약의 사태를 대비해서 나쁠 건 없잖습니까?</s>
+				</Page>
+				<Page speaker="Gaston_PhantomTuto_01">
+					<s>에헴, 아무튼 주인님께서 예상하신 대로 일이 진행되고 있습니다. 정보원들의 말에 따르면 [ff7b50]그자[-]는 첫 연합 회의가 열리는 오늘 에레브를 노릴 모양입니다.</s>
+				</Page>
+				<Page speaker="Gaston_PhantomTuto_01">
+					<s>경비가 아무리 삼엄해도 손님으로 감쪽같이 위장하면 기사들도 손쓰기 어려울 테니까요. 저희도 어수선한 틈을 이용해 아무도 알아차리지 못하도록 크리스탈 가든을 에레브에 정박해 두었습니다.</s>
+				</Page>
+				<Page speaker="Gaston_PhantomTuto_01">
+					<s>계획대로 신호에 맞춰 후방에서 지원하겠습니다. 주인님께서 일을 마치고 돌아오실 때까지 대기할 테니 추적은 염려하지 마십시오.</s>
+				</Page>
+				<Page speaker="Gaston_PhantomTuto_01">
+					<s>자, 이제 무대에 오를 시간이 되었습니다. 그럼 지금 바로 에레브 잠입 작전을 시작하시겠습니까?</s>
+				</Page>
+			</Body>
+		</Task>
+	
+	</Quest>
+	
+	<Quest code="TutorialPhantom03" index="1045" sort="Normal">
+		<Title>잠입 작전</Title>
+	
+		<Task index="1">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>역시… 꽤나 엄중히 경비하고 있군. 마주치면 성가셔질 게 뻔하다.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>정체가 들통나지 않도록 옷을 갈아입는 게 좋겠어. 그리고 기사들을 피해 몰래 대회의장으로 가자.</s>
+				</Page>
+			</Body>
+		</Task>
+	
+	</Quest>
+	
+	<Quest code="TutorialPhantom04" index="1046" sort="Normal">
+		<Title>잠입 작전</Title>
+	
+		<Task index="1">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>늦지 않은 모양이군. 그럼 적당한 자리에 앉아서 기다려 볼까?</s>
+				</Page>
+			</Body>
+		</Task>
+	
+		<Task index="2">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>!!!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>갑자기 좌중이 소란스러워졌다. 그렇다면… 드디어 시작인가!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="Neinheart_PhantomTuto_01" position="Right">
+					<s>당신은… 초대받지 않은 손님인 것 같군요. 메이플 연합이 모인 공식 석상입니다. 지금 바로 신원을 밝히지 않으면 기사들이 당신을 여기서 끌어낼 겁니다.</s>
+				</Page>
+				<Page speaker="Hilla_PhantomTuto_01">
+					<s>여기 계신 분들은 모두 메이플 월드에 대해 논의하기 위해 참석하셨지요? 그렇다면 제게도 발언할 기회를 주셔야 할 겁니다. 지금부터 이 세계의 운명을 좌우할 중요한 문제를 말씀드릴 테니까요.</s>
+				</Page>
+				<Page speaker="Hilla_PhantomTuto_01">
+					<s>시그너스, 당신은 검은 마법사가 메이플 월드를 지배하던 그 당시의 황제, [ff7b50]아리아[-]를 물론 알고 있겠지요?</s>
+				</Page>
+				<Page speaker="Cygnus_PhantomTuto_01" position="Right">
+					<s>……</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(…아리아…)</s>
+				</Page>
+				<Page speaker="Hilla_PhantomTuto_01">
+					<s>다들 알고 계시겠지만, 그때는 검은 마법사로 인해 에레브의 많은 것들이 파괴되어 제대로 남아 있는 기록이 거의 없답니다. 하지만 그래도 알려져 있는 사실이 하나 있지요. 당시의 황제 아리아가 [ff7b50]스카이아[-]라는 보물을 갖고 있었다는 것 말이에요.</s>
+				</Page>
+				<Page speaker="Hilla_PhantomTuto_01">
+					<s>아리아 황제가 갖고 있던 에레브의 보물, 스카이아… 그건 메이플 월드의 황제에게만 대대로 내려오던 신비한 보석이랍니다. 황제를 보호하고, 황제의 능력을 강화시키는 힘을 갖고 있지요.</s>
+				</Page>
+				<Page speaker="Hilla_PhantomTuto_01">
+					<s>하지만 검은 마법사와 군단장들의 공격으로 파괴된 에레브에서 스카이아가 사라졌다…가 여러분께서 알고 계신 전부겠지요. 하지만 황제의 신물인 스카이아가 그렇게 쉽게 사라질 물건인가요? 그렇게 중요한 물건을 선조들께서 잃어버리게 나뒀을까요?</s>
+				</Page>
+				<Page speaker="Hilla_PhantomTuto_01">
+					<s>그럴 리가 없죠. 스카이아는 아주 조심스럽고 은밀하게 옮겨졌답니다. 검은 마법사와 그 수하들의 공격을 받지 않도록 비밀스럽게… 진정한 황제의 혈통에게, 그렇게 수백 년을 조용히 전해져 왔지요. 그리고 지금 그 보석은… 바로 저에게 있습니다!</s>
+				</Page>
+				<Page speaker="Cygnus_PhantomTuto_01" position="Right">
+					<s>!!!</s>
+				</Page>
+				<Page speaker="Kiriga_PhantomTuto_01">
+					<s>저 자가 에레브의 보물을 가졌다니?! 그렇다면… 시그너스님은 진짜 황제가 아니라는 소린가요?</s>
+				</Page>
+				<Page speaker="Kidis_PhantomTuto_01">
+					<s>자네, 말이 과하군. 진짜 황제가 아니라니. 그럼 우리가 진짜 황제가 아닌 분을 모시고 있다는 말인가? 시그너스님은 지금도 황제로서 계시네.</s>
+				</Page>
+				<Page speaker="Kiriga_PhantomTuto_01">
+					<s>진짜 황제시기는 하지만… 에레브의 보물을 가진 사람이 있다면 다들 여제님의 정통성을 의심할 겁니다!</s>
+				</Page>
+				<Page speaker="Kibelu_PhantomTuto_01">
+					<s>일리 있는 말입니다. 하지만 지금까지 에레브를 이끌어 오신 시그너스님을 배신할 수는 없어요. 그렇다고 진정한 황제의 혈통을 모르는 척하는 것도 도리가 아니고… 정말 답답합니다!</s>
+				</Page>
+				<Page speaker="Kiman_PhantomTuto_01">
+					<s>이제야 메이플 월드를 하나로 모을 연합이 탄생했는데… 그들은 모두 시그너스님을 믿고 연합에 가입한 사람들이오. 시그너스님이 아닌 다른 사람이 황제가 된다면 연합도 흔들리고 말 것이오.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(…다들 동요하고 있군.)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(그렇다면 새로운 여제와 기사단은 이 웃기지도 않은 연극을 어떻게 할 셈이지?)</s>
+				</Page>
+				<Page speaker="Neinheart_PhantomTuto_01" position="Right">
+					<s>아리아 선황님이 남기신 보물 스카이아… 그 기록은 확실합니다. 하지만 당신의 말이 거짓이 아니라는 걸 어떻게 증명할 겁니까?</s>
+				</Page>
+				<Page speaker="Hilla_PhantomTuto_01">
+					<s>잘 말씀해 주셨어요. 스카이아는 이름만 널리 알려졌을 뿐, 본 사람이 거의 없는 비밀스러운 보석이지요. 현재 메이플 월드에서 스카이아가 어떻게 생겼는지 알고 있는 분은, 스카이아의 그림을 본 적이 있는 여기 에레브의 여러분들뿐이죠.</s>
+				</Page>
+				<Page speaker="Hilla_PhantomTuto_01">
+					<s>제가 갖고 있는 스카이아가, 여러분이 알고 계신 그 모양과 일치한다면 답은 간단한 거 아니겠어요? 자, 스카이아를 이 자리에 직접 가지고 왔으니 지금 바로 확인해 보시지요!</s>
+				</Page>
+				<Page speaker="Neinheart_PhantomTuto_01" position="Right">
+					<s>모양이 똑같다고 그것이 진짜라고 단정할 순 없습니다. 모조품일 수도 있으니까요.</s>
+				</Page>
+				<Page speaker="Hilla_PhantomTuto_01">
+					<s>후훗, 반대로 당신의 의혹이 제가 가지고 있는 보석이 가짜라는 걸 증명하지도 않지요.</s>
+				</Page>
+				<Page speaker="Hilla_PhantomTuto_01">
+					<s>게다가 증거는 또 있어요. 시그너스님의 연약한 몸도 그렇지요. 시그너스님이 진정한 황제의 혈통이라면 신수님의 힘에 눌리지 않으셨겠지만… 그렇지 않기에 몸이 약한 거지요. 시그너스님, 당신도 알고 계시지 않나요? 당신이 그토록 약한 이유를…</s>
+				</Page>
+				<Page speaker="Mihile_PhantomTuto_01" position="Right">
+					<s>무례하다!</s>
+				</Page>
+				<Page speaker="Hilla_PhantomTuto_01">
+					<s>어머, 무례하게 들렸다니, 정말 죄송합니다. 허나 틀린 말은 아니지 않나요?</s>
+				</Page>
+				<Page speaker="Hilla_PhantomTuto_01">
+					<s>시그너스, 당신만 결단한다면 진정한 황제의 혈통이 누구인지 가려낼 수 있어요. 스카이아는 진정한 주인의 손에서 빛을 낸다고 하니까요. 에레브의 여제 시그너스… 당신이 진정 황제의 혈통이라면 이 스카이아를 들어 보세요.</s>
+				</Page>
+				<Page speaker="Cygnus_PhantomTuto_01" position="Right">
+					<s>…알겠습니다.</s>
+				</Page>
+				<Page speaker="Mihile_PhantomTuto_01" position="Right">
+					<s>여제님! 저 자의 말에 따라선 안 됩니다!</s>
+				</Page>
+				<Page speaker="Cygnus_PhantomTuto_01" position="Right">
+					<s>지금의 내가 이 자리에 오를 수 있었던 건… 내가 특별해서가 아니에요. 그저 그렇게 타고났기 때문이지요. 그런 내가 정통성에서 티끌만한 의심이라도 받는다는 건, 있을 수 없는 일이에요. 필요하다면 얼마든지 이야기를 해야 해요.</s>
+				</Page>
+				<Page speaker="Cygnus_PhantomTuto_01" position="Right">
+					<s>여러분, 지금까지 난 옳은 일이라는 이유로 다른 사람들을 끊임없이 싸움에 끌어들였어요. 그러면서도 이곳에서 모두의 보호만을 받고 있지요. 그건 다 내가 황제이기 때문, 그 이상도 이하도 아니에요. 만약 내가 황제가 될 자격이 없다면…</s>
+				</Page>
+				<Page speaker="Cygnus_PhantomTuto_01" position="Right">
+					<s>감히 메이플 월드의 많은 사람들을 움직일 자격이… 없어요.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(목소리는 흔들리고 있지만 눈빛은 단단하군. 연약해 보여도 사실은 심지가 굳어. 절대 받아들일 수 없다는 표정의 책사나 당장 싸울 기세인 기사들을 보니 인망도 있는걸? 과연 아리아의…)</s>
+				</Page>
+				<Page speaker="Hilla_PhantomTuto_01">
+					<s>호호호, 과연 지금까지 에레브에서 기사단을 이끌며 메이플 월드를 현명하게 이끌어 온 사람답군요. 잘 생각하셨어요. 자, 보물은 여기 있습니다. 당신이 진정 메이플 월드의 황제라면, 스카이아도 분명 빛을 낼 겁니다.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="Cygnus_PhantomTuto_01" position="Right">
+					<s>…아…</s>
+				</Page>
+				<Page speaker="Hilla_PhantomTuto_01">
+					<s>역시 조금도 빛나지 않는군요. 이걸로 증명은 충분하지 않나요?</s>
+				</Page>
+				<Page speaker="Null_02">
+					<s>(웅성웅성…)</s>
+				</Page>
+				<Page speaker="Neinheart_PhantomTuto_01" position="Right">
+					<s>시그너스님, 정체도 알 수 없는 자의 확인되지 않은 말에 현혹되지 마십시오!</s>
+				</Page>
+				<Page speaker="Hilla_PhantomTuto_01">
+					<s>이런… 당신의 기사들이 진실을 부정하려 하는군요. 메이플 월드의 진정한 황제는 바로 나라는 사실을!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(슬슬 알프레드의 준비도 끝났겠고… 이제 이 몸이 나설 타이밍인가? 자, 그럼 심호흡을 하고, 하나, 둘, 셋!)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>결론을 내리기엔 아직 이른 것 아닌가?</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	<Quest code="TutorialEunwol01" index="1047" sort="Normal">
+		<Title> </Title>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="Phantom_EunWolTuto_01" position="Right">
+					<s>…그래서 처음부터 네가 마음에 들지 않았던 거야.</s>
+				</Page>
+				<Page speaker="Luminous_EunWolTuto_01" position="Left">
+					<s>그 능글맞은 성격 역시 썩 달갑지는 않아.</s>
+				</Page>
+				<Page speaker="Phantom_EunWolTuto_01" position="Right">
+					<s>하긴 우리 사이에 유일한 공통점이라곤 서로를 좋아하지 않는다는 것뿐이지. 그럼에도 불구하고 이렇게 우리를 같이 보낸 프리드 녀석은 도대체 무슨 생각을 하는지 원. 그 녀석, 뭔가 삐진 일이라도 있는 거 아냐? 안 그래?</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>글쎄, 그건 모르겠지만 계속 이렇게 여기서 시간을 끌다가는 정말 프리드가 화내는 모습을 볼 수 있을지도 모르지.</s>
+				</Page>
+				<Page speaker="Phantom_EunWolTuto_01" position="Right">
+					<s>프리드의 화난 모습이라고? 그거 재미있겠는데.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>그보다 영영 못 볼 가능성이 더 높을 것 같지만. 난 먼저 들어가지. 안에서 느껴지는 기운이 심상치가 않아.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(먼저 간 동료들은 벌써 시간의 신전 끝에 도달했을 거야. 서두르자.)</s>
+					<Select target="Accept">진행</Select>
+					<Select target="Refuse">건너뛰기</Select>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="Phantom_EunWolTuto_01" position="Right">
+					<s>…그럼 잡담은 이쯤 해둘까. 다시 만나면 그땐 프리드에게 직접 물어보자고. 그러니 괜히 이런 곳에서 발목 잡히지 마라.</s>
+				</Page>
+			</Body>
+		</Task>
+	</Quest>
+	
+	<Quest code="TutorialEunwol02" index="1048" sort="Normal">
+		<Title> </Title>
+	
+		<Task index="1">
+			<Body>
+				<Page speaker="Aran_EunWolTuto_01" position="Right">
+					<s>…아아, 역시 그럴 줄 알았어. 팬텀이랑 루미너스는 만나기만 하면 으르렁댄다니까. 하긴, 서로 너무 다른 성격이니 그럴 수밖에.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>내가 보기엔 꽤 잘 맞는 성격인 것 같은데. 하나는 너무 시끄럽고, 하나는 너무 재미없으니 섞어놓으면 얼추 균형이 맞아.</s>
+				</Page>
+				<Page speaker="Aran_EunWolTuto_01" position="Right">
+					<s>아하하, 그럴 수도 있겠네. 본인들은 질색할만한 얘기지만 말이야.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>…!!!</s>
+				</Page>
+				<Page speaker="Aran_EunWolTuto_01" position="Right">
+					<s>…이 소리, 머지않은 곳이군. 곧 몰려오겠어. 윽…</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>내가 부축하지.</s>
+				</Page>
+				<Page speaker="Aran_EunWolTuto_01" position="Right">
+					<s>안 돼. 누군가는 이 길목을 지켜야만 해.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>그러면 나도 너와 함께 싸울게.</s>
+				</Page>
+				<Page speaker="Aran_EunWolTuto_01" position="Right">
+					<s>날 우습게 보는 거야? 혼자서도 충분해.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>하지만…</s>
+				</Page>
+				<Page speaker="Aran_EunWolTuto_01" position="Right">
+					<s>냉정해져. 눈 앞에 서 있는 나보다 지금 저 안에서 동료들이 누구와 싸우고 있는지를 생각하라고.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>…네 말이 옳다. 그럼 먼저 들어가지.</s>
+				</Page>
+				<Page speaker="Aran_EunWolTuto_01" position="Right">
+					<s>……</s>
+				</Page>
+				<Page speaker="Aran_EunWolTuto_01" position="Right">
+					<s>…잠깐, 싸울 준비는 확실히 한 거야? 네가 덤벙댈 리는 없겠지만… 그래도 한 번 더 점검하는 게 좋겠어. 지금 바로 [ff7b50]스킬[-]을 살펴봐.</s>
+				</Page>
+			</Body>
+		</Task>
+	
+		<Task index="3">
+			<Body>
+				<Page speaker="Aran_EunWolTuto_01" position="Right">
+					<s>[ff7b50]물약[-]도 제대로 챙긴 거지? 합류하기 전에 다시 확인해 봐.</s>
+				</Page>
+			</Body>
+		</Task>
+	
+		<Task index="6">
+			<Body>
+				<Page speaker="Aran_EunWolTuto_01" position="Right">
+					<s>…준비는 다 된 것 같군. 그렇지만… 아, 아니야. 이만 됐다.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>시시콜콜하게 걱정하다니… 오늘은 왠지 너답지 않군. 아니, 이 상황이라면, 그럴 만도 한가.</s>
+				</Page>
+				<Page speaker="Aran_EunWolTuto_01" position="Right">
+					<s>……</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>…다시 보자.</s>
+				</Page>
+				<Page speaker="Aran_EunWolTuto_01" position="Right">
+					<s>응!</s>
+				</Page>
+			</Body>
+		</Task>
+	</Quest>
+	
+	<Quest code="TutorialEunwol03" index="1049" sort="Normal">
+		<Title> </Title>
+	
+		<Task index="2">
+			<Body>
+				<Page speaker="Luminous_EunWolTuto_02" position="Right">
+					<s>(…상황이 묘하게 돌아가는 것 같아. 군단장 [ff7b50]매그너스[-]가 [ff7b50]구와르[-]의 힘을 흡수하고는 전투에서 발을 뺐다. 그리고 이렇게 말했어. ‘이 세계는 이제 볼일이 끝났다.’)</s>
+				</Page>
+				<Page speaker="Freud_EunWolTuto_01" position="Left">
+					<s>(‘이 세계’라고…?)</s>
+				</Page>
+				<Page speaker="Luminous_EunWolTuto_02" position="Right">
+					<s>(덕분에 나도 손을 덜 수는 있었지만…)</s>
+				</Page>
+				<Page speaker="Freud_EunWolTuto_01" position="Left">
+					<s>(…확실히. 그 군단장의 발언과 태도가 마음에 걸리는군. 하지만 그 건은 일단 차치하고, 봉인석은 어떻게 되었지?)</s>
+				</Page>
+				<Page speaker="Luminous_EunWolTuto_02" position="Right">
+					<s>(네가 말한 대로 다섯 개의 봉인을 모두 작동시켰어.)</s>
+				</Page>
+				<Page speaker="Freud_EunWolTuto_01" position="Left">
+					<s>(그럼 이제 남은 건 검은 마법사에게서 시간의 힘을 이끌어내는 것뿐이야. 물론 작은 조건을 만족시켜야 하지만.)</s>
+				</Page>
+				<Page speaker="Luminous_EunWolTuto_02" position="Right">
+					<s>(조건? 어떤 조건?)</s>
+				</Page>
+				<Page speaker="Freud_EunWolTuto_01" position="Left">
+					<s>(시간의 봉인을 발동하기 위해서는 한 사람의 모든 시간, 즉 ‘[ff7b50]존재[-]’가 필요해. 말하자면 제물 혹은 대가 정도. 아, 그런 표정 짓지 않아도 돼. 이건 내가 할 거니까.)</s>
+				</Page>
+				<Page speaker="Luminous_EunWolTuto_02" position="Right">
+					<s>(헛소리 하지 마! 그걸 왜 네가 해?)</s>
+				</Page>
+				<Page speaker="Freud_EunWolTuto_01" position="Left">
+					<s>(만든 사람이 나니까 당연히 내가 해야지. 그리고 나도 주인공 한 번 해보자. 매번 너희 뒤치다꺼리 하느라 지쳤다고.)</s>
+				</Page>
+				<Page speaker="Luminous_EunWolTuto_02" position="Right">
+					<s>(지금 이 상황에서 농담이 나와? 그럴 순 없어. 차라리 내가 하겠어. 나는 더 잃을 것도 없으니까.)</s>
+				</Page>
+				<Page speaker="Freud_EunWolTuto_01" position="Left">
+					<s>(루미너스, 네 마음 다 알아. 하지만 이건……)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(내가 하지.)</s>
+				</Page>
+				<Page speaker="Freud_EunWolTuto_01" position="Left">
+					<s>(하아, 너까지 이러면 어떡해? 메이플 월드의 운명이 달린 일이야. 감정적으로 대처할 문제가 아니라고.)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(그러니까 내가 하겠다는 거다. 지금 프리드 네 몸 상태로는 봉인을 감당하긴 무리야. 그건 네가 더 잘 알고 있을 텐데.)</s>
+				</Page>
+				<Page speaker="Freud_EunWolTuto_01" position="Left">
+					<s>(……)</s>
+				</Page>
+				<Page speaker="Luminous_EunWolTuto_02" position="Right">
+					<s>(그러니까 내가…)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(루미너스, 너에겐 더 중요한 일이 있어. 바로 봉인을 발동시키는 일이지. 검은 마법사를 봉인하기 위해서는 네가 가진 빛의 힘이 필요해. 너만이 할 수 있는 일이다. 알고 있겠지?)</s>
+				</Page>
+				<Page speaker="Luminous_EunWolTuto_02" position="Right">
+					<s>(하지만 존재를 걸어야 한다잖아! 제물이라고! 그게 죽는다는 말이랑 뭐가 달라?!)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(어차피 누군가 해야 할 일이라면 내가 하는 게 맞아. 나한테는 지켜야 할 일족도, 사랑하는 가족도 없으니까. 제물이라는 표현은 좀 기분 나쁘지만.)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(감상적인 대화를 계속 나누기엔 장소가 별론데. 그건 나중에 저승에서 만나서 마저 하지.)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>그럼 시작해 볼까?</s>
+				</Page>
+			</Body>
+		</Task>
+	</Quest>
+	
+	<Quest code="TutorialEunwol04" index="1050" sort="Normal">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>……</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>죽은…건가?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>사후세계 같은 건 역시 없나. 저승에서 만나는 건 무리겠어. 프리드 녀석, 꽤 실망하겠군.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>뮈지, 이 소린?</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>시끄럽군. 녀석들인가? 그래도 아직 저승으로 갈 때는 아닌가 보군.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="6">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>여, 여긴……?</s>
+				</Page>
+				<Page speaker="Sniffs_EunWolTuto_01" position="Right">
+					<s>오, 일어났다, 일어났다.</s>
+				</Page>
+				<Page speaker="Sally_EunWolTuto_01" position="Left">
+					<s>대박, 말도 했어. 말은 할 줄 아나 봐!</s>
+				</Page>
+				<Page speaker="Twitch_EunWolTuto_01" position="Left">
+					<s>봤어? 봤어? 눈동자가 동글동글해!</s>
+				</Page>
+				<Page speaker="Lumps_EunWolTuto_01" position="Left">
+					<s>엄청 크다! 막 우리를 잡아먹고 그러는 거 아니야?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>윽……</s>
+				</Page>
+				<Page speaker="Twitch_EunWolTuto_01" position="Left">
+					<s>야, 이거 어디 아픈가 봐. 니가 가서 아프냐고 물어봐.</s>
+				</Page>
+				<Page speaker="Lumps_EunWolTuto_01" position="Left">
+					<s>왜 자꾸 나한테만 그래. 나 무섭단 말이야.</s>
+				</Page>
+				<Page speaker="MoonBeam_EunWolTuto_01" position="Right">
+					<s>이 겁쟁이들! 다 비켜봐. 너! 어디 아픈 거야?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>아니, 이제 괜찮아. 머리가 좀 울리긴 하는군. 그런데 여긴 어디지? 그리고 너희는……</s>
+				</Page>
+				<Page speaker="MoonBeam_EunWolTuto_01" position="Right">
+					<s>우린 뾰족귀 여우야. 여긴 우리가 사는 곳이고. 넌 누구야? 어떻게 이곳으로 왔어? 여긴 우리 영역인데.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(뾰족귀 여우? 알려지지 않은 이종족인가. 귀와 꼬리가 달렸다니, 정말 여우 같군.)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>난 인간이다. 시간의 신전 부근에서 왔는데, 이곳은 어디쯤이지?</s>
+				</Page>
+				<Page speaker="MoonBeam_EunWolTuto_01" position="Right">
+					<s>시간의 신전? 처음 들어보는 장손데?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(시간의 신전을 모른다? 대체 어디까지 오게 된 거지? 대체 여긴 어디……)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="7">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>다, 달이 두 개?!</s>
+				</Page>
+				<Page speaker="MoonBeam_EunWolTuto_01" position="Right">
+					<s>……? 달이야 원래 두 개잖아. 인간, 많이 아파?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>달이 원래 두 개라고? 그럴 리가 없잖아! 그리고 내 레벨이…… #lv#레벨?! 지금 대체 무슨 일이…!</s>
+				</Page>
+				<Page speaker="Sniffs_EunWolTuto_01" position="Right">
+					<s>귀가 없을 때부터 이상하다 했어. 아무래도 많이 모자란 가봐.</s>
+				</Page>
+				<Page speaker="Sally_EunWolTuto_01" position="Left">
+					<s>그래서 버림 받았나? 어쩜, 불쌍해……</s>
+				</Page>
+				<Page speaker="MoonBeam_EunWolTuto_01" position="Right">
+					<s>안 되겠다. 일단 마을로 데리고 가자.</s>
+				</Page>
+				<Page speaker="Lumps_EunWolTuto_01" position="Left">
+					<s>그치만 외부인을 함부로 마을에 데려가면 어른들한테 혼날 거야.</s>
+				</Page>
+				<Page speaker="MoonBeam_EunWolTuto_01" position="Right">
+					<s>그렇다고 여기다 버리고 갈 순 없잖아. 다 내가 책임져. 가자!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="9">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>지금 이게 무슨 짓이지?</s>
+				</Page>
+				<Page speaker="Twitch_EunWolTuto_01" position="Left">
+					<s>야, 진짜 꼬리도 없어!</s>
+				</Page>
+				<Page speaker="Sally_EunWolTuto_01" position="Left">
+					<s>너 진짜 나빴다. 남의 약점을 가지고 장난치면 안 된다고 엄마가 그랬어.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>하아…… 이 상황은 대체……</s>
+				</Page>
+				<Page speaker="Sniffs_EunWolTuto_01" position="Right">
+					<s>랑, 우린 먼저 마을에 가 있을게. 네가 저거 데리고 와.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="10">
+			<Body>
+				<Page speaker="MoonBeam_EunWolTuto_01" position="Right">
+					<s>그럼 우리도 가자, 인간.</s>
+				</Page>
+			</Body>
+		</Task>
+	</Quest>
+	
+	<Quest code="TutorialEunwol05" index="1051" sort="Normal">
+		<Title> </Title>
+	
+		<Task index="2">
+			<Body>
+				<Page speaker="MoonBeam_EunWolTuto_01" position="Right">
+					<s>인간은 원래 이렇게 걸음이 느려? 꼬리가 없어서 그런가?</s>
+				</Page>
+				<Page speaker="MoonBeam_EunWolTuto_01" position="Right">
+					<s>으으, 안 되겠어! 나 먼저 갈래. 마을까지 거의 다 와서 이제 위험한 것도 없으니까 알아서 따라와. 이 길로 쭉 오면 돼. 다른 길로 새면 안 돼? 그럼 나 먼저 간다!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>…제멋대로군. 언제는 마을에 같이 가자고 잡아 끌더니. 이젠 알아서 찾아오라니. 후, 일단 따라가보는 게 낫겠지. 이곳에서 미아가 될 순 없으니.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>…거의 다 온 것 같군. 그럼 마을에 들어가 보자.</s>
+				</Page>
+			</Body>
+		</Task>
+	</Quest>
+	
+	<Quest code="TutorialResistance01" index="1052" sort="Normal">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="Ulrika_ResistanceTuto_01" position="Right">
+					<s>#un#, 빨리 와! 여기에서 모이자고 해놓고 네가 늦으면 어떡해?</s>
+				</Page>
+				<Page speaker="Von_ResistanceTuto_01" position="Right">
+					<s>설마 겁먹은 건 아니지? 킥킥.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>그럴 리가.</s>
+				</Page>
+				<Page speaker="Jun_ResistanceTuto_01" position="Left">
+					<s>저, 정말? 나는 겁나는데… 어른들이 레벤 광산 쪽으로는 가지 말라고 했잖아. [ff7b50]블랙윙[-] 사람들 때문에 위험하다고…</s>
+				</Page>
+				<Page speaker="Von_ResistanceTuto_01" position="Right">
+					<s>어휴, 겁쟁이. 그러니까 일부러 어른들 눈을 피해 돌아서 여기까지 온 거잖아.</s>
+				</Page>
+				<Page speaker="Jun_ResistanceTuto_01" position="Left">
+					<s>하지만 들키면 혼날 텐데…</s>
+				</Page>
+				<Page speaker="Ulrika_ResistanceTuto_01" position="Right">
+					<s>이미 여기까지 왔잖아? 혼날 때 혼나더라도 지금은 놀자.</s>
+				</Page>
+				<Page speaker="Ulrika_ResistanceTuto_01" position="Right">
+					<s>#un#, 지각했으니까 네가 술래야! 넌 발이 빠르니까 10까지 센 후에 찾는 거야, 알았지?</s>
+				</Page>
+				<Page speaker="Ulrika_ResistanceTuto_01" position="Right">
+					<s>다들 어디에 숨을지 정했어? 그럼 숨바꼭질 시작한다!</s>
+				</Page>				
+				<Page speaker="player" position="Left">
+					<s>(이대로 친구들과 숨바꼭질을 할까, 아니면 그냥 마을로 돌아갈까?)</s>
+					<Select target="Accept">진행</Select>
+					<Select target="Refuse">건너뛰기</Select>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>조금 늦었다고 내가 술래라니… 두고 봐, 다 찾아주겠어! 모두들 광산 안쪽에 숨었겠지? 그럼 오른쪽으로 가보자.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="player" position="Left" skip="true">
+					<s>(delay 연출용 페이지)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="Cutie_ResistanceTuto_02" position="Right">
+					<s>어머, 들켰다! 우와… 엄청 잘 찾으시네요. 대단해요!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="player" position="Left" skip="true">
+					<s>(delay 연출용 페이지)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="6">
+			<Body>
+				<Page speaker="Ulrika_ResistanceTuto_02" position="Right">
+					<s>어라? 들킨 거야? 에헤헤… 내가 너무 찾기 쉬운 데에 숨었나?</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="7">
+			<Body>
+				<Page speaker="player" position="Left" skip="true">
+					<s>(delay 연출용 페이지)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="8">
+			<Body>
+				<Page speaker="Jun_01" position="Right">
+					<s>앗! 걸렸다! 칫…</s>
+				</Page>
+				<Page speaker="Jun_01" position="Right">
+					<s>뭐? 친구들을 거의 다 찾았다고?</s>
+				</Page>
+				<Page speaker="Jun_01" position="Right">
+					<s>반은 찾은 거야? 그 녀석은 잘 숨으니까 열심히 찾아야 할걸?</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="9">
+			<Body>
+				<Page speaker="SuspiciousHollow_ResistanceTuto_02" position="Right">
+					<s>(의심스러워 보이는 구멍이다. 혹시 반은 이 안으로 들어가버린 걸지도 모르겠다. 한번 들어가 볼까?)</s>
+				</Page>
+			</Body>
+		</Task>
+	</Quest>
+	
+	<Quest code="TutorialResistance02" index="1053" sort="Normal">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="player" position="Right">
+					<s>광산 안에 이런 장소가 있다니!</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>여긴 뭐 하는 곳이지? 그리고 이 광경은 대체……</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>……좀 더 둘러보자.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="player" position="Right">
+					<s>…………</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>……누군가가 날 지켜보고 있는 것 같아.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>…………!!!</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>발자국 소리가 점점 가까워진다… 숨자!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="Schiller_ResistanceTuto_01" position="Left">
+					<s>흠, 오늘도 별 이상 없군.</s>
+				</Page>
+				<Page speaker="Schiller_ResistanceTuto_01" position="Left">
+					<s>실험체들이 도망치지 못하도록 잘 지키라니… 이런 상황에서 그런 일이 가당키나 해? 늙으면 걱정이 는다더니, 천재 [ff7b50]겔리메르[-] 박사도 나이는 속일 수 없는 모양이야.</s>
+				</Page>
+				<Page speaker="Schiller_ResistanceTuto_01" position="Left">
+					<s>실험도 순조로워 보이겠다, 이제 그만 돌아가 볼까?</s>
+				</Page>
+				<Page speaker="Schiller_ResistanceTuto_01" position="Left">
+					<s>클클, 조만간 박사가 성공하면 실험을 도운 나에게도 뭔가 좋은 이야기가 있겠…… 음?</s>
+				</Page>
+				<Page speaker="Schiller_ResistanceTuto_01" position="Left">
+					<s>저쪽에서 인기척이……</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>!!!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="Schiller_ResistanceTuto_01" position="Left">
+					<s>……뭐야, 침입자가 아니라 실험체였나? 에잉, 괜히 쫄았네!</s>
+				</Page>
+				<Page speaker="Schiller_ResistanceTuto_01" position="Left">
+					<s>그나저나 실험체한테서 기척이 느껴지다니, 이런 일은 처음이군. 박사에게 보고해야 하나……</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>(지금이야! 저 사람이 한눈을 파는 사이에 어서 여기서 나가자!)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="Schiller_ResistanceTuto_01" position="Left">
+					<s>앗! 실험체가 아니라 진짜로 침입자였잖아!</s>
+				</Page>
+				<Page speaker="Schiller_ResistanceTuto_01" position="Left">
+					<s>거기 서!!!</s>
+				</Page>
+			</Body>
+		</Task>
+	</Quest>
+	
+	<Quest code="TutorialResistance03" index="1054" sort="Normal">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="player" position="Right">
+					<s>……헉헉, 설마 여기까지 쫓아오진 못하겠지?</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="Schiller_ResistanceTuto_02" position="Left">
+					<s>꼬마야, 이 쉴러님을 우습게 보지 마라.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>악!</s>
+				</Page>
+				<Page speaker="Schiller_ResistanceTuto_02" position="Left">
+					<s>여기가 어디라고 겁도 없이 들어와? 광산 근처엔 얼씬도 말라는 어른들 말씀을 잘 들었어야지.</s>
+				</Page>
+				<Page speaker="Schiller_ResistanceTuto_02" position="Left">
+					<s>자, 이쪽으로 오렴. 이 아저씨가 친절을 베푸는 동안 순순히 시키는 대로 하는 게 너한테도 좋을 거다.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>!!!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="Brighton_ResistanceTuto_01" position="Left">
+					<s>이봐! 어린아이를 상대로 거참, 살벌하구먼.</s>
+				</Page>
+				<Page speaker="Brighton_ResistanceTuto_01" position="Left">
+					<s>#un#, 잠깐만 눈 좀 감아주겠어?</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="Brighton_ResistanceTuto_01" position="Left">
+					<s>후우, 이제 괜찮아. 하지만 이곳에 오래 있는 건 바람직하지 않겠지.</s>
+				</Page>
+				<Page speaker="Brighton_ResistanceTuto_01" position="Left">
+					<s>자, 나와 같이 가자.</s>
+				</Page>
+				<Page speaker="Brighton_ResistanceTuto_01" position="Left">
+					<s>안심해, 위험한 사람은 아니니까…라고 하면 더 의심스러우려나? 하하!</s>
+				</Page>
+			</Body>
+		</Task>
+	</Quest>
+	
+	<Quest code="TutorialResistance04" index="1055" sort="Normal">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="Claudine_ResistanceTuto_01" position="Left">
+					<s>무사히 구했군요. 수고했어요.</s>
+				</Page>
+				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
+					<s>친구가 사라졌다는 마을 아이들의 이야기를 들었을 때 설마했는데, 역시 광산 안으로 들어갔던 모양이야. 어쨌든 늦지 않아 다행이었지.</s>
+				</Page>
+				<Page speaker="Claudine_ResistanceTuto_01" position="Left">
+					<s>하지만, 걱정하는 친구들에겐 미안한 일이지만 이대로 돌려보낼 순 없어요.</s>
+				</Page>
+				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
+					<s>그렇겠지. 마을엔 블랙윙 감시자들 투성이니까. 이 꼬마가 저들 눈에 띄면 곤란하다고.</s>
+				</Page>
+				<Page speaker="Claudine_ResistanceTuto_01" position="Left">
+					<s>……일단 당신에게 #un#의 안전을 부탁할게요. 그 다음 일은 제가 준비하죠.</s>
+				</Page>
+				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
+					<s>좋아, 맡겨둬.</s>
+				</Page>
+				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
+					<s>자, #un#! 우선 이 [ff7b50]물약[-]을 받아. 여기 있는 동안엔 별일 없겠지만, 그래도 만일을 위해 가지고 있는 게 좋을 거야. 위급할 때 바로 사용할 수 있도록 잘 보이는 곳에 챙겨둬.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
+					<s>……흠, 아무래도 상황이 상황이다 보니 물약만으론 안심이 되질 않는걸.</s>
+				</Page>
+				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
+					<s>내가 간단한 기술을 가르쳐 줄 테니 한번 익혀보겠어? 뭐, 호신술이라고 생각하면 돼.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
+					<s>오, 배움이 빠르군. 제법인걸?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>여긴 어디죠? 그리고 당신들은 누구예요?</s>
+				</Page>
+				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
+					<s>아아, 실례! 마음이 급해서 자기소개를 깜빡했군.</s>
+				</Page>
+				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
+					<s>너도 에델슈타인 출신이니까 알고 있겠지? 이 도시가 블랙윙의 지배를 받고 있다는 사실을.</s>
+				</Page>
+				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
+					<s>빼앗긴 광산, 점령당한 의회, 감시자들의 존재… 마을 사람들은 노예처럼 숨 죽인 채 그들의 명령을 들을 수밖에 없지. 하지만 블랙윙이라 하더라도 마음까지 지배하는 것은 불가능해.</s>
+				</Page>
+				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
+					<s>내 이름은 헨리테, 여기 있는 동료들과 함께 블랙윙에 대항하는 [ff7b50]레지스탕스[-]의 일원이지.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……헨리테? 아앗! 마을의 환경 미화원?!</s>
+				</Page>
+				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
+					<s>하핫, 이제야 알아보는군! 잘 보면 익숙한 얼굴이 더 보일 거야.</s>
+				</Page>
+				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
+					<s>너한테는 부득이하게 공개하게 되었지만, 이 본부와 우리들의 정체는 비밀이라는 걸 명심해. 절대 아무에게도 말하지 않겠다고 약속해 주겠지?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(끄덕)</s>
+				</Page>
+				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
+					<s>좋아, 널 믿을게. 그리고 당분간 자유롭지 못해서 불편하겠지만 다 네 안전을 위해서라는 거 알지? 그럼 여기 있는 동안 잘 부탁한다!</s>
+				</Page>
+			</Body>
+		</Task>
+	</Quest>
+	
+		<Quest code="TutorialResistance05" index="1056" sort="Normal">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="player" position="Right">
+					<s>……헉헉, 설마 여기까지 쫓아오진 못하겠지?</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="Schiller_ResistanceTuto_02" position="Left">
+					<s>꼬마야, 이 쉴러님을 우습게 보지 마라.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>악!</s>
+				</Page>
+				<Page speaker="Schiller_ResistanceTuto_02" position="Left">
+					<s>여기가 어디라고 겁도 없이 들어와? 광산 근처엔 얼씬도 말라는 어른들 말씀을 잘 들었어야지.</s>
+				</Page>
+				<Page speaker="Schiller_ResistanceTuto_02" position="Left">
+					<s>자, 이쪽으로 오렴. 이 아저씨가 친절을 베푸는 동안 순순히 시키는 대로 하는 게 너한테도 좋을 거다.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>!!!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="Checky_ResistanceTuto_01" position="Left">
+					<s>느닷없지만 잠시 실례하겠습니다.</s>
+				</Page>
+				<Page speaker="Checky_ResistanceTuto_01" position="Left">
+					<s>#un#, 당신은 눈을 좀 감아주시겠습니까?</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="Checky_ResistanceTuto_01" position="Left">
+					<s>후우, 이제 괜찮습니다. 하지만 이곳에 오래 있는 건 바람직하지 않겠지요.</s>
+				</Page>
+				<Page speaker="Checky_ResistanceTuto_01" position="Left">
+					<s>자, 저와 함께 가시죠.</s>
+				</Page>
+				<Page speaker="Checky_ResistanceTuto_01" position="Left">
+					<s>……시선이 상당히 뜨겁군요. 안심하십시오. 저는 무서운 사람이 아닙니다. 보세요, 이 얼마나 귀엽고 사랑스러운 모습입니까? 그러니 그런 수상쩍다는 눈초리로 경계하지 않으셔도 됩니다.</s>
+				</Page>
+			</Body>
+		</Task>
+	</Quest>
+	
+	<Quest code="TutorialResistance06" index="1057" sort="Normal">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="Claudine_ResistanceTuto_01" position="Left">
+					<s>무사히 구했군요. 수고했어요.</s>
+				</Page>
+				<Page speaker="Checky_ResistanceTuto_02" position="Right">
+					<s>친구가 사라졌다는 마을 아이들의 이야기를 들었을 때 설마했는데, 역시 광산 안으로 들어갔던 모양입니다. 어쨌든 늦지 않아 다행입니다.</s>
+				</Page>
+				<Page speaker="Claudine_ResistanceTuto_01" position="Left">
+					<s>하지만, 걱정하는 친구들에겐 미안한 일이지만 이대로 돌려보낼 순 없어요.</s>
+				</Page>
+				<Page speaker="Checky_ResistanceTuto_02" position="Right">
+					<s>하긴 마을엔 블랙윙 감시자들 투성이니까요. 이 친구가 저들 눈에 띄면 곤란해질 겁니다.</s>
+				</Page>
+				<Page speaker="Claudine_ResistanceTuto_01" position="Left">
+					<s>……일단 당신에게 #un#의 안전을 부탁할게요. 그 다음 일은 제가 준비하죠.</s>
+				</Page>
+				<Page speaker="Checky_ResistanceTuto_02" position="Right">
+					<s>알겠습니다.</s>
+				</Page>
+				<Page speaker="Checky_ResistanceTuto_02" position="Right">
+					<s>그럼 #un#, 우선 이 [ff7b50]물약[-]을 받으십시오. 여기 있는 동안엔 별일 없겠지만, 그래도 만일을 위해 가지고 있는 게 좋겠습니다. 위급할 때 바로 사용할 수 있도록 잘 보이는 곳에 챙겨 두십시오.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="Checky_ResistanceTuto_02" position="Right">
+					<s>……음, 아무래도 상황이 상황이다 보니 물약만으론 안심이 되질 않는군요.</s>
+				</Page>
+				<Page speaker="Checky_ResistanceTuto_02" position="Right">
+					<s>제가 간단한 기술을 가르쳐 드릴 테니 한번 익혀보겠습니까? 호신술이라고 생각하면 됩니다.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="Checky_ResistanceTuto_02" position="Right">
+					<s>잘했습니다. 배움이 빠르네요.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>여긴 어디죠? 그리고 당신들은 누구예요?</s>
+				</Page>
+				<Page speaker="Checky_ResistanceTuto_02" position="Right">
+					<s>앗, 이런… 마음이 급해서 자기소개를 깜빡했습니다. 결례를 용서하십시오.</s>
+				</Page>
+				<Page speaker="Checky_ResistanceTuto_02" position="Right">
+					<s>당신도 에델슈타인 출신이니까 알고 있겠지요? 이 도시가 블랙윙의 지배를 받고 있다는 사실을.</s>
+				</Page>
+				<Page speaker="Checky_ResistanceTuto_02" position="Right">
+					<s>빼앗긴 광산, 점령당한 의회, 감시자들의 존재… 마을 사람들은 노예처럼 숨 죽인 채 그들의 명령을 들을 수밖에 없습니다. 하지만 블랙윙이라 하더라도 마음까지 지배하는 것은 불가능하지요.</s>
+				</Page>
+				<Page speaker="Checky_ResistanceTuto_02" position="Right">
+					<s>제 이름은 체키, 여기 있는 동료들과 함께 블랙윙에 대항하는 [ff7b50]레지스탕스[-]의 일원입니다.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……체키? 아앗! 마을에서 풍선을 나눠주던 곰돌이 알바?!</s>
+				</Page>
+				<Page speaker="Checky_ResistanceTuto_02" position="Right">
+					<s>훗, 제 위장이 감쪽같지요? 잘 보면 익숙한 얼굴이 더 보일 겁니다.</s>
+				</Page>
+				<Page speaker="Checky_ResistanceTuto_02" position="Right">
+					<s>당신한테는 부득이하게 공개하게 되었지만, 이 본부와 우리들의 정체는 비밀이라는 걸 명심해야 합니다. 절대 아무에게도 말하지 않겠다고 약속해 주시겠지요?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(끄덕)</s>
+				</Page>
+				<Page speaker="Checky_ResistanceTuto_02" position="Right">
+					<s>믿겠습니다. 그리고 당분간 자유롭지 못해서 불편하겠지만 다 당신의 안전을 위해서라는 걸 알아주십시오. 그럼 여기 있는 동안 잘 부탁합니다!</s>
+				</Page>
+			</Body>
+		</Task>
+	</Quest>
+		
+	<Quest code="TutorialResistance07" index="1058" sort="Normal">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="player" position="Right">
+					<s>……헉헉, 설마 여기까지 쫓아오진 못하겠지?</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="Schiller_ResistanceTuto_02" position="Left">
+					<s>꼬마야, 이 쉴러님을 우습게 보지 마라.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>악!</s>
+				</Page>
+				<Page speaker="Schiller_ResistanceTuto_02" position="Left">
+					<s>여기가 어디라고 겁도 없이 들어와? 광산 근처엔 얼씬도 말라는 어른들 말씀을 잘 들었어야지.</s>
+				</Page>
+				<Page speaker="Schiller_ResistanceTuto_02" position="Left">
+					<s>자, 이쪽으로 오렴. 이 아저씨가 친절을 베푸는 동안 순순히 시키는 대로 하는 게 너한테도 좋을 거다.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>!!!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="Belle_ResistanceTuto_01" position="Left">
+					<s>그 말 그대로 돌려주지. 조금이라도 덜 다치고 싶다면 내가 친절을 베푸는 동안 그다지 저항하지 않는 게 좋을 거야.</s>
+				</Page>
+				<Page speaker="Belle_ResistanceTuto_01" position="Left">
+					<s>#un#, 눈 감아!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="Belle_ResistanceTuto_01" position="Left">
+					<s>후우, 아슬아슬했네. 괜찮아? 응? 그 사람? 글쎄, 어디선가 한동안 얌전히 낮잠이라도 자지 않을까?</s>
+				</Page>
+				<Page speaker="Belle_ResistanceTuto_01" position="Left">
+					<s>자, 그런 아무래도 좋은 일엔 신경 쓰지 말고 날 따라 와. ……음? 왜 그리 머뭇거려? 혹시 내가 수상해 보여?</s>
+				</Page>
+				<Page speaker="Belle_ResistanceTuto_01" position="Left">
+					<s>아하하! 좋은 자세야! 이 도시에서 낯선 사람은 경계하는 게 마땅하지. 하지만 지금은 실랑이할 여유가 없거든. 그러니 내가 널 들쳐 업는 수고를 하기 전에 여기선 날 따라주면 고맙겠어.</s>
+				</Page>
+			</Body>
+		</Task>
+	</Quest>
+	
+	<Quest code="TutorialResistance08" index="1059" sort="Normal">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="Claudine_ResistanceTuto_01" position="Left">
+					<s>무사히 구했군요. 수고했어요.</s>
+				</Page>
+				<Page speaker="Belle_ResistanceTuto_02" position="Right">
+					<s>친구가 사라졌다는 마을 아이들의 이야기를 들었을 때 설마했는데, 역시 광산 안으로 들어갔던 모양이더라고. 어쨌든 늦지 않아 다행이야.</s>
+				</Page>
+				<Page speaker="Claudine_ResistanceTuto_01" position="Left">
+					<s>하지만, 걱정하는 친구들에겐 미안한 일이지만 이대로 돌려보낼 순 없어요.</s>
+				</Page>
+				<Page speaker="Belle_ResistanceTuto_02" position="Right">
+					<s>하긴. 마을엔 블랙윙 감시자들 투성이니까. 이 꼬마가 저들 눈에 띄면 곤란하지.</s>
+				</Page>
+				<Page speaker="Claudine_ResistanceTuto_01" position="Left">
+					<s>……일단 당신에게 #un#의 안전을 부탁할게요. 그 다음 일은 제가 준비하죠.</s>
+				</Page>
+				<Page speaker="Belle_ResistanceTuto_02" position="Right">
+					<s>알겠어. 책임지고 지킬게.</s>
+				</Page>
+				<Page speaker="Belle_ResistanceTuto_02" position="Right">
+					<s>#un#, 들었지? 그럼 우선 이 [ff7b50]물약[-]을 받아. 여기 있는 동안엔 별일 없겠지만, 그래도 만일을 위해 가지고 있는 게 좋을 거야. 위급할 때 바로 사용할 수 있도록 잘 보이는 곳에 챙겨 둬.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="Belle_ResistanceTuto_02" position="Right">
+					<s>……음, 아무래도 상황이 상황이다 보니 물약만으론 안심이 되질 않네.</s>
+				</Page>
+				<Page speaker="Belle_ResistanceTuto_02" position="Right">
+					<s>간단한 기술을 가르쳐 줄 테니 한번 익혀 보겠어? 호신술이라고 생각하면 돼. 다만 전제 조건이 하나 있어. 내 기술을 배우려면 재규어가 한 마리 필요하거든.</s>
+				</Page>
+				<Page speaker="Belle_ResistanceTuto_02" position="Right">
+					<s>원래 자기가 탈 [ff7b50]재규어[-]는 스스로 포획해서 길들이는 게 정석이지만…… 넌 경우가 특수하니까 블랙잭에게 부탁해서 임시로 내어 줄게. 설마 겁먹은 건 아니지? 하핫!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="Belle_ResistanceTuto_02" position="Right">
+					<s>호오, 너 배움이 빠르잖아! 다시 봤는걸?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>여긴 어디죠? 그리고 당신들은 누구예요?</s>
+				</Page>
+				<Page speaker="Belle_ResistanceTuto_02" position="Right">
+					<s>앗, 내가 아직 자기소개를 하지 않았나? 마음이 너무 앞섰나 보군.</s>
+				</Page>
+				<Page speaker="Belle_ResistanceTuto_02" position="Right">
+					<s>너도 에델슈타인 출신이니까 알고 있겠지? 이 도시가 블랙윙의 지배를 받고 있다는 사실을.</s>
+				</Page>
+				<Page speaker="Belle_ResistanceTuto_02" position="Right">
+					<s>빼앗긴 광산, 점령당한 의회, 감시자들의 존재… 마을 사람들은 노예처럼 숨 죽인 채 그들의 명령을 들을 수밖에 없어. 하지만 블랙윙이라 하더라도 마음까지 지배하는 것은 불가능하지.</s>
+				</Page>
+				<Page speaker="Belle_ResistanceTuto_02" position="Right">
+					<s>내 이름은 벨, 여기 있는 동료들과 함께 블랙윙에 대항하는 [ff7b50]레지스탕스[-]의 일원이야.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……벨? 아앗! 마을에서 치안을 담당하던 경찰관?!</s>
+				</Page>
+				<Page speaker="Belle_ResistanceTuto_02" position="Right">
+					<s>하핫, 재미있는 표정이네? 하지만 이걸로 놀라긴 일러. 잘 보면 익숙한 얼굴이 더 보일 테니까!</s>
+				</Page>
+				<Page speaker="Belle_ResistanceTuto_02" position="Right">
+					<s>너한테는 부득이하게 공개하게 되었지만, 이 본부와 우리들의 정체는 비밀이라는 걸 명심해. 절대 아무에게도 말하지 않겠다고 약속할 수 있지?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(끄덕)</s>
+				</Page>
+				<Page speaker="Belle_ResistanceTuto_02" position="Right">
+					<s>응, 우린 널 믿어. 그리고 하나 더! 당분간 자유롭지 못해서 불편하겠지만 다 네 안전을 위해서니까 이해해 주길 바라. 그럼 여기 있는 동안 잘 부탁해!</s>
+				</Page>
+			</Body>
+		</Task>
+	</Quest>
+	
+	
+	<Quest code="TutorialDemon02" index="1061" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>군단장님! 연락도 없이 어디 가셨던 겁니까? 안 그래도 아카이럼님이 트집을 잡으려고 얼마나 벼르고 있는지 누구보다 잘 아시는 분이……</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>분위기가 심상치 않습니다. 필시 시간의 신전의 여신을 붙잡은 군단장님의 공을 시기하는 거겠죠. 흥! 아카이럼님이 한 일은 여신의 눈을 잠깐 가린 것뿐인데도요. 그것도 원래의 지위를 이용한 거면서!</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>어… 평소 같으면 쓸데없는 소리 말라고 핀잔을 주셨을 텐데… 무슨 일이라도 있으신 건가요? 이제 보니 무척 안색이 안 좋으신데… 어디 아프신 건가요? 혹시 이전 싸움에서 다친 곳이라도?!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……마스테마. 당신은, 검은 마법사와 저 둘 중 누구의 부하입니까.</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>네? 갑자기 왜 그런 질문을…?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>대답하십시오.</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>그… 그야 당연히 위대한 그분께 충성하고 있습니다. 하지만 당신이 제 목숨을 구해주신 날부터 당신을 위해 목숨을 바치겠다 결심했습니다…! 알고 계시지 않습니까? 그런데 왜 이런 걸…?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……당신에게 부탁하고 싶은 게 있습니다. 이 서신을… 그들, [ff7b50]영웅[-]이라 불리는 자들에게 전해주십시오.</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>네? 이걸 왜 그들에게…? 자리를 비우신 것만으로도 뒷말이 나올 겁니다. 그런데 만약 그들과 접촉했다는 사실이 알려지기라도 하면 반역을 도모한다는 오명을 쓰실 겁니다! 분명 그럴 거라고요! 무슨 생각이십니까, 군단장님!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……저는 더 이상 군단장이 아닙니다.</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>설마… 검은 마법사님을 배신하시는 건가요? 그분께 누구보다 충성하던 당신이?! 시간의 신전을 점령한 게 바로 얼마 전이에요! 이제 포상 받으실 일만 남았는데… 어째서… 어째서요?!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>시간이 없습니다. 무리한 부탁을 한 거라면 거둬 들이겠습니다.</s>
+					<s>……당신과는 싸우고 싶지 않습니다.</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>무리한 부탁이라서가 아니에요! 전 다만 당신이 걱정되어서…!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>가족분들은 어떻게 하시려고 그러세요?! 이러시면 가족분들에게 위해가 갈지도 모릅니다…!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>그 얘기는 그만! 이야기는 여기까지 하겠습니다!</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>…왜… 설마… 설마 그분들에게 무슨 일이라도…?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>또 그렇게… 입을 다무시네요… 그래요. 당신은 원래 구구절절 말하는 분이 아니시죠.</s>
+					<s>좋습니다. 이 서신, 목숨을 걸고 그들에게 전달하겠습니다.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>미안합니다. 마스테마……</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>사과하지 말아주세요. 제 목숨은 당신을 위해 있는 것. 오히려 이런 부탁을 받을 수 있어 기쁠 따름입니다.</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>다만 제 부탁도 하나만 들어 주셨으면 합니다. 이 [ff7b50]물약[-]을 꼭 받아 주세요. 지금 당신의 안색이 몹시 창백합니다. 지금 당장이라도 쓰러지실 것 같아요. 비록 크게 도움이 되지 않을지라도, 그래도…!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……알겠습니다.</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>이제 당신의 명령을 받들어 떠나겠습니다. 부디 뜻을 이루시길……</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(그동안 고마웠다. 마스테마.)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(살아남을 생각 따윈 없다. 하지만 복수만은 반드시… 성공해야 한다.)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(그러니 절대 방심하지 않도록, 단단히 채비하자.)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="7">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>……이제 때가 되었다.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>기다려라. 검은 마법사!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialDemon03" index="1062" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>……</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(뭔가… 무슨 소리가 들리는데……)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(여긴 어디지… 난 살아 있는 건가?)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(으… 힘이 빠져나가고 있어… 뭔가 내 힘을 빨아들이는 것 같다……)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(저 녀석들이 내 힘을…? 여기서 나가자!)</s>
+				</Page>
+			</Body>
+		</Task>
+				
+		<Task index="6">
+			<Body>
+				<Page speaker="BlackWingsGuard_DemonTuto_01" position="Right">
+					<s>뭐… 뭐야? 뭐야, 저건?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(…어찌된 일이지? 포스가 거의 사라졌다. 옆에 이 물건은… 설마 이 물건이 내 힘을 다 뽑아낸 것인가…?!)</s>
+				</Page>
+				<Page speaker="BlackWingsGuard_DemonTuto_02" position="Right">
+					<s>이… 이런 건 들은 적 없어!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>무슨 짓을 한 거냐! 왜 이런 짓을 한 거지? 너희들은 대체……!</s>
+				</Page>
+				<Page speaker="BlackWingsGuard_DemonTuto_01" position="Right">
+					<s>저 녀석을 붙잡아야 추궁을 면할 거야!!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="7">
+			<Body>
+				<Page speaker="J_DemonTuto_01" position="Right">
+					<s>(굉장한 기술… 저 자는 대체 뭐지…?)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(으… 겨우 저런 녀석들을 처치한 걸로 힘이 너무 많이 빠졌어…)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(여기는 어디지? 최소한 나에게 안전한 곳은 아니다. 어서 이곳을 벗어나자.)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialDemon05" index="1064" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>군단장님! 연락도 없이 어디 가셨던 겁니까? 안 그래도 아카이럼님이 트집을 잡으려고 얼마나 벼르고 있는지 누구보다 잘 아시는 분이……</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>분위기가 심상치 않습니다. 필시 시간의 신전의 여신을 붙잡은 군단장님의 공을 시기하는 거겠죠. 흥! 아카이럼님이 한 일은 여신의 눈을 잠깐 가린 것뿐인데도요. 그것도 원래의 지위를 이용한 거면서!</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>어… 평소 같으면 쓸데없는 소리 말라고 핀잔을 주셨을 텐데… 무슨 일이라도 있으신 건가요? 이제 보니 무척 안색이 안 좋으신데… 어디 아프신 건가요? 혹시 이전 싸움에서 다친 곳이라도?!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……마스테마. 당신은, 검은 마법사와 저 둘 중 누구의 부하입니까.</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>네? 갑자기 왜 그런 질문을…?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>대답하십시오.</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>그… 그야 당연히 위대한 그분께 충성하고 있습니다. 하지만 당신이 제 목숨을 구해주신 날부터 당신을 위해 목숨을 바치겠다 결심했습니다…! 알고 계시지 않습니까? 그런데 왜 이런 걸…?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……당신에게 부탁하고 싶은 게 있습니다. 이 서신을… 그들, [ff7b50]영웅[-]이라 불리는 자들에게 전해주십시오.</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>네? 이걸 왜 그들에게…? 자리를 비우신 것만으로도 뒷말이 나올 겁니다. 그런데 만약 그들과 접촉했다는 사실이 알려지기라도 하면 반역을 도모한다는 오명을 쓰실 겁니다! 분명 그럴 거라고요! 무슨 생각이십니까, 군단장님!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……저는 더 이상 군단장이 아닙니다.</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>설마… 검은 마법사님을 배신하시는 건가요? 그분께 누구보다 충성하던 당신이?! 시간의 신전을 점령한 게 바로 얼마 전이에요! 이제 포상 받으실 일만 남았는데… 어째서… 어째서요?!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>시간이 없습니다. 무리한 부탁을 한 거라면 거둬 들이겠습니다.</s>
+					<s>……당신과는 싸우고 싶지 않습니다.</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>무리한 부탁이라서가 아니에요! 전 다만 당신이 걱정되어서…!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>가족분들은 어떻게 하시려고 그러세요?! 이러시면 가족분들에게 위해가 갈지도 모릅니다…!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>그 얘기는 그만! 이야기는 여기까지 하겠습니다!</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>…왜… 설마… 설마 그분들에게 무슨 일이라도…?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>또 그렇게… 입을 다무시네요… 그래요. 당신은 원래 구구절절 말하는 분이 아니시죠.</s>
+					<s>좋습니다. 이 서신, 목숨을 걸고 그들에게 전달하겠습니다.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>미안합니다. 마스테마……</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>사과하지 말아주세요. 제 목숨은 당신을 위해 있는 것. 오히려 이런 부탁을 받을 수 있어 기쁠 따름입니다.</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>다만 제 부탁도 하나만 들어 주셨으면 합니다. 이 [ff7b50]물약[-]을 꼭 받아 주세요. 지금 당신의 안색이 몹시 창백합니다. 지금 당장이라도 쓰러지실 것 같아요. 비록 크게 도움이 되지 않을지라도, 그래도…!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……알겠습니다.</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>이제 당신의 명령을 받들어 떠나겠습니다. 부디 뜻을 이루시길……</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(그동안 고마웠다. 마스테마.)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(살아남을 생각 따윈 없다. 하지만 복수만은 반드시… 성공해야 한다.)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(그러니 절대 방심하지 않도록, 단단히 채비하자.)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="7">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>……이제 때가 되었다.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>기다려라. 검은 마법사!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialDemon06" index="1065" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>……</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(뭔가… 무슨 소리가 들리는데……)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(여긴 어디지… 난 살아 있는 건가?)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(으… 힘이 빠져나가고 있어… 뭔가 내 힘을 빨아들이는 것 같다……)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(저 녀석들이 내 힘을…? 여기서 나가자!)</s>
+				</Page>
+			</Body>
+		</Task>
+				
+		<Task index="6">
+			<Body>
+				<Page speaker="BlackWingsGuard_DemonTuto_01" position="Right">
+					<s>뭐… 뭐야? 뭐야, 저건?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(…어찌된 일이지? 포스가 거의 사라졌다. 옆에 이 물건은… 설마 이 물건이 내 힘을 다 뽑아낸 것인가…?!)</s>
+				</Page>
+				<Page speaker="BlackWingsGuard_DemonTuto_02" position="Right">
+					<s>이… 이런 건 들은 적 없어!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>무슨 짓을 한 거냐! 왜 이런 짓을 한 거지? 너희들은 대체……!</s>
+				</Page>
+				<Page speaker="BlackWingsGuard_DemonTuto_01" position="Right">
+					<s>저 녀석을 붙잡아야 추궁을 면할 거야!!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="7">
+			<Body>
+				<Page speaker="J_DemonTuto_01" position="Right">
+					<s>(굉장한 기술… 저 자는 대체 뭐지…?)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(으… 겨우 저런 녀석들을 처치한 걸로 힘이 너무 많이 빠졌어…)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(여기는 어디지? 최소한 나에게 안전한 곳은 아니다. 어서 이곳을 벗어나자.)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+
+
+	<Quest code="TutorialDemon08" index="1067" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>군단장님! 연락도 없이 어디 가셨던 겁니까? 안 그래도 아카이럼님이 트집을 잡으려고 얼마나 벼르고 있는지 누구보다 잘 아시는 분이……</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>분위기가 심상치 않습니다. 필시 시간의 신전의 여신을 붙잡은 군단장님의 공을 시기하는 거겠죠. 흥! 아카이럼님이 한 일은 여신의 눈을 잠깐 가린 것뿐인데도요. 그것도 원래의 지위를 이용한 거면서!</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>어… 평소 같으면 쓸데없는 소리 말라고 핀잔을 주셨을 텐데… 무슨 일이라도 있으신 건가요? 이제 보니 무척 안색이 안 좋으신데… 어디 아프신 건가요? 혹시 이전 싸움에서 다친 곳이라도?!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……마스테마. 당신은, 검은 마법사와 저 둘 중 누구의 부하입니까.</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>네? 갑자기 왜 그런 질문을…?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>대답하십시오.</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>그… 그야 당연히 위대한 그분께 충성하고 있습니다. 하지만 당신이 제 목숨을 구해주신 날부터 당신을 위해 목숨을 바치겠다 결심했습니다…! 알고 계시지 않습니까? 그런데 왜 이런 걸…?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……당신에게 부탁하고 싶은 게 있습니다. 이 서신을… 그들, [ff7b50]영웅[-]이라 불리는 자들에게 전해주십시오.</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>네? 이걸 왜 그들에게…? 자리를 비우신 것만으로도 뒷말이 나올 겁니다. 그런데 만약 그들과 접촉했다는 사실이 알려지기라도 하면 반역을 도모한다는 오명을 쓰실 겁니다! 분명 그럴 거라고요! 무슨 생각이십니까, 군단장님!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……저는 더 이상 군단장이 아닙니다.</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>설마… 검은 마법사님을 배신하시는 건가요? 그분께 누구보다 충성하던 당신이?! 시간의 신전을 점령한 게 바로 얼마 전이에요! 이제 포상 받으실 일만 남았는데… 어째서… 어째서요?!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>시간이 없습니다. 무리한 부탁을 한 거라면 거둬 들이겠습니다.</s>
+					<s>……당신과는 싸우고 싶지 않습니다.</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>무리한 부탁이라서가 아니에요! 전 다만 당신이 걱정되어서…!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>가족분들은 어떻게 하시려고 그러세요?! 이러시면 가족분들에게 위해가 갈지도 모릅니다…!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>그 얘기는 그만! 이야기는 여기까지 하겠습니다!</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>…왜… 설마… 설마 그분들에게 무슨 일이라도…?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>또 그렇게… 입을 다무시네요… 그래요. 당신은 원래 구구절절 말하는 분이 아니시죠.</s>
+					<s>좋습니다. 이 서신, 목숨을 걸고 그들에게 전달하겠습니다.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>미안합니다. 마스테마……</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>사과하지 말아주세요. 제 목숨은 당신을 위해 있는 것. 오히려 이런 부탁을 받을 수 있어 기쁠 따름입니다.</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>다만 제 부탁도 하나만 들어 주셨으면 합니다. 이 [ff7b50]물약[-]을 꼭 받아 주세요. 지금 당신의 안색이 몹시 창백합니다. 지금 당장이라도 쓰러지실 것 같아요. 비록 크게 도움이 되지 않을지라도, 그래도…!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……알겠습니다.</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>이제 당신의 명령을 받들어 떠나겠습니다. 부디 뜻을 이루시길……</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(그동안 고마웠다. 마스테마.)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(살아남을 생각 따윈 없다. 하지만 복수만은 반드시… 성공해야 한다.)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(그러니 절대 방심하지 않도록, 단단히 채비하자.)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="7">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>……이제 때가 되었다.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>기다려라. 검은 마법사!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialDemon09" index="1068" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>……</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(뭔가… 무슨 소리가 들리는데……)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(여긴 어디지… 난 살아 있는 건가?)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(으… 힘이 빠져나가고 있어… 뭔가 내 힘을 빨아들이는 것 같다……)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(저 녀석들이 내 힘을…? 여기서 나가자!)</s>
+				</Page>
+			</Body>
+		</Task>
+				
+		<Task index="6">
+			<Body>
+				<Page speaker="BlackWingsGuard_DemonTuto_01" position="Right">
+					<s>뭐… 뭐야? 뭐야, 저건?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(…어찌된 일이지? 포스가 거의 사라졌다. 옆에 이 물건은… 설마 이 물건이 내 힘을 다 뽑아낸 것인가…?!)</s>
+				</Page>
+				<Page speaker="BlackWingsGuard_DemonTuto_02" position="Right">
+					<s>이… 이런 건 들은 적 없어!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>무슨 짓을 한 거냐! 왜 이런 짓을 한 거지? 너희들은 대체……!</s>
+				</Page>
+				<Page speaker="BlackWingsGuard_DemonTuto_01" position="Right">
+					<s>저 녀석을 붙잡아야 추궁을 면할 거야!!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="7">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(으… 겨우 저런 녀석들을 처치한 걸로 이렇게나 지치다니…)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>…………!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(내가 가진 힘이 거의 사라졌다?! 어째서? 머리가 혼란스럽군…)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(……하하하! 차라리 잘된 일인가? 어차피 검은 마법사를 위해 썼던 힘이었으니.)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(그래, 어쩌면 지금이 이 저주받은 힘의 사슬을 끊어낼 좋은 기회일지도 모른다. 그를 위해 사용했던 포스에 일말의 미련도 없어!)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(그 대신 내게 남은 검은 마법사를 향한 분노… 이 증오의 힘을 새로운 양식으로 삼겠다. 설령 내 몸에 무리가 가더라도 감수하겠어!)</s>
+				</Page>
+			</Body>
+		</Task>
+				
+		<Task index="8">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(후우…… 어쩐지 새롭게 태어난 듯하군. 무력한 기분은 여전하지만.)</s>
+				</Page>
+				<Page speaker="J_DemonTuto_01" position="Right">
+					<s>!</s>
+				</Page>
+				<Page speaker="J_DemonTuto_01" position="Right">
+					<s>(굉장한 기술… 그리고 저 갑작스러운 변화는…! 저 자는 대체 뭐지…?)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>…………</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(그나저나 여기는 어디지? 최소한 나에게 안전한 곳은 아니다. 어서 이곳을 벗어나자.)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+
+
+	<Quest code="TutorialDemon11" index="1070" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>군단장님! 연락도 없이 어디 가셨던 겁니까? 안 그래도 아카이럼님이 트집을 잡으려고 얼마나 벼르고 있는지 누구보다 잘 아시는 분이……</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>분위기가 심상치 않습니다. 필시 시간의 신전의 여신을 붙잡은 군단장님의 공을 시기하는 거겠죠. 흥! 아카이럼님이 한 일은 여신의 눈을 잠깐 가린 것뿐인데도요. 그것도 원래의 지위를 이용한 거면서!</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>어… 평소 같으면 쓸데없는 소리 말라고 핀잔을 주셨을 텐데… 무슨 일이라도 있으신 건가요? 이제 보니 무척 안색이 안 좋으신데… 어디 아프신 건가요? 혹시 이전 싸움에서 다친 곳이라도?!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……마스테마. 당신은, 검은 마법사와 저 둘 중 누구의 부하입니까.</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>네? 갑자기 왜 그런 질문을…?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>대답하십시오.</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>그… 그야 당연히 위대한 그분께 충성하고 있습니다. 하지만 당신이 제 목숨을 구해주신 날부터 당신을 위해 목숨을 바치겠다 결심했습니다…! 알고 계시지 않습니까? 그런데 왜 이런 걸…?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……당신에게 부탁하고 싶은 게 있습니다. 이 서신을… 그들, [ff7b50]영웅[-]이라 불리는 자들에게 전해주십시오.</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>네? 이걸 왜 그들에게…? 자리를 비우신 것만으로도 뒷말이 나올 겁니다. 그런데 만약 그들과 접촉했다는 사실이 알려지기라도 하면 반역을 도모한다는 오명을 쓰실 겁니다! 분명 그럴 거라고요! 무슨 생각이십니까, 군단장님!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……저는 더 이상 군단장이 아닙니다.</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>설마… 검은 마법사님을 배신하시는 건가요? 그분께 누구보다 충성하던 당신이?! 시간의 신전을 점령한 게 바로 얼마 전이에요! 이제 포상 받으실 일만 남았는데… 어째서… 어째서요?!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>시간이 없습니다. 무리한 부탁을 한 거라면 거둬 들이겠습니다.</s>
+					<s>……당신과는 싸우고 싶지 않습니다.</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>무리한 부탁이라서가 아니에요! 전 다만 당신이 걱정되어서…!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>가족분들은 어떻게 하시려고 그러세요?! 이러시면 가족분들에게 위해가 갈지도 모릅니다…!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>그 얘기는 그만! 이야기는 여기까지 하겠습니다!</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>…왜… 설마… 설마 그분들에게 무슨 일이라도…?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>또 그렇게… 입을 다무시네요… 그래요. 당신은 원래 구구절절 말하는 분이 아니시죠.</s>
+					<s>좋습니다. 이 서신, 목숨을 걸고 그들에게 전달하겠습니다.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>미안합니다. 마스테마……</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>사과하지 말아주세요. 제 목숨은 당신을 위해 있는 것. 오히려 이런 부탁을 받을 수 있어 기쁠 따름입니다.</s>
+				</Page>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>다만 제 부탁도 하나만 들어 주셨으면 합니다. 이 [ff7b50]물약[-]을 꼭 받아 주세요. 지금 당신의 안색이 몹시 창백합니다. 지금 당장이라도 쓰러지실 것 같아요. 비록 크게 도움이 되지 않을지라도, 그래도…!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……알겠습니다.</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="Mastema_DemonTuto_01" position="Right">
+					<s>이제 당신의 명령을 받들어 떠나겠습니다. 부디 뜻을 이루시길……</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(그동안 고마웠다. 마스테마.)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(살아남을 생각 따윈 없다. 하지만 복수만은 반드시… 성공해야 한다.)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(그러니 절대 방심하지 않도록, 단단히 채비하자.)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="7">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>……이제 때가 되었다.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>기다려라. 검은 마법사!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialDemon12" index="1071" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>……</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(뭔가… 무슨 소리가 들리는데……)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(여긴 어디지… 난 살아 있는 건가?)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(으… 힘이 빠져나가고 있어… 뭔가 내 힘을 빨아들이는 것 같다……)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(저 녀석들이 내 힘을…? 여기서 나가자!)</s>
+				</Page>
+			</Body>
+		</Task>
+				
+		<Task index="6">
+			<Body>
+				<Page speaker="BlackWingsGuard_DemonTuto_01" position="Right">
+					<s>뭐… 뭐야? 뭐야, 저건?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(…어찌된 일이지? 포스가 거의 사라졌다. 옆에 이 물건은… 설마 이 물건이 내 힘을 다 뽑아낸 것인가…?!)</s>
+				</Page>
+				<Page speaker="BlackWingsGuard_DemonTuto_02" position="Right">
+					<s>이… 이런 건 들은 적 없어!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>무슨 짓을 한 거냐! 왜 이런 짓을 한 거지? 너희들은 대체……!</s>
+				</Page>
+				<Page speaker="BlackWingsGuard_DemonTuto_01" position="Right">
+					<s>저 녀석을 붙잡아야 추궁을 면할 거야!!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="7">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(으… 겨우 저런 녀석들을 처치한 걸로 이렇게나 지치다니…)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>…………!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(내가 가진 힘이 거의 사라졌다?! 어째서? 머리가 혼란스럽군…)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(……하하하! 차라리 잘된 일인가? 어차피 검은 마법사를 위해 썼던 힘이었으니.)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(그래, 어쩌면 지금이 이 저주받은 힘의 사슬을 끊어낼 좋은 기회일지도 모른다. 그를 위해 사용했던 포스에 일말의 미련도 없어!)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(그 대신 내게 남은 검은 마법사를 향한 분노… 이 증오의 힘을 새로운 양식으로 삼겠다. 설령 내 몸에 무리가 가더라도 감수하겠어!)</s>
+				</Page>
+			</Body>
+		</Task>
+				
+		<Task index="8">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(후우…… 어쩐지 새롭게 태어난 듯하군. 무력한 기분은 여전하지만.)</s>
+				</Page>
+				<Page speaker="J_DemonTuto_01" position="Right">
+					<s>!</s>
+				</Page>
+				<Page speaker="J_DemonTuto_01" position="Right">
+					<s>(굉장한 기술… 그리고 저 갑작스러운 변화는…! 저 자는 대체 뭐지…?)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>…………</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(그나저나 여기는 어디지? 최소한 나에게 안전한 곳은 아니다. 어서 이곳을 벗어나자.)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialXenon01" index="1072" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="Gelimer_Xenontuto_01" position="Left">
+					<s>자, 이제 눈을 뜨거라!</s>
+				</Page>
+				<Page speaker="Gelimer_Xenontuto_01" position="Left">
+					<s>나의 강력한 파괴병기 제논이여!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="Gelimer_Xenontuto_01" position="Left">
+					<s>셀 수 없을 정도로 많은 테스트를 진행했지만 계획했던 비밀병기를 만들 수 없었다. 하지만…</s>
+				</Page>
+				<Page speaker="Gelimer_Xenontuto_01" position="Left">
+					<s>[ff7b50]그 이론[-] 덕분에 내 연구에 부족한 게 무엇인지 깨달았지. 이제 곧 완벽한 제네로이드가 완성된다!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="Gelimer_Xenontuto_01" position="Left">
+					<s>침입자? 서, 설마 오르카님인가? 모니터를 확대해 봐라!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="Gelimer_Xenontuto_01" position="Right">
+					<s>저 녀석들은… 레지스탕스인가.</s>
+				</Page>
+				<Page speaker="Gelimer_Xenontuto_01" position="Right">
+					<s>오르카님에게 들키는 것보다는 낫다만, 하필 이런 때에 잠입하다니… 쯧!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="Gelimer_Xenontuto_01" position="Right">
+					<s>오, 좋은 생각이 떠오르는군. 내 비밀 연구실에 살금살금 숨어들었으니 위대한 연구 성과를 검증할 실험쥐로 사용하면 딱이겠어.</s>
+				</Page>
+				<Page speaker="Gelimer_Xenontuto_01" position="Right">
+					<s>자, 그럼 테스트를 시작해 볼까? 크크큭…</s>
+				</Page>
+			</Body>
+		</Task>
+	
+	</Quest>
+	
+	
+	<Quest code="TutorialXenon02" index="1073" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="Elex_Xenontuto_01" position="Right">
+					<s>광산 내부에 또 다른 연구소가 숨겨져 있을 줄이야…</s>
+				</Page>
+				<Page speaker="Claudine_Xenontuto_01" position="Right">
+					<s>…우리가 제대로 찾아온 것 같네요.</s>
+				</Page>
+				<Page speaker="Belle_Xenontuto_01" position="Right">
+					<s>이 연구소의 주인은 어디 있지? 손님 대접이 너무 허술하잖아.</s>
+				</Page>
+				<Page speaker="Brighton_Xenontuto_01" position="Right">
+					<s>벨… 이런 때에도 그렇게 여유 있는 소리를 하는 거야?</s>
+				</Page>
+				<Page speaker="Checky_Xenontuto_01" position="Right">
+					<s>여러분, 환영이 시작되려나 봅니다.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>타깃 확인.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>명령에 따라 목표 공격한다.</s>
+				</Page>
+				<Page speaker="Claudine_Xenontuto_01" position="Right">
+					<s>!!!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>읏…!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(방금 그건 대체…?)</s>
+				</Page>
+				<Page speaker="Claudine_Xenontuto_01" position="Right">
+					<s>당신은……</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="Gelimer_Xenontuto_03" position="Left">
+					<s>함정에 걸린 건 겨우 한 명인가.</s>
+				</Page>
+				<Page speaker="Gelimer_Xenontuto_03" position="Left">
+					<s>공격 명령을 내렸는데 어째서 그리 멍청하게 서 있는 거냐, 제논!</s>
+				</Page>
+				<Page speaker="Gelimer_Xenontuto_03" position="Left">
+					<s>쯧, 이대론 안 되겠군. 한시라도 빨리 연구를 완성시켜야겠어. 어차피 그 책이 있으니 더 이상 실패는 없겠지. 클클클…</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……</s>
+				</Page>
+				<Page speaker="Gelimer_Xenontuto_03" position="Left">
+					<s>베릴, 포로를 데려 가라.</s>
+				</Page>
+			</Body>
+		</Task>
+	
+	</Quest>
+	
+	
+	<Quest code="TutorialXenon03" index="1074" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="Elex_Xenontuto_01" position="Right">
+					<s>광산 내부에 또 다른 연구소가 숨겨져 있을 줄이야…</s>
+				</Page>
+				<Page speaker="Claudine_Xenontuto_01" position="Right">
+					<s>…우리가 제대로 찾아온 것 같네요.</s>
+				</Page>
+				<Page speaker="Belle_Xenontuto_01" position="Right">
+					<s>이 연구소의 주인은 어디 있지? 손님 대접이 너무 허술하잖아.</s>
+				</Page>
+				<Page speaker="Brighton_Xenontuto_01" position="Right">
+					<s>벨… 이런 때에도 그렇게 여유 있는 소리를 하는 거야?</s>
+				</Page>
+				<Page speaker="Checky_Xenontuto_01" position="Right">
+					<s>여러분, 환영이 시작되려나 봅니다.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>타깃 확인.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>명령에 따라 목표 공격한다.</s>
+				</Page>
+				<Page speaker="Claudine_Xenontuto_01" position="Right">
+					<s>!!!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>읏…!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(방금 그건 대체…?)</s>
+				</Page>
+				<Page speaker="Claudine_Xenontuto_01" position="Right">
+					<s>당신은……</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="Gelimer_Xenontuto_03" position="Left">
+					<s>함정에 걸린 건 겨우 한 명인가.</s>
+				</Page>
+				<Page speaker="Gelimer_Xenontuto_03" position="Left">
+					<s>공격 명령을 내렸는데 어째서 그리 멍청하게 서 있는 거냐, 제논!</s>
+				</Page>
+				<Page speaker="Gelimer_Xenontuto_03" position="Left">
+					<s>쯧, 이대론 안 되겠군. 한시라도 빨리 연구를 완성시켜야겠어. 어차피 그 책이 있으니 더 이상 실패는 없겠지. 클클클…</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……</s>
+				</Page>
+				<Page speaker="Gelimer_Xenontuto_03" position="Left">
+					<s>베릴, 포로를 데려 가라.</s>
+				</Page>
+			</Body>
+		</Task>
+	
+	</Quest>
+	
+	
+	<Quest code="TutorialXenon04" index="1075" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(아까 그 노이즈는 뭐였지…?)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(처음이야, 그런 일은.)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(노이즈가 발생한 건 정확히 그 포로와 눈이 마주쳤던 순간이었다. 어째서……)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="RooD_Xenontuto_02" position="Right">
+					<s>제논!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>아! 루티!</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_02" position="Right">
+					<s>무슨 생각을 그렇게 골똘히 하는 거야? 내가 오는 줄도 모르고.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>무슨 일이야?</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_02" position="Right" type="Image" Image.Code="XenonCinema_03_01" Image.Path="DynamicTexture/Quest/Xenon/XenonCinema_03_01" Image.IsOn="TRUE" Image.UseOriginSize="true">>
+					<s>아, 이거 받아.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>읏…!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(또…!)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>…루티, 뭐야 이건?</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_02" position="Right">
+					<s>격납고에서 주웠어. 아마 포로가 가지고 있던 물건인 것 같아.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>포로……</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>…………</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>루티, 나 어딘가 망가졌나 봐. 아까 그 사건이 있은 후부터 자꾸 노이즈가 발생하거든. 전투도 하지 않았는데 기능 손상이 일어나다니… 이상해.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="RooD_Xenontuto_02" position="Right">
+					<s>기억이 돌아오고 있구나?!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>기억?</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_02" position="Right">
+					<s>그 노이즈는 네 기억이 복구될 때마다 일어났었어. 마지막으로 네가 그 현상을 겪은 건 오래 전이라 이젠 다 틀린 줄 알았는데… 아니었구나!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>무슨 소리야? 그런 일 난 전혀 기억나지 않는걸.</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_02" position="Right">
+					<s>그건 당연해. 네가 기억을 되찾을 때마다 겔리메르가 네 기억을 지웠거든.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>기억…을 지운다고?!</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_02" position="Right">
+					<s>과거에 넌 기억이 지워지는 걸 결코 원하지 않았어. 그리고 이 연구소에서 탈출하고 싶어했지.</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_02" position="Right">
+					<s>하지만 겔리메르는 전부 소거해 버렸어. 네 기억이 조금이라도 되살아 날 때마다 말이야. 만일 이번 일도 박사가 알게 된다면 네 기억은 또다시 리셋 될 거야.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>!!!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>말도 안 돼… 어째서 그런 짓을…!</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_02" position="Right">
+					<s>…기억이 나지 않으니 믿기 어렵겠지만 모두 사실이야.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>…………</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>루티, 지금 당장 그 포로를 만나러 갈래. 노이즈 현상의 원인이 바로 그 사람인 것 같거든. 방법은 모르겠지만 내 기억장치에 어떤 작용을 했으니 나에 대해 무언가 알고 있을 거야.</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_02" position="Right">
+					<s>좋아, 내가 앞장설게!</s>
+				</Page>
+			</Body>
+		</Task>
+	
+	</Quest>
+	
+	
+	<Quest code="TutorialXenon05" index="1076" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(아까 그 노이즈는 뭐였지…?)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(처음이야, 그런 일은.)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(노이즈가 발생한 건 정확히 그 포로와 눈이 마주쳤던 순간이었다. 어째서……)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="RooD_Xenontuto_02" position="Right">
+					<s>제논!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>아! 루티!</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_02" position="Right">
+					<s>무슨 생각을 그렇게 골똘히 하는 거야? 내가 오는 줄도 모르고.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>무슨 일이야?</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_02" position="Right" type="Image" Image.Code="XenonCinema_03_01" Image.Path="DynamicTexture/Quest/Xenon/XenonCinema_03_01" Image.IsOn="TRUE" Image.UseOriginSize="true">
+					<s>아, 이거 받아.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>읏…!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(또…!)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>…루티, 뭐야 이건?</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_02" position="Right">
+					<s>격납고에서 주웠어. 아마 포로가 가지고 있던 물건인 것 같아.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>포로……</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>…………</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>루티, 나 어딘가 망가졌나 봐. 아까 그 사건이 있은 후부터 자꾸 노이즈가 발생하거든. 전투도 하지 않았는데 기능 손상이 일어나다니… 이상해.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="RooD_Xenontuto_02" position="Right">
+					<s>기억이 돌아오고 있구나?!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>기억?</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_02" position="Right">
+					<s>그 노이즈는 네 기억이 복구될 때마다 일어났었어. 마지막으로 네가 그 현상을 겪은 건 오래 전이라 이젠 다 틀린 줄 알았는데… 아니었구나!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>무슨 소리야? 그런 일 난 전혀 기억나지 않는걸.</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_02" position="Right">
+					<s>그건 당연해. 네가 기억을 되찾을 때마다 겔리메르가 네 기억을 지웠거든.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>기억…을 지운다고?!</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_02" position="Right">
+					<s>과거에 넌 기억이 지워지는 걸 결코 원하지 않았어. 그리고 이 연구소에서 탈출하고 싶어했지.</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_02" position="Right">
+					<s>하지만 겔리메르는 전부 소거해 버렸어. 네 기억이 조금이라도 되살아 날 때마다 말이야. 만일 이번 일도 박사가 알게 된다면 네 기억은 또다시 리셋 될 거야.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>!!!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>말도 안 돼… 어째서 그런 짓을…!</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_02" position="Right">
+					<s>…기억이 나지 않으니 믿기 어렵겠지만 모두 사실이야.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>…………</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>루티, 지금 당장 그 포로를 만나러 갈래. 노이즈 현상의 원인이 바로 그 사람인 것 같거든. 방법은 모르겠지만 내 기억장치에 어떤 작용을 했으니 나에 대해 무언가 알고 있을 거야.</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_02" position="Right">
+					<s>좋아, 내가 앞장설게!</s>
+				</Page>
+			</Body>
+		</Task>
+	
+	</Quest>
+	
+	
+	<Quest code="TutorialXenon07" index="1078" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="Claudine_Xenontuto_03" position="Right">
+					<s>…………</s>
+				</Page>
+				<Page speaker="Claudine_Xenontuto_03" position="Right">
+					<s>우리 레지스탕스가 빼돌린 유니티 프로젝트의 희생자들에 대해 물으러 왔나? 헛걸음했군. 블랙윙에게 해줄 말은 없다.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(유니티 프로젝트? 블랙윙?)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(이 사람은 무슨 말을 하는 거지? 혹시 내 기억과 관련된 이야긴가?)</s>
+				</Page>
+				<Page speaker="player" position="Left" type="Image" Image.Code="XenonCinema_03_01" Image.Path="DynamicTexture/Quest/Xenon/XenonCinema_03_01" Image.IsOn="TRUE" Image.UseOriginSize="true">
+					<s>이거……</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="Claudine_Xenontuto_03" position="Right">
+					<s>그건 내 단검!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>당신은 누구죠? 그리고 저는 누구인가요?</s>
+				</Page>
+				<Page speaker="Claudine_Xenontuto_03" position="Right">
+					<s>……뭐?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>당신 때문에 자꾸 오류가 발생해요. 루티는 제가 잊어버린 기억을 되찾고 있기 때문이래요. 그러니까 당신은 제 기억과 관련된 사람이 분명해요.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>당신은 알고 있죠? 제 메모리에서 지워진 기억이 무엇인지, 그리고 제가 누구인지?</s>
+				</Page>
+				<Page speaker="Claudine_Xenontuto_03" position="Right">
+					<s>…………</s>
+				</Page>
+				<Page speaker="Claudine_Xenontuto_03" position="Right">
+					<s>황당하군. 오늘 너를 처음 본 내가 그런 걸 알 리가 없잖아.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……그런가요.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>그럼 당신은 누구인가요? 그리고 무슨 실수를 했길래 감옥에 갇힌 거죠?</s>
+				</Page>
+				<Page speaker="Claudine_Xenontuto_03" position="Right">
+					<s>뭐? 실수?</s>
+				</Page>
+				<Page speaker="Claudine_Xenontuto_03" position="Right">
+					<s>지금 뭐하자는 거지? 그때 우리가 목숨 걸고 유니티 프로젝트를 중단시킨 건 에델슈타인 시민들을 지키기 위한 의거였다! 그걸 실수라고 일컫다니 어처구니가 없군!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>박사는 실수할 때 벌을 줍니다. 그래서 전 당신도 실수했다고 생각했어요.</s>
+				</Page>
+				<Page speaker="Claudine_Xenontuto_03" position="Right">
+					<s>[fs=18]…대체 어떤 취급을 받고 있기에…[/fs]</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_03" position="Left">
+					<s>제논, 박사는 자신의 연구 실험체를 빼돌린 이 사람을 추궁하기 위해 감옥에 가둔 거야.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>빼돌린 실험체…?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>그렇다면 그 실험체를 돌려 주세요. 그럼 당신은 감옥에서 나올 수 있을 거예요.</s>
+				</Page>
+				<Page speaker="Claudine_Xenontuto_03" position="Right">
+					<s>후, 그럴 리가. 오히려 쓸모 없어진 나를 제거하려 들 테지.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>아니에요! 잘못을 만회하면 벌은 끝나요.</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_03" position="Left">
+					<s>제논, 이 사람 말이 맞아. 박사는 사사건건 연구를 방해하는 이 무리에게 원한이 깊거든.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(이 사람이 무얼 하든 박사는 용서할 생각이 없다는 건가…)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(안돼! 이 사람을 다치게 둘 순 없어! 이 사람을 지키라는 명령을 받진 않았지만 어째선지 그래야만 할 것 같아…)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>자, 문을 열 테니 어서 나오세요!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="6">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>앗, 부상을 당했나요? 그렇다면 혼자서는 위험하겠군요.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>제가 함께 할게요. 당신이 무사히 빠져나갈 수 있도록 지름길을 안내하고 호위하겠습니다.</s>
+				</Page>
+				<Page speaker="Claudine_Xenontuto_03" position="Right">
+					<s>…어째서?</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_03" position="Left">
+					<s>곧 박사가 돌아올 거야! 서둘러!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>자, 가요!</s>
+				</Page>
+			</Body>
+		</Task>
+	
+	</Quest>
+	
+	
+	<Quest code="TutorialXenon08" index="1079" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="Claudine_Xenontuto_04" position="Left">
+					<s>여러분!</s>
+				</Page>
+				<Page speaker="Checky_Xenontuto_02" position="Right">
+					<s>지그문트, 구하러 왔습니다. 인사는 나중에 나누도록 하지요. 이얍!</s>
+				</Page>
+			</Body>
+		</Task>
+	
+	</Quest>
+	
+	
+	<Quest code="TutorialXenon09" index="1080" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="Belle_Xenontuto_03" position="Right">
+					<s>지그문트! 무사해서 다행이야. 얼마나 걱정했는지 몰라.</s>
+				</Page>
+				<Page speaker="Brighton_Xenontuto_03" position="Left">
+					<s>우린 체키가 재빨리 손써 준 덕분에 무사히 후퇴할 수 있었지만… 당신이 함정에 빠지는 걸 막지 못했어. 내 불찰이야.</s>
+				</Page>
+				<Page speaker="Claudine_Xenontuto_05" position="Right">
+					<s>내가 방심한 탓이에요. 그리고 이렇게 다시 구하러 와 줬잖아요? 모두 고마워요.</s>
+				</Page>
+				<Page speaker="Elex_Xenontuto_03" position="Right">
+					<s>그런데 말이야… 이 녀석은 어째서 여기 있는 거야? 겔리메르의 부하잖아?</s>
+				</Page>
+				<Page speaker="Claudine_Xenontuto_05" position="Right">
+					<s>그건…</s>
+				</Page>
+				<Page speaker="Checky_Xenontuto_03" position="Left">
+					<s>이 자는 박사에게 조종당하고 있는 것 같았습니다. 그런 자를 이렇게 데려와도 괜찮을까요? 다시 조종이라도 당하면 어떻게 하지요?</s>
+				</Page>
+				<Page speaker="Claudine_Xenontuto_05" position="Right">
+					<s>이 사람은… 저를 구해주었어요. 생명의 은인이라고 할 수 있죠. 그리고…</s>
+				</Page>
+				<Page speaker="Claudine_Xenontuto_05" position="Right">
+					<s>황당하게 들리겠지만, 왠지 이 사람을 그 연구실에 그대로 둬선 안될 것 같은 기분이 들었어요.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(이 사람도 나와 같은 생각을 했다…)</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_05" position="Left">
+					<s>저기… 제논을 조종하는 그 장치라면 제거할 수 있어.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="Elex_Xenontuto_03" position="Right">
+					<s>그럼 당장 떼어내라고! 그런 위험한 걸 언제까지나 달고 있을 순 없잖아.</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_05" position="Left">
+					<s>하지만 이건 단순히 조종만 하는 장치가 아닌걸. 전투 시스템 전체를 총괄하는 장치야. 떼어 버리면 제논은 시스템 자체가 망가져 버려서 지금과는 비교도 안되게 약해질 거야.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>상관없어, 루티. 제거할 수 있다면 그렇게 해줘.</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_05" position="Left">
+					<s>정말? 후회하지 않겠어?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>시스템은 천천히 복구하면 돼. 조금 시간은 걸리겠지만…</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>하지만 조종당하면 그걸로 끝이니까 오히려 그런 장치가 있는 편이 더 위험해. 아까처럼 내 의지와 상관없이 조종당하고 싶지 않아.</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_05" position="Left">
+					<s>그렇게까지 말한다면 알았어. 제어장치가 어떤 건지 알려 줄게.</s>
+				</Page>
+				<Page speaker="Checky_Xenontuto_03" position="Left">
+					<s>음, 스스로 제거하긴 좀 힘들겠군요. 제가 돕겠습니다.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(제거… 된 건가? 전투 시스템을 확인해 보자.)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="6">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>(루티의 말대로 확실히 시스템이 다운그레이드 되었다.)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(…그 때문인가? 시야에 들어오는 정보가 약간 무질서해진 것 같은… 읏.)</s>
+				</Page>
+				<Page speaker="Checky_Xenontuto_03" position="Left">
+					<s>괜찮습니까? 휘청거리는군요. 여기 물약을 받으세요. 이건 당신에게도 효과가 있을 겁니다.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="9">
+			<Body>
+				<Page speaker="RooD_Xenontuto_05" position="Left">
+					<s>제논…</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>괜찮아. 제어 장치가 없으니 이제 박사에게 조종당하지 않겠지?</s>
+				</Page>
+				<Page speaker="RooD_Xenontuto_05" position="Left">
+					<s>응, 제논은 이제 자유야.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(나는… 자유다!)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialCannoneer01" index="1081" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="player" position="Right">
+					<s>…[ff7b50]메이플 아일랜드[-]는 어떤 곳일까?</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>그 섬에 멋진 모험가들이 많이 모인다던데… 어쩌면 내가 기대했던 운명적인 만남이 있을 지도 몰라!</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>아아, 엄청 설레는걸!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="NPC_Skipper_01" position="Right">
+					<s>캬, 날씨 한번 기가 막히는군! 바람이 좋아서 섬에 곧 도착할 수 있겠어.</s>
+				</Page>
+				<Page speaker="NPC_Skipper_01" position="Right">
+					<s>모험의 시작부터 순항이라니… 자네는 행운아로구먼!</s>
+				</Page>
+				<Page speaker="NPC_Skipper_01" position="Right">
+					<s>이 배가 자네를 안전하게 섬까지 데려다 줄 테니 평화로운 항해를 즐기도록 하…!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>왜 그러세요, 선장님? 얼굴이 갑자기 파래졌어요?!</s>
+				</Page>
+				<Page speaker="NPC_Skipper_01" position="Right">
+					<s>자, 자네는 이 소, 소리가 들리지 않는겐가?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>소리라뇨? 무슨…?</s>
+				</Page>
+				<Page speaker="NPC_Skipper_01" position="Right">
+					<s>날갯짓 소리 말일세!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>!!!</s>
+				</Page>
+				<Page speaker="NPC_Skipper_01" position="Right">
+					<s>으, 으아악!!!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialCannoneer02" index="1082" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="NPC_Monkey_01" position="Right">
+					<s>끼긱~~ 끼긱~~??</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="NPC_Monkey_01" position="Right">
+					<s>끼익~ 끽, 끽! 끼기긱! 끼익~! 끽! 끽?!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>…난 분명 메이플 아일랜드로 가는 배를 타고 있었는데… 어떻게 된 거지?</s>
+				</Page>
+				<Page speaker="NPC_Monkey_01" position="Right">
+					<s>끼익끼익~ 끽! 끼긱! 끼이이이익!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>날씨가 좋았고… 선장님과 이야기를 나누다가…</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>…그래! 발록! 발록이 나타났어!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>그리고… 그대로 배에서 떨어진 건가? 하지만 난 이렇게 무사해…</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>그대로 정신을 잃어 수영을 할 수 없었을 텐데… 대체 어떻게 된 거지?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>혹시 난 무의식 상태에서도 헤엄칠 수 있을 정도로 수영 신동?!</s>
+				</Page>
+				<Page speaker="NPC_Monkey_01" position="Right">
+					<s>끼이이익! 끽! 끽!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>아아, 시끄러워… 대체 뭐야? 엥? 원숭이…?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>그러고 보니 눈을 떴을 때 이 얼굴이 가장 먼저 보였어… 이 녀석이 날 깨운 건가?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>왜 그러는 거야? 나에게 할말이라도 있어?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>엥? 그 손에 들린 건… 사과?</s>
+				</Page>
+				<Page speaker="NPC_Monkey_01" position="Right">
+					<s>끼리리릭~ 꿀꺽!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>아하! 내 체력이 떨어졌으니 사과로 보충하라는 말이구나?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>너 좋은 녀석이었구나! 고마워. 잘 챙기도록 할게.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="NPC_Monkey_01" position="Right">
+					<s>끼익~ 끼이이익!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>이 녀석 자세히 보니 좀 귀여운 것 같아…</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>아, 내가 식탐이 많긴 하지만 꼭 먹을 걸 줬기 때문에 하는 말은 아니야! 그러니까 오해하지 마.</s>
+				</Page>
+				<Page speaker="NPC_Monkey_01" position="Right">
+					<s>끼이이이익! 끽! 끽!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>그나저나 어떻게 된 거지? 뭐가 뭔지 하나도 모르겠다. 여긴 대체 어디지? 내가 타고 있던 배는…? 혹시 넌 알고 있니?</s>
+				</Page>
+				<Page speaker="NPC_Monkey_01" position="Right">
+					<s>끼익, 끼익!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>오, 그래? 그렇다면 이 녀석의 도움을 받아 상황을 정리해 보자. 그러니까… 발록을 만나서 바다에 떨어졌고…</s>
+				</Page>
+				<Page speaker="NPC_Monkey_01" position="Right">
+					<s>끽! 끽!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>놀라운 수영 실력을 발휘해 본능적으로 이 섬까지 헤엄을 쳤…</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="6">
+			<Body>
+				<Page speaker="NPC_Monkey_01" position="Right">
+					<s>끽! 끽!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>아, 알았어. 배에서 떨어졌고… 정신을 잃은 채 바다 위를 떠다니는 걸 네가 구해줬다는 말이지?</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="7">
+			<Body>
+				<Page speaker="NPC_Monkey_01" position="Right">
+					<s>끼이이이!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>그래, 네가 바로 내 생명의 은인인 모양이구나…</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>생명의 은인… 생명의 은인… 원숭이가 내 생명의 은인…</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>메이플 아일랜드로 가서 지혜와 용기로 고난과 역경을 이겨낸 강한 모험가들을 잔뜩 만날 수 있을 거라 꿈꿨는데…</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>그런데 현실은 낯선 섬에서 인간도 아닌 이 조그마한 녀석에게 구조를 받다니…</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="8">
+			<Body>
+				<Page speaker="NPC_Monkey_01" position="Right">
+					<s>끽?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>그, 그래도… 고맙다는 말은 해야겠지?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>정말 고마워! 덕분에 살았어!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="9">
+			<Body>
+				<Page speaker="NPC_Monkey_01" position="Right">
+					<s>끼익~ 끽!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="10">
+			<Body>
+				<Page speaker="NPC_Monkey_01" position="Right">
+					<s>끼이이익! 끽! 끽!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>갑자기 저기는 왜 가리키는 거야? 응? 저쪽에 나와 같은 사람이 있다고?</s>
+				</Page>
+				<Page speaker="NPC_Monkey_01" position="Right">
+					<s>끼익~ 끽~ 끽! 끼리릭!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="11">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>정말? 저쪽에 사람이 있다고?</s>
+				</Page>
+				<Page speaker="NPC_Monkey_01" position="Right">
+					<s>끽! 끽!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>혹시 내가 타고 왔던 배의 선장 스키퍼인가? 아니면 선원 레이팅?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>얼른 가보자!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialCannoneer03" index="1083" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="NPC_Cutter_01" position="Right">
+					<s>…누, 누구냐! 귀신?! 귀신인가?!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>사람입니다!</s>
+				</Page>
+				<Page speaker="NPC_Cutter_01" position="Right">
+					<s>사람? 사람이라고? 정말 사람이란 말인가?</s>
+				</Page>
+				<Page speaker="NPC_Cutter_01" position="Right">
+					<s>오! 맙소사! 이게 도대체 며칠만에 만난 사람인지…! 이젠 날짜도 헷갈릴 지경이군. 정말 반갑네!</s>
+				</Page>
+				<Page speaker="NPC_Cutter_01" position="Right">
+					<s>어흐흐흑… 기쁜데 왜 눈물이 나는 거지? 훌쩍.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(그 녀석이 가리킨 방향대로 왔더니 스키퍼도 레이팅도 아니고, 콧물 흘리면서 우는 아저씨가 있어…)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(이 아저씨도 나처럼 이 섬에 표류한 것 같아. 게다가 우리 말고 다른 사람은 없는 것 같고…)</s>
+				</Page>
+				<Page speaker="NPC_Cutter_01" position="Right">
+					<s>흐흐흑… 아니, 눈물을 흘릴 때가 아니지. 자네, 내 뒤에 있는 이 물건이 보이나?</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>우와! 이 거대한 대포는 뭐죠?!</s>
+				</Page>
+				<Page speaker="NPC_Cutter_01" position="Right">
+					<s>이건 내가 타고 있던 배에 원래 실려 있던 걸 개조해서 만든 탈출용 대포라네. 사람이 타고 날아갈 수 있게 만들었지!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>와아, 엄청 멋져요!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>…응? 그런데 왜 아직도 여기 계신 거예요?</s>
+				</Page>
+				<Page speaker="NPC_Cutter_01" position="Right">
+					<s>배가 이 섬에 좌초하면서 짐이 사방으로 흩어지고 말았거든. 다른 물건들은 금방 회수했지만 대포를 쏘아 보낼 발화장치는 좀처럼 찾아낼 수가 없었지.</s>
+				</Page>
+				<Page speaker="NPC_Cutter_01" position="Right">
+					<s>하지만 난 이 섬을 탈출하기 위해 포기하지 않고 열심히 탐색했지. 그리고 결국 그 장치를 찾았네! 다만 문제가 하나 있어.</s>
+				</Page>
+				<Page speaker="NPC_Cutter_01" position="Right">
+					<s>그 장치가 떨어져 있는 저쪽 작은 섬에 가려면 헤엄을 쳐야 하네. 허나 난 대포를 개조하다가 부상을 입어 움직일 수가 없어!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>그럼 제가 다녀 올게요. 저는 헤엄을 잘 치거든요.</s>
+				</Page>
+				<Page speaker="NPC_Cutter_01" position="Right">
+					<s>오, 그래 주겠는가? 그렇다면 잠시…</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>?</s>
+				</Page>
+				<Page speaker="NPC_Cutter_01" position="Right">
+					<s>자! 이걸 받게. 내가 만든 신무기야. 저쪽 섬에 위험한 무언가가 있을지도 모르니까 만일에 대비하여 챙겨 가게나.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="NPC_Cutter_01" position="Right">
+					<s>자네… 정말 대단하군! 내가 설명하지도 않았는데 캐논을 다루는 요령을 바로 알다니…</s>
+				</Page>
+				<Page speaker="NPC_Cutter_01" position="Right">
+					<s>내 동료들도 날고 기는 실력자들이지만, 신무기에 대해 이토록 타고난 감각을 보인 자는 일찍이 없었어… 어쩌면 내가 이 섬에 표류한 건 우연이 아닐지도…</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……?</s>
+				</Page>
+				<Page speaker="NPC_Cutter_01" position="Right">
+					<s>흠흠. 지금은 감탄할 때가 아니지. 자, 그럼 저쪽 섬에 있는 발화장치를 부탁하네! 자네가 다녀오는 동안 나는 이 탈출용 대포를 2인용으로 개조해 두겠네.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialCannoneer04" index="1084" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>장치는 저쪽 섬에 있는 건가?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>다행히 물이 별로 깊지 않은 것 같아. 잠수만 할 줄 알면 건널 수 있겠는걸.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>문제는 수영이 아니라 발록이야. 설마 또 습격해 오는 건 아니겠지?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>그래도 지금은 무기가 있으니까! 저번처럼 일방적으로 당하지만은 않을 거야.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>찾았다!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>다행히 위험한 일은 없었어. 자, 그럼 어서 이 장치를 가지고 돌아가자.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialCannoneer05" index="1085" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="NPC_Cutter_02" position="Right">
+					<s>발화장치를 가져왔군! 좋아, 그럼 지금 바로 장착하겠네!</s>
+				</Page>
+				<Page speaker="NPC_Cutter_02" position="Right">
+					<s>으하하하! 탈출이다! 탈출이야! 발레리, 기다려라! 스승님이 곧 간다!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>아! 잠깐만요! 제 목숨을 구해준 원숭이에게 인사를 하고 싶은데 잠시만 기다려 주시겠어요?</s>
+				</Page>
+				<Page speaker="NPC_Cutter_02" position="Right">
+					<s>오, 이 섬에 그런 인연이 있었나? 어차피 작업에 시간이 좀 필요하니 다녀오게.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialCannoneer06" index="1086" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="NPC_Monkey_02" position="Left">
+					<s>끼익~! 끽! 끽! 끽!</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>작별 인사를 하러 왔어.</s>
+				</Page>
+				<Page speaker="NPC_Monkey_02" position="Left">
+					<s>끼익?</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>다행히 이 섬을 탈출할 방법을 알아냈거든. 곧 스토너씨하고 같이 탈출할 거야. 그럼 다시는 못 보겠지…</s>
+				</Page>
+				<Page speaker="NPC_Monkey_02" position="Left">
+					<s>끼익? 끽! 끽! 끼이이이~</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="player" position="Right">
+					<s>…어째서 웃는 거야? 이별이라니까?</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>내 말을 알아듣는다고 생각했는데… 착각이었나? 아니면 너는 하나도 서운하지 않은 거니?</s>
+				</Page>
+				<Page speaker="NPC_Monkey_02" position="Left">
+					<s>끼익 끼익 끽끽!!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="player" position="Right">
+					<s>…어쨌든 인사할게. 구해줘서 정말 고마웠어. 널 잊지 못할 거야.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>안녕.</s>
+				</Page>
+				<Page speaker="NPC_Monkey_02" position="Left">
+					<s>끽! 끽! 우끼!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialCannoneer07" index="1087" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="NPC_Cutter_02" position="Right">
+					<s>탈출 준비가 끝났네. 더 이상 이 섬에 지체할 필요는 없겠지.</s>
+				</Page>
+				<Page speaker="NPC_Cutter_02" position="Right">
+					<s>자, 어서 탑승하게!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="NPC_Cutter_02" position="Right">
+					<s>자, 이제 출발하겠네!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialCannoneer09" index="1089" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="NPC_Cutter_03" position="Right">
+					<s>정신이 드는가?</s>
+				</Page>
+				<Page speaker="NPC_Cutter_03" position="Right">
+					<s>우리가 탈출에 성공했다네! 착륙이 다소 거칠긴 했지만…</s>
+				</Page>
+				<Page speaker="NPC_Cutter_03" position="Right">
+					<s>그건 2인용으로 계산하여 제작한 대포에 손님이 한 명 더 있었기 때문이라네. 어떤 손님이냐고? 바로 옆에 있지 않은가? 아는 원숭이 아닌가?</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="NPC_Cutter_03" position="Right">
+					<s>자네의 목숨을 구했다는 원숭이가 맞지? 여기까지 쫓아온 걸 보면 자네가 굉장히 마음에 든 모양이야.</s>
+				</Page>
+				<Page speaker="NPC_Cutter_03" position="Right">
+					<s>자네하고는 떼려야 뗄 수 없는 인연인 것 같아서, 자네가 눈 뜨길 기다리는 동안 프로펠러 키트를 만들었네. 이 친구가 착용하면 항상 같이 다닐 수 있을 걸세.</s>
+				</Page>
+				<Page speaker="NPC_Monkey_03" position="Right">
+					<s>끽! 끼이이익! 후웅~ 끽!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>선물이 마음에 든 모양이구나? 네가 좋다면 나도 좋아!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialKaiser01" index="1092" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="NPC_Cartalion_02" position="Left">
+					<s>아보리스가… 우든 레프족의 수도가 함락되었습니다!</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>기어이…!</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_01" position="Right">
+					<s>이제 그란디스에는 [ff7b50]다르모어[-]에 저항할 세력이 거의 남지 않았네요.</s>
+				</Page>
+				<Page speaker="NPC_Cartalion_02" position="Left">
+					<s>아니마들이 있긴 합니다만…</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>아니마들은 자연 친화적이고 세력이 크지 않아 공격을 받지 않는 이상 다르모어에 대항하지 않을 겁니다.</s>
+				</Page>
+				<Page speaker="NPC_Cartalion_02" position="Left">
+					<s>그렇다면 이제…</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>네, 그는 우리의 수도인 헬리시움을 공격하겠지요. 저는 바로 그곳으로 가서 다르모어의 침략에 대비하겠습니다.</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_01" position="Right">
+					<s>이길 수 있을까요? 다르모어는 이제 신과 맞먹는 힘을 가지고 있어요. 시간의 초월자인 크로니카를 제압하고 힘을 취했으니까요.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>최소한 막을 수는 있을 겁니다. 헬리시움의 방어막이라면 다르모어도 쉽게 들어올 수 없을 테니까요. 힘의 균형이 기운 것은 사실이지만 희망을 버릴 수는 없습니다.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>카탈리온, 당신은 여기 남아서 판테온을 지켜 주세요.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="NPC_Cartalion_02" position="Left">
+					<s>저 역시 노바의 전사입니다. 함께 싸우겠습니다!</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>판테온 경계에 스펙터가 나타났다는 보고가 있었습니다.</s>
+				</Page>
+				<Page speaker="NPC_Cartalion_02" position="Left">
+					<s>!!!</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>상황이 심각해졌습니다. 판테온 방어를 강화해야 합니다. 당신이 적임자라는 걸 모르진 않겠죠?</s>
+				</Page>
+				<Page speaker="NPC_Cartalion_02" position="Left">
+					<s>하지만 아무리 카이저라도 혼자서는…</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>카탈리온, 당신은 노바의 기사입니다. 기사가 가장 우선으로 지켜야 하는 건 제가 아니라 노바의 안전입니다.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>그리고 당신이 절 염려한다는 건 제가 카이저라는 이름에 걸맞지 않다는 뜻이겠지요. 저를 부끄럽게 만들 생각입니까?</s>
+				</Page>
+				<Page speaker="NPC_Cartalion_02" position="Left">
+					<s>!</s>
+				</Page>
+				<Page speaker="NPC_Cartalion_02" position="Left">
+					<s>그렇게까지 말씀하신다면… 그럼 무운을 빌겠습니다.</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_01" position="Right">
+					<s>카이저, 부디 조심하세요.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>걱정 마세요, 펜릴. 저는 [ff7b50]카이저[-]입니다.</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_01" position="Right">
+					<s>(카이저…)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialKaiser02" index="1093" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>분위기가 이상해…</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="player" position="Right">
+					<s>헬리시움 경계를 나타내는 표식이 작동을 멈췄다.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>한 번도 감지 않았던 수호석의 눈도 빛을 잃었어.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>헬리시움은 이미 점령당한 건가? 어째서 방어막이 작동하지 않은 거지?</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="NPC_Magnus_01" position="Right">
+					<s>…카이저, 너무 늦었어.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="6">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>매그너스! 네가 어째서 여기에…?</s>
+				</Page>
+				<Page speaker="NPC_Magnus_01" position="Right">
+					<s>다르모어의 군대가 조금 전 헬리시움을 점령했다.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>다친 건가?</s>
+				</Page>
+				<Page speaker="NPC_Magnus_01" position="Right">
+					<s>너에게 이런 모습을 보이고 싶진 않았는데… 오직 힘만을 추구한다는 이유로 추방되었던 나로서도 감당하기 벅차더군.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>다르모어의 군대가 어떻게 헬리시움에 침입할 수 있었지? 방어막을 무슨 수로 뚫은 거야?</s>
+				</Page>
+				<Page speaker="NPC_Magnus_01" position="Right">
+					<s>내부에 배신자가 있었다. 그가 일시적으로 방어막을 해제한 순간 헬리시움 곳곳에 스펙터들이 나타났지.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>대체 누가 그런 짓을…</s>
+				</Page>
+				<Page speaker="NPC_Magnus_01" position="Right">
+					<s>그게 바로… [fs=32]나다!!![/fs]</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="7">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>헬리시움을 다르모어에게 갖다 바치다니! 너를 살려준 평의회와 노바의 은혜를 원수로 갚는 거냐! 절대 용서할 수 없다!</s>
+				</Page>
+				<Page speaker="NPC_Magnus_01" position="Right">
+					<s>나는 더 강해지고 싶었고 그 방법을 다르모어님이 가지고 계셨을 뿐이다. 너 같은 천재는 이해를 못하려나? 훗.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>그렇다고 네가 나를 이길 수 있을 것 같으냐! 이 정도 상처쯤은 내겐 아무것도 아니다!</s>
+				</Page>
+				<Page speaker="NPC_Magnus_01" position="Right">
+					<s>뭐, 그 말대로 내가 다르모어님께 새로운 힘을 얻었지만 노바의 수호신인 너를 이기기엔 부족할지도 몰라.</s>
+				</Page>
+				<Page speaker="NPC_Magnus_01" position="Right">
+					<s>그래서 준비했지. 냉철하신 카이저께서는 아직 상황 파악이 안 되신 모양이지만 말이야.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>!!!</s>
+				</Page>
+				<Page speaker="NPC_Magnus_01" position="Right">
+					<s>너는 방금 입은 상처를 단순한 생채기 정도로 생각하는 모양인데 그 공격에는 치명적인 독이 발라져 있거든. 널 쓰러뜨릴 수는 없지만 그 정도면 네 힘을 상당히 억제할 순 있지.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>…그렇다면 독이 퍼지기 전에 네 녀석을 없애겠다!</s>
+				</Page>
+				<Page speaker="NPC_Magnus_01" position="Right">
+					<s>하하하. 그게 네 마음대로 될까? 헬리시움은 이미 다르모어님께 넘어갔다고 말했잖아?</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="8">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>다르모어에게 무릎 꿇고 받은 부하들 뒤에 숨는 모양새를 보니 네 녀석이 한때 나와 같은 노바의 전사였다는 사실이 수치스럽군.</s>
+				</Page>
+				<Page speaker="NPC_Magnus_01" position="Right">
+					<s>위대한 카이저의 마지막을 위해서 이 정도 정성은 필요하다고 생각했거든. 네가 발버둥치는 꼴을 좀 더 길게 감상하고 싶기도 하고 말이야.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="9">
+			<Body>
+				<Page speaker="NPC_Magnus_01" position="Right">
+					<s>스펙터들은 아직도 더 많으니까 너무 그렇게 조급하게 굴지 마.</s>
+				</Page>
+				<Page speaker="NPC_Magnus_01" position="Right">
+					<s>아차, 네겐 시간이 부족했던가?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(독이 상당히 퍼졌어. 그렇다면 속전속결이다…!)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="10">
+			<Body>
+				<Page speaker="NPC_Magnus_01" position="Right">
+					<s>그래, 바로 그거야! 벌써 변신을 하지 못할 정도로 중독된 줄 알고 걱정했잖나, 크크.</s>
+				</Page>
+				<Page speaker="NPC_Magnus_01" position="Right">
+					<s>카이저가 비록 환생하는 존재라고 해도 무적은 아니지. 이제 너를 꺾고 내가 노바 최고의 전사가 되겠다!</s>
+				</Page>
+				<Page speaker="NPC_Kaiser_01" position="Left">
+					<s>만용도 여기까지다, 매그너스. 노바의 수호자 카이저로서 배반자를 마땅히 응징하겠다!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialKaiser03" index="1094" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="NPC_Fenelle_02" position="Right">
+					<s>카탈리온! 카이저로부터 소식이 있나요? 그리고 벨더님이 어찌 이곳에…?</s>
+				</Page>
+				<Page speaker="NPC_Beldar_01" position="Left">
+					<s>헬리시움이 함락당했소. 나는 헬리시움 주민들과 탈출하여 이곳으로 도망쳐 왔고.</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_02" position="Right">
+					<s>하지만 헬리시움을 지키기 위해 카이저가…</s>
+				</Page>
+				<Page speaker="NPC_Beldar_01" position="Left">
+					<s>피난길에 헬리시움 방향에서 커다란 폭발이 일어나는 것을 보았소. 아마 카이저겠지.</s>
+				</Page>
+				<Page speaker="NPC_Cartalion_03" position="Left">
+					<s>제가 수비병들을 이끌고 헬리시움으로 가보겠습니다!</s>
+				</Page>
+				<Page speaker="NPC_Beldar_01" position="Left">
+					<s>멍청한 행동은 하지 말게! 헬리시움은 이미 함락되었단 말일세! 우리는 이곳에 방어막을 펼치고 버텨야 해. 그것이 지금 상황에서 노바가 생존할 수 있는 최선의 방법이야.</s>
+				</Page>
+				<Page speaker="NPC_Cartalion_03" position="Left">
+					<s>그럼 카이저를 죽게 내버려두자는 말씀입니까?</s>
+				</Page>
+				<Page speaker="NPC_Beldar_01" position="Left">
+					<s>그곳에는 수만의 스펙터들이 있었네! 이제 와서 지원병을 투입해도 더 큰 희생만 치를 뿐이야!</s>
+				</Page>
+				<Page speaker="NPC_Beldar_01" position="Left">
+					<s>카이저가 살아 있다면 이미 후퇴하여 이곳으로 오고 있을걸세. 만일 그렇지 않으면 이미 이 세상에 없겠지…</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="NPC_Fenelle_02" position="Right">
+					<s>하지만 헬리시움이 함락된 이상 이곳에 방어막을 구축하기는 어렵습니다. 수도에 있는 성물과 연계할 방도가 사라졌으니까요.</s>
+				</Page>
+				<Page speaker="NPC_Beldar_01" position="Left">
+					<s>내가 도망치면서 사제들로 하여금 성물들을 가져오게 하였소. 그러니 헬리시움과 동일한 수준의 방어막을 펼칠 수 있을 거요.</s>
+				</Page>
+				<Page speaker="NPC_Beldar_01" position="Left">
+					<s>이번에는 성물들을 한 군데에 모아 두지 말고 따로따로 나눠서 배치하는 게 어떻겠소? 헬리시움 때처럼 악의를 가진 자에 의해 방어막이 일격에 무력화되지 않도록 말이오.</s>
+				</Page>
+				<Page speaker="NPC_Cartalion_03" position="Left">
+					<s>위험은 분산되겠지만 성물들을 보호하기는 더 힘듭니다.</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_02" position="Right">
+					<s>완벽하진 않겠지만 자격이 허락된 고위 사제들만이 성물을 다룰 수 있도록 보호 마법을 걸겠습니다.</s>
+				</Page>
+				<Page speaker="NPC_Beldar_01" position="Left">
+					<s>방어막은 대사제께 맡기겠소. 만약 카이저가 죽었다면 언제 환생하게 되오?</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_02" position="Right">
+					<s>…지금 이 순간 이후부터 태어나는 아이들 중에 누군가라는 것 외에는 알 수 없습니다. 그저 저희는 기다릴 뿐이지요.</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_02" position="Right">
+					<s>특별한 계기가 마련되면 카이저는 스스로 각성할 것입니다.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialKaiser04" index="1095" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="NPC_Tear_01" position="Right">
+					<s>카일! 벨데로스! 기사단 입단 축하해! 내 친구들이 기사단원이라니… 정말 자랑스러워!</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_01" position="Left">
+					<s>너도 참 속 편한 소리한다. 넌 언제쯤 기사단원이 될래?</s>
+				</Page>
+				<Page speaker="NPC_Tear_01" position="Right">
+					<s>헤헷. 언젠가 나에게도 마력이 생기면…?</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_01" position="Left">
+					<s>그 얘기 백 번은 들은 것 같은데.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>난 티어가 꼭 기사단원이 되지 않아도 된다고 생각해.</s>
+				</Page>
+				<Page speaker="NPC_Tear_01" position="Right">
+					<s>아니, 나도 기사단원이 될 거야! 우리가 헬리시움 공격대를 결성할 때 약속했잖아? 셋이 함께 노바족을 지키자고. 난 그 맹세를 지킬 거야!</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_01" position="Left">
+					<s>그땐 네가 계속 마력이 없을 줄은 몰랐으니까.</s>
+				</Page>
+				<Page speaker="NPC_Tear_01" position="Right">
+					<s>으으.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>괜찮아, 티어. 기사단원만 노바족을 지킬 수 있는 건 아니니까. 다른 길도 있을 거야.</s>
+				</Page>
+				<Page speaker="NPC_Tear_01" position="Right">
+					<s>다른 길…</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_01" position="Left">
+					<s>카일, 슬슬 복귀해야 할 것 같은데?</s>
+				</Page>
+				<Page speaker="NPC_Tear_01" position="Right">
+					<s>앗, 벌써 가려고? 아쉽다…</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="NPC_Velderoth_01" position="Left">
+					<s>왜 그래? 서두르자. 이러다 늦겠어.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_Tear_01" position="Right">
+					<s>카일…?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>…동쪽 성소에 무슨 일이 일어나고 있는 것 같아.</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_01" position="Left">
+					<s>뭐? 여기서 동쪽 성소는 보이지도 않는데 무슨 소리야?</s>
+				</Page>
+				<Page speaker="NPC_Tear_01" position="Right">
+					<s>어서 가보자! 무슨 일일까?</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_01" position="Left">
+					<s>티어, 저런 황당한 말을 믿는 거야?</s>
+				</Page>
+				<Page speaker="NPC_Tear_01" position="Right">
+					<s>카일은 괜한 말은 하지 않는걸.</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_01" position="Left">
+					<s>하여간 대장으로서 권위가 없구먼. 좋아. 가자고.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialKaiser06" index="1097" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="NPC_Velderoth_02" position="Left">
+					<s>대체 뭐가 있다는 말이…</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="NPC_Tear_02" position="Left">
+					<s>사제님들이 많이 계시네…? 무슨 일이시지?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>쉿! 심상치 않아. 벨데로스!</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_02" position="Left">
+					<s>응, 수상한 냄새가 팍팍 풍기는데?</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_02" position="Left">
+					<s>내가 마을에 도움을 요청할 테니 너희는 저자들이 뭐하는지 살펴보고 있어. 위험하면 도망치고!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="NPC_NefariousPriest_02" position="Right">
+					<s>성물을 제거하면 보호막이 약화될 거야.</s>
+				</Page>
+				<Page speaker="NPC_NefariousPriest_03" position="Left">
+					<s>하지만 성물을 건드리면 저주에 걸리지 않을까?</s>
+				</Page>
+				<Page speaker="NPC_NefariousPriest_02" position="Right">
+					<s>그런 미신을 믿냐? 이건 둘도 없는 기회라고! 이제 돌이킬 수 없어!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>저자들… 성물을 가져갈 생각이야!</s>
+				</Page>
+				<Page speaker="NPC_Tear_02" position="Left">
+					<s>막아야 돼!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="NPC_NefariousPriest_02" position="Right">
+					<s>어린 녀석이 감히 일을 방해하다니!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>티어! 정신 차려!</s>
+				</Page>
+				<Page speaker="NPC_NefariousPriest_04" position="Right">
+					<s>꼬맹이들이 겁도 없구나. 우릴 봐 버린 이상 어쩔 수 없다. 없애 버리자!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="NPC_NefariousPriest_04" position="Right">
+					<s>뭐… 뭐야, 이건…!</s>
+				</Page>
+				<Page speaker="NPC_NefariousPriest_02" position="Right">
+					<s>그 꼬맹이가 이렇게 변한 건가?</s>
+				</Page>
+				<Page speaker="NPC_NefariousPriest_04" position="Right">
+					<s>위험해 보이는데…</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="6">
+			<Body>
+				<Page speaker="NPC_NefariousPriest_02" position="Right">
+					<s>말… 말도 안 돼…!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialKaiser07" index="1098" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="NPC_Fenelle_03" position="Left">
+					<s>정신이 드나요?</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>…펜릴님?</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_03" position="Left">
+					<s>여기, 회복약을 챙기세요.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="NPC_Fenelle_03" position="Left">
+					<s>이제 괜찮아진 것 같군요.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>여긴 어디죠? 그리고 티어… 티어는요?</s>
+				</Page>
+				<Page speaker="NPC_Cartalion_04" position="Left">
+					<s>그 애는 안전합니다. 조금 트러블이 있긴 하지만…</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>…카탈리온님? 왜 그런 경어체로 말씀을…</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_03" position="Left">
+					<s>당신은 [ff7b50]카이저[-]입니다. 카이저는 모든 노바들이 존중하는 존재이지요.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>카이저…? 제가요? 무슨 말씀을 하시는 건지 모르겠어요.</s>
+				</Page>
+				<Page speaker="NPC_Cartalion_04" position="Left">
+					<s>벨데로스의 요청으로 저와 펜릴님이 동쪽 성소에 갔을 때 카이저로 각성한 당신을 발견하였습니다. 수상한 사제들을 모두 물리치고 정신을 잃은 것 같더군요.</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_03" position="Left">
+					<s>우리가 도착했을 당시 당신을 둘러싸고 있던 오라와 변신의 징후를 보면 카이저가 맞습니다. 받아들이기 쉽지 않겠지만, 당신이 바로 노바족이 기다리던 운명의 아이였던 겁니다.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>혼란스럽네요. 믿기지 않아요…</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_03" position="Left">
+					<s>그럴 거예요. 카이저가 환생하면 전생의 능력과 기억은 모두 잃어버리니까요.</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_03" position="Left">
+					<s>하지만 다시 태어나 각성한 카이저는 무궁무진한 잠재력을 가진 원석이지요. 자신의 힘을 한번 확인해 보겠어요?</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="6">
+			<Body>
+				<Page speaker="player" position="Right">
+					<s>이 힘은…!</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_03" position="Left">
+					<s>맞아요, 카이저의 능력이에요.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>그럼 저… 저는 이제부터 어떻게 하면 되는 거죠?</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_03" position="Left">
+					<s>그저 자신에게 주어진 운명을 받아들이면 됩니다.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>운명…</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_03" position="Left">
+					<s>위대한 힘에는 책임이 따릅니다. 어린 나이에 노바의 수호자로서 사명을 감당하는 건 고되겠지만… 그게 바로 카이저의 숙명입니다.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialAngelicBuster01" index="1099" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="NPC_ChildhoodSelves_01" position="Left">
+					<s>훌쩍훌쩍…</s>
+				</Page>
+				<Page speaker="NPC_ChildhoodSelves_01" position="Left">
+					<s>애들이 저 보고 마력도 없는 반편이래요…</s>
+				</Page>
+				<Page speaker="NPC_ChildhoodSelves_01" position="Left">
+					<s>저는 왜 이렇게 태어난 걸까요. 노바 신의 미움을 받은 걸까요? 흑…</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_05" position="Right">
+					<s>그렇지 않아요, 티어…</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_05" position="Right">
+					<s>당신은 소중한 노바의 아이예요. 나도 그렇고 카일과 벨데로스도 티어를 무척 아끼고 있답니다.</s>
+				</Page>
+				<Page speaker="NPC_ChildhoodSelves_01" position="Left">
+					<s>아… 친구들에겐 비밀로 해주세요. 제가 또 울었다는 걸 알면 걱정할 거예요.</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_05" position="Right">
+					<s>이런, 미안하지만 그 부탁은 들어줄 수가 없겠군요. 이미 늦은 것 같거든요.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="NPC_Kyle_02" position="Left">
+					<s>티어, 괜찮아?</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_10" position="Right">
+					<s>으이그, 또 울고 있을 줄 알았어.</s>
+				</Page>
+				<Page speaker="NPC_ChildhoodSelves_01" position="Left">
+					<s>흑…</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_05" position="Right">
+					<s>벨데로스, 너무 나무라지 말아요.</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_10" position="Right">
+					<s>그치만 전 티어가 우는 걸 보고 싶지 않은걸요.</s>
+				</Page>
+				<Page speaker="NPC_Kyle_02" position="Left">
+					<s>티어, 그 애들이 미안하다고 사과했어. 그러니까 이제 그만 기분 풀어.</s>
+				</Page>
+				<Page speaker="NPC_ChildhoodSelves_01" position="Left">
+					<s>…정말?</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_10" position="Right">
+					<s>또 널 건드리면 다음 번엔 우리가 가만 두지 않겠다고 으름장을 놓았으니까 말이야.</s>
+				</Page>
+				<Page speaker="NPC_ChildhoodSelves_01" position="Left">
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_10" position="Right">
+					<s>왜 뾰로통한 표정이야? 아직도 분이 안 풀려?</s>
+				</Page>
+				<Page speaker="NPC_ChildhoodSelves_01" position="Left">
+					<s>그냥 너희한테 겁먹은 것뿐이잖아. 둘 다 강하니까…</s>
+				</Page>
+				<Page speaker="NPC_ChildhoodSelves_01" position="Left">
+					<s>그리고 다른 노바랑 달리 내가 약한 건 사실인걸…</s>
+				</Page>
+				<Page speaker="NPC_Kyle_02" position="Left">
+					<s>…티어, 그럼 강해질 수 있도록 같이 수련할래?</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_10" position="Right">
+					<s>오, 그래! 매일 노력하면 너도 언젠가 마력이 생기고 강해질 거야.</s>
+				</Page>
+				<Page speaker="NPC_ChildhoodSelves_01" position="Left">
+					<s>…정말? 정말 그럴 수 있을까? 그러면 수련할래!</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_10" position="Right">
+					<s>좋아, 쇠뿔도 단김에 빼랬다고 지금 당장 훈련하러 가자!</s>
+				</Page>
+				<Page speaker="NPC_ChildhoodSelves_01" position="Left">
+					<s>응!</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_05" position="Right">
+					<s>……</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialAngelicBuster02" index="1100" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="NPC_Kyle_03" position="Right">
+					<s>…이 정도면 비밀 기지로 쓰기에 충분한 것 같은데?</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_11" position="Right">
+					<s>응. 훈련하다 휴식이 필요하거나 심심할 때 여기에 모이자.</s>
+				</Page>
+				<Page speaker="NPC_ChildhoodSelves_02" position="Left">
+					<s>나도 무지 마음에 들어! 그런데 돌을 조금 더 장식하고 싶어.</s>
+				</Page>
+				<Page speaker="NPC_Kyle_03" position="Right">
+					<s>좋아, 같이 찾아보자.</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_11" position="Right">
+					<s>잠깐! 지금 중요한 건 돌이 아니야!</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_11" position="Right">
+					<s>카일, 티어, 잘 들어! 이제부터 우리의 목표는 [ff7b50]매그너스[-]다!</s>
+				</Page>
+				<Page speaker="NPC_Kyle_03" position="Right">
+					<s>매그너스…라면 노바의 옛 수도 헬리시움을 점령한 배신자 말이야?</s>
+				</Page>
+				<Page speaker="NPC_ChildhoodSelves_02" position="Left">
+					<s>카이저님도 완전히 쓰러뜨리지 못한 악당을 우리가 어떻게 이겨?</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_11" position="Right">
+					<s>이왕이면 가장 강한 적을 무찔러야지!</s>
+				</Page>
+				<Page speaker="NPC_ChildhoodSelves_02" position="Left">
+					<s>하지만 어른들도 어쩌지 못하는 상대인걸…</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_11" position="Right">
+					<s>그렇게 약한 소리 하면 결코 강해질 수 없어.</s>
+				</Page>
+				<Page speaker="NPC_Kyle_03" position="Right">
+					<s>우리가 기사단원이 되면 어떨까? 아직은 어려서 입단 시험을 볼 수 없지만 지금부터 수련하면 언젠가 강한 노바군이 될 수 있을 거야.</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_11" position="Right">
+					<s>오, 그거 좋은 생각인걸! 노바군이 되어 우리 손으로 헬리시움을 탈환하자!</s>
+				</Page>
+				<Page speaker="NPC_Kyle_03" position="Right">
+					<s>그러면 우리는 [ff7b50]헬리시움 공격대[-]인가?</s>
+				</Page>
+				<Page speaker="NPC_ChildhoodSelves_02" position="Left">
+					<s>우와! 그 이름 멋지다!</s>
+				</Page>
+				<Page speaker="NPC_ChildhoodSelves_02" position="Left">
+					<s>그럼 공격대 대장은 벨데로스가 하는 거지?</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_11" position="Right">
+					<s>나?</s>
+				</Page>
+				<Page speaker="NPC_ChildhoodSelves_02" position="Left">
+					<s>응, 맨 처음에 벨데로스가 제안했으니까.</s>
+				</Page>
+				<Page speaker="NPC_Kyle_03" position="Right">
+					<s>나도 찬성이야. 벨데로스는 대장이 어울린다고 생각해.</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_11" position="Right">
+					<s>너희들이 그렇게 말한다면야… 난 상관없어.</s>
+				</Page>
+				<Page speaker="NPC_ChildhoodSelves_02" position="Left">
+					<s>좋아, 결정!</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_11" position="Right">
+					<s>흠흠. 자, 그럼 이 자리에서 약속하는 거야. 우리 헬리시움 공격대는 기사단이 되어 노바족을 지키겠습니다!</s>
+				</Page>
+				<Page speaker="NPC_Kyle_03" position="Right">
+					<s>맹세합니다!</s>
+				</Page>
+				<Page speaker="NPC_ChildhoodSelves_02" position="Left">
+					<s>나도 맹세합니다! 후후.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialAngelicBuster03" index="1101" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>카일! 벨데로스! 기사단 입단 축하해! 내 친구들이 기사단원이라니… 정말 자랑스러워!</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_12" position="Left">
+					<s>너도 참 속 편한 소리한다. 넌 언제쯤 기사단원이 될래?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>헤헷. 언젠가 나에게도 마력이 생기면…?</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_12" position="Left">
+					<s>그 얘기 백 번은 들은 것 같은데.</s>
+				</Page>
+				<Page speaker="NPC_Kyle_04" position="Right">
+					<s>난 티어가 꼭 기사단원이 되지 않아도 된다고 생각해.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>아니, 나도 기사단원이 될 거야! 우리가 헬리시움 공격대를 결성할 때 약속했잖아? 셋이 함께 노바족을 지키자고. 난 그 맹세를 지킬 거야!</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_12" position="Left">
+					<s>그땐 네가 계속 마력이 없을 줄은 몰랐으니까.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>으으.</s>
+				</Page>
+				<Page speaker="NPC_Kyle_04" position="Right">
+					<s>괜찮아, 티어. 기사단원만 노바족을 지킬 수 있는 건 아니니까. 다른 길도 있을 거야.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>다른 길…</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_12" position="Left">
+					<s>카일, 슬슬 복귀해야 할 것 같은데?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>앗, 벌써 가려고? 아쉽다…</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="NPC_Velderoth_12" position="Left">
+					<s>왜 그래? 서두르자. 이러다 늦겠어.</s>
+				</Page>
+				<Page speaker="NPC_Kyle_04" position="Right">
+					<s>……</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>카일…?</s>
+				</Page>
+				<Page speaker="NPC_Kyle_04" position="Right">
+					<s>…동쪽 성소에 무슨 일이 일어나고 있는 것 같아.</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_12" position="Left">
+					<s>뭐? 여기서 동쪽 성소는 보이지도 않는데 무슨 소리야?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>어서 가보자! 무슨 일일까?</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_12" position="Left">
+					<s>티어, 저런 황당한 말을 믿는 거야?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>카일은 괜한 말은 하지 않는걸.</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_12" position="Left">
+					<s>하여간 대장으로서 권위가 없구먼. 좋아. 가자고.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialAngelicBuster04" index="1102" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="NPC_Velderoth_13" position="Left">
+					<s>대체 뭐가 있다는 말이…</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>사제님들이 많이 계시네…? 무슨 일이시지?</s>
+				</Page>
+				<Page speaker="NPC_Kyle_05" position="Left">
+					<s>쉿! 심상치 않아. 벨데로스!</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_13" position="Left">
+					<s>응, 수상한 냄새가 팍팍 풍기는데?</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_13" position="Left">
+					<s>내가 마을에 도움을 요청할 테니 너희는 저자들이 뭐하는지 살펴보고 있어. 위험하면 도망치고!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="NPC_NefariousPriest_10" position="Right">
+					<s>성물을 제거하면 보호막이 약화될 거야.</s>
+				</Page>
+				<Page speaker="NPC_NefariousPriest_09" position="Left">
+					<s>하지만 성물을 건드리면 저주에 걸리지 않을까?</s>
+				</Page>
+				<Page speaker="NPC_NefariousPriest_10" position="Right">
+					<s>그런 미신을 믿냐? 이건 둘도 없는 기회라고! 이제 돌이킬 수 없어!</s>
+				</Page>
+				<Page speaker="NPC_Kyle_05" position="Left">
+					<s>저자들… 성물을 가져갈 생각이야!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>(뭐? 성물을 훔친다고? 그건 안 돼!)</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>막아야 돼!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialAngelicBuster05" index="1103" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="NPC_NefariousPriest_12" position="Right">
+					<s>말… 말도 안 돼…!</s>
+				</Page>
+				<Page speaker="NPC_NefariousPriest_11" position="Right">
+					<s>저, 저런 애송이에게 이런 강한 힘이…!</s>
+				</Page>
+				<Page speaker="NPC_NefariousPriest_12" position="Right">
+					<s>저 녀석들 우리 얼굴을 봤어. 정신을 잃은 사이에 없애 버리자!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="NPC_NefariousPriest_11" position="Right">
+					<s>자, 잠깐! 저 꼬마…!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialAngelicBuster06" index="1104" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="NPC_Cartalion_07" position="Left">
+					<s>이건 도대체…</s>
+				</Page>
+				<Page speaker="NPC_Velderoth_14" position="Left">
+					<s>카일! 티어!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="NPC_Cartalion_07" position="Left">
+					<s>저 문양은…!</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_06" position="Left">
+					<s>드디어 카이저가 나타난 것 같군요.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialAngelicBuster07" index="1105" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="NPC_Fenelle_07" position="Left">
+					<s>정신이 들었군요, 티어!</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>으음… 여기는?</s>
+				</Page>
+				<Page speaker="NPC_Cartalion_08" position="Left">
+					<s>판테온이다. 동쪽 성소에 쓰러져 있던 너희를 데리고 왔지.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>성소…?</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>…아! 카일, 카일은요?!</s>
+				</Page>
+				<Page speaker="NPC_Kylan_02" position="Left">
+					<s>그보다 당신이 먼저 눈을 떴어요. 하지만 걱정 마세요. 비밀입니다만 그는 카이저니까요.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>네? 카일이 카이저…?!</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_07" position="Left">
+					<s>잠깐만요, 티어. 아직 안색이 안 좋아요. 먼저 이 회복약부터 챙기는 게 좋겠어요.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="NPC_Fenelle_07" position="Left">
+					<s>기분은 어떤가요?</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>후… 괜찮아요. 그런데 어쩐지 왼쪽 팔이 조금 무거워진 느낌이…</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="player" position="Right">
+					<s>어? 이건 뭐지?</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_07" position="Left">
+					<s>동쪽 성소의 성물이에요.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>네? 그럴 리가요. 성물은 이렇게 생기지 않았는걸요.</s>
+				</Page>
+				<Page speaker="NPC_Kylan_02" position="Left">
+					<s>팔찌로 변형하여 당신 몸에 붙은 겁니다. 성물의 저주를 여러 모로 궁리해 보았지만 떼어낼 수 없었어요.</s>
+				</Page>
+				<Page speaker="NPC_Kylan_02" position="Left">
+					<s>하지만 너무 염려 마세요. 다소 불편한 것 말고는 당신에게 해로운 영향을 끼치진 않는 것 같으니까요.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>저, 저주?! 그러면 판테온 보호막은요…?</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_07" position="Left">
+					<s>…전보다 불안정해지겠지만 큰 문제는 없을 거예요. 성물이 3개 더 있으니까요.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>!!!</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>…서, 설마 제가 성물을 없애 버린 거예요?!</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_07" position="Left">
+					<s>……</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>그럴 수가…! 난 그저 성물을 지키려고 했을 뿐인데…</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>흐윽…</s>
+				</Page>
+				<Page speaker="NPC_Cartalion_08" position="Left">
+					<s>눈물이 이 상황을 해결해 주진 않는다.</s>
+				</Page>
+				<Page speaker="NPC_Fenelle_07" position="Left">
+					<s>카탈리온! 비록 일이 이렇게 되었지만 카이저와 티어가 성물을 빼앗기는 최악의 사태를 막은 거예요. 그러니 너무 나무라지 말아요.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>아… 죄송해요… 죄송해요… 흑흑…</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialAngelicBuster08" index="1106" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="NPC_Kylan_03" position="Right">
+					<s>지금까지 성물에 반응한 자는 아무도 없었어요. 성물에 가장 가까이 있는 사제들조차도요.</s>
+				</Page>
+				<Page speaker="NPC_Kylan_03" position="Right">
+					<s>예측 불가능한 사고였던 거예요. 그 누구도 당신 잘못이라고 생각하지 않습니다. 그러니 너무 상심하지 마세요.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>하지만 저 때문에 성물이 없어진 사실은 변하지 않아요!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialAngelicBuster09" index="1107" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="player" position="Right">
+					<s>…아, 카일! 아니, 이제 카이저라고 불러야 하나?</s>
+				</Page>
+				<Page speaker="NPC_Kyle_08" position="Left">
+					<s>!</s>
+				</Page>
+				<Page speaker="NPC_Kyle_08" position="Left">
+					<s>내가 카이저가 된 걸 어떻게 알았어?</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>사제님께 들었어. 비밀이라고 하셨는데 혹시 너한테도 비밀이야?</s>
+				</Page>
+				<Page speaker="NPC_Kyle_08" position="Left">
+					<s>아, 아니.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_Kyle_08" position="Left">
+					<s>티어, 받아. 우리의 선물이야.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>앗, 이건 그링그링 킹 스톤이랑 블링블링 킹 스톤이잖아! 아지트에 장식해 두면 예쁘겠다. 고마워.</s>
+				</Page>
+				<Page speaker="NPC_Kyle_08" position="Left">
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_Kyle_08" position="Left">
+					<s>티어, 괜찮아? 혹시 그때 다치기라도 한 거야?</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>아니야. 아픈 데는 없어. 다만…</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>……</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>카이저, 나 성물을 먹어 치운 괴물이 되어 버렸어.</s>
+				</Page>
+				<Page speaker="NPC_Kyle_08" position="Left">
+					<s>!</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>이거 봐. 그때 성물을 만졌더니 성물은 사라지고 팔목에 이상한 게 붙어버렸거든.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>난 그저 성물을 지키려고 했을 뿐인데… 어째서 이렇게 되어버린 걸까? 난 정말 한심해.</s>
+				</Page>
+				<Page speaker="NPC_Kyle_08" position="Left">
+					<s>그렇지 않아! 그때 너는 나보다도 벨데로스보다도 더 용감했는걸!</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>그런가…</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>하지만 내가 한 행동 때문에 판테온 보호막이 불안정해졌대.</s>
+				</Page>
+				<Page speaker="NPC_Kyle_08" position="Left">
+					<s>!</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>앗, 나 때문에 그런 표정 짓지 마. 알잖아? 나 불행에 익숙한 거.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>카이저, 나 이따가 다시 올게. 조금 울고 나면 괜찮아질 거야. 그러니까 너무 걱정하지 마.</s>
+				</Page>
+				<Page speaker="NPC_Kyle_08" position="Left">
+					<s>티어…</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialAngelicBuster10" index="1108" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>…울고만 있으면 친구들이 더 걱정할 거야.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>계속 이렇게 못나게 굴 순 없지.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>저주를 풀고 성물을 되돌릴 수 있는 방법을 어떻게든 찾아 보자!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialAngelicBuster12" index="1110" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="NPC_Eskalade_01" position="Right">
+					<s>힘을 쓰는 건 오랜만인데 다행히 아직 내 솜씨가 녹슬지 않은 것 같네, 후후.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>너, 너… 네가 에스카다?</s>
+				</Page>
+				<Page speaker="NPC_Eskalade_01" position="Right">
+					<s>오호, 이제 내 모습이 보이는 모양이구나?</s>
+				</Page>
+				<Page speaker="NPC_Eskalade_01" position="Right">
+					<s>그래, 내가 바로 그 [ff7b50]소울링[-]에 깃들어 있는 에스카다야. 널 빨리 변신시켜 주고 싶어서 근질근질했다고!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>…네가 날 이 꼴로 만든 거야?</s>
+				</Page>
+				<Page speaker="NPC_Eskalade_01" position="Right">
+					<s>응, 근사하지? 정의의 용사라면 우선 복장부터 제대로 갖춰야 하는 법이지!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>용사라니… 무슨 소릴 하는 거야? 부끄럽지만 난 마력도 없는걸.</s>
+				</Page>
+				<Page speaker="NPC_Eskalade_01" position="Right">
+					<s>걱정하지 마. 그 모습이라면 충분히 강한 용사가 될 수 있으니까!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_Eskalade_01" position="Right">
+					<s>…티어?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>…나 동쪽 성소에서 쓰러진 뒤로 아직 깨어나지 못한 건가? 그래서 이런 이상한 꿈을…</s>
+				</Page>
+				<Page speaker="NPC_Eskalade_01" position="Right">
+					<s>어이, 이거 꿈 아니야! 현실을 부정하지 마!</s>
+				</Page>
+				<Page speaker="NPC_Eskalade_01" position="Right">
+					<s>정 못 믿겠으면 네 힘을 한 번 확인해 보라고!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>꺄아! 정말이잖아…?!</s>
+				</Page>
+				<Page speaker="NPC_Eskalade_01" position="Right">
+					<s>에헴! 거봐! 내가 뭐랬어?</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>에스카다! 네가 이 힘을 나에게 준 거야?</s>
+				</Page>
+				<Page speaker="NPC_Eskalade_01" position="Right">
+					<s>물론! 이 위대한 노바 용사님께서 친히 네게 하…!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="NPC_NefariousPriest_13" position="Right">
+					<s>이런, 사라진 성물을 찾으러 왔더니 방해꾼이 있었군.</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>앗! 당신들은 그때 그 나쁜 사제들!</s>
+				</Page>
+				<Page speaker="NPC_NefariousPriest_14" position="Right">
+					<s>우리를 아는 모양인데?</s>
+				</Page>
+				<Page speaker="NPC_Eskalade_01" position="Right">
+					<s>나쁜 사제라는 걸 스스로 인정하는 거냐.</s>
+				</Page>
+				<Page speaker="NPC_NefariousPriest_15" position="Right">
+					<s>그렇다면 고민할 필요 없지. 해치우자!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="6">
+			<Body>
+				<Page speaker="player" position="Left">
+					<s>우와아…!</s>
+				</Page>
+				<Page speaker="NPC_Eskalade_01" position="Right">
+					<s>잘했어, [ff7b50]엔젤릭버스터[-]!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>엔젤릭버스터?</s>
+				</Page>
+				<Page speaker="NPC_Eskalade_01" position="Right">
+					<s>성물에 깃든 나의 힘으로 새롭게 태어난 네 이름이야!</s>
+				</Page>
+				<Page speaker="NPC_Eskalade_01" position="Right">
+					<s>이 힘을 사용하려면 넌 반드시 엔젤릭버스터로 변신해야 하지.</s>
+				</Page>
+				<Page speaker="NPC_Eskalade_01" position="Right">
+					<s>자, 변신을 위한 주문을 알려 줄 테니 따라해 봐.</s>
+					<s></s>
+					<s>‘드레스 업!’</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>[ff7b50][fs=32]드레스 업![/fs][-]</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialPathfinder01" index="1111" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="character" animName="Face3" type="Image" Image.Code="PathfinderCinema_03_01" Image.Path="DynamicTexture/Quest/Pathfinder/PathfinderCinema_03_01" Image.IsOn="TRUE" Image.UseOriginSize="true" Image.imageFadeIn="true" Image.imageFadeDurtaion="1">
+					<s>황량한 바위산 속에 이런 길이 있었을 줄이야.</s>
+				</Page>
+				<Page speaker="character" animName="Face1" type="Image" Image.Code="PathfinderCinema_03_01" Image.Path="DynamicTexture/Quest/Pathfinder/PathfinderCinema_03_01" Image.IsOn="FALSE" Image.UseOriginSize="true" Image.imageFadeOut="true" Image.imageFadeDurtaion="1" Image.IsLateClose="TRUE">
+					<s>어떤 곳일지 무척 궁금한걸.</s>
+				</Page>
+				<Page speaker="character" animName="Face0" type="Image" Image.Code="PathfinderCinema_04_01" Image.Path="DynamicTexture/Quest/Pathfinder/PathfinderCinema_04_01" Image.IsOn="TRUE" Image.UseOriginSize="true" Image.imageFadeIn="true" Image.imageFadeDurtaion="1">
+					<s>사람의 발길이 끊긴지 오래된 곳이군.</s>
+					<s>적어도 수백 년은 더 됐겠어.</s>
+				</Page>
+				<Page speaker="character" animName="Face0">
+					<s>누군가 숨겨 둔 비밀 통로일까?</s>
+					<s>아니면 시간이 지나 자연히 잊힌 장소?</s>
+				</Page>
+				<Page speaker="character" animName="Face1" type="Image" Image.Code="PathfinderCinema_04_01" Image.Path="DynamicTexture/Quest/Pathfinder/PathfinderCinema_04_01" Image.IsOn="FALSE" Image.UseOriginSize="true" Image.imageFadeOut="true" Image.imageFadeDurtaion="1" Image.IsLateClose="TRUE">
+					<s>…저기 뭔가 보인다!</s>
+				</Page>
+				<Page speaker="character" animName="Face0" type="Image" Image.Code="PathfinderCinema_05_01" Image.Path="DynamicTexture/Quest/Pathfinder/PathfinderCinema_05_01" Image.IsOn="TRUE" Image.UseOriginSize="true" Image.imageFadeIn="true" Image.imageFadeDurtaion="1">
+					<s>여긴… 오래 전에 누군가 사용했던 연구실인 것 같아.</s>
+				</Page>
+				<Page speaker="character" animName="Face0">
+					<s>그런데 여기저기 흩어져 있는 사료들은 이 장소보다 더 이전 연대의 것으로 보이는데…</s>
+				</Page>
+				<Page speaker="character" animName="Face6">
+					<s>음, 틀림없어. 이건 고대 유물들이야.</s>
+				</Page>
+				<Page speaker="character" animName="Face0">
+					<s>…누굴까, 이 연구실의 주인은?</s>
+				</Page>
+				<Page speaker="character" animName="Face3">
+					<s>!</s>
+				</Page>
+				<Page speaker="character" animName="Face3" type="Image" Image.Code="PathfinderCinema_05_01" Image.Path="DynamicTexture/Quest/Pathfinder/PathfinderCinema_05_01" Image.IsOn="FALSE" Image.UseOriginSize="true" Image.imageFadeOut="true" Image.imageFadeDurtaion="1" Image.IsLateClose="TRUE">
+					<s>이 그림은…?!</s>
+				</Page>
+				<Page speaker="character" animName="Face0" type="Image" Image.Code="PathfinderCinema_06_01" Image.Path="DynamicTexture/Quest/Pathfinder/PathfinderCinema_06_01" Image.IsOn="TRUE" Image.UseOriginSize="true" Image.imageFadeIn="true" Image.imageFadeDurtaion="1">
+					<s>마치 고대 유적을 묘사한 것 같아.</s>
+				</Page>
+				<Page speaker="character" animName="Face3">
+					<s>오래된 연구실, 그리고 그보다 더 오래된 유물과 문헌이라…</s>
+				</Page>
+				<Page speaker="character" animName="Face2">
+					<s>어쩐지 위험한 냄새가 나는 것이… 몹시 흥미로워!</s>
+				</Page>
+				<Page speaker="character" animName="Face1" type="Image" Image.Code="PathfinderCinema_06_01" Image.Path="DynamicTexture/Quest/Pathfinder/PathfinderCinema_06_01" Image.IsOn="FALSE" Image.UseOriginSize="true" Image.imageFadeOut="true" Image.imageFadeDurtaion="1" Image.IsLateClose="TRUE">
+					<s>이런 수수께끼는 확인해 보지 않고서는 못 배기지. 후후.</s>
+				</Page>
+				<Page speaker="character" animName="Face1">
+					<s>그럼 그림이 가리키는 유적지를 찾아 볼까?</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialPathfinder02" index="1112" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="character" animName="Face0">
+					<s>여긴가? 삽화에 그려져 있던 파르템 유적…</s>
+				</Page>
+				<Page speaker="character" animName="Face3">
+					<s>[ff7b50]세 개의 열쇠를 찾아 시험의 제단에 꽂아라.[-]</s>
+				</Page>
+				<Page speaker="character" animName="Face3">
+					<s>그 연구실 책상 위에서 발견한 기록에 그렇게 적혀 있었어.</s>
+				</Page>
+				<Page speaker="character" animName="Face1">
+					<s>열쇠 하나는 연구실에서, 다른 하나는 이 유적지에 오기 전에 찾아 손에 넣었지.</s>
+				</Page>
+				<Page speaker="character" animName="Face1">
+					<s>그럼 여기가 파르템 유적이 맞는지, 그리고 마지막 열쇠가 이곳에 있는지 확인해 보자.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="character" animName="Face2">
+					<s>오오!</s>
+				</Page>
+				<Page speaker="character" animName="Face1">
+					<s>열쇠가 반응하는 걸 보니 제대로 찾아온 모양인데?</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="character" animName="Face3">
+					<s>뭐지, 이 진동은?</s>
+				</Page>
+				<Page speaker="character" animName="Face3">
+					<s>무너지려는 건가?</s>
+					<s>아니면… 이 유적이 열쇠에 반응한 걸까?</s>
+				</Page>
+				<Page speaker="character" animName="Face0">
+					<s>오래 지체하면 위험하겠는걸.</s>
+					<s>서두르는 게 좋겠어.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="character" animName="Face0">
+					<s>제단 열쇠가 가리키는 장소로 가 보자.</s>
+					<s>여기서 머지않은 것 같은데…</s>
+				</Page>
+				<Page speaker="character" animName="Face0">
+					<s>열쇠가 반응하는 건… 저 너머다.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialPathfinder03" index="1113" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="character" animName="Face3">
+					<s>이건… 잡동사니랑… 물약이군.</s>
+				</Page>
+				<Page speaker="character" animName="Face0">
+					<s>찾던 물건은 아니지만… 일단 챙겨 두자.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="character" animName="Face3">
+					<s>상자를 좀 더 살펴 볼까…</s>
+				</Page>
+				<Page speaker="character" animName="Face6">
+					<s>…음, 역시 열쇠는 보이지 않는군. 허탕 친 건가?</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="character" animName="Face0">
+					<s>잠깐, 이 상자 겉면에 뭔가 적혀 있어.</s>
+				</Page>
+				<Page speaker="character" animName="Face0">
+					<s>…이건 고대 문자인 것 같군.</s>
+					<s>한번 해독해 볼까?</s>
+				</Page>
+				<Page speaker="character" animName="Face0">
+					<s>……</s>
+				</Page>
+				<Page speaker="character" animName="Face3">
+					<s>[ff7b50]…조각은 대기에 무리 짓는 빛의 줄기에서 열린다…[-]</s>
+				</Page>
+				<Page speaker="character" animName="Face3">
+					<s>이 문장이 가장 중요한 것 같아.</s>
+					<s>그런데 대체 무슨 뜻이지?</s>
+				</Page>
+				<Page speaker="character" animName="Face3">
+					<s>…조각… 대기… 무리… 빛… 줄기… 줄기…?!</s>
+				</Page>
+				<Page speaker="character" animName="Face3">
+					<s>앗!</s>
+				</Page>
+				<Page speaker="character" animName="Face1">
+					<s>이 고대의 함이 자리한 위치를 봐.</s>
+					<s>세 개의 기둥 앞에 놓여 있어.</s>
+				</Page>
+				<Page speaker="character" animName="Face1">
+					<s>그건 이 함에서 발견한 골동품은 그저 잡동사니가 아니란 거야.</s>
+					<s>기둥에 바쳐져야 할 제물인 거지.</s>
+				</Page>
+				<Page speaker="character" animName="Face1">
+					<s>그렇다면 제물을 두어야 할 기둥은…</s>
+				</Page>
+				<Page speaker="character" animName="Face1">
+					<s>불의 기둥이다!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="6">
+			<Body>
+				<Page speaker="character" animName="Face2">
+					<s>찾았다, 마지막 열쇠!</s>
+				</Page>
+				<Page speaker="character" animName="Face1">
+					<s>아마 다른 기둥을 선택했다면 함정이 발동되었겠지.</s>
+					<s>급할수록 돌아가라는 스승님의 말씀을 명심하길 잘했어.</s>
+				</Page>
+				<Page speaker="character" animName="Face1">
+					<s>이렇게 세 개의 열쇠를 모두 모았다.</s>
+					<s>이제 이 열쇠를 사용할 제단을 찾아야 해.</s>
+				</Page>
+				<Page speaker="character" animName="Face0">
+					<s>!</s>
+				</Page>
+				<Page speaker="character" animName="Face3">
+					<s>열쇠가 빛을 내고 있어.</s>
+					<s>내 짐작이 맞다면 이 빛이 가리키는 곳은…</s>
+				</Page>
+				<Page speaker="character" animName="Face3">
+					<s>자, 빛이 이끄는 곳으로 가 보자.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialPathfinder04" index="1114" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="character" animName="Face1">
+					<s>여기야, 열쇠가 가리킨 곳!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="character" animName="Face4">
+					<s>큭… 흐윽…</s>
+				</Page>
+				<Page speaker="character" animName="Face4" type="Image" Image.Code="PathfinderCinema_07_01" Image.Path="DynamicTexture/Quest/Pathfinder/PathfinderCinema_07_01" Image.IsOn="TRUE" Image.UseOriginSize="true" Image.imageFadeIn="true" Image.imageFadeDurtaion="1">
+					<s>허어… 허어…</s>
+				</Page>
+				<Page speaker="character" animName="Face4">
+					<s>속이 타들어 가는 것 같이 괴로워.</s>
+					<s>대체… 나에게 무슨 일이… 그 불길한 기운은 다 뭐고.</s>
+				</Page>
+				<Page speaker="character" animName="Face4" type="Image" Image.Code="PathfinderCinema_07_01" Image.Path="DynamicTexture/Quest/Pathfinder/PathfinderCinema_07_01" Image.IsOn="FALSE" Image.UseOriginSize="true" Image.imageFadeOut="true" Image.imageFadeDurtaion="1" Image.IsLateClose="TRUE">
+					<s>유물에 손을 댔기 때문에?</s>
+					<s>…설마 저주가 걸린 유물이었던 건가?</s>
+				</Page>
+				<Page speaker="character" animName="Face5" type="Image" Image.Code="PathfinderCinema_08_01" Image.Path="DynamicTexture/Quest/Pathfinder/PathfinderCinema_08_01" Image.IsOn="TRUE" Image.UseOriginSize="true" Image.imageFadeIn="true" Image.imageFadeDurtaion="1">
+					<s>스승님의 충고대로군.</s>
+					<s>호기심에는 항상 위험이 따른다 하셨지…</s>
+				</Page>
+				<Page speaker="character" animName="Face5" type="Image" Image.Code="PathfinderCinema_08_01" Image.Path="DynamicTexture/Quest/Pathfinder/PathfinderCinema_08_01" Image.IsOn="FALSE" Image.UseOriginSize="true" Image.imageFadeOut="true" Image.imageFadeDurtaion="1" Image.IsLateClose="TRUE">
+					<s>으… 추워…</s>
+					<s>몸이 으슬으슬 떨리고…</s>
+				</Page>
+				<Page speaker="character" animName="Face6">
+					<s>눈이… 감긴다…</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="NPC_Helena_22" animName="Base" type="Image" Image.Code="PathfinderCinema_09_01" Image.Path="DynamicTexture/Quest/Pathfinder/PathfinderCinema_09_01" Image.IsOn="TRUE" Image.UseOriginSize="true" Image.imageFadeIn="true" Image.imageFadeDurtaion="1">
+					<s>축하해요, #un#. 이제 제 품을 벗어나 자신만의 모험을 떠나게 되었군요.</s>
+				</Page>
+				<Page speaker="NPC_Helena_22" animName="Base">
+					<s>분명 #un#만의 특별한 이야기를 만들어 나갈 수 있을 거라 믿고 있습니다.</s>
+				</Page>
+				<Page speaker="NPC_Helena_22" animName="Base">
+					<s>지금까지 제가 보아 온 당신은 어느 누구보다 호기심 많고 용감한 모험가니까요.</s>
+				</Page>
+				<Page speaker="NPC_Helena_22" animName="Base">
+					<s>하지만…</s>
+				</Page>
+				<Page speaker="NPC_Helena_22" animName="Base">
+					<s>그렇기에 조금 더 걱정되는 것도 사실이랍니다.</s>
+				</Page>
+				<Page speaker="NPC_Helena_22" animName="Base">
+					<s>호기심은 새로운 길을 밝혀 이로움을 주는 횃불이 되기도 하지만,</s>
+					<s>가끔은 엄청난 화를 불러 오는 불씨가 되기도 하니까요.</s>
+				</Page>
+				<Page speaker="NPC_Helena_22" animName="Base">
+					<s>그러니 기억하세요, 모험가여.</s>
+					<s>호기심의 뒷면에는 늘 위험이 존재한다는 것을.</s>
+				</Page>
+				<Page speaker="NPC_Helena_22" animName="Base" type="Image" Image.Code="PathfinderCinema_09_01" Image.Path="DynamicTexture/Quest/Pathfinder/PathfinderCinema_09_01" Image.IsOn="FALSE" Image.UseOriginSize="true" Image.imageFadeOut="true" Image.imageFadeDurtaion="1" Image.IsLateClose="TRUE">
+					<s>늘 조심히 다루고 경계해야 한다는 것을요…</s>
+				</Page>
+				<Page speaker="character" animName="Face6">
+					<s>스승님…</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="character" animName="Face5">
+					<s>으…</s>
+				</Page>
+				<Page speaker="character" animName="Face5">
+					<s>잠시 정신을 잃었던 모양이군.</s>
+				</Page>
+				<Page speaker="character" animName="Face5">
+					<s>그나저나…</s>
+				</Page>
+				<Page speaker="character" animName="Face5">
+					<s>내 몸에서 느껴지는 이 위화감은 대체 뭐지…?</s>
+				</Page>
+				<Page speaker="character" animName="Face5">
+					<s>나를 옭아매는 듯하면서도 넘치는 이 기운은…</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="7">
+			<Body>
+				<Page speaker="character" animName="Face5">
+					<s>읏…!</s>
+				</Page>
+				<Page speaker="character" animName="Face5">
+					<s>내 몸에 새겨진 정체 모를 이 힘은 대체…!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialDualBlade01" index="1116" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="player">
+					<s>……</s>
+				</Page>
+				<Page speaker="player">
+					<s>어두워…</s>
+				</Page>
+				<Page speaker="player">
+					<s>낙뢰 때문에 불이 꺼진 건가?</s>
+					<s>그게 아니면…</s>
+				</Page>
+				<Page speaker="player">
+					<s>설마 임무를 다녀 온 사이에 비화원에 무슨 일이라도?</s>
+				</Page>
+				<Page speaker="player">
+					<s>…일단 안을 살펴보자.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialDualBlade02" index="1117" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="player">
+					<s>눈이 어둠에 익숙해졌군.</s>
+					<s>그렇지만 이상한 건 이 어둠만이 아니야.</s>
+				</Page>
+				<Page speaker="player">
+					<s>비화원이 원래 이렇게 고요한 곳이었던가?</s>
+				</Page>
+				<Page speaker="player">
+					<s>…신중하게 움직이는 게 좋겠어.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	
+	<Quest code="TutorialDualBlade03" index="1118" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="player">
+					<s>누구…?</s>
+				</Page>
+				<Page speaker="NPC_GiantShadowBlade_00">
+					<s>……</s>
+				</Page>
+				<Page speaker="player">
+					<s>으앗!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="player" animName="Prone" EmotionName="Qblue">
+					<s>으…</s>
+				</Page>
+				<Page speaker="Null_01">
+					<s>괜찮아, #un#?</s>
+				</Page>
+				<Page speaker="player" animName="Prone" EmotionName="Qblue">
+					<s>이 목소리는…</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="player" animName="Prone" EmotionName="Qblue">
+					<s>홍아님…</s>
+				</Page>
+				<Page speaker="NPC_Honga_18">
+					<s>자, [ff7b50]물약[-]부터 챙겨.</s>
+				</Page>
+				<Page speaker="NPC_Honga_18">
+					<s>일단 네 정신을 수습한 다음에 이야기를 나누도록 하지.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="6">
+			<Body>
+				<Page speaker="NPC_Honga_18">
+					<s>혈색이 돌아왔군.</s>
+				</Page>
+				<Page speaker="player">
+					<s>고맙습니다.</s>
+					<s>그런데 설마 이 상황은…</s>
+				</Page>
+				<Page speaker="NPC_Honga_18">
+					<s>후후, 눈치챘나.</s>
+				</Page>
+				<Page speaker="NPC_Honga_18">
+					<s>맞아, 네가 짐작한 대로 이건 시험이야.</s>
+				</Page>
+				<Page speaker="player">
+					<s>역시.</s>
+				</Page>
+				<Page speaker="NPC_Honga_18">
+					<s>돌발 상황에서 보인 경계심은 합격이야.</s>
+					<s>하지만 아직 기습에 대한 대처는 미숙하군.</s>
+				</Page>
+				<Page speaker="NPC_Honga_18">
+					<s>전에 알려 주었던 [ff7b50]듀얼블레이드의 비기[-]를 복습하는 게 좋겠어.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="8">
+			<Body>
+				<Page speaker="NPC_Honga_18">
+					<s>좋아, 시험은 여기까지야.</s>
+				</Page>
+				<Page speaker="player">
+					<s>(그렇지만 긴장을 늦춰선 안 되겠지.</s>
+					<s>그게 이번 시험의 가르침이니까.)</s>
+				</Page>
+				<Page speaker="NPC_Honga_18">
+					<s>…빗소리가 잦아들고 있군.</s>
+					<s>곧 하늘이 개겠어…</s>
+				</Page>
+				<Page speaker="player">
+					<s>……</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+</root>

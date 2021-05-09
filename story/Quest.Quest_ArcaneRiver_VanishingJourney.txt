@@ -1,0 +1,2045 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+
+
+<Quest code="VanishingJourney_0001" index="35007" sort="Theme">
+
+	<Title>아케인 리버로</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>저희는 현재의 문에 생겨난 이변을 조심스럽게 조사하고 있습니다. 그런데 [ff7b50]신관 카오[-]가 무언가에 홀린 듯 아케인 리버로 뛰어들었다는군요!</s>
+			</Page>
+			<Page>
+				<s>카오는 잃어버린 기억을 찾아 헤매던 신관입니다. 알려지지도 않은 곳을 혼자 돌아다니는 건 너무 위험해요.</s>
+			</Page>
+			<Page actionCommand="VanishingJourney_0001_01">
+				<s>늦기 전에 당신이 그를 찾아 보호해 주셨으면 합니다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page skip="true" actionCommand="VanishingJourney_0001_02">
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page skip="true" actionCommand="VanishingJourney_0001_03">
+			</Page>
+			<Page speaker="NPC_Largo_01">
+				<s>이것이 소멸의 여로를 살아가는 자의 운명… 그렇지 않은가? 이방인…</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<Body>
+			<Page skip="true" actionCommand="VanishingJourney_0001_04">
+			</Page>
+			<Page speaker="NPC_Rento_01">
+				<s>아무래도 좋다, 이방인… 이제 잊혀지게 두어라…</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="5">
+		<Body>
+			<Page skip="true" actionCommand="VanishingJourney_0001_05">
+			</Page>
+			<Page speaker="NPC_Legato_01" actionCommand="VanishingJourney_0001_06">
+				<s>이방인, 과거를 잃은 이곳에 미래는 없네. 이제 되었으니 떠나게.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="6">
+		<Body>
+			<Page>
+				<s>여긴 이름 없는 마을. 그 이름대로 우린 이름 없는 존재로 돌아갈 운명일 뿐…</s>
+			</Page>
+			<Page speaker="player">
+				<s>(나는 방금 여기에 처음 왔는데… 모두가 말하는 이방인은 누구지? 혹시…!)</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="7">
+		<Body>
+			<Page>
+				<s>기억의 소중함을 누구보다 절실히 느끼는 내가 다른 이의 기억을 망쳐버리다니…</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0002" index="35008" sort="Theme">
+
+	<Title>기억의 나무에 일어난 이변</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>당신은… 신관의 요청으로 절 찾으러 오신 분이군요.</s>
+			</Page>
+			<Page>
+				<s>그분들의 만류를 뿌리치고 홀로 오지 않았더라면 이 [ff7b50]기억의 나무[-]를 훼손하지도 않았을 텐데…!</s>
+			</Page>
+			<Page speaker="player">
+				<s>기억의 나무?</s>
+			</Page>
+			<Page type="Image" Image.Code="VanishingJourneyCinema_01" Image.Index="1" Image.Path="DynamicTexture/Quest/ArcaneRiver/VanishingJourney/VanishingJourneyCinema_01" Image.IsOn="TRUE" Image.UseOriginSize="true">
+				<s>이 나무를 기억의 나무라 불러요. 여기엔 이곳을 살아가는 존재들의 많은 기억이 걸려 있었죠.</s>
+			</Page>
+			<Page type="Image" Image.Code="VanishingJourneyCinema_02" Image.Index="2" Image.Path="DynamicTexture/Quest/ArcaneRiver/VanishingJourney/VanishingJourneyCinema_02" Image.IsOn="TRUE">
+				<s>어쩌면 잃어버린 제 기억의 단서가 있을지도 모른다는 생각이 들었어요. 그래서 나무에 손을 댔는데…</s>
+			</Page>
+			<Page type="Image" Image.Code="VanishingJourneyCinema_03" Image.Index="3" Image.Path="DynamicTexture/Quest/ArcaneRiver/VanishingJourney/VanishingJourneyCinema_03" Image.IsOn="TRUE" Image.UseOriginSize="true">
+				<s>그 순간, 나무에 걸려 있던 모든 기억들이 사방으로 흩어져 버리고 말았어요!</s>
+			</Page>
+			<Page>
+				<s>그렇게 주민들은 앙상하게 변해 버린 기억의 나무를 마주하고…</s>
+			</Page>
+			<Page>
+				<s>서서히 모든 것을 잃어 갔어요. 기억도, 생기도… 절 향한 원망조차도.</s>
+			</Page>
+			<Page type="Image" Image.CloseAllImage="TRUE">
+				<s>차라리 질책이라도 해 준다면 조금은 마음이 편할지도 모르는데…</s>
+			</Page>
+			<Page speaker="player">
+				<s>……</s>
+			</Page>
+			<Page>
+				<s>…#un#.</s>
+			</Page>
+			<Page>
+				<s>신전의 전언을 전해 주신 것은 고맙지만 저 때문에 실의에 빠진 주민들을 두고 이대로 도망칠 수는 없어요.</s>
+			</Page>
+			<Page>
+				<s>실수를 바로잡을 방법이 분명 있을 거예요. 당신이 저를 도와주시겠어요?</s>
+			</Page>
+			<Page>
+				<s>그렇다면 촌장님에게 자세한 이야기를 들어 주세요. 면목없는 저 대신 말이에요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>이방인, 알고 있나? 우리들은 망각의 호수의 영향으로 기억이 서서히 풍화되어 간다네.</s>
+			</Page>
+			<Page>
+				<s>기억의 풍화를 막을 방법은 나무에 기억을 거는 것뿐이야. 그래서 우리는 소중한 기억을 나무에 걸고 과거를 되새겨 왔던 걸세. </s>
+			</Page>
+			<Page>
+				<s>그런데 그런 나무의 기억들이 모두 흩어져 버리고 만 거야.</s>
+			</Page>
+			<Page>
+				<s>이제 곧 우리는 우리 스스로를 망각해 버리고 말겠지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(…그렇게 된 거였군. 유일하게 보존할 수 있었던 나무의 기억마저 사라져 버려서 모두가 의지를 잃은 거였어.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0003" index="35009" sort="Theme">
+
+	<Title>기쁨의 기억을 모아</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>이방인, 헛된 노력은 말게. 이젠 그저 운명이라 생각하고 받아들일 수 있을 것 같으니.</s>
+			</Page>
+			<Page>
+				<s>아직은 내가 나무에 걸었던 기억이 무엇인지 떠올릴 수 있네. 기억이 흩어지기 바로 전에 나무를 지켜보고 있었거든.</s>
+			</Page>
+			<Page>
+				<s>그건 이웃들과 나무에 처음 기억을 걸었던 광경이지. 마을의 모두가 기뻐했었네.</s>
+			</Page>
+			<Page>
+				<s>하지만 이 기억도 곧 사라질걸세. 이런 기쁜 기억이라면 이미 기쁨의 에르다스의 먹잇감이 되었을 테니.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page speaker="player">
+				<s>(방법을 찾은 것 같아. 우선 [ff7b50]#d_0_0#[-]에게서 [ff7b50]#p_0#[-]을 되찾는 것이 이 일을 수습하는 첫 걸음이 될 수 있을 거야.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page speaker="player">
+				<s>(#bd_0_0#를 처치하고 모은 #bp_0#들을 건넸다.)</s>
+			</Page>
+			<Page>
+				<s>설마 기억을 되찾아 온 건가! 그 강한 녀석들을 상대로…?!</s>
+			</Page>
+			<Page>
+				<s>오, 이 기억을 좀 보게. 처음 나무에 기억을 걸던 때로군. 너무 신난 한 녀석은 춤까지 추고 있지 않은가. 하하.</s>
+			</Page>
+			<Page>
+				<s>어서 모은 기억들을 나무에 걸어 주게. 마을의 모두가 기뻐할 거야.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<ActiveMemo>기억의 나무에 기쁨의 기억 걸기</ActiveMemo>
+		<Body>
+			<Page speaker="player">
+				<s>(기억의 나무에 기쁨의 기억을 걸었다.)</s>
+			</Page>
+			<Page speaker="player" actionCommand="VanishingJourney_0003_01">
+				<s>나무의 모습이 변하고 있어…!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<Body>
+			<Page>
+				<s>나무에 생기가 돌아오고 있군…! 원래대로 돌릴 수 있을 지도…!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0004" index="35010" sort="Theme">
+
+	<Title>분노의 기억을 모아</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>자네가 우리에게 희망을 보여 주었네! 부디 기억의 나무가 복원될 수 있도록 도와 주게! </s>
+			</Page>
+			<Page>
+				<s>기억은 크게 기쁨, 분노, 슬픔, 즐거움… 이렇게 네 가지 감정의 색채를 띠고 있네.</s>
+			</Page>
+			<Page>
+				<s>이번엔 그 중에 [ff7b50]#p_0#[-]을 모아 주게. [ff7b50]풍화된 분노의 땅[-]에서 [ff7b50]#d_0_0#[-]에게서 얻을 수 있을 거야.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>후후, 왜 분노의 기억같이 반갑지 않은 것들까지 나무에 걸어야 하는지 모르겠다는 표정이로군.</s>
+			</Page>
+			<Page>
+				<s>자, 잠깐 손을 이리로…</s>
+			</Page>
+			<Page speaker="player">
+				<s>!?</s>
+			</Page>
+			<Page speaker="player">
+				<s>(머릿속에 누군가의 기억이 장면처럼 떠오른다! 이건 대체…!?)</s>
+			</Page>
+			<Page>
+				<s>망각의 호수를 살아가는 자들은 모두 이렇게 기억으로 구성된 존재들이야. 때문에 이곳에서는 간혹 이렇게 접촉을 통해 기억을 엿보게 되기도 하지.</s>
+			</Page>
+			<Page>
+				<s>우리는 자네에게 보여준 이런 분노의 기억마저 되새긴다네. 그리고 이 기억들을 통해 활력과 의지를 얻지.</s>
+			</Page>
+			<Page>
+				<s>되새겨야 할 만큼 충분한 시간이 지나면, 분노와 증오는 사라지고 용기와 신념이 그 자리를 채우는 것을 느낄 수 있다네.</s>
+			</Page>
+			<Page>
+				<s>자, 그러면 그 소중한 분노의 기억도 나무에 옮겨 주게.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<ActiveMemo>기억의 나무에 분노의 기억 걸기</ActiveMemo>
+		<Body>
+			<Page speaker="player">
+				<s>(기억의 나무에 분노의 기억을 걸었다.)</s>
+			</Page>
+			<Page speaker="player" actionCommand="VanishingJourney_0004_01">
+				<s>기억의 나무에 활력이 돌아오는 것이 느껴진다. 이곳 주민들처럼 분노의 기억을 통해 활력을 얻는 걸까?</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<Body>
+			<Page>
+				<s>나무가 활력을 찾고 있는 것이 보이는군. 주민들도 기운을 되찾기 시작할 거야.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0005" index="35011" sort="Theme">
+
+	<Title>슬픔의 기억을 모아</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>이번엔 [ff7b50]#d_0_0#[-]에게서 [ff7b50]#p_0#[-]을 모아 주게.</s>
+			</Page>
+			<Page>
+				<s>분노의 기억을 왜 모아야 하는지 의문을 가졌던 자네라면 슬픔의 기억을 모으는 것 역시 궁금해할지도 모르겠군.</s>
+			</Page>
+			<Page>
+				<s>슬픔의 기억을 복원하는 과정 속에서 자연스레 그 의문을 해소할 수 있을 거라 생각하네.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>다녀왔군. 고맙네. 마찬가지로 기억의 나무에 되돌려 주면 되네.</s>
+			</Page>
+			<Page>
+				<s>이번엔 기억을 걸기 전에 한 번 자세히 살펴 보겠나? 왜 슬픈 기억이 꼭 필요한 건지 알 수 있을 테니.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<ActiveMemo>기억의 나무에 슬픔의 기억 걸기</ActiveMemo>
+		<Body>
+			<Page speaker="player">
+				<s>(기억의 나무에 슬픔의 기억을 거는 중에 이질적인 풍광이 눈에 띈다.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(여긴… 소멸의 여로가 아니야. 이 기억의 주인은 이곳 주민이 아닌 건가?)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(단란한 가족의 일상, 그것을 뒤로 하고 떠나는 그의 결연한 의지, 그리고 아련하게 그 기억을 회상하는 서글픈 표정…)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(이별은 괴롭지만 소중한 사람들을 잊지 않기 위해선 그 슬픔마저도 기억해야 하는 건가…)</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<Body>
+			<Page>
+				<s>…자네들보다 먼저 온 이방인의 기억을 보았다고? 흠…</s>
+			</Page>
+			<Page>
+				<s>망각의 바람이 그를 기억하지 못할 만큼 오랜 시간 동안 우리를 휘감았던 것 같군.</s>
+			</Page>			
+			<Page>
+				<s>허나 자네가 느낀 대로 그 슬픔의 기억이 홀로 남은 그 이방인을 지탱해 주었을 거라고 생각하네. 슬픔의 기억이란 그런 거지.</s>
+			</Page>
+			<Page>
+				<s>그리고 자네는 그런 소중한 것들을 우리에게 되돌려 준 거야. 그러니 다시 한 번 고맙다는 인사를 하겠네.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0006" index="35012" sort="Theme">
+
+	<Title>즐거움의 기억을 모아</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>마지막으로 [ff7b50]#d_0_0#[-]를 찾아 [ff7b50]#p_0#[-]을 모아 주게. 염치없지만 조금만 더 힘을 내어 주길 부탁하지.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>마지막까지 잘 해주어 고맙네. 오늘의 기억은 분명히 즐거움으로 기억될 테지!</s>
+			</Page>
+			<Page>
+				<s>자, 어서 기억의 나무를 복원시켜 주게.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<ActiveMemo>기억의 나무에 즐거움의 기억 걸기</ActiveMemo>
+		<Body>
+			<Page speaker="player">
+				<s>(즐거움의 기억을 걸자, 기억의 나무가 온전한 제 모습을 드러내기 시작한다.)</s>
+			</Page>
+			<Page speaker="player" actionCommand="VanishingJourney_0006_01">
+				<s>기억의 나무는 원래 이런 모습이었구나.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<Body>
+			<Page>
+				<s>서로 다른 색채가 하나된 이 아름다운 모습을 다시 보게 될 줄은 정말 몰랐네! 주민들도 모두 기뻐하고 있어!</s>
+			</Page>
+			<Page>
+				<s>지레 포기해 버렸던 내 자신이 조금 부끄럽네. 자네 덕분에 일을 바로잡을 수 있었어.</s>
+			</Page>
+			<Page>
+				<s>오늘을 즐거움의 기억으로 되새길 수 있도록 걸어두겠네. 언젠가 자네도 이 기쁜 기억을 추억하면 좋겠군.!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0007" index="35013" sort="Theme">
+
+	<Title>망각의 호수를 지나 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>신전의 소식부터 기억의 나무까지… 정말 고맙습니다. 당신에게는 정말 신세만 지는군요.</s>
+			</Page>
+			<Page>
+				<s>저… 그런데 나무에 걸린 기억 말이에요. 혹시 제 기억에 단서가 될 만한 건 보지 못하셨나요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>그건…</s>
+			</Page>
+			<Page>
+				<s>역시 없었을까요… 저도 복원되는 과정을 계속 지켜봤으니 그렇게 생각은 했지만…</s>
+			</Page>
+			<Page>
+				<s>하지만… 이상하게도 기억들 중에 눈에 익은 곳들이 있었어요.</s>
+			</Page>
+			<Page>
+				<s>이곳에 온 뒤 저는 이 호숫가를 벗어난 적이 없었어요. 하지만 이미 잘 알고 있는 듯한 묘한 기시감이 몸을 감싸더군요.</s>
+			</Page>
+			<Page>
+				<s>제 느낌이 단순히 착각이 아니라면 그곳은 이 망각의 호수 건너편에 있을 거예요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>위험하지 않을까요…?</s>
+			</Page>
+			<Page>
+				<s>그렇지만 실마리를 잡았는데 물러설 수는 없어요.</s>
+			</Page>
+			<Page>
+				<s>기억을 찾아야만 해요. 꼭 해야만 하는 일이 있었어요. 점점 그런 확신이 생겨요.</s>
+			</Page>
+			<Page>
+				<s>#un#, 도와주세요. 당신이 도와준다면 전 기억을 찾을 수 있을지도 몰라요. 저와 함께 이 호수를 넘어가요.</s>
+			</Page>
+			<Page>
+				<s>이 너머로 가기 위해서는 배를 타야 해요. 호숫가에서 만나요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>고맙습니다. 와 주셨군요!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0008" index="35014" sort="Theme">
+
+	<Title>망각의 호수를 지나 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page actionCommand="VanishingJourney_0008_01">
+				<s>여기서 배를 타면 반대편으로 건너갈 수 있어요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page speaker="NPC_Kima_01">
+				<s>나는 노를 젓는 존재…</s>
+			</Page>
+			<Page speaker="NPC_Kima_01" actionCommand="VanishingJourney_0008_02">
+				<s>나는 나아갈 뿐… 의지가 있는 자, 길을 열어라…</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page>
+				<s>호수 너머에서도 볼 수 있었지만 가까이서 보니 정말 거대한 절벽이군요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0009" index="35015" sort="Theme">
+
+	<Title>망각의 호수를 지나 3</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>돌아갈 만한 길이 보이지 않아요. 절벽을 오르는 수밖에 없겠어요.</s>
+			</Page>
+			<Page actionCommand="VanishingJourney_0009_01">
+				<s>올라가서 반대편을 살펴보면 건너갈 방법을 찾을 수 있을 거예요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page skip="true" actionCommand="VanishingJourney_0009_02">
+			</Page>
+			<Page speaker="NPC_Kao_05">
+				<s>다 올라온 것 같아요. 저기 보이는 다리를 건너면 반대편으로 갈 수 있겠어요.</s>
+			</Page>
+			<Page speaker="NPC_Kao_05">
+				<s>하지만 저 다리, 어쩐지…</s>
+			</Page>
+			<Page speaker="player">
+				<s>?</s>
+			</Page>
+			<Page speaker="NPC_Kao_05" actionCommand="VanishingJourney_0009_03">
+				<s>아, 아니에요. 가죠.</s>
+			</Page>
+			<Page speaker="NPC_Kao_05">
+				<s>다리가…!?</s>
+			</Page>
+			<Page speaker="player" actionCommand="VanishingJourney_0009_04">
+				<s>사라졌다…?!</s>
+			</Page>
+			<Page speaker="NPC_Rino_01" actionCommand="VanishingJourney_0009_05">
+				<s>아직 건너지 않았군요! 늦지 않아 다행이네요.</s>
+			</Page>
+			<Page speaker="NPC_Kao_05">
+				<s>당신은…?</s>
+			</Page>
+			<Page speaker="NPC_Rino_01">
+				<s>전 리노라고 해요. 두 분, 나무의 기억이 흩어졌던 사건과 관계 있는 분들이죠?</s>
+			</Page>
+			<Page speaker="NPC_Kao_05">
+				<s>네? 그렇긴 하지만… 지금은 원래대로 돌아왔을 텐데…</s>
+			</Page>
+			<Page speaker="NPC_Rino_01">
+				<s>알아요. 하지만 두 분이 갈무리하지 못한 기억들을 제가 조금 보관하게 됐거든요.</s>
+			</Page>
+			<Page speaker="NPC_Rino_01">
+				<s>예를 들면 바람을 타고 이 절벽 너머로 날아든 기억같은.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그러면 혹시 이 건너편에서 여기로…?</s>
+			</Page>
+			<Page speaker="NPC_Rino_01">
+				<s>네. 그리고 그것들을 돌려놓으러 기억의 나무로 향했다가 여러분을 보고 급히 따라온 거에요.</s>
+			</Page>
+			<Page speaker="NPC_Kao_05">
+				<s>아, 이 너머까지 흩어진 기억이 있었을 줄은…</s>
+			</Page>
+			<Page speaker="player">
+				<s>그런데 우릴 '급히 따라왔다'온 이유는 뭐죠?</s>
+			</Page>
+			<Page speaker="NPC_Rino_01">
+				<s>마을을 도와주신 여러분이 위험에 빠지는 걸 막기 위해서예요. 이곳 지리를 잘 모르는 이들에겐 여긴 너무 위험한 곳이거든요.</s>
+			</Page>
+			<Page speaker="NPC_Rino_01">
+				<s>우선 저것. 보신 것처럼 저 다리는 화염이 만들어 낸 신기루죠. 건너려 하면 소멸의 화염에 휩싸이고 말아요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그렇다면 다른 길을 찾아야 하는 건가…</s>
+			</Page>
+			<Page speaker="NPC_Kao_05">
+				<s>하지만 여기 오는 동안 다른 길은 발견하지 못했어요. 이 길을 건너는 게 불가능하다면 대체 어떻게…</s>
+			</Page>
+			<Page speaker="NPC_Rino_01">
+				<s>날아 가는 거죠.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!?</s>
+			</Page>
+			<Page speaker="NPC_Rino_01">
+				<s>이 지역에는 화염새가 서식하고 있어요. 녀석들의 도움을 받는다면 화염이 미치지 않는 상공으로 날아갈 수 있죠.</s>
+			</Page>
+			<Page speaker="NPC_Rino_01">
+				<s>다만 그만한 수고를 감내해야 해요. 화염새를 부르고, 잡고, 길들이는 과정이 꽤 녹록치 않으니까요.</s>
+			</Page>
+			<Page speaker="player" actionCommand="VanishingJourney_0009_06">
+				<s>방법이 있다면 해 보죠.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0010" index="35016" sort="Theme">
+
+	<Title>화염새 길들이기 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>화염새를 이용하기 위해서는 세 단계를 거쳐야 해요. 유인하고, 포획해서, 길들이는 거죠.</s>
+			</Page>
+			<Page>
+				<s>당연하지만 단계들마다 필요한 재료와 준비 과정이 다르죠. 그러니 여러 재료들을 부탁해야 해요.</s>
+			</Page>
+			<Page>
+				<s>우선 유인을 위한 재료부터 모아 보죠. [ff7b50]#d_0_0#[-]에게서 [ff7b50]#p_0#[-]을 모아 주세요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>단단한 집게발이군요. 에르다스들을 물리치기 쉽지 않았을 텐데 굉장하시네요.</s>
+			</Page>
+			<Page>
+				<s>이걸로 화염새를 이용하기 위한 첫 번째 재료는 모두 모았어요.</s>
+			</Page>
+			<Page>
+				<s>이런 식으로 두 번째, 세 번째 재료도 부탁드릴게요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0011" index="35017" sort="Theme">
+
+	<Title>화염새 길들이기 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>두 번째로, 유인한 화염새를 붙잡아 둘 재료가 필요해요.</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]#d_0_0#[-]에게서 [ff7b50]#p_0#[-]을 모아 주세요. 미끄러우면서 점성도 강한 재료라 화염새를 붙잡기에 제격이죠.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page speaker="player">
+				<s>자, 재료는 이 정도면… 음?</s>
+			</Page>
+			<Page speaker="player">
+				<s>(대화에 열중하느라 돌아온 것도 눈치채지 못하고 있는 것 같은데…)</s>
+			</Page>
+			<Page>
+				<s>기억을 찾기 위한 여행… 인가요?</s>
+			</Page>
+			<Page speaker="NPC_Kao_06">
+				<s>맞아요. 여기는 낯선 곳이어야 하는데 한편으로는 줄곧 익숙한 기분이 들거든요. 분명 무슨 실마리가 있을 거라고 생각했어요.</s>
+			</Page>
+			<Page speaker="NPC_Kao_06">
+				<s>하지만 나무에 손을 대자 마자 기억이 흩어져 버려서… #un#의 도움이 아니었다면 여전히 마을에서 자책만 하고 있었을 거에요. </s>
+			</Page>
+			<Page>
+				<s>그렇군요. 기억을 잃은 거라면… 앗.</s>
+			</Page>
+			<Page>
+				<s>오셨군요, #un#. 끈끈한 기름… 네. 그 정도면 충분하겠어요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0012" index="35018" sort="Theme">
+
+	<Title>화염새 길들이기 3</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>이제 화염새를 안정적으로 제어하기 위해 필요한 재료만 남았네요.</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]#d_0_0#[-]에게서 [ff7b50]#p_0#[-]를 부탁해요. 붙잡은 화염새를 안심시키고 길들이기에 탁월한 재료에요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>딱딱한 껍데기를 다 모아오셨군요. 이제 화염새를 길들여 반대편으로 건너갈 채비를 하죠.</s>
+			</Page>
+			<Page speaker="NPC_Kao_06">
+				<s>……</s>
+			</Page>
+			<Page speaker="player">
+				<s>……?</s>
+			</Page>
+			<Page speaker="NPC_Kao_06">
+				<s>……</s>
+			</Page>
+			<Page speaker="player">
+				<s>분위기가… 무슨 일이 있었던 건가요?</s>
+			</Page>
+			<Page>
+				<s>그게… 실은 [ff7b50]기억을 비추는 샘[-]에 다녀왔어요.</s>
+			</Page>
+			<Page speaker="player" actionCommand="VanishingJourney_0012_01">
+				<s>기억을 비추는 샘?</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page skip="true" actionCommand="VanishingJourney_0012_02">
+			</Page>
+			<Page speaker="NPC_Kao_07">
+				<s>리노, 혹시…</s>
+			</Page>
+			<Page speaker="NPC_Kao_07">
+				<s>우리가 만난 적이 있나요?</s>
+			</Page>
+			<Page speaker="NPC_Rino_03">
+				<s>네?</s>
+			</Page>
+			<Page speaker="NPC_Kao_07">
+				<s>…제가 이 절벽에 오른 건 이번이 처음이예요.</s>
+			</Page>
+			<Page speaker="NPC_Kao_07">
+				<s>그런데 나무의 기억에서 이곳을 보는 순간 어쩐지 익숙한 기분이 들었죠.</s>
+			</Page>
+			<Page speaker="NPC_Kao_07">
+				<s>…그리고 당신에게도 그런 비슷한 느낌이 들어요.</s>
+			</Page>
+			<Page speaker="NPC_Kao_07">
+				<s>낯익으면서도 어딘지 애달픈…</s>
+			</Page>
+			<Page speaker="NPC_Rino_03">
+				<s>……</s>
+			</Page>
+			<Page speaker="NPC_Rino_03">
+				<s>진실이 궁금하다면 [ff7b50]기억을 비추는 샘[-]에 가 보겠어요?</s>
+			</Page>
+			<Page speaker="NPC_Rino_03">
+				<s>그 샘은 기억을 비춰 준다고 전해지거든요. 무의식에 잠긴 기억일지라도 그 샘의 수면에선 보일지도 몰라요.</s>
+			</Page>
+			<Page speaker="NPC_Kao_07">
+				<s>!</s>
+			</Page>
+			<Page speaker="NPC_Kao_07" actionCommand="VanishingJourney_0012_03">
+				<s>…그런데 처음 듣는 장소인데 어쩐지 그 이름조차도 익숙한 것 같아요.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<Body>
+			<Page skip="true" actionCommand="VanishingJourney_0012_04">
+			</Page>
+			<Page speaker="NPC_Rino_04">
+				<s>여기예요.</s>
+			</Page>
+			<Page speaker="NPC_Kao_08">
+				<s>!</s>
+			</Page>
+			<Page speaker="NPC_Kao_08">
+				<s>이 샘은… 어쩐지 [ff7b50]여신의 거울[-]이 연상되는군요. 익숙한 느낌이 들었던 건 그 때문이었나…</s>
+			</Page>
+			<Page speaker="NPC_Kao_08">
+				<s>하지만 전 이 샘물을 직접 보기 전부터 그렇게 느끼고 있었어요.</s>
+			</Page>
+			<Page speaker="NPC_Kao_08">
+				<s>…이 샘에서 그 의문에 대한 답을 찾을 수 있겠죠?</s>
+			</Page>
+			<Page speaker="NPC_Rino_04">
+				<s>부디 그러길 바라요. 자, 그러면 샘을 천천히 들여다보세요.</s>
+			</Page>
+			<Page speaker="NPC_Rino_04" actionCommand="VanishingJourney_0012_05">
+				<s>어때요? 뭔가 보이나요?</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="5">
+		<Body>
+			<Page>
+				<s>하지만 그 샘에서도 별다른 실마리를 잡지 못한 모양이에요. 상심이 큰지 그 후로 아무런 말이 없네요.</s>
+			</Page>
+			<Page speaker="NPC_Kao_06">
+				<s>……</s>
+			</Page>
+			<Page>
+				<s>카오, 포기하지 말아요. 당신이 가려고 했던 소멸의 여로 끝에서 단서를 찾을 수 있을지도 모르니까요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0013" index="35019" sort="Theme">
+
+	<Title>비행</Title>
+
+	<Task index="1">
+		<Body>
+			<Page actionCommand="VanishingJourney_0013_01">
+				<s>자, 그럼 이제 절벽을 건너기 위해 화염새를 유인해 볼게요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page skip="true" actionCommand="VanishingJourney_0013_02">
+			</Page>
+			<Page actionCommand="VanishingJourney_0013_03">
+				<s>자, 이걸 이렇게 하면…</s>
+			</Page>
+			<Page actionCommand="VanishingJourney_0013_04">
+				<s>화염새가 흥미를 보였어요. 자, 이제 조심스럽게 다가가서 길들이면 돼요.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page skip="true" actionCommand="VanishingJourney_0013_05">
+			</Page>
+			<Page speaker="NPC_Rino_06">
+				<s>이대로 쭉 가면 머지 않아 소멸의 여로 끝에 닿을 거예요.</s>
+			</Page>
+			<Page speaker="NPC_Rino_06">
+				<s>그러면 그곳에서… 어?</s>
+			</Page>
+			<Page speaker="NPC_Kao_10">
+				<s>……</s>
+			</Page>
+			<Page speaker="NPC_Rino_06" actionCommand="VanishingJourney_0013_06">
+				<s>카오?</s>
+			</Page>
+			<Page speaker="NPC_Rino_06" actionCommand="VanishingJourney_0013_07">
+				<s>방향을 갑자기 그렇게 돌리면 위험… 아앗!</s>
+			</Page>
+			<Page speaker="NPC_Rino_06" type="Image" Image.Code="VanishingJourneyCinema_04" Image.Path="DynamicTexture/Quest/ArcaneRiver/VanishingJourney/VanishingJourneyCinema_04" Image.IsOn="TRUE" Image.UseOriginSize="true">
+				<s>아악!</s>
+			</Page>
+			<Page speaker="player">
+				<s>!!!</s>
+			</Page>
+			<Page speaker="player">
+				<s>(아래로 떨어져 버렸어!)</s>
+			</Page>
+			<Page speaker="player">
+				<s>어, 어째서!? 이게 대체 무슨 짓…</s>
+			</Page>
+			<Page speaker="NPC_Kao_10" actionCommand="VanishingJourney_0013_08">
+				<s>이제 됐어.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!?</s>
+			</Page>
+			<Page speaker="NPC_Kao_10" actionCommand="VanishingJourney_0013_08">
+				<s>애써 찾아 헤맬 필요가 없다는 걸 깨달았으니까.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그게 무슨…</s>
+			</Page>
+			<Page speaker="player" type="Image" Image.Code="VanishingJourneyCinema_04" Image.IsOn="FALSE" actionCommand="VanishingJourney_0013_09">
+				<s>윽! 떠, 떨어진다…!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<Body>
+			<Page speaker="player">
+				<s>(다행히 근처에 떨어진 건가…)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(리노가 다친 것 같아. 상처를 살펴봐야…)</s>
+			</Page>
+			<Page speaker="player" actionCommand="VanishingJourney_0013_10">
+				<s>…이, 이건…!?</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="5">
+		<Body>
+			<Page skip="true" actionCommand="VanishingJourney_0013_11">
+			</Page>
+			<Page speaker="NPC_Rino_08">
+				<s>자, 이 샘을 천천히 들여다보세요.</s>
+			</Page>
+			<Page speaker="NPC_Rino_08">
+				<s>어때요? 뭔가 보이나요?</s>
+			</Page>
+			<Page speaker="NPC_Kao_11" actionCommand="VanishingJourney_0013_12">
+				<s>……</s>
+			</Page>
+			<Page speaker="NPC_Kao_11">
+				<s>윽! 머리가 터질 것 같아…!</s>
+			</Page>
+			<Page speaker="NPC_Rino_08">
+				<s>괜찮아요? 정신 차려요!</s>
+			</Page>
+			<Page speaker="NPC_Rino_08" actionCommand="VanishingJourney_0013_13">
+				<s>…날 알아보겠어요?</s>
+			</Page>
+			<Page speaker="NPC_Kao_11">
+				<s>너, 너는…</s>
+			</Page>
+			<Page speaker="NPC_Rino_08" actionCommand="VanishingJourney_0013_14">
+				<s>…!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="6">
+		<Body>
+			<Page speaker="player">
+				<s>(방금 떠오른 광경은… 마치 마을에서 기억을 만졌을 때 같아!)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(그렇다면 이건 리노의 기억…?)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(하지만 신기루 절벽에서 들었던 상황과는 달라 보였어.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(…그게 갑자기 우리를 추락시킨 일과 관련이 있는 걸까?)</s>
+			</Page>
+			<Page>
+				<s>#un#?</s>
+			</Page>
+			<Page speaker="player">
+				<s>!?</s>
+			</Page>
+			<Page speaker="player">
+				<s>몸 상태는…?</s>
+			</Page>
+			<Page>
+				<s>통증이 느껴지지만 이 정도는 괜찮아요. 움직일 수 있으니까요. 그보다…</s>
+			</Page>
+			<Page>
+				<s>아무래도 카오에게 속은 것 같아요! 기억을 비추는 샘물에서 아무 말도 해주지 않아서 실패했다고 생각했는데…</s>
+			</Page>
+			<Page>
+				<s>카오의 태도가 돌변한 건 그가 샘에서 무언가를 보았기 때문일 거예요.</s>
+			</Page>
+			<Page>
+				<s>그런데 그게 대체 뭘까요? 뭐기에 우리를 이런 꼴로 만든 거죠?</s>
+			</Page>
+			<Page>
+				<s>전 그 이유를 알아야겠어요. 저쪽 동굴을 지나면 카오가 화염새를 타고 날아간 곳에 닿을 수 있을 거예요. 당신도 함께 가요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>……</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0014" index="35020" sort="Theme">
+
+	<Title>길의 끝으로 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>동굴을 통과하려면 이 길을 지나야 하는데 [ff7b50]슬라우[-]들이 길을 막고 있군요.</s>
+			</Page>
+			<Page>
+				<s>슬라우들을 처리하기 위한 가장 좋은 방법은 #p_0#를 이용하는 거예요. 녹여버리는 거죠.</s>
+			</Page>
+			<Page>
+				<s>근처에 있는 [ff7b50]#d_0_0#[-]들에게서 [ff7b50]#p_0#[-]를 모아 주세요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>슬라우에게 안식의 용해제 사용하기</ActiveMemo>
+		<Body>
+			<Page speaker="NPC_Slaw_01">
+				<s>(슬라우에게 안식의 용해제를 뿌리자 길을 막고 있던 슬라우가 녹아내린다.)</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page>
+				<s>이 동굴을 빠져나가야 카오의 뒤를 쫓을 수 있을 거예요. 서두르죠.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0015" index="35021" sort="Theme">
+
+	<Title>길의 끝으로 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>여기도 슬라우들이 길을 막고 있군요. 번거롭지만 아까와 같이 하는 수밖에 없겠어요.</s>
+			</Page>
+			<Page>
+				<s>근처에 있는 [ff7b50]#d_0_0#[-]들에게서 [ff7b50]#p_0#[-]를 모아 주세요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>슬라우에게 안식의 용해제 사용하기</ActiveMemo>
+		<Body>
+			<Page speaker="NPC_Slaw_02">
+				<s>(슬라우에게 안식의 용해제를 뿌리자 길을 막고 있던 슬라우가 녹아내린다.)</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page>
+				<s>빨리 여길 빠져나가 그를 따라잡아야 할 텐데.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0016" index="35022" sort="Theme">
+
+	<Title>길의 끝으로 3</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>곧 동굴을 빠져나가는 길이 보일 거에요. 이곳에서도 마찬가지로 [ff7b50]#d_0_0#[-]들에게서 [ff7b50]#p_0#[-]를 모아 주세요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>슬라우에게 안식의 용해제 사용하기</ActiveMemo>
+		<Body>
+			<Page speaker="NPC_Slaw_03">
+				<s>(슬라우에게 안식의 용해제를 뿌리자 길을 막고 있던 슬라우가 녹아내린다.)</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page>
+				<s>이제 여길 빠져나갈 수 있겠어요. 자, 어서 이쪽으로.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0017" index="35023" sort="Theme">
+
+	<Title>시간을 넘어선 후회</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>동굴의 끝이 보여요. 저곳으로 빠져나가면 될 거예요.</s>
+			</Page>
+			<Page actionCommand="VanishingJourney_0017_01">
+				<s>카오를 놓치기 전에 얼른 이동하죠.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page skip="true" actionCommand="VanishingJourney_0017_02">
+			</Page>
+			<Page speaker="player">
+				<s>카오는…</s>
+			</Page>
+			<Page speaker="NPC_Rino_12">
+				<s>아직 오지 않은 것 같네요.</s>
+			</Page>
+			<Page speaker="NPC_Rino_12">
+				<s>아니, 올 수 없었다고 해야 할까요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>…?</s>
+			</Page>
+			<Page speaker="NPC_Rino_12">
+				<s>#un#, 아까 미처 하지 못한 말이 있어요.</s>
+			</Page>
+			<Page speaker="NPC_Rino_12">
+				<s>당신은 결코 카오를 다시 만날 수 없을 거라는 사실 말이에요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그게 무슨…?</s>
+			</Page>
+			<Page speaker="NPC_Rino_12">
+				<s>성급하군요. 내 말은 아직 끝나지 않았는데.</s>
+			</Page>
+			<Page speaker="NPC_Rino_12" actionCommand="VanishingJourney_0017_03">
+				<s>잘 들어요. 더 중요한 이야기니까요.</s>
+			</Page>
+			<Page speaker="NPC_Rino_12" animName="Face1">
+				<s>#un#, 이제 당신도 카오처럼 사라질 거랍니다!</s>
+			</Page>
+			<Page speaker="player" actionCommand="VanishingJourney_0017_04">
+				<s>!!!</s>
+			</Page>
+			<Page speaker="NPC_Kao_12" actionCommand="VanishingJourney_0017_05">
+				<s>그런 일은 없을 거야!</s>
+			</Page>
+			<Page speaker="NPC_Rino_12" animName="Face1">
+				<s>!!!</s>
+			</Page>
+			<Page speaker="NPC_Kao_12">
+				<s>내가 그렇게 두지 않을 테니까.</s>
+			</Page>
+			<Page speaker="NPC_Rino_12" animName="Face1">
+				<s>카오!? 어, 어떻게!?</s>
+			</Page>
+			<Page speaker="NPC_Rino_12" animName="Face1">
+				<s>…어떻게 살아 있는 거죠?!</s>
+			</Page>
+			<Page speaker="NPC_Kao_12">
+				<s>내게는 반드시 해야만 하는 일이 있거든.</s>
+			</Page>
+			<Page speaker="player">
+				<s>…!</s>
+			</Page>
+			<Page speaker="player">
+				<s>카오, 기억을…?</s>
+			</Page>
+			<Page speaker="NPC_Kao_12" actionCommand="VanishingJourney_0017_06">
+				<s>응. 기억을 찾았어… 그 샘에서.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page skip="true" actionCommand="VanishingJourney_0017_07">
+			</Page>
+			<Page speaker="NPC_Rino_13">
+				<s>자, 이 샘을 천천히 들여다보세요.</s>
+			</Page>
+			<Page speaker="NPC_Rino_13" actionCommand="VanishingJourney_0017_08">
+				<s>어때요? 뭔가 보이나요?</s>
+			</Page>
+			<Page speaker="NPC_Kao_14">
+				<s>!!!</s>
+			</Page>
+			<Page speaker="NPC_Kao_14">
+				<s>윽! 머리가 터질 것 같아…!</s>
+			</Page>
+			<Page speaker="NPC_Rino_13">
+				<s>괜찮아요? 정신 차려요!</s>
+			</Page>
+			<Page speaker="NPC_Rino_13">
+				<s>날… 알아보겠어요?</s>
+			</Page>
+			<Page speaker="NPC_Kao_14">
+				<s>너, 너는…!</s>
+			</Page>
+			<Page speaker="NPC_Rino_13">
+				<s>…!</s>
+			</Page>
+			<Page speaker="NPC_Rino_13">
+				<s>기억이…!?</s>
+			</Page>
+			<Page speaker="NPC_Kao_14">
+				<s>그래, 모두 기억났어. 내가 왜 여기에 있는지…</s>
+			</Page>
+			<Page speaker="NPC_Kao_14">
+				<s>…그리고 [ff7b50]우리[-]가 누구인지.</s>
+			</Page>
+			<Page speaker="NPC_Rino_13">
+				<s>…!</s>
+			</Page>
+			<Page speaker="NPC_Kao_14" type="Image" Image.Code="VanishingJourneyCinema_05" Image.Path="DynamicTexture/Quest/ArcaneRiver/VanishingJourney/VanishingJourneyCinema_05" Image.IsOn="TRUE" Image.UseOriginSize="TRUE">
+				<s>#un#보다 앞서 이 길을 지났던 #un#.</s>
+			</Page>
+			<Page speaker="NPC_Kao_14">
+				<s>이 아케인 리버의 끝에서 검은 마법사와 최후의 결전을 치렀던 #un#.</s>
+			</Page>
+			<Page speaker="NPC_Kao_14">
+				<s>그리고 끝내 실패했던… 미래의 #un#.</s>
+			</Page>
+			<Page speaker="NPC_Kao_14" type="Image" Image.Code="VanishingJourneyCinema_05" Image.IsOn="FALSE" actionCommand="VanishingJourney_0017_09">
+				<s>그게 바로 나였어.</s>
+			</Page>
+			<Page speaker="NPC_Rino_13">
+				<s>…역시.</s>
+			</Page>
+			<Page speaker="NPC_Rino_13">
+				<s>당신이 기억의 나무에 손을 대자 기억들이 흩어졌다는 이야기를 듣고 그럴 거라고 생각했어요.</s>
+			</Page>
+			<Page speaker="NPC_Rino_13">
+				<s>당신의 기억은 아무것도 존재하지 않는 멸망의 기억일 테니까요.</s>
+			</Page>
+			<Page speaker="NPC_Kao_14">
+				<s>맞아. 세계가 무너질 때 망각의 호수가 폭주했고 소멸의 여로가 사라져 갔어.</s>
+			</Page>
+			<Page speaker="NPC_Kao_14">
+				<s>그 파멸의 기억이 영혼에 새겨진 내가 손을 댔으니… 나무의 기억들이 흩어져 버릴 수밖에.</s>
+			</Page>
+			<Page speaker="NPC_Rino_13">
+				<s>……</s>
+			</Page>
+			<Page speaker="NPC_Kao_14">
+				<s>…리노, 난 내가 실패한 이유를 알고 싶었어.</s>
+			</Page>
+			<Page speaker="NPC_Kao_14">
+				<s>그리고 미치도록 그 결과를 되돌리고 싶었지.</s>
+			</Page>
+			<Page speaker="NPC_Kao_14">
+				<s>그 간절한 염원을 품고 나는 망각의 폭풍 속에서 샘으로 향했어.</s>
+			</Page>
+			<Page speaker="NPC_Kao_14">
+				<s>세계의 멸망이라는 실패를 되돌릴 단 한 번의 기회를 얻기 위해서!</s>
+			</Page>
+			<Page speaker="NPC_Rino_13">
+				<s>……</s>
+			</Page>
+			<Page speaker="NPC_Kao_14">
+				<s>그리고 그 염원이 나를 이끌어 지금 여기에서 너를 마주하게 되었지.</s>
+			</Page>
+			<Page speaker="NPC_Kao_14">
+				<s>나의 [ff7b50]실패의 에르다스[-]… 리노.</s>
+			</Page>
+			<Page speaker="NPC_Rino_13">
+				<s>그래요. 나는 당신을 이루는 기억의 일부이죠.</s>
+			</Page>
+			<Page speaker="NPC_Rino_13">
+				<s>그렇다면 이제 알아차렸겠군요. 당신이 실패했던 이유를.</s>
+			</Page>
+			<Page speaker="NPC_Kao_14">
+				<s>…응, 그래서 난 그 실패를 되풀이하지 않으려고 해.</s>
+			</Page>
+			<Page speaker="NPC_Kao_14">
+				<s>#un#, 그 친구가 실패하게 두지 않을 거야.</s>
+			</Page>
+			<Page speaker="NPC_Rino_13">
+				<s>…그런가요.</s>
+			</Page>
+			<Page speaker="NPC_Rino_13" actionCommand="VanishingJourney_0017_10">
+				<s>그래요. 그런 의지라면 이번엔 실패하지 않을지도 모르겠어요.</s>
+			</Page>
+			<Page speaker="NPC_Rino_13" animName="Face1">
+				<s>…하지만 당신은 나를 만났죠.</s>
+			</Page>
+			<Page speaker="NPC_Kao_14">
+				<s>…!</s>
+			</Page>
+			<Page speaker="NPC_Rino_13" animName="Face1">
+				<s>당신 말대로 나는 실패의 에르다스. 나와 마주친 이상 당신은 또 다시 실패할 수밖에 없어요.</s>
+			</Page>
+			<Page speaker="NPC_Rino_13" animName="Face1">
+				<s>제가 당신을 살려 두지 않을 테니까요!</s>
+			</Page>
+			<Page speaker="NPC_Kao_14">
+				<s>뭐라고?</s>
+			</Page>
+			<Page speaker="NPC_Kao_14" type="Image" Image.Code="VanishingJourneyCinema_06" Image.Path="DynamicTexture/Quest/ArcaneRiver/VanishingJourney/VanishingJourneyCinema_06" Image.IsOn="TRUE" Image.UseOriginSize="TRUE">
+				<s>윽!</s>
+			</Page>
+			<Page speaker="NPC_Rino_13" animName="Face1" actionCommand="VanishingJourney_0017_11">
+				<s>나는 당신의 실패의 기억으로 만들어졌으니…</s>
+			</Page>
+			<Page speaker="NPC_Rino_13" animName="Face1">
+				<s>당신이 성공한다면 제 존재가 사라지고 말겠죠.</s>
+			</Page>
+			<Page speaker="NPC_Rino_13" animName="Face1" type="Image" Image.Code="VanishingJourneyCinema_06" Image.IsOn="FALSE" actionCommand="VanishingJourney_0017_12">
+				<s>그리고 #un# 또한 마찬가지예요.</s>
+			</Page>
+			<Page speaker="NPC_Rino_13" animName="Face1" actionCommand="VanishingJourney_0017_13">
+				<s>그러니 그 역시 당신과 같이 사라져야만 해요.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<Body>
+			<Page skip="true" actionCommand="VanishingJourney_0017_14">
+			</Page>
+			<Page speaker="player">
+				<s>리노가… 에르다스?!</s>
+			</Page>
+			<Page speaker="player">
+				<s>(그러고 보니 부상 입은 리노의 어깨를 만졌을 때 기억을 엿볼 수 있었던 건 에르다스라는 방증이었나?)</s>
+			</Page>
+			<Page speaker="NPC_Rino_12" animName="Face1">
+				<s>그래요, 전 실패의 에르다스죠.</s>
+			</Page>
+			<Page speaker="NPC_Rino_12" animName="Face1" actionCommand="VanishingJourney_0017_15">
+				<s>하지만 카오, 당신의 실패의 기억은 고작 이 정도가 아니잖아요?</s>
+			</Page>
+			<Page speaker="NPC_Kao_12">
+				<s>!!!</s>
+			</Page>
+			<Page speaker="NPC_Kao_12" actionCommand="VanishingJourney_0017_16">
+				<s>#un#, 위험해!</s>
+			</Page>
+			<Page speaker="player">
+				<s>카, 카오!</s>
+			</Page>
+			<Page speaker="player">
+				<s>저 괴물은 대체!?</s>
+			</Page>
+			<Page speaker="NPC_Rino_12" animName="Face1">
+				<s>이 아르마가 저의 진정한 모습이죠.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(아케인 리버의 끝에서 카오가 경험했던 건 저런 거대한… 공포!?)</s>
+			</Page>
+			<Page speaker="NPC_Rino_12" animName="Face1">
+				<s>#un#, 유감이네요.</s>
+			</Page>
+			<Page speaker="NPC_Rino_12" animName="Face1">
+				<s>당신은 카오보다 이른 실패를 맞이하게 될 테니!</s>
+			</Page>
+			<Page speaker="player" actionCommand="VanishingJourney_0017_17">
+				<s>!!!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="5">
+		<Body>
+			<Page skip="true" actionCommand="VanishingJourney_0017_18">
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0018" index="35024" sort="Theme">
+
+	<Title>현재를 위한 미래</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="NPC_Kao_15">
+				<s>……</s>
+			</Page>
+			<Page speaker="player">
+				<s>카오…</s>
+			</Page>
+			<Page speaker="player">
+				<s>상처가 깊어 보여. 일단 안전한 곳으로…</s>
+			</Page>
+			<Page speaker="player">
+				<s>…앗! 이 감각은…?!</s>
+			</Page>
+			<Page speaker="player" actionCommand="VanishingJourney_0018_01">
+				<s>또 다시 내 것이 아닌 기억이…!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page skip="true" actionCommand="VanishingJourney_0018_02">
+			</Page>
+			<Page speaker="player" grayfx="true">
+				<s>헉, 헉…</s>
+			</Page>
+			<Page speaker="player" grayfx="true">
+				<s>호수가 범람하고 있어…</s>
+			</Page>
+			<Page speaker="player" grayfx="true">
+				<s>그리고 머릿속이 점점 흐려진다…</s>
+			</Page>
+			<Page speaker="player" grayfx="true">
+				<s>망각의 기운에 삼켜지고 있는 건가…</s>
+			</Page>
+			<Page speaker="player" grayfx="true">
+				<s>……</s>
+			</Page>
+			<Page speaker="player" grayfx="true">
+				<s>윽, 안 돼! 마지막으로 남은 힘을 다해 이 샘물까지 온 이유를 잊어서는…!</s>
+			</Page>
+			<Page speaker="player" grayfx="true">
+				<s>샘의 수면이 여신의 거울과 닮아 보이는 게 내 착각이 아니라면…</s>
+			</Page>
+			<Page speaker="player" grayfx="true">
+				<s>난 이 파국을 막을 수 있을 거야…</s>
+			</Page>
+			<Page speaker="player" grayfx="true">
+				<s>……</s>
+			</Page>
+			<Page speaker="player" grayfx="true">
+				<s>가자…</s>
+			</Page>
+			<Page speaker="player" grayfx="true" actionCommand="VanishingJourney_0018_03">
+				<s>그를 만나러…!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page skip="true" actionCommand="VanishingJourney_0018_04">
+			</Page>
+			<Page speaker="player">
+				<s>……</s>
+			</Page>
+			<Page speaker="player">
+				<s>이것이 미래의 마지막 순간…</s>
+			</Page>
+			<Page speaker="player" actionCommand="VanishingJourney_0018_05">
+				<s>카오……</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<Body>
+			<Page skip="true" actionCommand="VanishingJourney_0018_06">
+			</Page>
+			<Page speaker="player" actionCommand="VanishingJourney_0018_07">
+				<s>카오! 카오!</s>
+			</Page>
+			<Page speaker="NPC_Kao_17">
+				<s>#un#…</s>
+			</Page>
+			<Page speaker="NPC_Kao_17">
+				<s>나에게 허락된 시간이 얼마 남지 않은 것 같아.</s>
+			</Page>
+			<Page speaker="NPC_Kao_17">
+				<s>그래도 마지막으로 너와 이야기할 수 있어서 다행이야.</s>
+			</Page>
+			<Page speaker="player">
+				<s>카오…</s>
+			</Page>
+			<Page speaker="NPC_Kao_17">
+				<s>이제서야 비로소 알 것 같아. 미래의 기억이 왜 지금 에르다스의 모습으로 우리 앞에 나타났는지.</s>
+			</Page>
+			<Page speaker="NPC_Kao_17">
+				<s>아케인 리버는 우리가 살던 세계의 질서가 통용되지 않는 곳이야. 그래서 여기는 과거이자 현재이자 미래일 수 있는 거지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>리노는… 아니, 아르마는 정말로 네 실패의 기억인 거야?</s>
+			</Page>
+			<Page speaker="NPC_Kao_17">
+				<s>응, 하지만 다른 이름으로도 부를 수 있어.</s>
+			</Page>
+			<Page speaker="NPC_Kao_17">
+				<s>[ff7b50]희생의 에르다스.[-]</s>
+			</Page>
+			<Page speaker="player">
+				<s>희생…?</s>
+			</Page>
+			<Page speaker="NPC_Kao_17">
+				<s>아마 그게 내가 찾던 실패의 이유일 거야.</s>
+			</Page>
+			<Page speaker="player">
+				<s>실패의 이유… 그렇다면 난…</s>
+			</Page>
+			<Page speaker="NPC_Kao_17">
+				<s>#un#, 내가 전할 수 있는 이야기는 여기까지인 것 같아.</s>
+			</Page>
+			<Page speaker="NPC_Kao_17">
+				<s>이미 미래가 바뀌고 있거든.</s>
+			</Page>
+			<Page speaker="player">
+				<s>?!</s>
+			</Page>
+			<Page speaker="NPC_Kao_17">
+				<s>신전의 문이 열리고 내가 처음 소멸의 여로에 도착했을 때 난 미래에서 온 나를 만나지 않았어.</s>
+			</Page>
+			<Page speaker="NPC_Kao_17">
+				<s>우리가 만남으로써 너는 나와 다른 길을 걷게 된 거지.</s>
+			</Page>
+			<Page speaker="NPC_Kao_17">
+				<s>그러니까 내 모험담은 지금의 너에겐 그다지 의미가 없을 거야.</s>
+			</Page>
+			<Page speaker="NPC_Kao_17">
+				<s>하지만 네가 검은 마법사에게서 세계의 운명을 지켜낸다면…</s>
+			</Page>
+			<Page speaker="NPC_Kao_17">
+				<s>나는 패배했어도 내 모험은 아름다운 종막을 맞이하겠지.</s>
+			</Page>
+			<Page speaker="NPC_Kao_17">
+				<s>비록 내가 사라진 뒤라도 말이야…</s>
+			</Page>
+			<Page speaker="player">
+				<s>?!</s>
+			</Page>
+			<Page speaker="NPC_Kao_17">
+				<s>이 폭포 아래에 네가 가야할 길이 펼쳐져 있어. 내려다보는 것만으로도 까마득할 테지만…</s>
+			</Page>
+			<Page speaker="NPC_Kao_17">
+				<s>우리가 매일 한 치 앞도 알 수 없는 미래를 향해 멈추지 않고 걸어가듯이, 그렇게 두려움을 끌어안고 나아가면 돼.</s>
+			</Page>
+			<Page speaker="player">
+				<s>카오…</s>
+			</Page>
+			<Page speaker="NPC_Kao_17">
+				<s>안녕… #un#.</s>
+			</Page>
+			<Page speaker="NPC_Kao_17">
+				<s>나만은 네가 어떤 길로 향하든 결국 그게 너의 최선임을 믿고 있다는 걸 기억해 줘.</s>
+			</Page>
+			<Page speaker="NPC_Kao_17" actionCommand="VanishingJourney_0018_08">
+				<s>그리고 부디 이 기억이 너의 희망의 에르다스가 되길…</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0019" index="35025" sort="Theme">
+
+	<Title>≪일일≫ 매일매일, 소멸의 여로 조사</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>저는 이곳을 조사하기 위해 시간의 신전에서 파견된 조사단원 로나예요. 혹시 저희를 도와주실 수 있다면 다시 말을 걸어 주세요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>지금 급한 몇 가지 일들을 정리해 봤어요. 하나씩 내용을 들어 보겠어요?</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0020" index="35026" sort="Theme">
+
+	<Title>≪일일≫ 기쁨의 에르다스 처치</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>[ff7b50]기쁨의 에르다스[-]는 마을에 가장 가까이 접근하는 녀석들이에요. 개체 수를 줄여 두지 않으면 메이플 월드와의 길목이 차단될지도 몰라요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>오가는 길을 확보하는 건 무엇보다 중요하니까요, 지속적으로 신경써야겠어요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0021" index="35027" sort="Theme">
+
+	<Title>≪일일≫ 분노의 에르다스 처치</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>[ff7b50]분노의 에르다스[-]가 다른 지역으로 통하는 길목을 막고 있다고 해요. 녀석들을 물리치고 길을 뚫어 주세요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>이제 좀 더 폭 넓은 조사를 할 수 있겠어요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0022" index="35028" sort="Theme">
+
+	<Title>≪일일≫ 슬픔의 에르다스 처치</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>에르다스와 접촉하면 그들의 기억을 엿볼 수 있다죠? 그래서인지 [ff7b50]슬픔의 에르다스[-]들을 상대하기 꺼리는 모양이에요. 하지만 그대로 내버려둘 순 없어요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>수고했어요. 이곳은 몸도 마음도 강인하지 않으면 버티기 힘든 곳인 것 같군요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0023" index="35029" sort="Theme">
+
+	<Title>≪일일≫ 즐거움의 에르다스 처치</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>마을에서 멀리 떨어진 지역들의 조사에 애를 먹고 있어요. 그곳에 있는 [ff7b50]즐거움의 에르다스[-]들을 정리해줄 수 있겠어요?</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>아무래도 멀리 있다 보니 손이 닿기 어려운 부분이 많았는데, 큰 도움이 됐어요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0024" index="35030" sort="Theme">
+
+	<Title>≪일일≫ 기쁨의 에르다 샘플 수집</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>누군가가 기쁨의 에르다 샘플을 몹시 필요로 한다고 해요. 혹시 [ff7b50]기쁨의 에르다 샘플[-]을 모아줄 수 있나요?</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>어디 보자, 다 모은 다음에는 '숫자가 적힌 공이 있는 기억들을 추려 달라'고 되어 있네요. 이거 혹시…</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0025" index="35031" sort="Theme">
+
+	<Title>≪일일≫ 분노의 에르다 샘플 수집</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>[ff7b50]분노의 에르다스[-]가 다른 에르다스들에 비해 더 활발하게 활동하는 것 같더군요. 그들의 샘플을 조사하면 원인을 밝힐 수 있을지도 몰라요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>샘플을 모아 왔군요. 음, 겉으로는 크게 차이나는 것 같지는 않은데…</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0026" index="35032" sort="Theme">
+
+	<Title>≪일일≫ 슬픔의 에르다 샘플 수집</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>[ff7b50]슬픔의 에르다 샘플[-]을 모아 주세요. 시간의 신전에서는 그것에서 이 세계의 '슬픈 일'을 파악할 수 있을 것으로 기대하고 있거든요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>고마워요. 이 샘플들을 온전히 다 분석해 낸다면 이 세계의 비밀에 한 발 다가설 수 있을 거예요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0027" index="35033" sort="Theme">
+
+	<Title>≪일일≫ 즐거움의 에르다 샘플 수집</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>장기간의 파견 활동에서 중요한 건 몸과 마음을 항상 만전으로 유지하는 거예요. [ff7b50]즐거움의 에르다 샘플[-]이 정신 건강에 도움을 줄지 몰라요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>잘 받았습니다. 샘플의 기억이 됐든 다른 무엇인가가 됐든 그대로 사용할 수는 없을 거예요. 사용 방법을 강구해 보겠어요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0028" index="35034" sort="Theme">
+
+	<Title>≪일일≫ 망각 억제제 수집</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>조사단원 제나는 에르다스가 가진 기억이 풍화되지 않는 원리를 [ff7b50]망각 억제제[-]에서 찾고 있어요. 억제제를 모아 풍화된 슬픔의 땅에 있는 그녀에게 전해 주겠어요?</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>아, 망각 억제제군요! 이걸 연구하면 망각의 호수의 영향에서 벗어날 수 있는 무언가가 만들어질 거예요!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0029" index="35035" sort="Theme">
+
+	<Title>≪일일≫ 암석의 에르다스 처치</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>[ff7b50]암석의 에르다스[-]가 화염지대의 요충지에 자리잡고 있어요. 그들을 몰아내 주세요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>고마워요, 이제 조사단의 활동 반경도 더 넓어질 거예요. 휴, 그런데 녀석들의 잔해는 누가 치우지…?</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0030" index="35036" sort="Theme">
+
+	<Title>≪일일≫ 화염의 에르다스 처치</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>[ff7b50]화염의 에르다스[-]에게 당한 단원들이 공포를 호소하고 있어요. 그 공포감이 더 퍼져나가기 전에 우리가 제압할 수 있다는 것을 보여줘야 해요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>#un#에게 맡긴 것은 역시 정답이었군요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0031" index="35037" sort="Theme">
+
+	<Title>≪일일≫ 강인한 영혼의 에르다스 처치</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>[ff7b50]강인한 영혼의 에르다스[-]이 좀처럼 쓰러질 않는다고 해요. #un#, 그들을 쓰러뜨려줄 수 있을까요?</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>강인한 영혼의 에르다스를 쓰러뜨렸으니 더 강인한 영혼의 소유자라고 볼 수 있을까요? 후후.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0032" index="35038" sort="Theme">
+
+	<Title>≪일일≫ 암석의 에르다 샘플 수집</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>[ff7b50]암석의 에르다스[-]의 경도는 웬만한 바위를 능가한다고 해요. 이걸 연구해보고 싶은 사람들이 있는 모양이에요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>역시 단단하군요. 원하는 형태로 정련하는 것도 쉽지 않겠어요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0033" index="35039" sort="Theme">
+
+	<Title>≪일일≫ 화염의 에르다 샘플 수집</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>[ff7b50]화염의 에르다스[-]에게 당한 단원들이 트라우마를 호소하고 있어요. [ff7b50]화염의 에르다 샘플[-]로 천천히 익숙해지게 만들어보려고 해요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>이걸로 단원들의 트라우마가 얼른 극복되었으면 좋겠는데요…</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0034" index="35040" sort="Theme">
+
+	<Title>≪일일≫ 강인한 영혼의 에르다 샘플 수집</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>[ff7b50]강인한 영혼의 에르다스[-]는 강해 보이지 않지만 좀처럼 쓰러지지 않았죠. [ff7b50]샘플[-]을 분석하면 이유를 알게 될지 몰라요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>특별할 것은 없어 보이는데… 저보다 더 정밀한 분석을 해줄 분이 필요하겠군요. 그때까지 이건 잘 보관해 둘게요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0035" index="35041" sort="Theme">
+
+	<Title>≪일일≫ 소멸 억제제 수집</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>화염지대의 에르다스들은 소멸의 화염에서 자유롭죠. 제나가 그것에 대해 연구 중이니, [ff7b50]소멸 억제제[-]를 모아 화염의 영토에 있는 그녀에게 전해 주세요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>으, 대체 어떻게 하는 거지… 바르는 건가? 먹는 건가!? 아, #un#! 가져온 억제제는 여기 두고 가 줘요!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0036" index="35042" sort="Theme">
+
+	<Title>≪일일≫ 안식의 에르다스 처치</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>[ff7b50]안식의 에르다스[-]는 그 분위기가 너무 섬뜩해서 단원들의 최우선 기피 대상이 되고 있어요. 그들을 물리쳐 주세요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>#un#는 그들이 무섭지 않나요? 후후, 그렇게 강한데 괜한 것을 물었군요. 수고했어요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0037" index="35043" sort="Theme">
+
+	<Title>≪일일≫ 에르다스의 등불 처치</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>어딘가에선 '자라 보고 놀란 가슴 솥뚜껑 보고 놀란다'고 한다죠? 안식의 에르다스를 본 이들이 등불만 봐도 혼비백산하는 모양이에요. [ff7b50]등불[-]을 없애 주세요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>이제 단원들이 '솥뚜껑 보고 놀라'지는 않았으면 좋겠네요, 휴!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0038" index="35044" sort="Theme">
+
+	<Title>≪일일≫ 안식의 에르다 샘플 수집</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>안식의 에르다스를 쓰러뜨려도 등불이 남아 배회하곤 해요. 그것들을 잇는 무언가가 있을지 몰라요. 먼저 [ff7b50]안식의 에르다 샘플[-] 구해 주세요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>좋아요. 누군가가 이걸 조사할 거예요. 어떤 용기 있는 단원인지는 모르겠지만…</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0039" index="35045" sort="Theme">
+
+	<Title>≪일일≫ 등불의 에르다 샘플 수집</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>에르다스와 등불의 관계를 조사하려면 [ff7b50]등불의 에르다 샘플[-]도 조사할 필요가 있겠죠? 부탁해요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>이렇게 보니 등불만 봐도 음산한 느낌이 드네요. 솥뚜껑 보고 놀랄 만도 하… 아니, 수고했어요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="VanishingJourney_0040" index="35046" sort="Theme">
+
+	<Title>≪일일≫ 안식 억제제 수집</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>조사단원 제나의 말로는 안식의 동굴에도 다른 곳과 비슷한 어떤 영향력이 감지된다고 해요. 조사를 위해 [ff7b50]안식 억제제[-]를 모아 동굴에 있는 그녀에게 전해주겠어요?</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>안식 억제제군요, 고마워요! 이 억제제가 어떤 작용을 하는지 알면 거꾸로 이곳에 어떤 영향력이 작용되고 있는지도 알 수 있을 거예요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+</root>

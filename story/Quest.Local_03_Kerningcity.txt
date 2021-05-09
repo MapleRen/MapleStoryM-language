@@ -1,0 +1,1781 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+
+
+<Quest code="Kerningcity_001" index="11027" sort="Normal">
+
+	<Title>제이엠의 의뢰</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>넌 어느 도시에서 왔어? 그곳의 흥미로운 소식 좀 들려줘. 쓸만한 정보면 값을 치러줄게. 난 정보를 사고 파는 정보원이거든.</s>
+			</Page>
+			<Page speaker="player">
+				<s>딱히 돈이 될 만한 정보는 없는데요…</s>
+			</Page>
+			<Page>
+				<s>흠, 가만 보아하니 꽤나 사연 있어 보이는 얼굴이군. 이런 일을 하다 보면 사람의 안면만 보고도 그가 무얼 원하는지 대충 감이 오거든.</s>
+			</Page>
+			<Page>
+				<s>그런데 내 입으로 말하긴 뭣하지만, 나 같은 일개 정보원은 네게 별 도움이 되지 못할 거야. 킁, 네가 필요로 하는 건 아마도 고급 정보일 테니…</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]다크로드[-]님이나 [ff7b50]설희[-]님 정도는 되어야 네게 유용한 정보를 제공할 수 있을걸? 그들이 누구냐고? 이 도시를 지배하는 도적단과 듀얼블레이드의 수장들이지.</s>
+			</Page>
+			<Page>
+				<s>그들을 소개해줄까? 물론 공짜는 아니지! 거래 조건은 [ff7b50]니오라 병원[-]에 대한 정보야.</s>
+			</Page>
+			<Page>
+				<s>그 폐쇄된 병원은 스산한 분위기 탓에 사람은커녕 벌레조차 없었어. 그런데 얼마 전부터 거기서 야옹- 야옹- 하는 소리가 들리는 거야!</s>
+			</Page>
+			<Page>
+				<s>아무래도 고양이가 병원에 숨어들었나 봐. 그런데 인기척을 느끼면 꽁꽁 숨어버리는지 도무지 확인할 수가 없어. 그래서 녀석을 꾀어낼 생각이야!</s>
+			</Page>
+			<Page>
+				<s>넌 지금부터 [ff7b50]#nw_0#[-]으로 가서 고양이가 좋아하는 [ff7b50]#p_0#[-]를 [ff7b50]#pc_0#개[-]만 모아줘.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>킁킁… 네 몸에서 #bp_0# 냄새가 진동을 하는군. 이 냄새를 맡으면 고양이가 환장하겠는걸. 킥킥.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_002" index="11028" sort="Normal">
+
+	<Title>니오라 병원의 침입자</Title>
+
+	<Task index="1">
+		<PassiveSummary>#p_0# #pc_0#마리를 사냥하세요.</PassiveSummary>
+		<Body>
+			<Page>
+				<s>네 옷에 이 정도로 냄새가 뱄으면 굳이 미끼를 가져갈 필요가 없겠는걸? 이 비린내를 풍기기만 해도 고양이가 유혹을 이기지 못하고 뛰쳐나올 거야. 녀석이 제일 좋아하는 먹이 냄새니까.</s>
+			</Page>
+			<Page>
+				<s>자, 그럼 냄새가 다 빠지기 전에 서두르자. 지금 바로 [ff7b50]#nw_0#[-]에 진짜 [ff7b50]고양이[-]가 있는지 확인해줘.</s>
+				<s></s>
+				<s>[2acfff]수락하면, #nw_0#으로 이동합니다.[-]</s>
+			</Page>
+		</Body>
+
+		<Refuse>
+			<Page>
+				<s>냄새를 더 묻혀달라고? 너 비위가 강하구나! 난 지금도 지독해서 못 견디겠는데…</s>
+			</Page>
+		</Refuse>
+	</Task>
+
+	<Task index="2">
+		<ActiveSummary>#nw_0#에서 #ac#과 대화하세요.</ActiveSummary>
+		<Body>
+			<Page speaker="player">
+				<s>저 왔어요. 니오라 병원에 고양이가 있긴 있었는데, 한 마리가 아니더라고요. #bp_0#가 떼거리로 터를 잡고 있길래 모두 쫓아버렸어요.</s>
+			</Page>
+			<Page>
+				<s>뭐? 그게 정말이야? 거긴 분위기가 워낙 을씨년스러워서 지금까지 사람은 물론이고 동물도 얼씬하지 않았는데… 어째서 갑자기 고양이 떼가 나타난 거지? 거참 묘한 일이군.</s>
+			</Page>
+			<Page>
+				<s>어쨌든 네 덕분에 니오라 병원 정보를 수집할 수 있었어. 수고했어!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_003" index="11029" sort="Normal">
+
+	<Title>명약국의 약재서랍장</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>난 의뢰인과 직접 만나지 않아. [ff7b50]명약국 약재서랍장[-]을 매개로 비밀 거래를 하지. 이 바닥엔 정체를 감추고 싶어하는 사람들이 많거든.</s>
+			</Page>
+			<Page>
+				<s>#un#, 이번 건은 네가 해결했으니까 보수를 양보할게. [ff7b50]약재서랍장의 왼쪽에서 세 번째, 위에서 두 번째 서랍[-]을 확인해봐. 의뢰인이 거기에 사례금을 넣어놨을 거야.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>명약국 서랍 확인</ActiveMemo>
+		<Body>
+			<Page>
+				<s>(서랍이 텅 비어있다.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>어라, 사례금이 없잖아! 제이엠이 말한 서랍이 이게 아니었나?</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_004" index="11030" sort="Normal">
+
+	<Title>사라진 사례금</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>(다시 뒤져봐도 서랍은 텅 비어있다.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>아무리 봐도 이 서랍이 맞는데… 의뢰인이 사례금을 깜빡한 걸까? 돌아가서 [ff7b50]제이엠[-]과 얘기해 보는 게 좋겠어.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page speaker="player">
+				<s>제이엠, 명약국에 가봤지만 서랍엔 아무것도 없었어요.</s>
+			</Page>
+			<Page>
+				<s>뭐! 또? 이번에도 사례금이 없었단 말이야? 하아, 대체 이게 몇 번째인지…</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_005" index="11031" sort="Normal">
+
+	<Title>또 다른 정보원</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>요즘 계속 이런 식이야. 의뢰인에게 정보를 건네줘도 서랍엔 아무것도 없어! 처음엔 사례금을 떼어 먹혔다고 생각했지.</s>
+			</Page>
+			<Page>
+				<s>하지만 그게 아닌 것 같아. 서로 정체도 모르는 의뢰인들이 다같이 짜고 날 물 먹인다는 건 말이 안되잖아?</s>
+			</Page>
+			<Page>
+				<s>아무래도 거래 시스템을 점검해 봐야겠어. 어쩔 수 없이 당분간 휴업이야! 미안하지만 우리 거래도 보류할게.</s>
+			</Page>
+			<Page>
+				<s>아직 너에 대한 검증이 부족해서 말이야. 이 동네에 워낙 어중이떠중이들이 많은지라, 다크로드에게 아무나 소개할 순 없거든.</s>
+			</Page>
+			<Page>
+				<s>그 대신 다크로드와 연결된 다른 정보원을 알선해주지. 라이벌을 소개하고 싶진 않지만, 내 사정 때문에 거래가 중단된 거니까 특별히 선심 쓸게.</s>
+			</Page>
+			<Page>
+				<s>이 거리 어딘가에 [ff7b50]#an#[-]가 어슬렁거리고 있을 거야. 밥맛없는 깍쟁이지만, 능력은 제법 쓸만하니까 믿어도 돼.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>안녕. 난 커닝시티 최고의 정보통 #ac#야. 이 마을에서 일어나는 여러 가지 소식들을 빠짐없이 알고 있지. 물론 #un#, 너에 대해서도.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_006" index="11032" sort="Normal">
+
+	<Title>명약국 조사</Title>
+
+	<Task index="1">
+		<PassiveSummary>#nw_0#에서 #d_0_0#를 사냥하여 #p_0# #pc_0#개를 수집하세요.</PassiveSummary>
+		<Body>
+			<Page>
+				<s>제이엠이 휴업했다며? 쌤통이다! 비밀거래 어쩌고 하며 폼을 잡지만, 그 녀석은 그냥 겁 많고 게으를 뿐이야.</s>
+			</Page>
+			<Page>
+				<s>그런 주제에 감히 날 라이벌 취급하다니, 정말 불쾌하다니까! 난 제이엠과 달리 부지런히 발품을 팔아 정보를 모으는 유능한 정보원이거든.</s>
+			</Page>
+			<Page>
+				<s>그런 내가 제이엠을 도와야 하다니… 정말 난처하게 됐지 뭐야! 그 녀석의 업무가 중단된 원인을 파악해 달라는 의뢰를 받았거든. 내가 제이엠과 앙숙인 걸 알면서도 이런 부탁을 하다니, 정말 심술궂은 의뢰인이라니까!</s>
+			</Page>
+			<Page>
+				<s>그래서 말인데, 네가 대신 이 일을 맡아줄래? 제이엠이 [ff7b50]명약국 약재서랍장[-]을 통해서 의뢰인과 접촉하는 건 알지?</s>
+			</Page>
+			<Page>
+				<s>서랍에 들어있어야 할 사례금이 사라졌다면, [ff7b50]#an#[-] 약사님이 뭔가 알고 계실지도 몰라. 그러니까 그분께 여쭤보고 쓸만한 정보를 얻어줘.</s>
+			</Page>
+			<Page>
+				<s>물론 빈손으로 갈 순 없지. 커닝시티에 공짜는 없으니까! [ff7b50]명약국[-]에 방문하기 전에 [ff7b50]#nw_0#[-]에 들러서 [ff7b50]#p_0# #pc_0#[-]개를 챙겨가. 약사님한텐 약재 선물이 최고니까.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveSummary>#nw_0#에 있는 #ac#에게 #bp_0#을 전달하세요.</ActiveSummary>
+		<Body>
+			<Page>
+				<s>쿨럭쿨럭… 어서 오게. 미안하지만 오늘은 약을 팔지 않네. 내가 감기에 걸렸거든. 옮으면 안되니까 며칠 후에 다시 와주게.</s>
+			</Page>
+			<Page>
+				<s>약사가 병에 걸리다니 참 한심하지 않나? 요즘 [ff7b50]약국 실내 온도가 뚝 떨어져[-]서 으슬으슬했는데, 결국 이 꼴이 되고 말았지 뭔가.</s>
+			</Page>
+			<Page>
+				<s>뭐? 최근에 약재서랍장을 만졌느냐고? 요즘 손님들은 한약보다 양약을 선호한다네. 그래서 저 서랍장은 오랫동안 방치되었지.</s>
+			</Page>
+			<Page>
+				<s>가만, 자네 말을 듣고 보니 뭔가 이상한걸? [ff7b50]서랍 순서가 뒤죽박죽[-]이잖아! 우째 이런 일이…!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_007" index="11033" sort="Normal">
+
+	<Title>약사의 증언</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>[ff7b50]약재서랍장의 서랍 순서가 제멋대로 바뀌다니…[-] 거참, 귀신이 곡할 노릇이군. 감기가 낫는 대로 서랍장을 다시 정리해야겠네. 쿨럭쿨럭…</s>
+			</Page>
+			<Page speaker="player">
+				<s>(오호라, 그래서 제이엠의 사례금이 사라진 것처럼 보인 거구나. 그런데 서랍장은 왜 엉망이 된 거지? 일단 돌아가서 [ff7b50]#an#[-]에게 보고하자.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page speaker="player">
+				<s>(소문난에게 들은 이야기를 상세하게 보고한다.)</s>
+			</Page>
+			<Page>
+				<s>그럴 줄 알았어. 노안인 약사 영감님 몰래 서랍장을 만지는 건 식은 죽 먹기니까. 실제로 그걸 이용해서 제이엠이 의뢰인과 거래를 해온 거잖아? 서랍을 다 뒤져보면 그동안 사라졌던 사례금을 모두 챙길 수 있을 거야.</s>
+			</Page>
+			<Page>
+				<s>범인이 누구냐고? 제이엠한테 원한을 가진 누군가가 장난을 친 거겠지. 그 녀석은 그런 일을 당해도 싸. 그보다 난 약국의 실내 온도가 떨어졌다는 얘기가 더 신경 쓰이는걸.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_008" index="11034" sort="Normal">
+
+	<Title>넬라의 노파심</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>혹시 [ff7b50]유령병원[-]에 대한 소문 들어봤어? [ff7b50]니오라 병원[-] 말이야, 거기서 귀신을 본 사람이 있대. 그 음산한 건물 분위기를 보면 정말인 것 같아.</s>
+			</Page>
+			<Page>
+				<s>응? 네가 갔을 땐 고양이밖에 없었다고? 그럴 리가! 내 친구의 사돈의 팔촌이 분명히 봤다고 했어!</s>
+			</Page>
+			<Page>
+				<s>목격자의 말에 따르면, 병원은 입구부터 한기가 돌아서 으스스하대. 그게 심령스팟의 특징이라더라고. 그런데 명약국도 갑자기 서늘해졌다니…</s>
+			</Page>
+			<Page>
+				<s>거기에도 무서운 존재가 있으면 어쩌지? 이런 찜찜한 기분으론 아파도 명약국에 갈 수 없을 것 같아.</s>
+			</Page>
+			<Page>
+				<s>그러니까 이 의혹을 분명하게 밝혀내자! 유령탐지기에 필요한 [ff7b50]#p_0# #pc_0#개[-]를 구해줘. [ff7b50]#nw_0#[-]에서 [ff7b50]#d_0_0#[-]을 처리하면 손쉽게 얻을 수 있을 거야.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>#bp_0#은 제대로 가져왔어? 어디 보자… 좋아, 이 정도면 충분할 거야.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_009" index="11035" sort="Normal">
+
+	<Title>엔지니어 소년</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>[ff7b50]#an#[-]는 오랫동안 하늘을 날기 위한 연구를 해온, 기계 공학에 능통한 엔지니어야. [ff7b50]#nw_0#[-]에 있는 그 아이에게 이 [ff7b50]#pr_0#[-]를 전해주면, 유령 탐지기를 만들어줄 거야.</s>
+			</Page>
+			<Page>
+				<s>참, #un#, 이 도시의 룰을 기억하지? 커닝시티에 공짜는 없다! 그러니까 의뢰의 대가로 #an#의 부탁을 들어줘야 한다는 걸 잊지 마.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>#nw_0#으로 이동</ActiveMemo>
+		<ActiveSummary>#nw_0#에서 #ac#에게 #bpr_0#를 전달하세요.</ActiveSummary>
+		<Body>
+			<Page>
+				<s>저 넓은 하늘을 맘껏 날 수 있다면 정말 멋질 텐데… 하늘 높이 난다는 건 어떤 기분일까? 한번만이라도 좋으니까 하늘을 날아보고 싶어. 중얼중얼…</s>
+			</Page>
+			<Page>
+				<s>음? 넌 누구야? 나에게 용건 있어?</s>
+			</Page>
+			<Page speaker="player">
+				<s>(넬라의 고민을 이야기하고, 유령탐지기 제조를 부탁한다.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_010" index="11036" sort="Normal">
+
+	<Title>비행선의 부품</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>유령탐지기라… 엔지니어에게 이런 비과학적인 부탁을 하다니 너도 참 괴짜구나? 그런 신통한 기계를 만들 수 있을지 장담은 못하겠지만 한번 해볼게. 그 전에 내 부탁 먼저 들어주지 않을래?</s>
+			</Page>
+			<Page>
+				<s>하늘을 날고 싶어서 행글라이더와 열기구를 만들어 봤지만 모두 실패했어. 하지만 이번 경비행기는 반드시 성공할 거야! 그러니 부품 좀 조달해줘.</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]#d_0_0#[-]의 [ff7b50]#p_0# #pc_0#개[-]와 [ff7b50]#d_1_0#[-]의 [ff7b50]#p_1# #pc_1#개[-]가 필요해.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>목 빠지게 기다리고 있었어. 내가 부탁한 부품은? 오, 이게 바로 마티안 종족의 기술이구나…!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_011" index="11037" sort="Normal">
+
+	<Title>유령탐지기의 부품</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>흠… 이거 참 난감하네. 널 기다리는 동안 유령탐지기를 거의 다 만들었는데, 결정적인 부품이 없어서 완성시킬 수가 없어.</s>
+			</Page>
+			<Page>
+				<s>#un#, [ff7b50]#nw_0#[-]로 가서 [ff7b50]#d_0_0#[-]을 처리하고 [ff7b50]#p_0# #pc_0#개[-]를 구해줘.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>와, 이렇게 빨리 구해오다니 정말 굉장해! 조금만 기다려. 네가 가져온 부품으로 유령탐지기를 완성시킬 테니까.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_012" index="11038" sort="Normal">
+
+	<Title>유령탐지기의 성능실험</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>흠… 이상하네. 마지막으로 유령탐지기 성능 실험을 하고 있는데, 아까부터 테스트가 잘 안 돼. 아마 이 주변에 흐르는 강력한 방해 전파 때문인 것 같아.</s>
+			</Page>
+			<Page>
+				<s>전파의 발신지는 [ff7b50]#nw_0#[-]이 확실해. #un#, 방해물인 [ff7b50]#p_0#[-]를 처리해줘!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>와, 방해 전파가 사라졌어! 지금 유령탐지기 성능 실험을 다시 해볼게.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_013" index="11039" sort="Normal">
+
+	<Title>명약국의 불청객</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>#un#, 오래 기다렸지? 짜잔! 드디어 [ff7b50]#pr_0#[-]가 완성되었어! 반경 50m 이내에 유령이 감지되면 탐지기가 반응할 거야. 이걸로 [ff7b50]#nw_0#[-]에 유령이 있는지 없는지 확인해봐!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>명약국 심령조사</ActiveMemo>
+		<ActiveSummary>#nw_0#에서 #ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page speaker="GhostDetector_01">
+				<s>…삐빅! 삐! 삐! 삐-!!!</s>
+			</Page>
+			<Page>
+				<s>……</s>
+			</Page>
+			<Page speaker="player">
+				<s>(명약국에 들어오자마자 유령탐지기가 반응하고 있어! 그리고 나타난 희끄무레한 형체… 설마 진짜 유령인가?!)</s>
+			</Page>
+			<Page>
+				<s>…당신은 심장이 튼튼하군요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(히익!!! 내 왼쪽 가슴을 응시하고 있어!?)</s>
+			</Page>
+			<Page>
+				<s>아, 먹으려는 건 아니에요. 난 유령이지 구미호는 아니니까요. 나를 보고도 까무러치지 않은 인간이 신기한 것뿐이에요. 혹시 날 쫓아내러 왔어요? 나도 니오라 병원으로 돌아가고 싶어요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>아… 당신이 그 유명한 유령병원 소문의 주인공이군요! 그런데 왜 병원이 아니라 약국에 있는 거예요?</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]수상한 사람들[-]이 무서워서 도망쳤어요. 그들은 우르르 쳐들어와서 병원을 구석구석 뒤졌어요. 얼마 후에 돌아가보니 그림자는 사라지고 [ff7b50]고양이 떼[-]가 병원을 점령했어요.</s>
+			</Page>
+			<Page>
+				<s>그래서 도시를 떠돌다 익숙한 냄새에 끌려 이곳에 숨어들었지요. 그런데 영감님이 감기에 걸렸어요. 내 탓이에요. 내가 있는 곳은 항상 춥거든요.</s>
+			</Page>
+			<Page>
+				<s>미안해서 약국을 청소하고, [ff7b50]서랍장을 정리[-]했어요. 하지만 그걸론 사죄가 안되겠죠. 영감님은 계속 아프니까요. 여기서 빨리 나가야 하는데 어디로 가야 좋을지 모르겠어요…</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_014" index="11040" sort="Normal">
+
+	<Title>유령소동 보고</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="player">
+				<s>저기… 유령님, 고양이 떼는 제가 쫓아냈어요. 지금 니오라 병원엔 아무도 없어요. 그러니까 돌아가도 괜찮아요.</s>
+			</Page>
+			<Page>
+				<s>정말인가요? 고마워요. 그럼 바로 병원으로 갈래요. 당신에게 염라대왕의 가호가 함께 하길…</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="2">
+		<Body>
+			<Page speaker="player">
+				<s>(…덕담인가? 아무튼 유령은 사라졌어. [ff7b50]#an#[-]가 내 보고를 기다리고 있겠지? 어서 만나보자!)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="3">
+		<Body>
+			<Page>
+				<s>#un#! 기다리다 숨 넘어가는 줄 알았어. 어서 진실을 얘기해줘. 명약국에 유령이 나타났어?</s>
+			</Page>
+			<Page speaker="player">
+				<s>(지금까지 겪은 유령 소동의 전말에 대해 이야기한다.)</s>
+			</Page>
+			<Page>
+				<s>거봐, 내가 뭐랬어. 유령이 있을 거랬지? 이걸로 수수께끼가 모두 풀렸어. 고양이 떼가 뜬금없이 병원을 점령하고, 소문난 약사님이 감기에 걸리고, 제이엠이 사례금을 받지 못한 이유가 바로 그 유령 때문이었던 거야!</s>
+			</Page>
+			<Page>
+				<s>그런데 [ff7b50]니오라 병원 기습 사건[-]은 금시초문인걸? 유령이 겁먹을 정도면 평범한 사람들은 아닐 것 같은데…</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_015" index="11041" sort="Normal">
+
+	<Title>넬라의 짓궂은 장난</Title>
+
+	<Task index="1">
+		<PassiveSummary>#nw_0#에서 #d_0_0#를 사냥하여 #p_0# #pc_0#개를 수집하세요.</PassiveSummary>
+		<Body>
+			<Page>
+				<s>문제가 해결됐으니 제이엠은 정보원 활동을 다시 시작하겠지? 그동안 내 구역에서 그 녀석이 설치는 꼴을 보지 않아서 좋았는데… 이제 다시 마주쳐야 한다니 정말 짜증나!</s>
+			</Page>
+			<Page>
+				<s>#un#, 내 부탁 하나만 들어줘. 커닝시티 지하철이 어딘지 알아? 거기 매표소를 지나 [ff7b50]#nw_0#[-]으로 가서 [ff7b50]#p_0#[-]을 [ff7b50]#pc_0#개[-]만 구해줘!</s>
+			</Page>
+			<Page>
+				<s>그건 [ff7b50]제이엠[-]에게 줄 선물이야. 업무 재개를 축하한다는 메시지와 함께 전해줘.</s>
+			</Page>
+			<Page>
+				<s>녀석은 비위가 약하니까, 그걸 받으면 아주 격렬한 반응을 보여줄 거야. 후후… 응? 그것이 뭐냐고? 넌 몰라도 돼.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveSummary>#nw_0#에 있는 #ac#에게 #bp_0#을 전달하세요.</ActiveSummary>
+		<Body>
+			<Page>
+				<s>오, #un#! 나 휴업 끝났어. 다 네 덕분이야. 정말 고마워! 응? 업무 재개를 축하하는 의미로 넬라가 선물을 보냈다고?</s>
+			</Page>
+			<Page>
+				<s>이야, 녀석이 드디어 철이 들었나? 정말 오래 살고 볼일이야. 그럼 어디 한 번 선물을 열어볼까?</s>
+			</Page>
+			<Page>
+				<s>…우웩!!! 뭐야, 이게!!!</s>
+				<s>어이, 넌 이게 뭔지 알고나 가져온 거야? 하마터면 토할 뻔했잖아! 아냐, 됐어. 차라리 모르는 게 낫지.</s>
+			</Page>
+			<Page>
+				<s>넬라 녀석, 날 도발했다 이거지? 어디 두고 보자!!!</s>
+			</Page>
+			<Page speaker="player">
+				<s>…?</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_016" index="11127" sort="Normal">
+
+	<Title>오염된 늪 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>거기, 거기! 잠깐 내 얘기 좀 들어줘요. 억울해서 견딜 수가 있어야죠! 저는 마법약을 전문적으로 연구하는 마법사 라케리스라고 합니다.</s>
+			</Page>
+			<Page>
+				<s>식물의 성장을 돕는 성장 마법약이라던가, 사람들을 강하게 만들어주는 버프 마법약을 주로 만들었죠.</s>
+			</Page>
+			<Page>
+				<s>연구에 필요한 물품이 있어, 마을을 돌아보고 있던 차에 기가 막힌 이야기를 들었답니다. 바로, 커닝시티 늪에서 변질되고 오염된 몬스터가 나타난다는 얘기였죠. 사람들이 그 이야기를 하면서 저를 의심하는데… 으으!</s>
+			</Page>
+			<Page>
+				<s>물론, 과거에 실수로 마법약을 하수구에 버려서, 킹슬라임이라던가 다일 같은 녀석들을 만들기는 했지만… 이번 일은 저와 상관이 없단 말이에요! 하지만 사람들은 제 말을 들은 척도 안 하고, 저를 손가락질해요.</s>
+			</Page>
+			<Page>
+				<s>이건 모함이에요! 제 결백을 증명하기 위해서라도, 직접 조사를 해봐야겠어요.</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]#nw_0#[-]에서 [ff7b50]#d_0_0#[-]를 잡고 [ff7b50]가죽[-]을 [ff7b50]#pc_0#개[-]만 벗겨오실 수 있나요? 우선, 몬스터가 정말 오염됐는지 확인해봐야겠어요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>역시! 당신이라면 저를 도와줄 수 있을 거라고 예상했어요. 이렇게 빨리 #bp_0#을 모아오시다니… 감사해요! 저는 이제 이 가죽을 확인해 볼게요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_017" index="11128" sort="Normal">
+
+	<Title>오염된 늪 2</Title>
+
+	<Task index="1">
+		<PassiveSummary>#nw_0#에서 #p_0#를 #pc_0#마리 쓰러뜨리세요.</PassiveSummary>
+		<Body>
+			<Page>
+				<s>으으… 맙소사. #un#님께서 구해오신 #p_0#의 가죽을 살펴봤는데요. 마을 사람들의 말처럼 오염되어 있었어요.</s>
+			</Page>
+			<Page>
+				<s>예전에 제가 실수로 몬스터들을 오염시켰을 때와 비슷해서, 사람들의 오해를 풀긴 힘들겠네요.</s>
+			</Page>
+			<Page>
+				<s>우선 변이되고 오염된 몬스터를 커닝시티에서 해치워야 할 것 같아요. 녀석들이 계속 눈에 보인다면, 사람들은 저에게 책임을 물을 거예요.</s>
+			</Page>
+			<Page>
+				<s>오염이 심해지기 전에 [ff7b50]#nw_0#[-]에서 [ff7b50]#p_0#[-]를 처치해주세요!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>#un#님이 오염된 몬스터를 해치워 주셨으니까, 한동안 조용하겠죠? 얼른 진상이 밝혀져서 제 누명이 벗겨졌으면 좋겠어요. 휴…</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_018" index="11129" sort="Normal">
+
+	<Title>커닝시티 최신정보 수집 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>요즘 [ff7b50]#an#[-]가 꽤 흥미로운 정보를 얻은 모양이야. 넬라에게 정보원 일을 돕겠다고 하고, 마을의 최신 정보를 얻어오게!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>와아, #un#! 정말 오랜만이야! 난 여전히 부지런하게 정보를 사고팔고 있어. 너도 쓸만한 정보가 있으면 나에게 팔아!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_019" index="11130" sort="Normal">
+
+	<Title>늪지대 생태변화 조사 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>요즘 커닝시티에 새로운 정보가 없느냐고? 정보를 팔러 온 게 아니라 사러 왔구나?</s>
+			</Page>
+			<Page>
+				<s>그렇잖아도 신경 쓰고 있는 소문이 하나 있긴 한데, 아직 팔 수 있을 정도로 완성된 정보가 아니라서 좀 더 시간이 필요해. 나중에 다시 올래?</s>
+			</Page>
+			<Page>
+				<s>……뭐? 정보가 완성되도록 도와주겠다고? 오, 그럼 나야 좋지!</s>
+			</Page>
+			<Page>
+				<s>난 요즘 늪지대에 몬스터가 증가했다는 소문에 주목하고 있어. 그런데 사람들마다 의견이 분분해. 누군가는 많아졌다고 하고, 또 누군가는 변함없다고 하고……</s>
+			</Page>
+			<Page>
+				<s>몬스터의 머릿수를 직접 세어볼 수도 없으니 누구 말이 맞는지 모르겠어. ……앗, 좋은 아이디어가 떠올랐어!</s>
+			</Page>
+			<Page>
+				<s>네가 [ff7b50]#nw_0#[-]에서 [ff7b50]#p_0# #pc_0#마리[-]와 [ff7b50]#p_1# #pc_1#마리[-]를 사냥하고 오는 거야! 네가 사냥한 시간을 체크해서 역산하면 몬스터의 수량 변화를 가늠할 수 있을 것 같아.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>우왓, 벌써 돌아온 거야? 잠깐만, 네 전투력을 고려해서 계산해보면 음…… 역시 전보다 몬스터가 꽤 증가한 것 같아. 내가 예상한 것보다 사냥이 훨씬 빨리 끝났거든.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_020" index="11131" sort="Normal">
+
+	<Title>늪지대 생태변화 조사 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>이래봬도 난 프로 정보원이야! 정보를 완성하기 위해서 데이터를 철저하게 수집하지. 하나의 데이터로 결론을 단정짓는 건 초짜 정보원이나 하는 어설픈 짓이거든.</s>
+			</Page>
+			<Page>
+				<s>너도 계속 협조해줄 거지? 그러면 [ff7b50]#nw_0#[-]에서 [ff7b50]#p_0# #pc_0#마리[-]와 [ff7b50]#p_1# #pc_1#마리[-]를 사냥하고 이곳으로 돌아와줘. 네가 이동하는 시간도 꼼꼼하게 체크할 거니까 오차는 별로 없을 거야.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>어서 와! 네가 출발한 시점부터 방금 도착한 순간까지 타이머로 시간을 쟀어. 지금부터 계산해볼 테니까 잠깐만 기다려줘.</s>
+			</Page>
+			<Page>
+				<s>……음, 역시 늪지대에 몬스터가 증가했다는 소문은 사실이었군! 게다가 이번 데이터는 아까보다 더 분명하게 그걸 증명하고 있어.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_021" index="11132" sort="Normal">
+
+	<Title>이상현상의 원인</Title>
+
+	<Task index="1">
+		<PassiveSummary>#nw_0#에서 #d_0_0#와 #d_1_0#를 사냥하여 #p_0#을 #pc_0#개 수집하세요.</PassiveSummary>
+		<Body>
+			<Page>
+				<s>이건 자연적인 생태계 번식 현상이 아닌 것 같아. 마치 누군가가 한꺼번에 풀어놓은 것처럼, 몬스터가 늪지에 집중적으로 몰린 이유가 뭘까? 난 그걸 알고 싶어!</s>
+			</Page>
+			<Page>
+				<s>#un#, [ff7b50]#nw_0#[-]으로 가서 다시 한 번 [ff7b50]#d_0_0#[-]와 [ff7b50]#d_1_0#[-]를 상대해줘.</s>
+			</Page>
+			<Page>
+				<s>이번에는 그냥 사냥만 하는 게 아니라 [ff7b50]몬스터들이 떨구는 물건[-]을 수집하는 거야! 그걸 분석하면 원인을 파악할 수 있을 것 같아.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>어서 와. 조사에 수확은 있었어?</s>
+			</Page>
+			<Page>
+				<s>이건… #bd_0_0#와 #bd_1_0#의 핏방울이라고? 정말이야? 그런데 피의 색이 왜 이러지?</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_022" index="11133" sort="Normal">
+
+	<Title>넬라의 정보 보고</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>피의 색이 이상해서 조사해 봤는데… 이상한 성분이 검출되었어. 몬스터의 성장에 영향을 주는 물질 같은데… 정확한 건 전문가한테 의뢰해봐야 알 수 있을 것 같아.</s>
+			</Page>
+			<Page>
+				<s>다만 정황 상 늪지대에 이 성분이 들어간 물질이 흘러 들어가는 바람에 몬스터가 몰려든 것 같아. 이 성분에 중독성이 있는 것 같거든.</s>
+			</Page>
+			<Page>
+				<s>어쨌든 난 그 피의 정체를 계속 조사할 거야. 하지만 아직 조사방식을 정하지 않아서 당장 네게 부탁할 일은 없는 것 같군. 지금까지 도와줘서 고마웠어!</s>
+			</Page>
+			<Page speaker="player">
+				<s>([ff7b50]#an#[-]가 [ff7b50]#nw_0#[-]에서 날 기다리고 있을 거야. 넬라한테 얻은 정보를 보고하러 가자!)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page speaker="player">
+				<s>(늪지대에 이상한 물질이 흘러 들어가 몬스터가 증가했다는, 넬라의 정보를 보고한다.)</s>
+			</Page>
+			<Page>
+				<s>흠, 늪지대 생태계에 영향을 줄 수 있는 물질이 발견되었다는 건가? 설마 또 그녀가…?</s>
+			</Page>
+			<Page>
+				<s>아니야, 무턱대고 사람을 의심하지 말아야지. 이 정보는 확실해질 때까지 일단 보류해두는 게 좋겠네.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_023" index="11134" sort="Normal">
+
+	<Title>커닝시티 최신정보 수집 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>이번엔 [ff7b50]#an#[-]를 만나서 요사이 커닝시티에 눈여겨 볼만한 일이 없었는지 물어보게.</s>
+			</Page>
+			<Page>
+				<s>정보원은 아니지만 눈썰미가 좋아서 나 같은 아저씨가 눈치채지 못하는 걸 포착할 때가 있거든. 그래서 이따금 재미있는 얘길 들을 수 있지.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>안녕! 반가워. 난 슈미야. 네가 #un#? 너랑 꼭 한 번 얘기해보고 싶었어. 우리 마을 정보원들보다 더 바빠 보여서 어떤 사람일지 궁금했거든.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_024" index="11135" sort="Normal">
+
+	<Title>동생의 꿈을 위하여 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>요즘 커닝시티에 일어난 흥미로운 일을 알려달라고? 넬라랑 친하게 지내는 것 같더니 너도 정보원이 되려는 거야? 알다시피 이 도시에 공짜는 없어. 그러니까 이야기를 듣고 싶다면 먼저 내 부탁을 들어줘.</s>
+			</Page>
+			<Page>
+				<s>나에겐 골치 아픈 남동생이 한 명 있어. 어릴 때부터 하늘을 날고 싶다는 엉뚱한 소망을 한결같이 꿈꿔왔거든. 그 꿈을 이루기 위해 동생이 지금까지 만들어온 비행기구가 셀 수도 없지.</s>
+			</Page>
+			<Page>
+				<s>하지만 실력이 없는 건지 운이 나쁜 건지 번번히 좌절하고 말아. 얼마 전에도 경비행기를 만들다가 실패했다지 뭐야. 하지만 포기하지 않고 또 다른 비행선에 도전하겠대!</s>
+			</Page>
+			<Page>
+				<s>난 이토록 끈덕진 동생이 꿈을 이루는 걸 돕고 싶어! 제작 단계를 보면 지금은 비행선을 만드는 데에 필요한 자재를 마련해주는 게 가장 좋을 것 같아.</s>
+			</Page>
+			<Page>
+				<s>그러니까 [ff7b50]#nw_0#[-]에서 [ff7b50]#p_0# #pc_0#개[-]를 부탁해!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>오, 이 가죽 제법 튼튼한걸? 이 정도면 비행선 재료로 써도 괜찮겠어. 고마워!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_025" index="11136" sort="Normal">
+
+	<Title>동생의 꿈을 위하여 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>내가 가진 정보의 값어치를 따져보면 너에게 한 가지 더 부탁하는 게 수지가 맞을 것 같아.</s>
+			</Page>
+			<Page>
+				<s>이번 의뢰도 내 동생을 위해 비행선 재료를 준비하는 일이야. [ff7b50]#nw_0#[-]에서 [ff7b50]#p_0# #pc_0#개[-]를 구해줘.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>오오, 이 돌조각은 가공 방법에 따라 여러 용도로 쓸 수 있을 것 같아. 정말 고마워! 네 덕분에 좋은 누나 노릇을 할 수 있겠어. 외골수인 동생과 변덕스러운 난 성격이 정반대지만 제법 사이가 좋거든. 헤헷!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_026" index="11137" sort="Normal">
+
+	<Title>슈미의 정보 보고</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>대가를 지불했으니 너에게 따끈따끈한 정보를 넘겨줄게! [ff7b50]얼마 전에 이 도시에 망토를 둘러쓴 낯선 남자가 나타났어.[-]</s>
+			</Page>
+			<Page>
+				<s>뭐? 별로 중요하지 않은 정보 같다고? 그렇지 않아! 그 남자는 내 시선을 끄는 무언가가 있었거든!</s>
+			</Page>
+			<Page>
+				<s>정체를 숨기는 사람처럼 후드를 푹 눌러쓴 채 주위를 두리번거리며 걷고 있었다니까! 수상하지 않아?</s>
+			</Page>
+			<Page>
+				<s>하지만 아무리 감춰도 난 알 수 있어. 그 사람은 아저씨가 분명해! 난 실루엣만 봐도 어떤 남자인지 알아볼 수 있거든.</s>
+			</Page>
+			<Page>
+				<s>그 남자는 대체 누굴까? 커닝시티에 다시는 오지 않았으면 좋겠어. 그런 불쾌한 남자를 또 마주치고 싶지 않으니까.</s>
+			</Page>
+			<Page>
+				<s>응? 내 정보는 이게 전분데? 이만 [ff7b50]#an#[-]님께 가보겠다고? 내 정보가 시시하다고 생각하는구나? 흥, 알았어. 잘 가!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page speaker="player">
+				<s>(커닝시티에 망토를 쓴 수상한 아저씨가 나타나 슈미가 기분 나빠했다는 정보를 전한다.)</s>
+			</Page>
+			<Page>
+				<s>망토를 쓴 아저씨라…… 이 도시의 도적들은 보통 망토나 복면으로 자신의 신분을 가리고 있지. 따라서 그 자의 정체를 특정 짓기는 어려울 것 같군.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_027" index="11138" sort="Normal">
+
+	<Title>커닝시티 최신정보 수집 3</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>[ff7b50]#an#[-]을 만나볼 차례군. 요즘 새로운 정보에 매달려 있는 것 같은데 일이 좀처럼 잘 풀리지 않는 모양이야. 그를 돕고 정보를 얻어오게.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>오, #un#! 왜 이제야 나타난 거야? 내가 입수한 정보에 따르면 이 도시에 돌아온 지 꽤 된 것 같던데…… 나보다 넬라를 먼저 찾아갔다는 소식을 듣고는 섭섭했다고.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_028" index="11139" sort="Normal">
+
+	<Title>늪지대의 수상한 기척 1</Title>
+
+	<Task index="1">
+		<PassiveSummary>#nw_0#에서 #d_0_0#을 사냥하여 #p_0# #pc_0#개를 수집하세요.</PassiveSummary>
+		<Body>
+			<Page>
+				<s>어쨌든 마침 잘 왔어! #un#, 나와 손잡지 않을래? 요새 정보 조사가 막혀서 답답한 상황이었거든.</s>
+			</Page>
+			<Page>
+				<s>근데 너 같은 행동파가 있어주면 계속 진행할 수 있을 것 같아. 그 대신 정보에 대한 소유권을 공동으로 해줄게. 어때?</s>
+			</Page>
+			<Page>
+				<s>내가 조사하고 있는 건 커닝시티 하수구 너머에 있는 늪지대야. 거긴 음습하고 너저분해서 사람들이 잘 다니지 않지. 그런데 최근 늪지에서 누군가를 봤다는 목격담이 여러 개나 내 정보망에 들어왔어.</s>
+			</Page>
+			<Page>
+				<s>이상한 그림자를 봤다는 이도 있고, 불빛을 봤다는 사람도 있어. 질척거리는 소리나 삐걱거리는 소리가 울린다고 하는 자도 있었지.</s>
+			</Page>
+			<Page>
+				<s>증언은 제각각이지만, 확실한 건 늪지대에 정체 모를 누군가가 있다는 거야! 그러니까 그곳을 조사해줘.</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]#nw_0#[-]으로 가서 [ff7b50]#d_0_0#[-]을 처리하고 그 잔해를 살피는 거야. 누군가가 그곳을 지나갔다면 다리 없는 귀신이 아닌 이상 반드시 진흙바닥에 자취를 남겼을 테니까.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>이 진흙덩이는 뭐야?</s>
+			</Page>
+			<Page>
+				<s>……앗, [ff7b50]발자국[-]이구나! 이렇게 확실한 증거를 가져오다니, 역시 넌 일을 잘한다니까!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_029" index="11140" sort="Normal">
+
+	<Title>늪지대의 수상한 기척 2</Title>
+
+	<Task index="1">
+		<PassiveSummary>#nw_0#에서 #d_0_0#을 사냥하여 #p_0# #pc_0#개를 수집하세요.</PassiveSummary>
+		<Body>
+			<Page>
+				<s>네가 가져온 증거품을 살펴봤는데 한 가지 걸리는 게 있어. 이 발자국 좀 오래된 거 같지 않아? 진흙이 마르고 여기저기 실금이 가있잖아. 그래서 말인데 다른 지역에 찍힌 발자국 상태도 확인하고 싶어.</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]#nw_0#[-]으로 가서 [ff7b50]#d_0_0#[-]을 조사하고 [ff7b50]발자국[-]을 찾아줘!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>우오오, 이거 봐봐! 전에 구한 발자국보다 훨씬 선명해! 게다가 진흙도 덜 말랐고. 아마도 최근에 찍힌 발자국일 거야.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_030" index="11141" sort="Normal">
+
+	<Title>제이엠의 정보 보고</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>네가 단서를 찾아준 덕분에 정보가 확실해졌어. [ff7b50]요 근래에 누군가가 늪지대에 들어간 게 분명해![-]</s>
+			</Page>
+			<Page>
+				<s>그런데 그게 누군지, 왜 들어갔는지는 나중에 조사해야겠다. 이거 말고도 밀려있는 정보가 많아서 말이야.</s>
+			</Page>
+			<Page>
+				<s>#un#, 다음에도 나와 같이 일할 생각 있어? 이 바닥엔 요령을 피우는 녀석들이 꽤 많은데, 넌 성실해서 믿음이 가거든. 잘 생각해보고 내키면 언제라도 찾아와!</s>
+			</Page>
+			<Page speaker="player">
+				<s>(지금은 [ff7b50]#nw_0#[-]에서 날 기다리고 있는 [ff7b50]#an#[-]님에게 제이엠의 정보를 보고하는 게 우선이야!)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page speaker="player">
+				<s>(늪지대에 누군가의 발자국이 발견되었다는, 제이엠의 정보를 보고한다.)</s>
+			</Page>
+			<Page>
+				<s>발자국이라…… 그러고 보니 넬라는 늪지대에서 이상한 물질을 발견했었지? 솔직히 그때는 이 정보가 별로 중요하지 않다고 생각했어.</s>
+			</Page>
+			<Page>
+				<s>그런데 이 도시에서 가장 유능한 두 정보원이 모두 늪지대의 인물을 주목하고 있으니 신경이 쓰이는군.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_032" index="695" sort="Epic">
+
+	<Title>도적수장의 부름</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>#un#, 놀라지 마. #an#님이 널 만나고 싶어해. 네 행적이 인상적이었던 모양이야. 전면에 모습을 드러내진 않지만, 그는 커닝시티에 일어나는 모든 일을 낱낱이 알고 있거든.</s>
+			</Page>
+			<Page>
+				<s>우리 같은 일개 정보원들은 손에 넣을 수 없는 고급 정보를 많이 갖고 있는 그분을 만날 수 있다는 건 행운이나 다름 없지.</s>
+			</Page>
+			<Page>
+				<s>그러니 어서 [ff7b50]#nw_0#[-]로 가 봐. 술집으로 위장하고 있지만, 사실 거긴 도적단 아지트거든. [ff7b50]#an#[-]님은 그곳에 있어. 그럼 건투를 빌게!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>어서 와, #un#, 자네의 활약을 줄곧 지켜보고 있었어. 성격이 너무 달라서 매사 충돌하는 제이엠과 넬라가 입을 모아 자네를 호평하더군. 그런 사람은 처음이라 꼭 한 번 만나보고 싶었어.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_033" index="696" sort="Epic">
+
+	<Title>지하철에서 나는 기척</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>단도직입적으로 말할게. 자네는 블랙윙에 대한 정보를 원한다지? 사실 그런 조직 정보를 개인이 얻긴 힘들어. 그러니 내가 그 정보를 제공하도록 하지.</s>
+			</Page>
+			<Page>
+				<s>거래에 대한 대가가 뭐냐고? 후후, 이 도시의 룰을 아주 잘 알고 있군. 뭐, 그건 신경 쓰지 마. 자네가 정보를 얻으면 보수는 저절로 지불될 테니. 후후.</s>
+			</Page>
+			<Page>
+				<s>얼마 전부터 커닝시티 지하철에 [ff7b50]수상한 그림자[-]가 어른거리더군. 내가 손에 넣은 몇 가지 단서로 추리해 봤을 때, 그 그림자의 정체는 아무래도 블랙윙인 것 같아.</s>
+			</Page>
+			<Page>
+				<s>그러니 그들을 찾고 싶다면 [ff7b50]#nw_0#[-]로 가 봐. 그곳에 자네의 수색을 돕기에 적합한 자를 미리 보냈으니, 지금 가면 바로 만날 수 있을 거야.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page position="Right">
+				<s>이봐, 여기야! 아까부터 기다리고 있었다고. 정식으로 내 소개를 할게. 난 듀얼블레이드의 리더 설희님을 모시는 #ac#야. 지금부터 내가 너의 파트너지. 그럼 잘 부탁해!</s>
+			</Page>
+			<Page position="Right">
+				<s>난 다크로드의 부하가 아니지만, 그가 이끄는 도적단과 우리 조직은 아주 긴밀한 관계거든. 그래서 그의 부탁으로 널 돕게 된 거지. 전에 그에게 신세를 진 적이 있어서 말이야…</s>
+			</Page>
+			<Page position="Right">
+				<s>그나저나 다크로드의 도움을 이끌어 내다니… 제법인걸? 뭐, 그에게 고마워할 필요는 없어. 당신의 손을 빌려서 이 도시에서 블랙윙을 몰아내려는 게 그의 본심이니까.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_034" index="697" sort="Epic">
+
+	<Title>수색을 위한 준비</Title>
+
+	<Task index="1">
+		<PassiveSummary>#nw_0#에서 #d_0_0#를 사냥하여 #p_0# #pc_0#개, #nw_1#에서 #d_1_0#을 사냥하여 #p_1# #pc_1#개, #nw_2#에서 #d_2_0#을 사냥하여 #p_2# #pc_2#개, #nw_3#에서 #d_3_0#를 사냥하여 #p_3# #pc_3#개를 수집하세요.</PassiveSummary>
+		<Body>
+			<Page position="Right">
+				<s>블랙윙을 찾기 위해 우린 지금부터 커닝시티 지하철을 탐색할 거야. 거긴 복잡하고 어둡고 위험한 곳이지. 그래서 탐사를 시작하기 전에 몇 가지 준비물을 챙겨야 해.</s>
+			</Page>
+			<Page position="Right">
+				<s>[ff7b50]#p_0# #pc_0#개[-], [ff7b50]#p_1# #pc_1#개[-], [ff7b50]#p_2# #pc_2#개[-], [ff7b50]#p_3# #pc_3#개[-]를 준비해줘.</s>
+			</Page>
+			<Page position="Right">
+				<s>탐사물품은 공사장에 출몰하는 [ff7b50]#d_0_0#[-], [ff7b50]#d_1_0#[-], [ff7b50]#d_2_0#[-], [ff7b50]#d_3_0#[-]한테서 구할 수 있을 거야.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page position="Right">
+				<s>공사장까지 다녀오느라 수고했어! 탐사물품은 모두 구해온 거지?</s>
+				<s>오, 모두 빠짐없이 잘 가져왔군. 이건 내가 잘 챙길게. 그럼 탐색을 시작하자!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_035" index="698" sort="Epic">
+
+	<Title>지하철 1호선 수색 1</Title>
+
+	<Task index="1">
+		<PassiveSummary>#nw_0#에서 #p_0# #pc_0#마리를 사냥하세요.</PassiveSummary>
+		<Body>
+			<Page position="Right">
+				<s>내가 입수한 정보에 따르면 블랙윙으로 추정되는 인물이 목격된 장소는 지하철 [ff7b50]#nw_0#[-]이야. 그러니까 지금부터 그곳을 조사해보자.</s>
+			</Page>
+			<Page position="Right">
+				<s>내가 철로를 탐색하는 동안 넌 방해되는 [ff7b50]#p_0#[-]를 처리해줘. 그 자를 빨리 찾기 위해선 역할을 분담하는 게 효율적이거든.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveSummary>#nw_0#에서 #ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page position="Right">
+				<s>음… 구석구석 샅샅이 살펴봤지만, 소득이 없군. 아무래도 여기엔 없는 것 같아.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_036" index="699" sort="Epic">
+
+	<Title>지하철 1호선 수색 2</Title>
+
+	<Task index="1">
+		<PassiveSummary>#nw_0#에서 #p_0# #pc_0#마리, #p_1# #pc_1#마리를 사냥하세요.</PassiveSummary>
+		<Body>
+			<Page position="Right">
+				<s>[ff7b50]#nw_0#[-]에서 조사를 계속하자. 여기서 가까우니까 그곳에 블랙윙이 있을 가능성이 있어.</s>
+			</Page>
+			<Page position="Right">
+				<s>넌 거기에 서식하는 [ff7b50]#p_0#[-]와 [ff7b50]#p_1#[-]가 탐색 작업을 방해하지 않도록 막아줘.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveSummary>#nw_0#에서 #ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page position="Right">
+				<s>수고했어. 네가 몬스터를 잘 처리해줘서 탐색하기 편했어. 하지만 여기에도 없네. 딱히 쓸만한 단서도 전혀 찾지 못했고…</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_037" index="700" sort="Epic">
+
+	<Title>지하철 휴지통 탐색</Title>
+
+	<Task index="1">
+		<Body>
+			<Page position="Right">
+				<s>#un#, 왜 그래? 뭔가 망설이는 표정이야. 할 말 있으면 기탄없이 말해봐.</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>이 구역 몬스터를 쫓으면서 홍아님이 수색하는 걸 봤는데, 한 군데 빼먹은 곳이 있어서요. [ff7b50]#an#[-] 안은 살펴보지 않았죠?</s>
+			</Page>
+			<Page position="Right">
+				<s>앗, 깜빡했다! 그럼 지금 바로 #an#을 확인해보자!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>#ac# 탐색</ActiveMemo>
+		<Body>
+			<Page>
+				<s>(지저분한 휴지통 안으로 손을 넣어 쓰레기를 헤쳐본다. 부스럭부스럭…)</s>
+			</Page>
+			<Page speaker="player">
+				<s>…!!!</s>
+				<s>뭔가가 있어요. 제가 꺼내볼게요.</s>
+			</Page>
+			<Page speaker="Honga_03" position="Right">
+				<s>이건 인형이잖아? 흠, 지하철 탑승객이 잃어버린 건가, 아니면 그들의 흔적…? 이것만으론 확신이 서지 않는군.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_038" index="701" sort="Epic">
+
+	<Title>매표소 관리인</Title>
+
+	<Task index="1">
+		<Body>
+			<Page position="Right">
+				<s>아무래도 조사 방법을 바꾸는 게 좋겠어. 탐문 수사를 통해 다른 사람의 증언을 모으면 블랙윙을 더 빨리 찾을 수 있을 거야.</s>
+			</Page>
+			<Page position="Right">
+				<s>타깃은 [ff7b50]#nw_0#[-]에 있는 [ff7b50]공익요원 #an#[-]야. 날마다 여기서 근무하니까 뭔가 알고 있을지도 몰라. 자, 얼른 가보자.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>안녕하세요! 아까부터 1호선을 어슬렁거리던 분들이군요. 오늘도 저희 커닝시티 지하철을 이용해 주셔서 감사합니다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_039" index="702" sort="Epic">
+
+	<Title>웅이의 목격담</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="Honga_02" position="Right">
+				<s>근무시간에 미안하지만, 묻고 싶은 게 있어. 물론 정보에 대한 대가는 지불할게. 네가 원하는 게 뭐야?</s>
+			</Page>
+			<Page>
+				<s>음… 그렇다면 오늘 아직 못한 업무가 하나 있는데 그걸 대신해 주세요. [ff7b50]#nw_0#[-]에서 [ff7b50]#d_0_0#[-]가 주워간 지하철 [ff7b50]분실물을 수거[-]하는 일이에요. 그럼 잘 부탁드려요!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>아, 오셨군요! 이게 분실물인가요? 어랏, 오늘은 분실물이 좀 독특하네요. 이런 [ff7b50]불길한 인형[-]이 대량으로 접수되다니… 지하철에 인형장수라도 탔던 걸까요? 아무튼 감사합니다. 덕분에 수고를 덜었어요.</s>
+			</Page>
+			<Page speaker="Honga_02" position="Right">
+				<s>그럼 이제 질문에 대답해 줘. 최근에 지하철에서 수상한 사람을 본 적 있어?</s>
+			</Page>
+			<Page>
+				<s>음… 아!!! 그러고 보니 요전에 순찰을 돌다가 차림새며, 행동거지가 수상쩍은 승객을 봤어요! 그 사람은 [ff7b50]지하철 2호선[-] 쪽에 있었어요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_040" index="703" sort="Epic">
+
+	<Title>지하철 2호선 수색 1</Title>
+
+	<Task index="1">
+		<PassiveSummary>#nw_0#에서 #p_0# #pc_0#마리, #p_1# #pc_1#마리, #p_2# #pc_2#마리를 사냥하세요.</PassiveSummary>
+		<Body>
+			<Page position="Right">
+				<s>#un#, 웅이 얘기 들었지? 지금부터 지하철 [ff7b50]2호선[-]을 수색하자! 제일 가까운 [ff7b50]1구간[-]부터 시작하는 게 좋겠지?</s>
+			</Page>
+			<Page position="Right">
+				<s>네가 [ff7b50]#p_0#[-], [ff7b50]#p_1#[-], [ff7b50]#p_2#[-]를 몰아내는 동안, 내가 그 구역을 꼼꼼하게 조사할게.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveSummary>#nw_0#에서 #ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page position="Right">
+				<s>흠, 여기엔 아무것도 없군. 하지만 낙담하기엔 이르지. 웅이 말대로 2호선 어딘가에 반드시 블랙윙이 있을 거야!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_041" index="704" sort="Epic">
+
+	<Title>지하철 2호선 수색 2</Title>
+
+	<Task index="1">
+		<PassiveSummary>#nw_0#에서 #p_0# #pc_0#마리, #p_1# #pc_1#마리를 사냥하세요.</PassiveSummary>
+		<Body>
+			<Page position="Right">
+				<s>[ff7b50]#nw_0#[-]에는 [ff7b50]#p_0#[-]와 [ff7b50]#p_1#[-]가 출몰해. 너라면 녀석들을 잘 정리할 수 있지? 그럼 부탁해. 그동안 난 블랙윙을 찾아볼게.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveSummary>#nw_0#에서 #ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page position="Right">
+				<s>젠장, 여기에도 없잖아! 그렇지만 이제 와서 포기할 순 없지!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_042" index="705" sort="Epic">
+
+	<Title>지하철 2호선 수색 3</Title>
+
+	<Task index="1">
+		<PassiveSummary>#nw_0#에서 #p_0# #pc_0#마리, #p_1# #pc_1#마리를 사냥하고 #p_2#을 #pc_2#개 수집하세요.</PassiveSummary>
+		<Body>
+			<Page position="Right">
+				<s>이제 남은 구역은 하나야. [ff7b50]#nw_0#[-]! 상대는 [ff7b50]#p_0#[-]와 [ff7b50]#p_1#[-]인데, 너라면 충분히 처리할 수 있겠지? 난 아주 작은 단서라도 놓치지 않도록 꼼꼼히 살펴볼게!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveSummary>#nw_0#에서 #ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page position="Right">
+				<s>엇, 네가 들고 있는 그건… 아까 휴지통에서 꺼낸 인형을 계속 가지고 있었어? 뭐? 여기서 똑같은 걸 또 발견했다고?</s>
+			</Page>
+			<Page position="Right">
+				<s>…가만, 인형이 여기서 이렇게 많이 발견되었다는 건 설마!!!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_047" index="727" sort="Epic">
+
+	<Title>늪지대 파견조사</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>우리의 목적은 블랙윙을 찾는 거야. 그래서 이 도시에서 정보를 모은 끝에 누군가가 늪지대에 들어갔다는 사실을 알게 되었어.</s>
+			</Page>
+			<Page>
+				<s>그 사람이 블랙윙일까? 흠…… 망설일 필요는 없겠지. 조금이라도 가능성이 있다면 확인해보는 수밖에! 지금부터 늪지대로 가서 조사해 보게.</s>
+			</Page>
+			<Page>
+				<s>이번에도 [ff7b50]#an#[-]에게 협조를 구해둘 테니, [ff7b50]#nw_0#[-]에서 만나서 함께 움직이는 게 좋을 거야.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>#nw_0#으로 이동</ActiveMemo>
+		<ActiveSummary>#nw_0#에서 #ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page>
+				<s>왔군. 다크로드님이 보낸 심부름꾼에게 이야기를 듣고, 여기서 기다리고 있었어.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_048" index="728" sort="Epic">
+
+	<Title>수수께끼 발자국 조사 1</Title>
+
+	<Task index="1">
+		<PassiveSummary>#nw_0#에서 #p_0# #pc_0#마리, #p_1# #pc_1#마리를 처치하세요.</PassiveSummary>
+		<Body>
+			<Page>
+				<s>이 늪지대에 블랙윙이 있을지도 모른다는 거지? 좋아, 내게 맡겨! 발자국을 직접 살펴보면 그 주인이 어떤 사람인지 대강 알 수 있거든.</s>
+			</Page>
+			<Page>
+				<s>그동안 넌 주변을 정리해줘. [ff7b50]#p_0#[-]와 [ff7b50]#p_1#[-]이 발자국을 망가뜨리면 곤란하니까!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>여기 조사는 끝났으니까 이제 그만해도 괜찮아.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_049" index="729" sort="Epic">
+
+	<Title>홍아의 철저한 수색</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>여기에 찍힌 발자국의 종류는 하나야. 그렇다면 이 늪지에 들어온 사람이 한 명뿐인 건가? 파트너, 이번엔 [ff7b50]#nw_0#[-]에서 조사하자! 다른 종류의 발자국은 없는지 확인해 봐야겠어.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>#nw_0#으로 이동</ActiveMemo>
+		<ActiveSummary>#nw_0#에서 #ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page>
+				<s>여기로 오면서 진흙바닥에 찍혀있던 발자국을 밟진 않았겠지?</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_050" index="730" sort="Epic">
+
+	<Title>수수께끼 발자국 조사 2</Title>
+
+	<Task index="1">
+		<PassiveSummary>#nw_0#에서 #p_0# #pc_0#마리, #p_1# #pc_1#마리, #p_2# #pc_2#마리를 처치하세요.</PassiveSummary>
+		<Body>
+			<Page>
+				<s>이 늪지엔 [ff7b50]#p_0#[-]와 [ff7b50]#p_1#[-]과 [ff7b50]#p_2#[-]이 서식하는군. 발자국이 지워지지 않도록 이곳을 돌아다니는 몬스터를 적당히 제거해줘. 그 사이에 내가 발자국을 조사할게!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>조사가 끝났어! 발 사이즈, 발자국의 깊이, 보폭, 발자국이 찍힌 모양 등을 조사한 결과 최근에 이 늪지대에 찍힌 발자국은 한 종류가 확실해!</s>
+			</Page>
+			<Page>
+				<s>이 발자국의 주인은 보통 체형의 남자로 추정돼. 그리고 발자국 뒤로 옷자락이 끌린 흔적이 있는 걸 보면, 망토나 로브를 입고 있는 것 같아. 이 발자국의 주인이 과연 우리가 쫓는 블랙윙이 맞을까?</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_051" index="731" sort="Epic">
+
+	<Title>수수께끼 발자국 조사 3</Title>
+
+	<Task index="1">
+		<PassiveSummary>#nw_0#에서 #p_0# #pc_0#마리, #p_1# #pc_1#마리, #p_2# #pc_2#마리를 처치하세요.</PassiveSummary>
+		<Body>
+			<Page>
+				<s>이 발자국을 끝까지 추적하면 발자국의 주인이 누군지 확인할 수 있을 거야!</s>
+			</Page>
+			<Page>
+				<s>난 여기 늪지에 찍힌 발자국이 정확히 어느 방향으로 이동했는지 조사할게. 이젠 굳이 설명하지 않아도 네가 해야 할 일 정도는 알고 있겠지?</s>
+			</Page>
+			<Page>
+				<s>발자국이 뭉개지지 않도록 [ff7b50]#p_0#[-], [ff7b50]#p_1#[-], [ff7b50]#p_2#[-]을 처리해줘!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>음, 좋아. 발자국의 방향을 확실히 체크했어! 발자국은 마을의 반대 방향을 향하고 있어. 그러니까 이 자는 늪지대 안쪽으로 이동한 거지.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_052" index="732" sort="Epic">
+
+	<Title>발자국 추적</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>발자국은 동남쪽 방향으로 찍혀있어. 그렇다면 발자국의 주인은 [ff7b50]#nw_0#[-]으로 들어갔을 거야. 우리도 이 자취를 따라가보자!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>#nw_0#으로 이동</ActiveMemo>
+		<ActiveSummary>#nw_0#에서 #ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page>
+				<s>파트너! 여기야, 여기!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_053" index="733" sort="Epic">
+
+	<Title>수수께끼 발자국 조사 4</Title>
+
+	<Task index="1">
+		<PassiveSummary>#nw_0#에서 #p_0# #pc_0#마리, #p_1# #pc_1#마리를 처치하세요.</PassiveSummary>
+		<Body>
+			<Page>
+				<s>이렇게 깊고 어두운 늪지까지 오다니…… 이 발자국의 주인은 어딜 가려던 걸까? 점점 궁금해지는군.</s>
+			</Page>
+			<Page>
+				<s>그럼 난 계속해서 발자국의 방향을 조사할게. 넌 발자국이 사라지지 않도록 [ff7b50]#p_0#[-]과 [ff7b50]#p_1#[-]의 접근을 잘 막아줘!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>음, 몇 번이나 확인했으니까 확실해. 발자국은 이 늪지에서 끊어졌어! 즉 그 자의 목적지가 바로 여기라는 거지. 그렇다면 그 자는 대체 어디 있는 걸까?</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_054" index="744" sort="Epic">
+
+	<Title>발자국이 멈춘 자리</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>……앗! 발자국이 저쪽 폐가로 이어져있어! 우리가 찾는 사람이 저 안에 있나 봐.</s>
+			</Page>
+			<Page>
+				<s>파트너, 준비 됐어? 그럼 오두막 안으로 들어가보자!</s>
+				<s></s>
+				<s>[2acfff]수락하면, #nw_0#으로 이동합니다.[-]</s>
+			</Page>
+		</Body>
+		
+		<Refuse>
+			<Page>
+				<s>내가 몇 번이나 확인했어. 발자국의 주인은 저 안으로 들어간 게 분명해!</s>
+			</Page>
+		</Refuse>
+	</Task>
+	
+	<Task index="2">
+		<ActiveSummary>#ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page position="Right">
+				<s>앗, 깜짝이야!</s>
+			</Page>
+			<Page speaker="Honga_13">
+				<s>라케리스? 네가 어째서 여기에 있는 거지?</s>
+			</Page>
+			<Page position="Right">
+				<s>이미 모든 걸 알고 오신 것 같으니 솔직히 말씀드릴게요. 네, 그래요. 제가 또 실수했어요. 실수로 반쯤 만든 성장의 마법약을… 그만 하수구에 버리고 말았어요! 아아아! 죄송해요!</s>
+			</Page>
+			<Page position="Right">
+				<s>미완성된 약이라 아무런 작용도 하지 않을 거라고 생각했는데… 그게 늪지대의 몬스터를 돌연변이로 만들어 놓을 줄 누가 알았겠어요. 흑… 죄송해요!</s>
+			</Page>
+			<Page position="Right">
+				<s>그래서 사람들에게 들키기 전에 돌연변이 몬스터를 처리하러 온 거예요. 제가 다 수습할게요. 그러니까 너무 나무라지 말아주세요!</s>
+			</Page>
+			<Page speaker="Honga_13">
+				<s>그렇다면 그 발자국의 주인이 라케리스였단 말인가! 이거, 참… 허탕을 치고 말았군!</s>
+			</Page>
+			<Page speaker="Honga_13">
+				<s>#un#, 블랙윙 추적은 실패야. 그러니 그만 마을로 돌아가자고. 아, 잠깐, 넌 재즈바에 들러 다크로드님께 이 일을 보고하는 걸 잊지 마.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_055" index="745" sort="Epic">
+
+	<Title>정보의 모순</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>돌아왔군. 블랙윙은 찾았나?</s>
+			</Page>
+			<Page speaker="player">
+				<s>(늪지대에 들어간 사람은 라케리스였다는 사실을 전한다.)</s>
+			</Page>
+			<Page>
+				<s>오두막에 라케리스가 있었다고? 그것참 이상하군. 슈미는 분명 늪지대에 아저씨 같은 사람이 들어갔다고 했는데… 라케리스는 아저씨가 아니잖아?</s>
+			</Page>
+			<Page>
+				<s>게다가 자네들이 추적한 그 발자국 말이야… 남자의 것이라고 하지 않았나? 그렇다면 라케리스의 발자국은 어디로 간 거지?</s>
+			</Page>
+			<Page>
+				<s>여러 모로 이상하군. 자네, [ff7b50]#an#[-]와 다시 이야기해 보는 게 어때?</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page speaker="player">
+				<s>(다크로드가 지적한 의문점을 전한다.)</s>
+			</Page>
+			<Page>
+				<s>앗! 그러고 보니 정보들이 앞뒤가 안 맞잖아? 대체 어떻게 된 거지?</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_056" index="746" sort="Epic">
+
+	<Title>라케리스의 행적</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>다크로드님의 말을 곰곰이 생각해 보니 이상한 점이 한두 가지가 아니야. 그 발자국이 라케리스의 것이 아니라면 늪지대에 또 다른 자가 있었던 걸까?</s>
+			</Page>
+			<Page>
+				<s>파트너, [ff7b50]#an#[-]가 마을로 돌아온 것 같으니, 그녀에게 늪에서 수상한 사람을 보지 못했는지 물어봐 줘.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>무슨 일이시죠? 네? 늪에서 수상한 사람을 보지 못했느냐고요?</s>
+			</Page>
+			<Page>
+				<s>그걸 왜 저에게 물어보시는 거죠? 전 늪에 들어간 적이 없는데요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>엥? 벌써 잊으셨어요? 저랑 늪지대에 있는 오두막에서 만났잖아요! 홍아님도 거기에 계셨고요…</s>
+			</Page>
+			<Page>
+				<s>꿈이라도 꾸신 거 아니에요? 전 요즘 늪지대에 들어가지 않았어요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그럴 리가 없어요! 거기서 라케리스님이 실수로 버린 성장의 마법약 때문에 돌연변이가 된 몬스터를 처리하러 늪에 왔다고 말씀하셨잖아요?</s>
+			</Page>
+			<Page>
+				<s>어머, 생사람 잡지 마세요! 물론 예전에는 그런 일이 있었지만, 제이엠씨께 혼이 난 후엔 폐기물을 함부로 버리는 실수는 하지 않는다고요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(대체 어떻게 된 일이지? 이 이상한 상황을 홍아님도 알고 계실까…?)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_057" index="747" sort="Epic">
+
+	<Title>늪지대 재조사</Title>
+
+	<Task index="1">
+		<PassiveSummary>#nw_0#에서 #d_0_0#을 사냥하여 #p_0#를 수집하세요.</PassiveSummary>
+		<Body>
+			<Page speaker="player">
+				<s>(최근에 늪지대에 출입한 적이 없다는 라케리스의 말을 전한다.)</s>
+			</Page>
+			<Page>
+				<s>말도 안 돼! 그게 사실이라면, 우리가 오두막에서 만난 사람은 대체 누구란 말이야? 라케리스한테 쌍둥이 자매가 있다는 소문은 못 들었는데…</s>
+			</Page>
+			<Page>
+				<s>잠깐! 그때 오두막에 있던 사람이 라케리스가 아니라면… 설마 라케리스로 위장한 블랙윙의 [ff7b50]변신술사[-]?!</s>
+			</Page>
+			<Page>
+				<s>파트너, 지금 바로 [ff7b50]#nw_0#[-]으로 가서 조사해줘. 그 늪에 서식하는 [ff7b50]#d_0_0#[-]이 오두막을 들락거리는 걸 봤거든. 녀석한테서 무언가 단서가 될만한 걸 찾을 수 있을지도 몰라.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>이건… 블랙윙의 문양이 새겨진 보고서! 역시 그 오두막에 있던 녀석은 변신술사였어! 그렇게 감쪽같이 변신하다니… 정말 놀랍군.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Kerningcity_058" index="748" sort="Epic">
+
+	<Title>변신술사 추적</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>내가 꼼꼼히 훑어봤는데 말이야… 이거 꽤나 중요한 문서였어! 이런 걸 흘리고 다니는 걸 보면, 블랙윙의 변신술사는 변신술에 능할진 몰라도 성격은 칠칠치 못한가 봐.</s>
+			</Page>
+			<Page>
+				<s>이 보고서엔 블랙윙의 계획이 상세히 기술되어 있어. 어찌나 꼼꼼하게 기록했는지, 변신술사의 이동 경로를 추론할 수 있을 정도야.</s>
+			</Page>
+			<Page>
+				<s>아마 그 자는 지금쯤 커닝시티를 벗어나 페리온으로 내뺐을걸? 도중에 마음을 바꾸지 않았다면 말이지…</s>
+			</Page>
+			<Page>
+				<s>파트너, 내가 서신 하나를 적어줄 테니 이걸 [ff7b50]#nw_0#[-]에 있는 [ff7b50]#an#[-]에게 전해줘. 그러면 변신술사를 추적하는 데에 지원을 받을 수 있을 거야.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveSummary>#nw_0#에서 #ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page>
+				<s>안녕하세요. 무슨 일이시죠?</s>
+			</Page>
+			<Page>
+				<s>앗, 이건 홍아님의 서신인가요? 그분이 제겐 무슨 일로…? 음, 지금 바로 읽어보겠습니다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+</root>

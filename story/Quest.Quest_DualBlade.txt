@@ -1,0 +1,8265 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+
+
+<Quest code="DualBlade_0001" index="56001" sort="Epic">
+
+	<Title>입문자의 임무</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>맡긴 임무는 물론 완수했겠지?</s>
+				<s>그리 어려운 일도 아니었으니.</s>
+			</Page>
+			<Page speaker="player">
+				<s>시험을 위해서 절 비화원 밖으로 유인하려고 둘러댄 거짓 임무라고 생각했는데…</s>
+				<s>진짜였군요.</s>
+			</Page>
+			<Page>
+				<s>크크, 뭐, 겸사겸사지.</s>
+			</Page>
+			<Page>
+				<s>위층으로 가 봐.</s>
+				<s>[ff7b50]설희[-]님께서 보명을 기다리고 계실 테니.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>어서 와요, #un#.</s>
+			</Page>
+			<Page speaker="player">
+				<s>커닝시티에 방문한 집배원에게 수탁받은 소포를 가져왔습니다.</s>
+			</Page>
+			<Page>
+				<s>좀 전까지 비가 많이 내려서 걱정했는데 다행히 배송 일정에 차질은 없었나 보네요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>내용물을 확인해 볼까요?</s>
+			</Page>
+			<Page>
+				<s>발신인이 불명이군요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>네, 위험한 물건일지도 모르니 일단 제가…</s>
+			</Page>
+			<Page>
+				<s>괜찮아요.</s>
+				<s>그 소포를 받는 게 처음은 아니니까요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>……</s>
+			</Page>
+			<Page>
+				<s>…이번에도 같은 물건이군요.</s>
+				<s>하지만 역시 다른 향이 나네요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그건…?</s>
+			</Page>
+			<Page>
+				<s>향주머니에요.</s>
+				<s>숙면을 돕는 효과가 있지요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>…평소에 잠을 잘 못 주무시나요?</s>
+			</Page>
+			<Page>
+				<s>후후, 글쎄요.</s>
+			</Page>
+			<Page>
+				<s>임무 수고했어요.</s>
+				<s>이제 홍아에게 가보도록 해요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0002" index="56002" sort="Epic">
+
+	<Title>홍아의 안내 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>보고는 잘 마쳤어?</s>
+				<s>그럼 비화원 지하로 가 봐.</s>
+			</Page>
+			<Page speaker="player">
+				<s>……</s>
+			</Page>
+			<Page>
+				<s>내 말 듣고 있어?</s>
+				<s>정신을 어디에 팔고 있는 거야?</s>
+			</Page>
+			<Page speaker="player">
+				<s>…그 소포 말이에요, 누가 무슨 목적으로 보낸 거죠?</s>
+			</Page>
+			<Page>
+				<s>흠, 처음 배달되었을 때부터 몇 년에 걸쳐 조사해 보았지만 아직까지 알아내진 못했어.</s>
+			</Page>
+			<Page>
+				<s>다만 성분 분석에서 독이 발견되지 않았으니 암해 공작은 아닌 걸로 추정하고 있지.</s>
+			</Page>
+			<Page>
+				<s>물론 은신 중인 설희님께 꾸준히 보내지는 익명의 선물이 마냥 반가울 리는 없어.</s>
+				<s>그래서 출처를 알아내기 위한 단서로 소포를 계속 수령하고 있는 거야.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그렇군요…</s>
+			</Page>
+			<Page>
+				<s>하지만 지금 네가 신경 쓸 건 그게 아니지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>[ff7b50]비화원 지하[-]라고 하셨죠?</s>
+				<s>알겠습니다, 지금 바로 가 볼게요.</s>
+			</Page>
+			<Page>
+				<s>지시를 흘려 듣지 않아 다행이군.</s>
+				<s>난 두 번 말하는 걸 싫어하거든, 크크.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>비화원 지하로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>기다리고 있었어요.</s>
+				<s>그럼 지금부터 수련을 시작할게요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>?!</s>
+			</Page>
+			<Page>
+				<s>왜 질색하는 거예요?</s>
+				<s>이전 시험에서 낙제를 했으니 당연히 수련을 해야죠.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0003" index="56003" sort="Epic">
+
+	<Title>낙제자의 수련 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>당신을 위해 [ff7b50]수련실1[-]에 적절한 수준의 몬스터를 준비해 두었어요.</s>
+				<s>자, 그럼 시작하세요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page speaker="player">
+				<s>……</s>
+			</Page>
+			<Page>
+				<s>하핫! 혼자 보기 아까운 표정이네요.</s>
+			</Page>
+			<Page>
+				<s>뭐, 상대가 달팽이였으니 자존심이 상할 만도 하지요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0004" index="56004" sort="Epic">
+
+	<Title>낙제자의 수련 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>홍아님이 지시하신 수련은 아직 끝나지 않았어요.</s>
+			</Page>
+			<Page>
+				<s>이번에는 [ff7b50]수련실2[-]로 이동해서 훈련을 계속해 주세요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>잘했어요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그런 말을 듣기엔 민망한 수준의 몬스터였는걸요.</s>
+			</Page>
+			<Page>
+				<s>제가 칭찬한 건 당신의 태도예요.</s>
+				<s>불평 한 마디 없어서 새삼 놀랐답니다.</s>
+			</Page>
+			<Page speaker="player">
+				<s>수련 타깃으로 달팽이가 지정된 건 지난 시험에서 제가 달팽이처럼 굼뜨게 굴었다는 의미이고, 그건 사실이니까요. 불만을 말할 입장이 아닙니다.</s>
+			</Page>
+			<Page>
+				<s>후후, 홍아님이 당신을 마음에 들어하는 이유를 알겠네요.</s>
+			</Page>
+			<Page>
+				<s>그렇다면 이런 지리한 수련을 지시한 이유도 짐작하고 있을 테지요.</s>
+			</Page>
+			<Page>
+				<s>듀얼블레이드의 임무는 대체로 은밀하고 위험해요.</s>
+				<s>한 순간의 방심으로 목숨을 잃을 수 있으니 미숙함을 용납해선 안 되죠.</s>
+			</Page>
+			<Page>
+				<s>완벽하지 않으면 실전에 투입될 수 없어요.</s>
+				<s>그러니 이번 훈련이 언니, 아니, 설희님의 기대라고 이해해 주면 좋겠어요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0005" index="56005" sort="Epic">
+
+	<Title>낙제자의 수련 종료</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>수련을 모두 마쳤으니 [ff7b50]홍아[-]님께 가 보세요.</s>
+				<s>아직 [ff7b50]비화원 아래층[-]에 계실 거예요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>어서 와. 이제 새 임무를 시작해 보자고.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0006" index="56006" sort="Epic">
+
+	<Title>외지 임무 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>지금부터 네가 가야할 곳은 [ff7b50]여섯갈래길[-]이야.</s>
+				<s>그곳에서 임무를 수행하고 있는 동료를 찾으면 돼.</s>
+			</Page>
+			<Page>
+				<s>풍채 좋은 녀석이니 어렵지 않게 발견할 수 있겠지.</s>
+				<s>그 자가 네 역할을 알려줄 거야.</s>
+			</Page>
+			<Page>
+				<s>커닝시티 밖에서 수행하는 첫 임무라고 들뜬 건 아니겠지?</s>
+				<s>방심하지 않도록 조심해.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>여섯갈래길로 이동</ActiveMemo>
+		<Body>
+			<Page speaker="player">
+				<s>안녕하세요, 전…</s>
+			</Page>
+			<Page>
+				<s>#un#, 맞지? 홍아가 추천했던.</s>
+			</Page>
+			<Page>
+				<s>장기 임무로 한동안 본부에 돌아가지 못한 탓에 얼굴을 보는 건 처음이군.</s>
+				<s>만나서 반가워, 난 시바다.</s>
+			</Page>
+			<Page>
+				<s>실은 우리 조직에 합류한 신입이 누군지 무척 궁금했어.</s>
+				<s>그야 다른 누구도 아닌 홍아가 천거한 인물이잖아?</s>
+			</Page>
+			<Page>
+				<s>너도 알다시피 듀얼블레이드는 조직원이 추천하고 설희님의 승인을 받아야만 일원이 될 수 있어.</s>
+			</Page>
+			<Page>
+				<s>다만 조직원들마다 사람을 평가하는 기준이 제각각 다르니 그 자격을 규정하는 게 어려워.</s>
+				<s>그러니 다른 모험가 조직들에 비해 가입 조건이 상당히 까다로운 편이지.</s>
+			</Page>
+			<Page>
+				<s>그런데 우리 중에서도 사람 보는 눈이 가장 까탈스러운 홍아에게 낙점되었으니 어떤 인물인지 호기심이 일지 않겠어?</s>
+			</Page>
+			<Page>
+				<s>그래서 이렇게 함께 임무를 수행할 수 있는 기회가 생겨서 기쁘게 생각해.</s>
+				<s>그럼 잘 부탁해.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0007" index="56007" sort="Epic">
+
+	<Title>외지 임무 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>이제부터 넌 헤네시스 언덕으로 이동해.</s>
+			</Page>
+			<Page>
+				<s>듀얼블레이드 본부인 비화원은 꽃 도매상으로 위장하고 있어.</s>
+				<s>따라서 우리는 화원 운영을 위해 필요한 만큼 꽃이나 화초를 거래상으로부터 매입하거나 산지에서 직접 구하곤 하지.</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]바람꽃수풀[-]이라는 장소에서 자생하는 [ff7b50]#p_0#[-]을 찾아 와.</s>
+				<s>그 보라색 꽃을 구하는 게 바로 네 임무야.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>꽃은?</s>
+			</Page>
+			<Page>
+				<s>…음, 그 정도면 충분하겠군.</s>
+				<s>하지만 시간이 좀 부족한걸…</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0008" index="56008" sort="Epic">
+
+	<Title>외지 임무 3</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>필요한 화종이 하나 더 있어.</s>
+				<s>[ff7b50]#p_0#[-]인데 이 꽃은 [ff7b50]큰 오솔길[-]에서 구할 수 있지.</s>
+				<s>그럼 부탁해.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>수고했어.</s>
+				<s>이걸로 임무를 마무리해도 되겠어.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0009" index="56009" sort="Epic">
+
+	<Title>외지 임무 완료</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>헤네시스 언덕에서 구한 꽃은 잘 챙겼지?</s>
+				<s>이만 본부로 복귀하자.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>어서 와요.</s>
+				<s>시바와 임무를 함께 했다죠?</s>
+			</Page>
+			<Page>
+				<s>그가 방금 보고를 마쳤답니다.</s>
+				<s>최근 도적단이 에델슈타인 방면으로 빈번하게 왕래하고 있다는군요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>?!</s>
+			</Page>
+			<Page>
+				<s>여섯갈래길은 빅토리아 아일랜드의 중심이자 각 지역으로 통하는 길목이지요.</s>
+				<s>그래서 시바는 그곳에서 오랜 시간 잠복하면서 도적단의 동향을 살핀 거예요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그렇다면 꽃은…</s>
+			</Page>
+			<Page>
+				<s>후후, 물론 그것도 중요한 임무예요.</s>
+				<s>시바의 거동이 수상하게 보이지 않도록 위장이 필요했으니까요.</s>
+			</Page>
+			<Page>
+				<s>그런데 꽃이 조금 시들었군요.</s>
+				<s>아쉽지만 가게에 내어 팔진 못하겠네요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>……</s>
+			</Page>
+			<Page>
+				<s>임무 수고했어요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0010" index="56010" sort="Epic">
+
+	<Title>홍아의 안내 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>기다렸어.</s>
+			</Page>
+			<Page speaker="player">
+				<s>수련인가요?</s>
+			</Page>
+			<Page>
+				<s>흐응, 왜 그렇게 생각하지?</s>
+			</Page>
+			<Page speaker="player">
+				<s>임무를 완벽히 성공시키지 못했으니까요.</s>
+			</Page>
+			<Page>
+				<s>크크, 눈치 빠른 녀석은 싫지 않아.</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]비밀 수련실 입구[-]로 가면 돼.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>비밀 수련실 입구로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>꾸륵? 꾸르르르르륵!</s>
+			</Page>
+			<Page speaker="player">
+				<s>?!</s>
+			</Page>
+			<Page speaker="player">
+				<s>(이번 수련은 이 부엉이에게 지도 받는 건가…)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0011" index="56011" sort="Epic">
+
+	<Title>미달자의 수련 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>꾸륵!</s>
+			</Page>
+			<Page speaker="player">
+				<s>(부리로 집어 든 종이에 글자가 적혀 있다.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>[ff7b50]수련장1[-]…?</s>
+				<s>이곳이 제가 단련할 장소입니까?</s>
+			</Page>
+			<Page>
+				<s>꾸륵!</s>
+			</Page>
+			<Page speaker="player">
+				<s>알겠습니다. 다녀오겠습니다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page speaker="player">
+				<s>…다녀왔습니다.</s>
+			</Page>
+			<Page>
+				<s>꾸륵?</s>
+			</Page>
+			<Page speaker="player">
+				<s>달팽이에서 돼지라…</s>
+				<s>성장이라고 생각해도 될까요?</s>
+			</Page>
+			<Page>
+				<s>꾸륵~! 꾸르르르륵!!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0012" index="56012" sort="Epic">
+
+	<Title>미달자의 수련 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>꾸륵!</s>
+			</Page>
+			<Page speaker="player">
+				<s>(음, 이번에 적혀 있는 글자는…)</s>
+			</Page>
+			<Page speaker="player">
+				<s>[ff7b50]수련장2[-]이군요.</s>
+				<s>그럼 다녀오겠습니다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>꾸륵~! 꾸르르르륵!!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0013" index="56013" sort="Epic">
+
+	<Title>미달자의 수련 종료</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>꾸륵! 꾸르르륵 꾸륵!</s>
+			</Page>
+			<Page speaker="player">
+				<s>수련은 여기까지군요.</s>
+				<s>지도해 주셔서 감사했습니다.</s>
+			</Page>
+			<Page>
+				<s>꾸르르르르르~</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>훈련은 잘 마친 모양이군.</s>
+			</Page>
+			<Page speaker="player">
+				<s>조금 놀랐지만요.</s>
+			</Page>
+			<Page>
+				<s>하하! 첫 대면이면 그럴 수 있지.</s>
+			</Page>
+			<Page>
+				<s>그래 봬도 수리님은 나보다 선배야.</s>
+				<s>선대 다크로드의 최측근이었던 자니까.</s>
+			</Page>
+			<Page>
+				<s>그나저나 억울한 소리 한 마디 정도는 할 줄 알았는데 말이야.</s>
+				<s>꽃이 시든 건 시바의 임무가 길어졌기 때문이잖아?</s>
+			</Page>
+			<Page speaker="player">
+				<s>알고 계셨군요.</s>
+				<s>그렇지만 단독 임무가 아니었으니까요.</s>
+			</Page>
+			<Page>
+				<s>그래서 파트너의 책임을 묻지 않은 건가?</s>
+				<s>그것참 대견하군.</s>
+			</Page>
+			<Page speaker="player">
+				<s>빈정대시는 건가요?</s>
+			</Page>
+			<Page>
+				<s>그럴 리가.</s>
+				<s>순수한 감탄이라고.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그래 봤자 달팽이나 돼지를 상대하는 수준인걸요.</s>
+			</Page>
+			<Page>
+				<s>빈정거리는 건 네 쪽인 것 같은데.</s>
+			</Page>
+			<Page speaker="player">
+				<s>저도 진심이에요.</s>
+			</Page>
+			<Page>
+				<s>초조한가?</s>
+			</Page>
+			<Page speaker="player">
+				<s>물론이죠.</s>
+				<s>분발해서 빨리 한 사람 몫을 해낼 거예요.</s>
+			</Page>
+			<Page>
+				<s>크크, 기대하지.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0014" index="56014" sort="Epic">
+
+	<Title>파견 임무 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>이번 임무의 목적지는 에델슈타인이야.</s>
+			</Page>
+			<Page speaker="player">
+				<s>도적단의 행적을 조사하려는 거군요. 알겠습니다.</s>
+			</Page>
+			<Page>
+				<s>이번엔 내가 동행할 거야.</s>
+				<s>자세한 건 [ff7b50]에델슈타인 임시공항[-]에서 설명하지.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>에델슈타인 임시공항으로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>여기야.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0015" index="56015" sort="Epic">
+
+	<Title>파견 임무 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>짐작했겠지만 이번 임무에 둘이 파견된 건 역할 분담이 필요하기 때문이야.</s>
+			</Page>
+			<Page>
+				<s>도적단 조사는 내가 맡을게.</s>
+				<s>넌 이 도시에서 자생하는 꽃을 구해 줘.</s>
+			</Page>
+			<Page speaker="player">
+				<s>위장 임무 말씀이군요. 알겠습니다.</s>
+			</Page>
+			<Page>
+				<s>섭섭해?</s>
+			</Page>
+			<Page speaker="player">
+				<s>아니요. 전 제 실력을 압니다.</s>
+				<s>꽃 채집은 이미 경험이 있으니 충분히 할 수 있습니다.</s>
+			</Page>
+			<Page>
+				<s>고마운 대답이군.</s>
+			</Page>
+			<Page>
+				<s>임무가 끝나면 여기에서 다시 만나는 걸로 정할게.</s>
+				<s>그럼 건투를 빌지.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>도시 인근 탐색</ActiveMemo>
+		<Body>
+			<Page>
+				<s>도시 근처에 산책로가 있군.</s>
+			</Page>
+			<Page>
+				<s>그런데 길이 잘 닦여 있는 데에 반해 어쩐지 분위기가 삭막한걸.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0016" index="56016" sort="Epic">
+
+	<Title>도시에 피는 꽃 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>산책로면 꽃을 구할 수 있겠지.</s>
+				<s>주변을 둘러보자.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>…꽃은 보이지 않는군.</s>
+			</Page>
+			<Page>
+				<s>그런데 산책로에 사람은 없고 왜 이런 흉물이 위협적으로 돌아다니는 거지?</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0017" index="56017" sort="Epic">
+
+	<Title>도시에 피는 꽃 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>좀 더 외곽으로 나가서 꽃을 찾아보는 게 좋겠어.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>찾았다! 헤네시스 언덕만큼은 아니어도 꽃이 듬성듬성 피어 있어.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0018" index="56018" sort="Epic">
+
+	<Title>도시에 피는 꽃 3</Title>
+
+	<Task index="1">
+		<Body>
+			<Page actionCommand="DualBlade_0018_01">
+				<s>이 길로 좀 더 가면 꽃을 더 찾을 수 있을 것 같아.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>달리아 화원 탐색</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0018_02">
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page>
+				<s>이런 쓰레기 더미에 꽃이 피어 있다니… 생명력이 대단하군.</s>
+			</Page>
+			<Page>
+				<s>그나저나 꽃이 이토록 함부로 방치되어 있는 걸 설희님이 아신다면 속상해 하시겠는걸.</s>
+			</Page>
+			<Page>
+				<s>에델슈타인에 처음 도착했을 땐 질서 있고 정돈된 도시라고 생각했는데 실상은 다른 것 같다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0019" index="56019" sort="Epic">
+
+	<Title>약속 장소로 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>꽃을 충분히 구한 것 같아.</s>
+				<s>홍아님과 만나기로 했던 [ff7b50]임시공항[-]으로 돌아가자.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>에델슈타인 임시공항으로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>…</s>
+			</Page>
+			<Page>
+				<s>……</s>
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>…음, 아무래도 홍아님의 임무가 길어지는 모양인데.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0020" index="56020" sort="Epic">
+
+	<Title>방편 모색 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>홍아님이 돌아오길 마냥 기다렸다간 꽃이 시들어버릴 거야.</s>
+				<s>방법을 찾아보자.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>경찰관과 대화</ActiveMemo>
+		<Body>
+			<Page speaker="player">
+				<s>안녕하세요, 경찰관님.</s>
+			</Page>
+			<Page>
+				<s>…앗, 당신은…!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0021" index="56021" sort="Epic">
+
+	<Title>방편 모색 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>음음, 무슨 일이시죠?</s>
+				<s>경찰의 도움이 필요한가요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>이 도시에 집배원이 언제 방문하는지 알고 싶어요.</s>
+			</Page>
+			<Page>
+				<s>아… 집배원이라면 조금 전에 배송을 모두 마치고 떠났어요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(이런.)</s>
+			</Page>
+			<Page>
+				<s>그래도 혹시 모르니 [ff7b50]임시공항[-]으로 가보세요.</s>
+				<s>이 마을 주민들이 맡긴 우편물들을 가지고 이동하느라 당신보다는 걸음이 느릴 테니까요.</s>
+				<s>서두르면 그를 만날 수 있을지도 몰라요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>고맙습니다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>집배원과 대화</ActiveMemo>
+		<Body>
+			<Page speaker="player">
+				<s>집배원님! 잠시만요!</s>
+			</Page>
+			<Page>
+				<s>아앗, 깜짝이야!</s>
+			</Page>
+			<Page speaker="player">
+				<s>소포를 하나 발송하고 싶어요.</s>
+			</Page>
+			<Page>
+				<s>네, 좋아요.</s>
+				<s>지금 접수해 드릴게요.</s>
+			</Page>
+			<Page>
+				<s>…음, 보내는 분 성함이 #un#님이시군요.</s>
+				<s>소포 겉면에 적혀 있는 대로 비화원으로 배송해 드리면 될까요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>네, 부탁드려요.</s>
+			</Page>
+			<Page>
+				<s>맡겨 주세요.</s>
+				<s>이용해 주셔서 감사합니다!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0022" index="56022" sort="Epic">
+
+	<Title>도시 탐색</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>임무 위장에 필요한 일부만 남기고 이 도시에서 구한 대부분의 꽃을 소포로 부쳤으니 시들기 전에 비화원에 도착할 거야.</s>
+			</Page>
+			<Page>
+				<s>자, 그럼 이제 어쩐다…</s>
+			</Page>
+			<Page>
+				<s>기다리기 보다는 홍아님을 돕는 쪽이 낫겠지?</s>
+			</Page>
+			<Page>
+				<s>하지만 주민들을 상대로 탐문할 수는 없어.</s>
+				<s>홍아님은 은밀히 조사 중이실 테니 말이야.</s>
+			</Page>
+			<Page>
+				<s>도시를 둘러보며 홍아님의 자취를 찾아보자.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>도시 탐색</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0022_01">
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<ActiveMemo>도시 탐색</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0022_02">
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="4">
+		<ActiveMemo>도시 탐색</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0022_03">
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="5">
+		<ActiveMemo>도시 탐색</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0022_04">
+			</Page>
+			<Page speaker="player">
+				<s>음, 여기저기 기웃거려 봤지만 홍아님은 지금 여기에 없는 것 같아.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0023" index="56023" sort="Epic">
+
+	<Title>도시 인근 탐색</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>이 도시도 그렇고 아까 내가 꽃을 구했던 공원이나 산책로에도 홍아님은 없었어.</s>
+			</Page>
+			<Page>
+				<s>좀 더 멀리 나가보는 게 좋겠다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>가만, 이게 뭐지?</s>
+				<s>로봇한테서 떨어진 것 같은데…</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0024" index="56024" sort="Epic">
+
+	<Title>순찰로봇의 기록 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>…음, 이건 로봇의 기억 장치 같아.</s>
+				<s>단순히 도시 인근을 순찰하는 기능만이 아니라 누가 출입하는지도 감시하고 기록하는 로봇이었나 보군.</s>
+			</Page>
+			<Page>
+				<s>이렇게 철저하게 방비하기 때문에 에델슈타인이 평화로운 건가, 아니면…</s>
+			</Page>
+			<Page>
+				<s>이 기억 장치를 분석하면 홍아님의 행방에 대한 단서를 구할 수 있을지도 몰라.</s>
+			</Page>
+			<Page>
+				<s>이 로봇이 에델슈타인에 있으니 메모리칩을 다루는 기술자도 도시 어딘가에 있을 거야.</s>
+				<s>찾아보자.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>에델슈타인으로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>이봐요, 잠깐만요!</s>
+			</Page>
+			<Page>
+				<s>당신, 순찰로봇을 파괴했죠?</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0025" index="56025" sort="Epic">
+
+	<Title>순찰로봇의 기록 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>당신이 가지고 있는 메모리칩을 압수하겠어요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>…기물 파손죄로 체포되는 겁니까?</s>
+			</Page>
+			<Page>
+				<s>체포…?!</s>
+			</Page>
+			<Page>
+				<s>후후, 그래요, 지금부터 제가 당신의 신병을 관할 담당자에게 인도할 거예요.</s>
+				<s>당신 이름이 뭐죠?</s>
+			</Page>
+			<Page speaker="player">
+				<s>…#un#입니다.</s>
+			</Page>
+			<Page>
+				<s>좋아요, #un#씨.</s>
+				<s>지금부터 절 따라오세요.</s>
+			</Page>
+			<Page speaker="player" actionCommand="DualBlade_0025_01">
+				<s>……</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>레지스탕스와 대화</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0025_02">
+			</Page>
+			<Page>
+				<s>#un#.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page speaker="player">
+				<s>…설마 경찰관과 아르바이트생…?</s>
+			</Page>
+			<Page>
+				<s>눈썰미가 좋은걸.</s>
+			</Page>
+			<Page speaker="player">
+				<s>……</s>
+			</Page>
+			<Page>
+				<s>저항하지 않고 여기까지 순순히 따라와 줘서 다행이야.</s>
+				<s>마을에서 소란을 일으키고 싶진 않았거든.</s>
+			</Page>
+			<Page speaker="player">
+				<s>에델슈타인에선 에델슈타인의 법을 따라야죠.</s>
+			</Page>
+			<Page>
+				<s>단검의 날을 세우면서 할 말은 아닌 것 같지만.</s>
+			</Page>
+			<Page speaker="player">
+				<s>……</s>
+			</Page>
+			<Page>
+				<s>뭐, 그 정도 경계심도 없이 여기까지 왔다면 오히려 실망했을 거야. 후후.</s>
+			</Page>
+			<Page>
+				<s>우리도 한가하진 않으니 바로 본론을 말할게.</s>
+			</Page>
+			<Page>
+				<s>너 정체가 뭐야?</s>
+				<s>순찰로봇은 왜 부순 거지?</s>
+			</Page>
+			<Page speaker="player">
+				<s>사람을 찾고 있는데 로봇이 방해가 됐어요.</s>
+				<s>대답할 수 있는 건 그뿐입니다.</s>
+			</Page>
+			<Page speaker="player">
+				<s>주머니 사정이 넉넉하지 않아 지금 당장은 어렵겠지만 변상하겠습니다.</s>
+			</Page>
+			<Page>
+				<s>그건 필요 없어.</s>
+				<s>오히려 폐기해 줘서 고마운걸.</s>
+			</Page>
+			<Page>
+				<s>그 로봇들은 도시의 방범을 위한 것이 아니라 주민들을 감시하고 통제하기 위한 블랙윙의 눈이니까.</s>
+			</Page>
+			<Page speaker="player">
+				<s>블랙윙?</s>
+			</Page>
+			<Page>
+				<s>검은 마법사를 추종하며 이 도시를 핍박하는 조직이야.</s>
+				<s>우리는 그들로부터 에델슈타인을 해방시키기 위해 결성된 비밀 단체인 레지스탕스이지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그래서 메모리칩을 압수한 거군요.</s>
+			</Page>
+			<Page>
+				<s>맞아, 레지스탕스나 주민들에게 불리한 정보가 기록되어 있을 수 있으니까.</s>
+			</Page>
+			<Page speaker="player">
+				<s>저는 그저 제가 찾는 사람에 대한 단서를 구하고 싶었을 뿐이에요.</s>
+			</Page>
+			<Page speaker="NPC_Checky_19">
+				<s>그게 누굽니까?</s>
+				<s>벨이 회수한 메모리칩을 분석해 보았지만 외지인에 대한 최근 기록은 없었거든요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>누군지 말할 순 없지만 외지인은 맞아요.</s>
+				<s>낭패네요.</s>
+			</Page>
+			<Page>
+				<s>의도하진 않았겠지만 결과적으로 이 도시에 도움을 주었으니 보답을 하고 싶었는데 유감이야.</s>
+			</Page>
+			<Page speaker="player">
+				<s>괜찮습니다.</s>
+				<s>궁금증이 해소된 걸로 충분해요.</s>
+			</Page>
+			<Page>
+				<s>궁금증?</s>
+			</Page>
+			<Page speaker="player">
+				<s>체포한다면서 포박하지도, 강제로 연행하지도 않기에 이상하다고 생각했거든요.</s>
+			</Page>
+			<Page>
+				<s>겨우 호기심 충족을 위해 감수하기엔 너무 위험한 선택인걸.</s>
+				<s>우리가 블랙윙이었으면 험한 꼴을 봤을 거야.</s>
+			</Page>
+			<Page speaker="player">
+				<s>이렇게 무사하니 된 거죠.</s>
+			</Page>
+			<Page>
+				<s>후후, 무모하리 만치 대담한 녀석은 어쩐지 싫지 않아.</s>
+			</Page>
+			<Page speaker="player">
+				<s>고맙습니다. 그리고 걱정 마세요.</s>
+				<s>당신들의 정체에 대한 비밀은 지킬 테니.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0025_03">
+				<s>부탁할게.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0026" index="56026" sort="Epic">
+
+	<Title>약속 장소로 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>홍아님을 쫓는 일에 실패했으니 [ff7b50]약속 장소[-]에서 얌전히 기다리는 게 낫겠어.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>에델슈타인 임시공항으로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>늦었군.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0027" index="56027" sort="Epic">
+
+	<Title>파견 임무 완료</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>정보를 입수했다.</s>
+				<s>네가 레지스탕스의 이목을 끈 덕분에 예상보다 방해가 적어서 어렵지 않게 임무를 수행할 수 있었지. 수고했어.</s>
+			</Page>
+			<Page speaker="player">
+				<s>제 역할이 하나가 아니었군요.</s>
+			</Page>
+			<Page>
+				<s>너라면 얌전히 있지 않고 훌륭한 미끼가 되어줄 거라고 생각했거든. 크크.</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]비화원[-]으로 돌아가자.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>비화원으로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>어서 와요, 홍아, #un#.</s>
+			</Page>
+			<Page>
+				<s>에델슈타인 동향은 어떤가요?</s>
+			</Page>
+			<Page speaker="NPC_Honga_20">
+				<s>최근 블랙윙의 압제가 약화되었다는 정보를 입수했습니다.</s>
+			</Page>
+			<Page>
+				<s>드디어 레지스탕스가 블랙윙의 전력에 타격을 입힌 건가요?</s>
+			</Page>
+			<Page speaker="NPC_Honga_20">
+				<s>그건 아닌 것 같습니다.</s>
+				<s>두 조직이 충돌한 흔적이 없었거든요.</s>
+			</Page>
+			<Page speaker="NPC_Honga_20">
+				<s>다만 현재 블랙윙 간부들이 본부에 부재 중인 걸로 추정되는데, 아마 그 때문인 것 같습니다.</s>
+			</Page>
+			<Page>
+				<s>간부들의 행방은?</s>
+			</Page>
+			<Page speaker="NPC_Honga_20">
+				<s>정확한 행선지까지는 알아내지 못했지만 에델슈타인 밖인 건 확실합니다.</s>
+			</Page>
+			<Page>
+				<s>…그렇다면 도적단이 블랙윙의 수상한 행보를 눈치채고 감시했다…는 걸까요?</s>
+			</Page>
+			<Page speaker="NPC_Honga_20">
+				<s>저는 그렇게 생각합니다.</s>
+			</Page>
+			<Page>
+				<s>하긴 그들도 모험가 연합의 일원이니 블랙윙을 경계하고 있겠죠.</s>
+			</Page>
+			<Page>
+				<s>…수고했어요.</s>
+				<s>도적단의 에델슈타인 방문 건에 대해서는 이쯤에서 마무리하죠.</s>
+			</Page>
+			<Page speaker="player">
+				<s>시들지 않았던가요?</s>
+			</Page>
+			<Page>
+				<s>싱그러운 상태로 잘 도착했어요.</s>
+				<s>벌써 화원에 진열해 두었답니다.</s>
+			</Page>
+			<Page>
+				<s>그런데 당신은 달리아의 꽃말을 알고 있나요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>모릅니다.</s>
+			</Page>
+			<Page>
+				<s>‘불안정’과 ‘변덕’이에요.</s>
+			</Page>
+			<Page>
+				<s>어쩐지 그 도시와 어울리는 꽃말이죠?</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0028" index="56028" sort="Epic">
+
+	<Title>홍아의 지령</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="player">
+				<s>홍아님, 질문이 있어요.</s>
+			</Page>
+			<Page>
+				<s>뭐지?</s>
+			</Page>
+			<Page speaker="player">
+				<s>이전에 시바님과 동행했던 임무에서 제가 꽃을 구했잖아요?</s>
+				<s>그런데 위장이 목적이면 어떤 꽃이든 상관없었겠죠. 이번에 달리아를 구한 것처럼요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그런데 시바님은 제가 헤네시스 언덕에서 구해야 할 꽃을 정확히 지정해 주셨어요.</s>
+				<s>용담꽃과 노란 튤립을 구해야만 하는 이유가 있었나요?</s>
+			</Page>
+			<Page>
+				<s>설희님 앞으로 배송되었던 향주머니 기억나?</s>
+				<s>향주머니를 분석해 보니 그 두 꽃이 성분으로 쓰인 것 같더군.</s>
+				<s>그래서 연구를 위해 구하도록 한 거야.</s>
+			</Page>
+			<Page speaker="player">
+				<s>역시 허튼 명령이 아니었군요.</s>
+			</Page>
+			<Page>
+				<s>크크, 그걸 알아차리다니 예리한걸.</s>
+			</Page>
+			<Page speaker="player">
+				<s>…혹시 용담꽃과 노란 튤립의 꽃말을 아세요?</s>
+			</Page>
+			<Page>
+				<s>꽃말? 음…</s>
+			</Page>
+			<Page>
+				<s>용담꽃은 ‘당신이 힘들 때 나는 사랑한다’ 그리고 노란 튤립은 ‘바라볼 수 없는 사랑’일 거야.</s>
+			</Page>
+			<Page speaker="player">
+				<s>잘 알고 계시네요?</s>
+			</Page>
+			<Page>
+				<s>뭐, 이래 봬도 화원을 운영하고 있으니까.</s>
+			</Page>
+			<Page speaker="player">
+				<s>향주머니의 수수께끼에 혹시 꽃말이 의미가 있진 않을까 싶었는데 제가 헛짚었나 봐요.</s>
+			</Page>
+			<Page>
+				<s>크크, 그래도 나쁘지 않은 접근이라고 생각해.</s>
+			</Page>
+			<Page>
+				<s>그보다 #un#, 파견 임무로 지치지 않았다면 지금 바로 [ff7b50]리스항구[-]에 다녀오겠어?</s>
+			</Page>
+			<Page speaker="player">
+				<s>새로운 임무인가요?</s>
+			</Page>
+			<Page>
+				<s>임무…라기 보다는 가벼운 외출이라고 해두지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>알겠습니다. 그 항구 도시에 방문 목적은요?</s>
+			</Page>
+			<Page>
+				<s>정보상인 [ff7b50]트루[-]를 만나고 오면 돼.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>너와는 구면이지?</s>
+			</Page>
+			<Page>
+				<s>그에게서 긴한 용무가 있다고 기별이 왔어.</s>
+				<s>그리고 이왕이면 널 보내 주었으면 좋겠다고 하더군.</s>
+			</Page>
+			<Page speaker="player">
+				<s>저를요? 어째서죠?</s>
+			</Page>
+			<Page>
+				<s>글쎄. 나도 몰라.</s>
+			</Page>
+			<Page speaker="player">
+				<s>알겠습니다. 다녀올게요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>오, 오랜만이야!</s>
+			</Page>
+			<Page>
+				<s>듀얼블레이드 측에 연락하면 당신을 만날 수 있을 거라고 생각했지, 후후.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0029" index="56029" sort="Epic">
+
+	<Title>우연과 인연</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>듀얼블레이드라… 적성에 맞는 길을 잘 선택한 것 같군.</s>
+			</Page>
+			<Page speaker="player">
+				<s>저는 아직 확신이 없습니다만.</s>
+			</Page>
+			<Page>
+				<s>당신, 빅토리아 아일랜드에 하선한 다음에 가장 먼저 정보상점을 찾아왔었지?</s>
+				<s>어느 마을로 가는 게 좋을지 정보를 구하기 위해서 말이야.</s>
+			</Page>
+			<Page>
+				<s>메이플 아일랜드에서 막 건너온 신입 용사들 중에 그렇게 신중하고 요령 있게 행동하는 자는 드물지.</s>
+			</Page>
+			<Page>
+				<s>그리고 결국 그런 태도가 홍아의 눈에 들어 조직에 합류하라는 권유를 받게 된 거잖아?</s>
+			</Page>
+			<Page speaker="player">
+				<s>우연이에요.</s>
+				<s>때마침 정보상점에 방문했던 홍아님을 마주쳤으니까요.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0029_01">
+				<s>뭐, 그런 면도 배제할 순 없지.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>회상</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0029_02">
+			</Page>
+			<Page speaker="player" actionCommand="DualBlade_0029_03">
+				<s>(먼저 온 손님이 있군.)</s>
+			</Page>
+			<Page speaker="NPC_Honga_22">
+				<s>…물건이 사라졌다?!</s>
+			</Page>
+			<Page>
+				<s>집배원 말로는 운송 사고가 났대.</s>
+				<s>다행히 인명 피해는 없었지만 일부 화물이 분실되었다고 하더군.</s>
+			</Page>
+			<Page speaker="NPC_Honga_22">
+				<s>이런.</s>
+			</Page>
+			<Page speaker="NPC_Honga_22">
+				<s>시간이 걸리더라도 다른 루트로 운반할걸 그랬나.</s>
+			</Page>
+			<Page>
+				<s>그 쌍둥이 집배원의 배송도 신용이 높은 편인걸.</s>
+			</Page>
+			<Page speaker="NPC_Honga_22">
+				<s>…우연일까?</s>
+			</Page>
+			<Page>
+				<s>그 사고 말이야?</s>
+			</Page>
+			<Page speaker="NPC_Honga_22">
+				<s>하필 그 물건이 사라졌으니까.</s>
+			</Page>
+			<Page>
+				<s>그럴 수도 있지만 단순히 운이 나쁜 걸 수도 있지.</s>
+				<s>분실된 건 우리가 기다리던 그 소포만이 아니니까.</s>
+			</Page>
+			<Page speaker="NPC_Honga_22">
+				<s>음…</s>
+			</Page>
+			<Page>
+				<s>어쨌든 이런 형태로 거래가 중단되어서 나로서도 유감이야.</s>
+			</Page>
+			<Page speaker="NPC_Honga_22">
+				<s>상황은 알겠어.</s>
+				<s>일단 우편물을 다시 찾을 수 있는 방법이 없는지 알아보러 가 봐야겠어.</s>
+			</Page>
+			<Page>
+				<s>담당 집배원은 이미 대륙으로 떠났을 거야.</s>
+			</Page>
+			<Page speaker="NPC_Honga_22" actionCommand="DualBlade_0029_04">
+				<s>오르비스행 정류장으로 가야겠군.</s>
+				<s>그럼 다음에 보지.</s>
+			</Page>
+			<Page>
+				<s>후…</s>
+			</Page>
+			<Page speaker="player">
+				<s>……</s>
+			</Page>
+			<Page>
+				<s>앗, 손님이군!</s>
+				<s>어서 와요. 정보를 사러 오신 분인가?</s>
+			</Page>
+			<Page speaker="player">
+				<s>빅토리아 아일랜드의 마을과 그 마을을 통솔하는 마스터들에 대한 정보를 구하고 싶습니다.</s>
+			</Page>
+			<Page>
+				<s>…오호라, 이 섬을 처음 방문하는 용사인가 보군.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0029_05">
+				<s>그렇다면 잘 찾아왔어.</s>
+				<s>이 섬에 대해 나만큼 잘 아는 자도 드물 테니 말이야.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<ActiveMemo>회상</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0029_06">
+			</Page>
+			<Page>
+				<s>…음, 어디로 가는 게 좋을까.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0029_07">
+				<s>정보는 어렵지 않게 구했지만 목적지를 정하는 건 쉽지 않네.</s>
+			</Page>
+			<Page>
+				<s>저 사람…</s>
+			</Page>
+			<Page>
+				<s>택배 박스를 들고 있었어.</s>
+			</Page>
+			<Page>
+				<s>…다른 대륙에 갔다던 배달원이 벌써 돌아온 건가?</s>
+			</Page>
+			<Page>
+				<s>아니면 그저 소포를 부치거나 수령한 고객?</s>
+			</Page>
+			<Page>
+				<s>……</s>
+			</Page>
+			<Page>
+				<s>일단 첫 번째 목적지는 정해진 것 같군.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0029_08">
+				<s>정보상점에 다시 가 보자.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="4">
+		<Body>
+			<Page>
+				<s>…그렇게 당신이 알려 준 단서를 바탕으로 조사한 결과 우편물 분실이 단순한 배송 사고가 아닌 의도된 사건이라는 걸 알게 되었지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>하지만 물건을 되찾지는 못 했잖아요.</s>
+			</Page>
+			<Page>
+				<s>그래도 당신의 통찰력이 유야무야될 뻔했던 사건의 진상을 밝히는 데에 큰 공헌을 한 건 사실이야.</s>
+			</Page>
+			<Page>
+				<s>홍아가 당신에게 듀얼블레이드가 되지 않겠느냐고 제안한 건 바로 그 직후였지?</s>
+			</Page>
+			<Page speaker="player">
+				<s>네.</s>
+			</Page>
+			<Page>
+				<s>다른 마을에 정착하기 전에 인재를 놓치고 싶지 않았던 거겠지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그렇다고 하기엔 저에게 꽤나 혹독하신걸요.</s>
+			</Page>
+			<Page>
+				<s>그만큼 기대한다는 게 아닐까?</s>
+				<s>속을 알 수 없긴 해도 무자비한 사람은 아니니까 말이야.</s>
+			</Page>
+			<Page>
+				<s>아무튼 그때 당신에게 신세를 졌으니 보상을 하고 싶어.</s>
+				<s>내가 심부름꾼으로 당신을 지목한 건 바로 그 때문이지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>…정보도 가능합니까?</s>
+			</Page>
+			<Page>
+				<s>물론이야.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그럼 듀얼블레이드가 도적단을 적대시하는 이유를 알고 싶어요.</s>
+			</Page>
+			<Page>
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>순수한 궁금증인지 아니면 나를 떠보려는 건지 헷갈리는군.</s>
+			</Page>
+			<Page>
+				<s>하지만 내 입으로 보상하겠다고 했으니 이야기할게.</s>
+			</Page>
+			<Page>
+				<s>당신이 짐작한 대로 듀얼블레이드와 거래하면서 그들에 대한 정보를 조사했어.</s>
+				<s>그리고 도적단과의 관계를 알게 되었지.</s>
+			</Page>
+			<Page>
+				<s>그들의 악연은 [ff7b50]전대 다크로드의 비극[-]에서 비롯된 거야.</s>
+			</Page>
+			<Page speaker="player">
+				<s>다크로드라면 커닝시티를 통솔하는 도적 마스터 말인가요?</s>
+			</Page>
+			<Page>
+				<s>맞아. 다크로드라는 이름은 어둠 속에서 올바른 길을 찾아야 하는 도적의 장에게 대대로 이어져 내려오는 이름이지.</s>
+			</Page>
+			<Page>
+				<s>전대 다크로드는 공정하고 인정이 넘치는 사람이었어.</s>
+				<s>그는 듀얼블레이드였지만 듀얼블레이드가 아닌 도적들에게도 존경을 받았지.</s>
+			</Page>
+			<Page>
+				<s>하지만 불행히도 그는 살해당했어.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>범인은 현 다크로드인 진님이야.</s>
+				<s>그는 전대 다크로드의 제자였지만 스승을 배신했지.</s>
+			</Page>
+			<Page>
+				<s>그가 역심을 품은 이유는 권력욕으로 추정하고 있어.</s>
+				<s>듀얼블레이드가 아닌 다른 계열의 도적이었던 그는 다음 대의 다크로드가 될 수 없을 거라고 생각한 거겠지.</s>
+			</Page>
+			<Page>
+				<s>결국 진님은 다크로드가 되었고, 듀얼블레이드들은 뒷골목으로 숨어 들었어.</s>
+				<s>그리고 전대 다크로드의 독녀인 설희님을 주축으로 집결하여 지금과 같은 세력을 이루었지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>다른 마을과는 다르게 커닝시티는 도적 계열이 세력을 둘로 양분하고 있기에 그 이유가 궁금했었는데…</s>
+				<s>권력 다툼 이면에 참담한 사건이 있었군요.</s>
+			</Page>
+			<Page>
+				<s>그렇지만 듀얼블레이드의 원한과는 별개로 현 다크로드는 훌륭한 지도자야.</s>
+				<s>실력과 덕망을 두루 갖추어 도적단과 커닝시티 주민들에게 신뢰를 받고 있거든.</s>
+			</Page>
+			<Page>
+				<s>물론 그의 업적이 그의 죄악을 상쇄한다고 생각하진 않지만 말이야.</s>
+			</Page>
+			<Page>
+				<s>당신네 조직에 대해 어디까지 파악하고 있는지 알아볼 요량인 줄 알았는데 그건 아니었던 모양이군.</s>
+				<s>게다가 설희님이나 홍아가 아니라 나에게 물어본 걸 보니 당신이 얼마나 신중한 사람인지 알겠어.</s>
+			</Page>
+			<Page>
+				<s>아무튼 내가 줄 수 있는 정보는 여기까지야.</s>
+				<s>이걸로 충분하겠지?</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0030" index="56030" sort="Epic">
+
+	<Title>방해자의 정체</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>내가 듀얼블레이드 측에 방문을 요청했던 이유는 지난 거래를 망친 자의 배후를 알아냈기 때문이야.</s>
+			</Page>
+			<Page>
+				<s>맞아, 바로 그 운송 사고 말이야.</s>
+				<s>이 서신을 전해 줘. 거기에 조사 내용을 정리해 두었어.</s>
+			</Page>
+			<Page>
+				<s>이번엔 직접 전달하는 거니 무사히 [ff7b50]홍아[-]에게 전달되겠지.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page speaker="player">
+				<s>복귀했습니다.</s>
+			</Page>
+			<Page>
+				<s>……괜찮아?</s>
+			</Page>
+			<Page speaker="player">
+				<s>네? 뭐가요?</s>
+			</Page>
+			<Page>
+				<s>아니, 어쩐지 눈빛이 무겁게 침잠한 듯해서.</s>
+			</Page>
+			<Page speaker="player">
+				<s>……질문해도 됩니까?</s>
+			</Page>
+			<Page>
+				<s>얼마든지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>전대 다크로드의 죽음이 현 다크로드의 소행이라는 게 사실인가요?</s>
+			</Page>
+			<Page>
+				<s>그래서 그렇게 심각한 표정이었던 거야?</s>
+			</Page>
+			<Page>
+				<s>사실이야.</s>
+			</Page>
+			<Page>
+				<s>당시에 다크로드인 성님과 그의 친우, 그리고 성님의 제자인 진이 마왕 발록을 봉인하기 위해 신전으로 향했어.</s>
+				<s>그곳에서 진은 다크로드를 공격해서 사망에 이르게 했지.</s>
+			</Page>
+			<Page>
+				<s>그런데 거기엔 그가 눈치채지 못한 또 한 사람이 있었어.</s>
+				<s>바로 설희님이지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page speaker="player">
+				<s>그렇다면 듀얼블레이드의 목적이 무엇입니까?</s>
+			</Page>
+			<Page speaker="player">
+				<s>지금의 도적단을 와해시키고 다크로드라는 이름을 되찾아 조직을 재정립하는 것인가요?</s>
+				<s>아니면 전대 다크로드 사망 사건의 진범인 현 다크로드에게 복수하는 것인가요?</s>
+			</Page>
+			<Page>
+				<s>둘 다다.</s>
+			</Page>
+			<Page>
+				<s>지금 진이 다크로드로서 뛰어난 역량을 보이고 있다는 걸 부인하진 않아.</s>
+				<s>하지만 그는 다크로드가 되는 과정에서 스스로 명분을 잃었어.</s>
+			</Page>
+			<Page>
+				<s>그래서 우리 듀얼블레이드는 ‘어둠 속에서 올바른 길을 찾아 나가는’ 도적단의 가르침대로 그릇된 것을 바로잡으려는 거야.</s>
+			</Page>
+			<Page>
+				<s>그리고 나 개인으로는 그 정통성 있는 후계자를 설희님이라고 생각하고 있지.</s>
+			</Page>
+			<Page>
+				<s>대답이 되었나?</s>
+			</Page>
+			<Page speaker="player">
+				<s>…네.</s>
+			</Page>
+			<Page>
+				<s>그나저나 정보상인이 건넨 물건은?</s>
+			</Page>
+			<Page speaker="player">
+				<s>여기요. 서신입니다.</s>
+			</Page>
+			<Page>
+				<s>……흠, 과연.</s>
+			</Page>
+			<Page>
+				<s>짐작한 대로 운송 사고의 배후는 도적단이었어.</s>
+			</Page>
+			<Page>
+				<s>우리가 정보상인에게 물건을 의뢰했다는 걸 알아차리다니…</s>
+				<s>역시 녀석들의 정보망은 얕볼 수 없군.</s>
+			</Page>
+			<Page speaker="player">
+				<s>의뢰한 물건이 뭐죠?</s>
+			</Page>
+			<Page>
+				<s>실종자의 유류품이야.</s>
+				<s>그는 커닝시티 주민인데 어느 날 갑자기 감쪽같이 사라졌지.</s>
+			</Page>
+			<Page>
+				<s>그 뒤로 그의 재산이 모두 처분되어서 그중 일부라도 구하고자 정보상인에게 요청했던 거야.</s>
+			</Page>
+			<Page>
+				<s>하지만 확보한 물건이 정보상점에 도착하기 전에 도적단이 가로챘어.</s>
+				<s>그걸 네가 우연히 목격한 거고.</s>
+			</Page>
+			<Page>
+				<s>그런데 거래 실패의 대가로 정보상인이 흥미로운 정보를 주었군.</s>
+			</Page>
+			<Page>
+				<s>여기 서신에 ‘최근 다크로드가 본부를 비우는 일이 잦아졌다’고 적혀 있거든. 흐음…</s>
+			</Page>
+			<Page>
+				<s>새로운 계책을 세워야겠어.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0031" index="56031" sort="Epic">
+
+	<Title>홍아의 안내 3</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>#un#. 훈련이다.</s>
+			</Page>
+			<Page>
+				<s>지금 바로 [ff7b50]비밀 수련실 입구[-]로 가 봐.</s>
+			</Page>
+			<Page>
+				<s>휴식이 끝났으니 다시 단련을 시작해야지?</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>오, #un#!</s>
+			</Page>
+			<Page>
+				<s>이번 수련 지도는 내가 맡게 되었어. 잘 부탁해.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0032" index="56032" sort="Epic">
+
+	<Title>이도류 수련 1</Title>
+
+	<Task index="1">
+		<PassiveMemo>#p_0#와 전투</PassiveMemo>
+		<Body>
+			<Page>
+				<s>[ff7b50]단련실1[-]에 널 위한 수련을 준비해 두었어.</s>
+			</Page>
+			<Page>
+				<s>자, 그럼 바로 시작해!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>대련은 어땠어?</s>
+			</Page>
+			<Page>
+				<s>음? 어쩐지 감격한 것 같은 표정인데?</s>
+			</Page>
+			<Page>
+				<s>이제야 본격적인 훈련을 받는 것 같다고?</s>
+			</Page>
+			<Page>
+				<s>하하하! 그동안 홍아가 널 제대로 골려 준 모양이군.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0033" index="56033" sort="Epic">
+
+	<Title>이도류 수련 2</Title>
+
+	<Task index="1">
+		<PassiveMemo>#p_0#와 전투</PassiveMemo>
+		<Body>
+			<Page>
+				<s>이 기세를 몰아서 두 번째 수련을 시작해 볼까?</s>
+			</Page>
+			<Page>
+				<s>자, [ff7b50]단련실2[-]로 입장해.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>음, 확실히 이전에 홍아가 널 시험했을 때에 비해서 꽤 훌륭하게 대처하네.</s>
+				<s>수련의 성과가 보이는 것 같아.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0034" index="56034" sort="Epic">
+
+	<Title>이도류 수련 3</Title>
+
+	<Task index="1">
+		<PassiveMemo>#p_0#와 전투</PassiveMemo>
+		<Body>
+			<Page>
+				<s>수련은 아직 끝나지 않았어.</s>
+				<s>마지막까지 집중해.</s>
+			</Page>
+			<Page>
+				<s>준비됐지?</s>
+				<s>그러면 [ff7b50]단련실3[-]으로 가 봐.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>수련은 여기까지야.</s>
+			</Page>
+			<Page>
+				<s>이번 수련 상대가 몬스터가 아니라 듀얼블레이드 동료인 이유를 알겠어?</s>
+			</Page>
+			<Page>
+				<s>실전과 같은 상황에서 상대의 기술을 보고 빠르게 이도류를 체득하길 바랐기 때문이야.</s>
+			</Page>
+			<Page>
+				<s>전투력뿐만 아니라 통찰력 역시 듀얼블레이드가 갖추어야 할 중요한 덕목 중에 하나거든.</s>
+				<s>우리는 그걸 [ff7b50]혜안[-]이라고 하지.</s>
+			</Page>
+			<Page>
+				<s>탁월한 이도류의 기술 그리고 참과 거짓을 분별해 내는 혜안을 갖춰야만 진정한 듀얼블레이드라고 할 수 있어.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0035" index="56035" sort="Epic">
+
+	<Title>이도류 수련 종료</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>이제 아래층으로 내려가 봐.</s>
+				<s>[ff7b50]홍아[-]가 기다리고 있을 거야.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>훈련 수고했어.</s>
+				<s>그런데 어쩐지 긴장한 것처럼 보이는데.</s>
+			</Page>
+			<Page speaker="player">
+				<s>다음 임무가 꽤 어려울 것 같아서요.</s>
+			</Page>
+			<Page>
+				<s>강도 높은 수련을 한 까닭을 벌써 알아차렸군, 크크.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0036" index="56036" sort="Epic">
+
+	<Title>정탐 임무 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>짐작한 대로 이번 임무는 상당히 위험하지만 우리 조직 내에 너만한 적임자는 없어.</s>
+			</Page>
+			<Page>
+				<s>그건 바로 신입 도적으로 위장하여 도적단에 잠입하는 간자 역할이지.</s>
+			</Page>
+			<Page>
+				<s>너라면 이도류를 간파당하지 않고 다크로드의 눈을 속일 수 있을 거야.</s>
+			</Page>
+			<Page speaker="player">
+				<s>제가 아직 초보 티를 벗지 못했기 때문이군요.</s>
+			</Page>
+			<Page>
+				<s>다크로드처럼 영리하고 교활한 자를 속이기 위해서는 미숙함을 가장하는 것만으론 부족하거든.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그러면 이도류 수련을 한 이유는…</s>
+			</Page>
+			<Page>
+				<s>그건 만일의 사태에 대비해 네 몸을 지키기 위함이지.</s>
+			</Page>
+			<Page>
+				<s>커닝시티의 [ff7b50]재즈바[-]가 바로 도적단의 아지트야.</s>
+				<s>넌 도적으로서 [ff7b50]다크로드[-]의 신임을 얻어야 해.</s>
+			</Page>
+			<Page>
+				<s>그리고 그에 대한 정보를 가급적 많이 모아 줘.</s>
+				<s>요즘 들어 무슨 목적으로 자주 자리를 비우는지 그 이유를 조사할 수 있다면 더욱 좋고.</s>
+			</Page>
+			<Page>
+				<s>혹시라도 정체가 들통나면 바로 철수해.</s>
+				<s>작전보다 네 안전이 더 우선이라는 걸 명심하도록.</s>
+			</Page>
+			<Page>
+				<s>그럼 건투를 빌게.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>도적단 아지트로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>자네는…</s>
+			</Page>
+			<Page speaker="player">
+				<s>#un#입니다. 도적이죠.</s>
+			</Page>
+			<Page>
+				<s>도적이라면 내가 모를 리 없는데 자네는 낯설군.</s>
+			</Page>
+			<Page speaker="player">
+				<s>만난 지 오래되어서 기억이 잘 안 나실 겁니다.</s>
+				<s>커닝시티에는 오랜만에 돌아왔거든요.</s>
+			</Page>
+			<Page>
+				<s>도적이라면서 근거지인 이 도시를 떠나 있었다는 건가?</s>
+			</Page>
+			<Page speaker="player">
+				<s>네, 워낙 여기저기 돌아다니는 걸 좋아해서요.</s>
+			</Page>
+			<Page>
+				<s>……흠, 도적단엔 개인적인 성향이 강한 자들이 많아 그럴 수도 있겠군.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0037" index="56037" sort="Epic">
+
+	<Title>정탐 임무 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>그런데 자네 말대로라면 도적 경력이 제법 오래되었을 텐데 전력이 그다지 높아 보이진 않는군.</s>
+			</Page>
+			<Page>
+				<s>…설마 돌아다녔다는 게 단련을 하고 경험을 쌓기 위한 수련이 아니라 순수하게 관광을 했다는 말인가?!</s>
+			</Page>
+			<Page speaker="player">
+				<s>그렇습니다.</s>
+			</Page>
+			<Page>
+				<s>당당한 태도에 오히려 말문이 막히는군.</s>
+			</Page>
+			<Page>
+				<s>지금부터 [ff7b50]안전제일[-]로 가서 [ff7b50]#p_0#[-]과 [ff7b50]#p_1#[-]를 처리하고 오도록.</s>
+				<s>도적 마스터로서 자네의 태만을 간과할 수가 없군.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>벌써 다녀온 거야? 생각보다 빠른걸.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_00038" index="56038" sort="Epic">
+
+	<Title>정탐 임무 3</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>어쩌면 내가 자네의 실력을 제대로 가늠하지 못한 걸 수도 있겠다는 생각이 드는군.</s>
+			</Page>
+			<Page>
+				<s>그 실력이면 커닝시티 지하철에 출몰하는 몬스터도 상대할 수 있을 것 같은데, [ff7b50]1호선 1구간[-]에서 [ff7b50]#p_0#[-]를 처리할 수 있겠나?</s>
+			</Page>
+			<Page speaker="player">
+				<s>맡겨 주세요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>재즈바로 이동</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0038_01">
+			</Page>
+			<Page>
+				<s>……</s>
+			</Page>
+			<Page>
+				<s>(다크로드가 없다…!)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0039" index="56039" sort="Epic">
+
+	<Title>밀실 잠입 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>(다크로드가 최근 들어 자주 자리를 비운다더니 정말이었군.)</s>
+			</Page>
+			<Page>
+				<s>(그렇다면…)</s>
+			</Page>
+			<Page actionCommand="DualBlade_0039_01">
+				<s>(도적단의 본부를 염탐하기 좋은 타이밍이야.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>재즈바 내부 탐색</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0039_02">
+			</Page>
+			<Page actionCommand="DualBlade_0039_03">
+				<s>(다른 도적들에게 의심받지 않도록 조심히 움직이자.)</s>
+			</Page>
+			<Page>
+				<s>(이 구멍…)</s>
+			</Page>
+			<Page>
+				<s>(수상하다.)</s>
+			</Page>
+			<Page>
+				<s>(다크로드가 도적단 본부에 의미 없는 설비를 구비해 두진 않았을 거야.)</s>
+			</Page>
+			<Page actionCommand="DualBlade_0039_04">
+				<s>(확인해 보자.)</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<ActiveMemo>진의 방 탐색</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0039_05">
+			</Page>
+			<Page>
+				<s>여긴…</s>
+			</Page>
+			<Page actionCommand="DualBlade_0039_06">
+				<s>밀실인가.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0039_07">
+				<s>이건…</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="4">
+		<ActiveMemo>다크로드의 일지 조사</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0039_08">
+			</Page>
+			<Page>
+				<s>(책장을 살펴 본다.)</s>
+			</Page>
+			<Page>
+				<s>『[i][a3a3a3]X월 X일[-][/i]</s>
+				<s>[i][a3a3a3]…신전에는 도적을 파견하지 않았다.[-][/i]</s>
+				<s>[i][a3a3a3]이변이 발생하면 그의 제자가 움직일 것이다.[-][/i]</s>
+				<s>[i][a3a3a3]그리고 제자에게 따라붙은 눈이 나에게 고해 올 것이다…[-][/i]』</s>
+			</Page>
+			<Page>
+				<s>(몇 장을 넘긴다.)</s>
+			</Page>
+			<Page>
+				<s>『[i][a3a3a3]X월 X일[-][/i]</s>
+				<s>[i][a3a3a3]…그에게서 전서구가 도착했다.[-][/i]</s>
+				<s>[i][a3a3a3]악몽은 언제쯤 끝날까.[-][/i]</s>
+				<s>[i][a3a3a3]끝나는 날이 오긴 할까?[-][/i]</s>
+				<s>[i][a3a3a3]무력감에 몸서리치며 그저 연금술사에게 연통을 보낼 뿐이다…[-][/i]』</s>
+			</Page>
+			<Page>
+				<s>(몇 장을 더 넘겨 본다.)</s>
+			</Page>
+			<Page>
+				<s>『[i][a3a3a3]X월 X일[-][/i]</s>
+				<s>[i][a3a3a3]…무덤가에 핀 하얀 꽃을 보았다.[-][/i]</s>
+				<s>[i][a3a3a3]그분이 영면한 자리엔 풀 한 포기조차 자라지 않는다.[-][/i]</s>
+				<s>[i][a3a3a3]꽃을 바치며 넋을 기릴 수 있는 날이 오도록 오늘도 와신상담한다…[-][/i]』</s>
+			</Page>
+			<Page>
+				<s>(몇 장을 더 넘겨 본다.)</s>
+			</Page>
+			<Page>
+				<s>『[i][a3a3a3]X월 X일[-][/i]</s>
+				<s>[i][a3a3a3]…과거를 기억하는 자, 그를 만나야 한다.[-][/i]</s>
+				<s>[i][a3a3a3]어쩌면 그가 오랫동안 끌어안고 있던 의문에 실마리를 줄 수 있을지도 모른다…[-][/i]』</s>
+			</Page>
+			<Page>
+				<s>(몇 장을 더 넘겨 본다.)</s>
+			</Page>
+			<Page>
+				<s>『[i][a3a3a3]X월 X일[-][/i] </s>
+				<s>[i][a3a3a3]…그들이 움직였다.[-][/i]</s>
+				<s>[i][a3a3a3]일이 성가시게 되었다.[-][/i]</s>
+				<s>[i][a3a3a3]하지만 그보다 더 곤란한 건 듀얼블레이드의 눈이다.[-][/i]</s>
+				<s>[i][a3a3a3]저들의 증오 어린 시선은 언제나 나를 겨냥하고 있다…[-][/i]』</s>
+			</Page>
+			<Page speaker="player">
+				<s>…이건 아마도 다크로드가 쓴 기록 같아.</s>
+			</Page>
+			<Page>
+				<s>(책장을 넘기며 좀 더 살펴 본다.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>?!</s>
+			</Page>
+			<Page speaker="player" actionCommand="DualBlade_0039_09">
+				<s>일지 사이에 종이 꾸러미가 끼워져 있는데, 이건 뭐…</s>
+			</Page>
+			<Page speaker="player">
+				<s>밖이 소란스러워졌어.</s>
+			</Page>
+			<Page speaker="player">
+				<s>다크로드가 돌아온 건가?</s>
+			</Page>
+			<Page speaker="player" actionCommand="DualBlade_0039_10">
+				<s>들키기 전에 서둘러 나가자.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="5">
+		<Body>
+			<Page>
+				<s>…아! 자네, 벌써 돌아와 있었나.</s>
+			</Page>
+			<Page>
+				<s>스티지는 꽤 성가신 녀석이라 시간이 제법 걸릴 거라 생각했는데 계산 착오였군.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0040" index="56040" sort="Epic">
+
+	<Title>다크로드의 지령</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>수련을 등한시하는 한량이라고 생각했는데 알고 보니 숨겨진 실력자였군.</s>
+				<s>그렇다면 자네에게 이 임무를 맡기는 게 좋겠어.</s>
+			</Page>
+			<Page>
+				<s>듀얼블레이드와 그 수장 설희를 찾아 줘.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>최근 그들이 이 도시의 질서를 상당히 교란시키고 있어.</s>
+				<s>커닝시티를 관리하는 입장에서 묵과할 수 없지.</s>
+			</Page>
+			<Page>
+				<s>자네는 오랫동안 이곳을 떠나 있었으니 저들도 파악하지 못한 인물일 거야.</s>
+				<s>따라서 자네라면 감시망을 피해 조사가 한결 용이하겠지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>…알겠습니다. 맡겨 주세요.</s>
+			</Page>
+			<Page>
+				<s>소식 기다리지.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>인적 없는 장소로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>듀얼블레이드에 이 사실을 알려야 해.</s>
+			</Page>
+			<Page>
+				<s>하지만 지금 바로 비화원으로 가는 건 위험하겠지.</s>
+				<s>만에 하나 뒤를 밟히면 그대로 본부가 들통나는 사태가 발생할 거야.</s>
+			</Page>
+			<Page>
+				<s>방법을 찾아야 해.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0040_01">
+				<s>……</s>
+			</Page>
+			<Page>
+				<s>주머니에서 뭔가 부스럭거리는데…</s>
+			</Page>
+			<Page>
+				<s>…엇, 이건 아까 일지 사이에 끼워져 있던 종이 꾸러미잖아!</s>
+			</Page>
+			<Page>
+				<s>바깥에서 들리는 인기척에 나도 모르게 급히 주머니에 찔러 넣었었나 보군.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0040_02">
+				<s>…음, 그런데 종이엔 아무것도 적혀 있지 않아.</s>
+				<s>중요한 기록이 아니었던 건가…</s>
+			</Page>
+			<Page>
+				<s>좋은 생각이 떠올랐다!</s>
+			</Page>
+			<Page>
+				<s>우선 이 종이 꾸러미 중 한 장에 다크로드의 수색 명령에 대해 적고…</s>
+			</Page>
+			<Page>
+				<s>(서걱서걱…)</s>
+			</Page>
+			<Page>
+				<s>…그리고 종이들을 모두 접어서 꽃으로 만든 뒤에…</s>
+			</Page>
+			<Page>
+				<s>(꼬깃꼬깃…)</s>
+			</Page>
+			<Page>
+				<s>…비화원으로 소포를 부치는 거야!</s>
+			</Page>
+			<Page>
+				<s>가만, 지금 시간이…</s>
+			</Page>
+			<Page>
+				<s>오, 때마침 [ff7b50]집배원[-]이 도시에 방문할 시간이군!</s>
+			</Page>
+			<Page>
+				<s>그가 떠나기 전에 서두르자!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<ActiveMemo>집배원과 대화</ActiveMemo>
+		<Body>
+			<Page>
+				<s>안녕하세요.</s>
+				<s>저에게 용무가 있으신가요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>소포를 하나 발송하고 싶어요.</s>
+			</Page>
+			<Page>
+				<s>네, 지금 바로 접수해 드리겠습니다.</s>
+			</Page>
+			<Page>
+				<s>그런데 수신지가 비화원이군요.</s>
+				<s>여긴 가까워서 저희 서비스를 이용하시는 것보다 직접 방문하시는 쪽이 훨씬 빠르실 텐데 그래도 배송해 드릴까요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>네, 부탁드려요.</s>
+			</Page>
+			<Page>
+				<s>맡겨 주세요.</s>
+				<s>이용해 주셔서 감사합니다!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0041" index="56041" sort="Epic">
+
+	<Title>눈속임 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>상황을 알렸으니 이제 본부에서 지시가 오기를 기다리면 돼.</s>
+			</Page>
+			<Page>
+				<s>그동안 난 다크로드의 의심을 사지 않도록 듀얼블레이드를 수색하는 시늉을 해야겠지.</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]지하철[-]이 적당하겠군.</s>
+				<s>가급적 비화원과 멀리 떨어진 곳이 좋을 테니.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>1호선은 대충 이 정도면 되겠지.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0042" index="56042" sort="Epic">
+
+	<Title>눈속임 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>이번엔 지하철 [ff7b50]2호선[-] 구간에서 다크로드의 지령을 수행해 볼까.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>이 정도면 충분한 것 같아.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0043" index="56043" sort="Epic">
+
+	<Title>허위 보고</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>여기서 꽤나 소란스럽게 굴었으니 지하철 관리 요원도 내 행적을 입증해 주겠지.</s>
+			</Page>
+			<Page>
+				<s>슬슬 [ff7b50]집배원[-]이 이 도시에 방문할 시간이군.</s>
+				<s>마중 가 볼까.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>집배원과 대화</ActiveMemo>
+		<Body>
+			<Page>
+				<s>안녕하세요, #un#님. 소포입니다.</s>
+			</Page>
+			<Page speaker="player">
+				<s>감사합니다.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0043_01">
+				<s>네, 수신 확인했습니다. 그럼 이만.</s>
+			</Page>
+			<Page speaker="player">
+				<s>소포 안에 전보가 들어 있군.</s>
+				<s>이것부터 확인해 볼까.</s>
+			</Page>
+			<Page speaker="player">
+				<s>[i][a3a3a3]……조직 경계 강화, 임무 일시 중단, 본부 출입 자제 요망……[-][/i]</s>
+			</Page>
+			<Page speaker="player">
+				<s>음, 그리고 보내온 물건은…</s>
+			</Page>
+			<Page speaker="player">
+				<s>무명도…!</s>
+			</Page>
+			<Page speaker="player">
+				<s>좋아, 이걸 가지고 [ff7b50]다크로드[-]에게 가자.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page>
+				<s>어서 와. 임무는 어떤가?</s>
+			</Page>
+			<Page>
+				<s>……이건 듀얼블레이드들이 사용하는 단검이군!</s>
+			</Page>
+			<Page>
+				<s>지하철에서 발견했다고?</s>
+			</Page>
+			<Page>
+				<s>음, 그곳에 더 많은 인원을 보내 그들의 동선을 추적해야겠어.</s>
+			</Page>
+			<Page>
+				<s>듀얼블레이드는 워낙 경계심이 강하고 빈틈없어서 꼬리를 잡기가 좀처럼 쉽지 않은데 이런 성과를 내다니… 정말 훌륭해.</s>
+			</Page>
+			<Page>
+				<s>다음에도 잘 부탁하지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>…네.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(지금은 비화원으로 돌아갈 수 없으니 당분간 자중하고 기회를 봐서 움직이자.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0044" index="56044" sort="Epic">
+
+	<Title>심기일전</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>어서 와요, #un#.</s>
+			</Page>
+			<Page>
+				<s>위험한 임무를 훌륭히 완수하고 이렇게 다시 마주하게 되어 기쁘군요.</s>
+			</Page>
+			<Page>
+				<s>우리가 도적단을 주시하는 것처럼 다크로드 역시 우리를 감시하고 있었어요.</s>
+				<s>사실 그리 놀랄 일은 아니죠. 듀얼블레이드는 그에게 눈엣가시일 테니까요.</s>
+			</Page>
+			<Page>
+				<s>그렇다고 포기할 생각은 없답니다.</s>
+				<s>다만 빅토리아 아일랜드는 도적단의 공식적인 수장인 다크로드의 입김이 크게 작용하고 있어요.</s>
+			</Page>
+			<Page>
+				<s>게다가 그는 모험가 연합의 일원으로서 각 마을을 통솔하는 마스터들과 우호적인 관계를 맺고 있기 때문에 우리로선 이 섬 내에서 저들에 대한 조사가 용이하지 않은 상황이죠.</s>
+			</Page>
+			<Page>
+				<s>따라서 새로운 활로가 필요합니다.</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]홍아[-]에게 가세요.</s>
+				<s>그가 당신에게 새로운 임무를 설명할 겁니다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>오, 오랜만에 얼굴을 보니 반갑군. 크크.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0045" index="56045" sort="Epic">
+
+	<Title>재방문</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>날이 갈수록 도적단의 경계는 강화되고 우리에 대한 저들의 감시망은 점차 좁혀지고 있어.</s>
+			</Page>
+			<Page>
+				<s>그래서 설희님께서는 도적단에 대한 정보를 더 많이 확보하기 위해 외부 협력자를 찾기로 하셨지.</s>
+			</Page>
+			<Page>
+				<s>우린 줄곧 비밀리에 활동했기 때문에 이건 상당히 과감한 결단이야.</s>
+				<s>우리 조직의 존재를 드러내는 위험을 감수해야 하니까 말이야.</s>
+			</Page>
+			<Page>
+				<s>네가 그 교섭인의 역할을 맡아주었으면 해.</s>
+				<s>왜냐하면 우리가 접선하려는 조직이 너와 인연이 있거든.</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]에델슈타인[-]으로 가서 레지스탕스를 만나.</s>
+				<s>그들과 협약을 성사시키는 게 이번에 네가 수행해야 할 임무다.</s>
+			</Page>
+			<Page>
+				<s>도적단 정탐을 성공했던 너니까 이번 임무도 혼자서 충분히 해낼 수 있을 거라고 믿어.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>안녕하세요. 또 만나는군요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0046" index="56046" sort="Epic">
+
+	<Title>교섭 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>이번엔 무슨 일이죠?</s>
+				<s>경찰의 도움이 필요한가요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>죄를 지은 것 같아요.</s>
+				<s>절 체포해 주시겠어요?</s>
+			</Page>
+			<Page>
+				<s>!</s>
+			</Page>
+			<Page actionCommand="DualBlade_0046_01">
+				<s>알겠습니다.</s>
+				<s>그럼 장소를 옮겨서 당신이 어떤 범법 행위를 했는지 심문해 보죠.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>레지스탕스와 대화</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0046_02">
+			</Page>
+			<Page speaker="player">
+				<s>요청에 응해 주셔서 감사합니다.</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>레지스탕스 대표 지그문트예요. 당신은?</s>
+			</Page>
+			<Page speaker="player">
+				<s>#un#, 듀얼블레이드 소속입니다.</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>듀얼블레이드…!</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>자, 그럼 어설픈 연극으로 우리를 불러 낸 이유를 들어 볼까요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>거래를 하고 싶습니다.</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>대가는?</s>
+			</Page>
+			<Page speaker="player">
+				<s>블랙윙의 정보입니다.</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>우리가 모르는 정보를 가지고 있다는 건가요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>그건 아닙니다.</s>
+				<s>다만 에델슈타인의 주민이 아니기 때문에 비교적 감시에서 자유로운 저를 이용하면 새로운 정보를 얻으실 수 있을 겁니다.</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>흠, 그렇다면 당신들이 원하는 건 뭐죠?</s>
+			</Page>
+			<Page speaker="player">
+				<s>그건 정보원으로서 제 가치를 입증한 다음에 말씀드리겠습니다.</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>후후, 당신이 실패했을 때 소득 없이 듀얼블레이드의 정보가 누설되는 일을 막기 위해서 겸손을 가장하는 거군요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>부인하진 않겠습니다.</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>좋아요, 제안을 받아들이죠.</s>
+				<s>거래에 실패하더라도 우리에게 손해는 아니니까요.</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>그럼 조건을 이야기할게요.</s>
+				<s>블랙윙의 동향을 조사해 주세요.</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>블랙윙은 규모가 크고 역량은 뛰어난 데에 반해 조직력이 약해요.</s>
+				<s>그런데 최근 그들이 전과 다르게 일사불란한 움직임을 보이고 있어요.</s>
+				<s>그 원인을 파악해 주세요.</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>그들의 본부는 레벤 광산에 위치해 있어요.</s>
+				<s>하지만 경비가 몹시 삼엄해서 블랙윙이 아닌 자는 접근할 수 없지요.</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>지난 번에 당신이 이 도시에 방문했을 때 경비로봇을 처치해 주었으니 친절하게 힌트를 하나 제공할게요.</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>블랙윙 소속의 세금 징수원인 스테판이라는 인물을 주목하세요.</s>
+				<s>설명은 여기까지예요.</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22" actionCommand="DualBlade_0046_03">
+				<s>그럼 당신의 실력을 기대하죠.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0047" index="56047" sort="Epic">
+
+	<Title>사전 조사 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>(레지스탕스는 듀얼블레이드처럼 비밀단체이기 때문에 협상이 가능한 거야.</s>
+				<s>그건 다시 말해 우리가 접촉할 수 있는 조직이 많지 않다는 거지.)</s>
+			</Page>
+			<Page>
+				<s>(따라서 이번 거래는 반드시 성공시켜야 한다!)</s>
+			</Page>
+			<Page>
+				<s>(스테판이라는 인물에게 접근하기 전에 먼저 그에 대해 신중하게 탐문해 보자.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>주민과 대화</ActiveMemo>
+		<Body>
+			<Page>
+				<s>누군가, 자네는?</s>
+				<s>뭐? 스테판이 보낸 자라고?</s>
+			</Page>
+			<Page>
+				<s>세금은 제때에 납부했네!</s>
+				<s>그런데 어째서 대리인이 찾아온 겐가?</s>
+			</Page>
+			<Page>
+				<s>설마 또 세금을 올린 건 아니겠지?</s>
+				<s>아니면 이번엔 무얼 핑계로 특별세를 징수할 생각인가?</s>
+			</Page>
+			<Page>
+				<s>뭐? 실수로 사람을 잘못 찾아왔다고?</s>
+			</Page>
+			<Page>
+				<s>예끼! 늙은이를 놀리다니!</s>
+				<s>혼나고 싶지 않으면 저리 썩 꺼지게!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0048" index="56048" sort="Epic">
+
+	<Title>사전 조사 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>(먼저 마을의 최연장자로 보이는 영감님께 슬쩍 접근해 보았다.</s>
+				<s>스테판이라는 자는 무리하게 세금을 징수하는 고약한 공무원인 것 같군.)</s>
+			</Page>
+			<Page>
+				<s>(하지만 징수원이라는 입장은 아무래도 주민들에게 반감을 사기 쉽겠지.)</s>
+			</Page>
+			<Page>
+				<s>(적대감 있는 사람의 의견만 참고하면 객관적인 판단이 어려워져.</s>
+				<s>생각이 한쪽으로 치우치지 않도록 이번엔 그의 동료로 보이는 인물에게 접근해 보자.)</s>
+			</Page>
+			<Page>
+				<s>(다행히도 블랙윙은 자신들의 정체를 감추지 않고 있어서 찾는 수고는 덜겠군.</s>
+				<s>제복을 입고 있는 자에게 가보자.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>블랙윙과 대화</ActiveMemo>
+		<Body>
+			<Page>
+				<s>넌 뭐야?</s>
+				<s>감히 이 마을을 지배하는 블랙윙의 감시자인 나, 바반의 어깨를 치다니.</s>
+			</Page>
+			<Page>
+				<s>뭐? 스테판의 심부름꾼이라고?</s>
+			</Page>
+			<Page>
+				<s>오! 요즘 좋은 건수라도 있는 거야?</s>
+				<s>혹시 상부 몰래 광석을 빼돌리기라도 했나?</s>
+				<s>나에게도 살짝 귀띔해 줘.</s>
+			</Page>
+			<Page>
+				<s>말할 수 없다고?</s>
+				<s>쳇, 스테판 녀석 또 어디서 횡령으로 한몫 잡을 요량인가 본데, 혼자 그렇게 욕심부리다간 큰코다치는 수가 있지.</s>
+			</Page>
+			<Page>
+				<s>이봐, 내가 상부에 고발하지 않도록 적당히 입막음 값을 쥐여 주는 게 좋을 거라고 네가 그 녀석에게 충고해 주겠어?</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0049" index="56049" sort="Epic">
+
+	<Title>뒷거래 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>(공직을 이용해 횡령이라… 스테판이라는 자는 전형적인 부패 관리라고 볼 수 있겠군.)</s>
+			</Page>
+			<Page>
+				<s>(하지만 돈을 밝히는 자를 움직이는 건 쉽지.)</s>
+			</Page>
+			<Page>
+				<s>(동료의 발언으로 유추하건대 요즘 그 자의 관심사는 광석인 것 같아.</s>
+				<s>채굴권이 블랙윙에게 있는 것 같으니 저들의 시선이 닿지 않는 곳을 찾아 광석을 캐내 보자.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>광석 확인</ActiveMemo>
+		<Body>
+			<Page>
+				<s>(이 정도 광석이면 미끼로 충분할 거야.</s>
+				<s>[ff7b50]스테판[-]에게 가자.)</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page>
+				<s>오호, 딱 보니 돈 냄새 나는 일로 날 찾아온 것 같은데.</s>
+			</Page>
+			<Page>
+				<s>…앗, 이건! 광물이군!</s>
+			</Page>
+			<Page>
+				<s>하지만 이런 부스러기는 별 가치가 없어.</s>
+				<s>암시장에서 거래해 봤자 푼돈밖엔 안 되지.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0050" index="56050" sort="Epic">
+
+	<Title>뒷거래 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>너 몸 좀 쓸 줄 아는 것 같은데 혹시 큰돈 만져 볼 생각 있어?</s>
+				<s>그렇다면 나랑 손잡자!</s>
+			</Page>
+			<Page>
+				<s>내가 널 진짜 루 광석을 구할 수 있는 레벤 광산 내부로 갈 수 있도록 도와 줄게.</s>
+				<s>그 대신 너는 채굴한 광석의 일부를 내 몫으로 떼어 줘.</s>
+			</Page>
+			<Page>
+				<s>흐흐, 잘 생각했어!</s>
+				<s>그러면 이걸 받아. 신분을 위조한 출입증이야.</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]광산 입구[-]에 있는 [ff7b50]문지기[-]에게 보여주면 내부로 들어갈 수 있을 거야.</s>
+				<s>기대하고 있을 테니 잔뜩 구해 오라고!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>광산 입구로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>레벤 광산은 현재 블랙윙이 사용하고 있어. 그러니 블랙윙의 멤버가 아니면 들어갈 수 없어.</s>
+				<s>멤버임을 증명하는 물건을 갖고 와. 이를 테면… 내 모자 같은 거?</s>
+			</Page>
+			<Page>
+				<s>오, 이건 임시 출입증이군!</s>
+				<s>블랙윙 멤버에게 출입을 허가 받은 모양이지?</s>
+				<s>그렇다면 광산 안으로 들어가도 좋아.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0051" index="56051" sort="Epic">
+
+	<Title>광산 탐색 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>(광산 내부로 진입하는 건 성공했어.)</s>
+			</Page>
+			<Page>
+				<s>(하지만 본격적인 거래는 이제부터 시작이다.</s>
+				<s>레지스탕스가 바라는 건 최근 블랙윙이 보이고 있는 수상한 동향의 원인을 알아내는 거야.)</s>
+			</Page>
+			<Page>
+				<s>(하지만 광산이 너무 넓어서 막막하군.)</s>
+			</Page>
+			<Page>
+				<s>(이럴 때는 할 수 있는 일부터 우선 처리하는 게 좋겠지.)</s>
+			</Page>
+			<Page>
+				<s>(스테판이 말한 루 광석을 찾아보자.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>(광석을 채굴하기 위해서 일단 갱도로 왔는데… 광물은 보이지 않고 순 거미뿐이군.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0052" index="56052" sort="Epic">
+
+	<Title>광석 탐색 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>(거미가 서식한다는 건 이곳엔 광부가 그다지 드나들지 않는다는 방증인지도 몰라.)</s>
+			</Page>
+			<Page>
+				<s>(다른 갱도로 가서 광석을 찾아보자.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>(광석을 실어 나르는 수레를 발견했다!)</s>
+			</Page>
+			<Page>
+				<s>(덕분에 직접 광석을 캐지 않아도 되어서 수고를 덜었군.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0053" index="56053" sort="Epic">
+
+	<Title>두 사람의 모의</Title>
+
+	<Task index="1">
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0053_01">
+			</Page>
+			<Page>
+				<s>(…이게 무슨 소리지?)</s>
+			</Page>
+			<Page>
+				<s>(이 근처에서 말소리가 들리는데.)</s>
+			</Page>
+			<Page>
+				<s>(스테판에게 받은 출입증이 문지기 말고 다른 블랙윙한테도 효력이 있을지 알 수 없으니 기척을 죽이고 접근하는 게 좋겠어.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Portrait>NPC_LeTierre_03</Portrait>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0053_02">
+			</Page>
+			<Page>
+				<s>(지금까지 보아 온 블랙윙과는 사뭇 다른 분위기를 지닌 자들이다.)</s>
+			</Page>
+			<Page>
+				<s>(특히 저 망토를 입은 자… 위험한 기운을 풍기고 있어.)</s>
+			</Page>
+			<Page speaker="NPC_LeTierre_03">
+				<s>…추적에 성공한 간부가 단 한 명도 없다니 정말 수치스럽네요.</s>
+			</Page>
+			<Page speaker="NPC_RedT_07">
+				<s>기동성이 남다르잖습니까.</s>
+				<s>전용기로 움직이는 자를 쫓는 건 쉽지 않지요.</s>
+			</Page>
+			<Page speaker="NPC_LeTierre_03">
+				<s>생포는 둘째 치고 생채기조차 제대로 내지 못했어요.</s>
+				<s>지위가 강등되어도 할말 없는 상황이라고요.</s>
+			</Page>
+			<Page speaker="NPC_RedT_07">
+				<s>영웅이라는 칭송이 허명은 아닌가 봅니다.</s>
+			</Page>
+			<Page speaker="NPC_RedT_07">
+				<s>하지만 걱정 말고 제게 맡겨 주세요.</s>
+				<s>추적할 수 없으면 유인하면 되니까요.</s>
+			</Page>
+			<Page speaker="NPC_LeTierre_03">
+				<s>방법이 있나요?</s>
+			</Page>
+			<Page speaker="NPC_RedT_07">
+				<s>후훗, 다고쓰와 함께 페리온에 영웅에게 어울리는 함정을 마련했지요.</s>
+			</Page>
+			<Page speaker="NPC_RedT_07">
+				<s>산꼭대기에 꽂힌 검을 이용해서 산악지대를 불바다로 만들 생각입니다.</s>
+				<s>주민들을 인질로 삼으면 선하디 선한 영웅께서 친히 그곳으로 행차하시겠죠.</s>
+			</Page>
+			<Page speaker="NPC_LeTierre_03">
+				<s>당신의 모략이 성공하길 빌죠.</s>
+				<s>더 이상 그분을 실망시키지 마세요.</s>
+			</Page>
+			<Page>
+				<s>……</s>
+			</Page>
+			<Page actionCommand="DualBlade_0053_03">
+				<s>(눈치 채기 전에 먼저 빠져 나가자.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0054" index="56054" sort="Epic">
+
+	<Title>뒷거래 3</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>(다행히 뒤쫓는 기척이 없군.)</s>
+			</Page>
+			<Page>
+				<s>(그리고 드디어 레지스탕스가 부탁한 정보를 확보한 것 같다.)</s>
+			</Page>
+			<Page>
+				<s>(일단 [ff7b50]스테판[-]과의 거래부터 마무리하자.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>오오, 기다렸어!</s>
+			</Page>
+			<Page>
+				<s>캬아, 정말 훌륭한 루 광석이군!</s>
+			</Page>
+			<Page>
+				<s>뭐야? 전부 나 주는 거야?</s>
+			</Page>
+			<Page>
+				<s>너 정말 기특한 녀석이구나!</s>
+				<s>이걸 팔면 수익이 무려… 크크크.</s>
+			</Page>
+			<Page>
+				<s>앞으로도 같이 일할 생각 있으면 언제든 찾아 오라고!</s>
+			</Page>
+			<Page speaker="player">
+				<s>(횡령의 증거를 넘겼다.</s>
+				<s>곧 바반이 내부 고발하면 저 탐욕스러운 웃음소리도 끝이 나겠지.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0055" index="56055" sort="Epic">
+
+	<Title>교섭 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>또 당신이군요.</s>
+				<s>경찰의 도움이 필요한가요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>급히 접견을 신청하고 싶어요.</s>
+			</Page>
+			<Page>
+				<s>!</s>
+			</Page>
+			<Page actionCommand="DualBlade_0055_01">
+				<s>좋아요. 바로 자리를 마련할게요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>레지스탕스와 대화</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0055_02">
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>어쩐지 다급한 기색이군요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>지금 바로 빅토리아 아일랜드로 갈 예정입니다.</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>포기 선언인가요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>거래를 위해서 가는 겁니다.</s>
+				<s>확인해야 할 일이 있어요.</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>도망치는 게 아니라는 걸 분명히 하고 싶었던 거군요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>듀얼블레이드의 신용이 걸린 일입니다.</s>
+				<s>직접 뜻을 전하지 않으면 오해를 부를 수 있으니까요.</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>오래 기다리진 않을 거예요.</s>
+			</Page>
+			<Page speaker="player" actionCommand="DualBlade_0055_03">
+				<s>바라던 정보를 곧 가져오겠습니다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0056" index="56056" sort="Epic">
+
+	<Title>화염검과 영웅 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>이방인이여, 이 척박하고 험준한 바위산에 걸음한 까닭이 무엇인가?</s>
+			</Page>
+			<Page>
+				<s>불의 검을 찾는다고 하였는가?</s>
+			</Page>
+			<Page>
+				<s>그렇다면 [ff7b50]생명의 대지[-]로 가게.</s>
+				<s>그 정상에 오롯이 꽂혀 있는 비운의 검을 볼 수 있을걸세.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>생명의 대지로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>……………………</s>
+			</Page>
+			<Page speaker="player">
+				<s>이것이 블랙윙이 영웅을 함정에 빠뜨리는 데에 이용하려고 했던 바로 그 검인가.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0057" index="56057" sort="Epic">
+
+	<Title>화염검과 영웅 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>나는 누구도 뽑을 수 없는 검.</s>
+				<s>나를 뽑으면 페리온은 화염에 휩싸일 것이다.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page speaker="player">
+				<s>(검의 목소리?!)</s>
+			</Page>
+			<Page>
+				<s>이 검의 주인이 불의 정령 샐러맨더를 쓰러뜨리자 그 화염이 이 산을 삼키려 했고,</s>
+				<s>검의 주인은 자신의 영혼을 검에 가두고 이 검으로 그 화염을 억누르도록 했다.</s>
+			</Page>
+			<Page>
+				<s>그런데 수상한 자가 나타나 이 검을 뽑고 내 영혼을 태우려고 했다.</s>
+				<s>그 바람에 페리온에 화염이 다시 기운을 떨치기 시작하고 산을 태우려 하였다.</s>
+			</Page>
+			<Page>
+				<s>그러나 한 사내가 그의 용맹과 기지로 이 검을 악용하려는 사악한 무리를 처단하고 페리온을 화염에서 구하였다.</s>
+			</Page>
+			<Page>
+				<s>이제 나의 영혼은 계속해서 샐러맨더의 불길을 봉인하리라.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>산꼭대기에 박힌 검을 둘러싼 소동 말인가?</s>
+			</Page>
+			<Page>
+				<s>자네는 놈들의 계략을 알아차리고 페리온의 위기를 구하러 온 자로군.</s>
+			</Page>
+			<Page>
+				<s>사건은 이미 수습되었네.</s>
+				<s>어느 용사가 블랙윙을 물리치고 검의 주인을 도와 이 산지를 태우려는 화염을 다시 잠재웠지.</s>
+			</Page>
+			<Page>
+				<s>해결사의 정체 말인가?</s>
+			</Page>
+			<Page>
+				<s>그는 부활한 영웅 팬텀일세.</s>
+			</Page>
+			<Page>
+				<s>그 덕에 페리온은 무사히 평온을 되찾았네.</s>
+				<s>그리고 나는 부디 지금도 화염의 고통에 저항하고 있을 검의 주인 또한 평온하길 바란다네.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0058" index="56058" sort="Epic">
+
+	<Title>거래 성사</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="player">
+				<s>안녕하세요, 경찰관님.</s>
+			</Page>
+			<Page>
+				<s>돌아왔군요!</s>
+			</Page>
+			<Page speaker="player">
+				<s>제 공소 시효는 아직 만료되지 않았나요?</s>
+			</Page>
+			<Page>
+				<s>다행히 아직 유효해요.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0058_01">
+				<s>그러니 지금 바로 당신의 신병을 인도하겠어요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>레지스탕스와 대화</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0058_02">
+			</Page>
+			<Page speaker="player">
+				<s>약속했던 정보를 가져왔습니다.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(영웅 팬텀이 부활하였고, 그를 추적하기 위해 블랙윙의 주요 인사들이 빅토리아 아일랜드에 전방위적으로 투입되고 있다는 정보를 보고한다.)</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>…요 근래에 블랙윙이 수상쩍은 행보를 보였던 이유가 납득이 가는군요.</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>블랙윙의 수장 오르카는 팬텀에게 깊은 원한이 있으니까요.</s>
+				<s>반대로 팬텀에게도 오르카는 불구대천의 원수이고요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>영웅과 군단장이라는 적대 관계만은 아니라는 건가요?</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>그보단 오히려 개인적인 원한이 더 클 테죠.</s>
+				<s>상대로 인해 서로의 소중한 사람을 잃었으니까요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그래서 블랙윙이 복수를 위해 움직이는 거군요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>페리온에서는 괜찮았지만 그 영웅이 앞으로도 블랙윙의 조직적인 공세를 격파할 수 있을까요?</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>그는 호락호락한 인물이 아니에요.</s>
+				<s>무려 수백 년 전에 검은 마법사를 봉인했던 영웅이니까요.</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>하지만 판세는 계속 지켜볼 겁니다.</s>
+				<s>그리고 이 절호의 기회를 이용할 생각이에요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>기회라면…</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>레벤 광산에 에너지 사용량이 급증했어요. 블랙윙이 무슨 일을 꾸미고 있는 게 분명해요.</s>
+				<s>그가 블랙윙의 이목을 끌고 있는 사이에 레지스탕스는 광산의 연구실을 잠입할 겁니다.</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>당신의 정보가 우리의 작전에 큰 도움이 된 셈이에요.</s>
+				<s>이제 듀얼블레이드의 요구 사항을 들을 때가 온 것 같군요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>도적단을 감시하고 그들의 행보를 추적해 주셨으면 합니다.</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>자칫하면 레지스탕스가 모험가 연합과 반목할 위험을 초래할 수도 있는 의뢰군요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그렇습니다.</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22">
+				<s>…이미 정보를 받은 입장이니 거부라는 선택지는 없네요.</s>
+			</Page>
+			<Page speaker="NPC_Claudine_22" actionCommand="DualBlade_0058_03">
+				<s>거래 성립입니다.</s>
+				<s>보고할 만한 정보가 모이면 연락드리죠.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0059" index="56059" sort="Epic">
+
+	<Title>밀약 임무 완료</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>(레지스탕스와의 거래를 무사히 성사시켰다.)</s>
+			</Page>
+			<Page>
+				<s>(이제 [ff7b50]비화원[-]으로 돌아가자.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>비화원으로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>어서 와요, #un#.</s>
+				<s>에델슈타인 임무에 대해 바로 이야기를 들을 수 있을까요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>(레벤 광산에 잠입하여 블랙윙이 영웅 팬텀을 추적 중이라는 정보를 획득하였고, 그를 토대로 레지스탕스와의 거래를 성사시켰다고 보고한다.)</s>
+			</Page>
+			<Page>
+				<s>…블랙윙이 그렇게 대대적으로 빅토리아 아일랜드로 침투한 상황이면 우리 듀얼블레이드도 가만 있을 순 없죠. 홍아.</s>
+			</Page>
+			<Page speaker="NPC_Honga_20">
+				<s>그들이 이 섬에서 활개치지 못하도록 동료들을 각지에 파견하겠습니다.</s>
+			</Page>
+			<Page>
+				<s>부탁해요.</s>
+			</Page>
+			<Page>
+				<s>그리고 당신에게도 이야기해두는 게 좋겠군요.</s>
+				<s>당신이 에델슈타인에서 임무를 수행하는 동안 팬텀님이 이 도시에 방문했었어요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>다크로드와 거래 중인 그에게 우리는 이중 거래를 제안했고, 다크로드가 제피의 행방을 수색하려는 우리의 계획을 방해했다는 사실을 알아냈어요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>제피?</s>
+			</Page>
+			<Page>
+				<s>트루님과의 거래를 기억하나요?</s>
+				<s>그가 단서를 쫓던 실종자의 이름입니다.</s>
+			</Page>
+			<Page>
+				<s>제피는 커닝시티에서 서점을 운영하던 평범한 시민이었어요.</s>
+				<s>하지만 어느 날 갑자기 사라졌죠.</s>
+			</Page>
+			<Page>
+				<s>우리는 그 실종 사건의 배후를 다크로드로 보고 있어요.</s>
+				<s>제피가 사라지고 그의 흔적이 부자연스러울 만큼 깔끔하게 처리가 되었거든요.</s>
+				<s>그의 솜씨가 분명해요.</s>
+			</Page>
+			<Page>
+				<s>그래서 우리는 제피를 구출하고 사건의 진실을 밝혀 다크로드를 실각시킬 계획이었어요.</s>
+				<s>하지만 그가 눈치를 채고 방해 공작을 펼치는 바람에 좀처럼 단서를 확보하지 못하고 있는 실정이죠.</s>
+			</Page>
+			<Page>
+				<s>우선은 도적단에 정보가 새어 나가지 않도록 정보망을 정비할 생각이에요.</s>
+				<s>당신 덕분에 새로운 정보 루트도 개척되고 있으니, 이쪽이 정리가 되면 새로운 작전을 세우겠어요.</s>
+			</Page>
+			<Page>
+				<s>당신은 장기 임무로 피로할 테니 당분간 휴식을 가지길 바라요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0060" index="56060" sort="Epic">
+
+	<Title>기록에 대한 기억</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>#un#, 설희님께서 휴식을 명하셨다고 마냥 게으름 피운 건 아니겠지?</s>
+			</Page>
+			<Page>
+				<s>음? 이 문서는 뭐야?</s>
+			</Page>
+			<Page speaker="player">
+				<s>보고서입니다.</s>
+				<s>이전에 정탐 임무 때에 다크로드의 방에 잠입했었는데, 그때 훔쳐본 일지에 기록된 내용이에요.</s>
+				<s>최대한 기억 나는 대로 정리했습니다.</s>
+			</Page>
+			<Page>
+				<s>이걸 왜 이제서야…</s>
+				<s>아, 그동안 보고할 틈이 없었겠군.</s>
+			</Page>
+			<Page>
+				<s>좋아, 그럼 지금 바로 확인해 볼게.</s>
+			</Page>
+			<Page>
+				<s>……쳇, 일지를 무슨 수수께끼처럼 써 놨군.</s>
+				<s>이 내용들이 무얼 뜻하는지 조사를 해 봐야겠어.</s>
+			</Page>
+			<Page>
+				<s>이 기록 중에 하나를 네게 맡길게.</s>
+			</Page>
+			<Page>
+				<s>『[i][a3a3a3]…무덤가에 핀 하얀 꽃을 보았다.[-][/i]</s>
+				<s>[i][a3a3a3]그분이 영면한 자리엔 풀 한 포기조차 자라지 않는다…[-][/i]』</s>
+			</Page>
+			<Page>
+				<s>여기에 적힌 ‘그분’은 아마 전대 다크로드님을 지칭하는 것 같아.</s>
+				<s>실제로 그분이 돌아가신 장소에는 식물이 전혀 자라지 않거든.</s>
+			</Page>
+			<Page>
+				<s>그런데 그 전 문장에서 ‘하얀 꽃이 핀 무덤가’를 이야기하고 있어.</s>
+				<s>그렇다면 이 무덤가는 전대 다크로드님이 잠드신 곳이 아니라 다른 장소를 가리키는 거겠지.</s>
+			</Page>
+			<Page>
+				<s>넌 그곳이 어디인지 알아봐 줘.</s>
+				<s>다크로드가 방문했던 장소면 조사할 가치가 있어.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(그 장소를 추정할 만한 단서를 모으는 게 좋겠군.</s>
+				<s>마을의 [ff7b50]정보원[-]들에게 수소문하는 게 가장 효율적이겠지.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>오, 도적이 나 같은 일개 정보원에게 무슨 일로 찾아온 거야?</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page speaker="player">
+				<s>(나를 알고 있군. 역시 정보원다워.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(아직 도적단으로 오해하고 있는 건 다행이야.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0061" index="56061" sort="Epic">
+
+	<Title>위태로운 도시 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>하얀 꽃이 핀 무덤가를 찾고 있다고?</s>
+				<s>의뢰가 막연해서 시간이 좀 필요하겠는걸.</s>
+			</Page>
+			<Page>
+				<s>그러니 정보료를 먼저 지불하겠어?</s>
+			</Page>
+			<Page>
+				<s>요즘 어쩐지 솜털이 쭈뼛 설 정도로 긴장감이 팽배한 것 같은 분위기를 느끼거든.</s>
+				<s>아무래도 이 도시에서 무슨 일이 일어나고 있는 것 같아.</s>
+			</Page>
+			<Page>
+				<s>그래서 커닝시티 이곳저곳을 탐색하고 있는데 아직 한 군데 확인하지 못한 곳이 있어.</s>
+			</Page>
+			<Page>
+				<s>바로 늪지야. 네가 그곳을 조사해 주었으면 해.</s>
+				<s>[ff7b50]보이지 않는 위험[-]이라는 장소를 찾아서 수색을 부탁해.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>생각보다 빨리 왔네. 설마 대충 조사한 건 아니겠지?</s>
+				<s>늪지 상황은 어때?</s>
+			</Page>
+			<Page>
+				<s>바닥에 다수의 발자국이 어지러이 찍혀 있었다고?</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0062" index="56062" sort="Epic">
+
+	<Title>위태로운 도시 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>네가 목격한 발자국이 그 일대에 서식하는 몬스터의 것이 아니라면 누군가가 늪지대에 침입한 모양인데.</s>
+			</Page>
+			<Page>
+				<s>그 침입자가 이 도시의 위화감의 원인인지 확인하고 싶어.</s>
+				<s>그 자의 정체를 밝힐 수 있도록 좀 더 협력해 주겠어?</s>
+			</Page>
+			<Page>
+				<s>그러면 [ff7b50]깊은 수렁[-]에서 발자국을 확보해 줘.</s>
+				<s>그 발자국의 주인이 불청객이면 다크로드님께 보고하여 이 도시에서 몰아낼 거야.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>발자국은 가져왔어?</s>
+			</Page>
+			<Page>
+				<s>…뭐야! 이건 고양이 발자국이잖아! </s>
+				<s>떠돌이 고양이 무리가 늪지를 지나기라도 한 건가?</s>
+			</Page>
+			<Page>
+				<s>섣불리 보고했다가 다크로드님을 성가시게 할 뻔했군.</s>
+				<s>아무튼 별일 아니어서 다행이야.</s>
+			</Page>
+			<Page>
+				<s>응? 다크로드님에 대해 어떻게 생각하느냐고?</s>
+			</Page>
+			<Page>
+				<s>너도 도적단의 일원이니 잘 알겠지만 그분은 통솔력 있고 유능한 지도자이지.</s>
+				<s>아부성 발언이 아니라 진심이라고.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(리스항구의 정보상인이 말했던 대로 주민들 사이에서 다크로드의 평판은 좋은 것 같아.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(인간의 이중성이란 건가…)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0063" index="56063" sort="Epic">
+
+	<Title>무덤가에 핀 꽃</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>자, 이걸 받아.</s>
+				<s>네가 요청했던 하얀 꽃이 핀 무덤가로 갈 수 있는 초대장이야.</s>
+			</Page>
+			<Page>
+				<s>거긴 아무나 갈 수 없는 장소더군.</s>
+				<s>게다가 초대장을 구하는 것도 쉽지 않았어.</s>
+			</Page>
+			<Page>
+				<s>하지만 이 마을 최고의 정보원답게 의뢰를 성공시키기 위해 백방으로 애를 썼지!</s>
+			</Page>
+			<Page actionCommand="DualBlade_0063_01">
+				<s>날짜가 지나면 초대장이 무용지물이 되어버리니까 지금 바로 가보는 게 좋을 거야.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>버려진 무덤가 입장</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0063_02">
+			</Page>
+			<Page>
+				<s>으스스한 곳이군.</s>
+			</Page>
+			<Page>
+				<s>여기가 다크로드가 왔었던 하얀 꽃이 핀 무덤가가 맞을까?</s>
+			</Page>
+			<Page>
+				<s>!</s>
+			</Page>
+			<Page actionCommand="DualBlade_0063_03">
+				<s>이 기척은…!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<ActiveMemo>하얀 꽃 발견</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0063_04">
+			</Page>
+			<Page>
+				<s>이건… 하얀 꽃이야!</s>
+			</Page>
+			<Page>
+				<s>다크로드는 어째서 이런 을씨년스러운 장소에 찾아온 거지?</s>
+			</Page>
+			<Page>
+				<s>그런데 이 하얀 꽃, 이름은 모르겠지만 무척 신비로워.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0063_05">
+				<s>[ff7b50]설희[-]님께 가져가면 좋아하실지도 몰라.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<Body>
+			<Page>
+				<s>어서 와요, #un#.</s>
+			</Page>
+			<Page speaker="player">
+				<s>처음 보는 꽃이 있어서 가져왔습니다.</s>
+			</Page>
+			<Page>
+				<s>선물인가요? 기쁘군요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>어라…?</s>
+			</Page>
+			<Page>
+				<s>무슨 일이죠?</s>
+			</Page>
+			<Page speaker="player">
+				<s>분명히 품에 챙겨서 가져왔었는데…</s>
+			</Page>
+			<Page>
+				<s>……</s>
+			</Page>
+			<Page speaker="player">
+				<s>어째서 꽃이 사라졌지…?</s>
+			</Page>
+			<Page speaker="player">
+				<s>죄송합니다.</s>
+				<s>제가 꽃을 그곳에 두고 왔나 봐요.</s>
+			</Page>
+			<Page>
+				<s>후후, 괜찮아요.</s>
+				<s>마음만으로도 충분히 기쁘니까요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0064" index="56064" sort="Epic">
+
+	<Title>듀얼블레이드의 사명 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>실수를 하다니. 너답지 않은걸.</s>
+			</Page>
+			<Page speaker="player">
+				<s>면목없습니다.</s>
+			</Page>
+			<Page>
+				<s>그 무덤가는 찾은 거지?</s>
+			</Page>
+			<Page speaker="player">
+				<s>네, 하지만 다크로드가 그곳에 무슨 목적으로 방문한 건지는 알 수 없었어요.</s>
+			</Page>
+			<Page>
+				<s>흠… 그렇군.</s>
+			</Page>
+			<Page>
+				<s>넌 당분간 휴가야.</s>
+				<s>푹 쉬면서 기력을 회복하라고.</s>
+			</Page>
+			<Page speaker="player">
+				<s>전 멀쩡해요!</s>
+				<s>다음 임무에선 실수하지 않겠습니다.</s>
+			</Page>
+			<Page>
+				<s>정말 괜찮겠어?</s>
+			</Page>
+			<Page speaker="player">
+				<s>맡겨 주세요.</s>
+			</Page>
+			<Page>
+				<s>좋아, 믿어 보지.</s>
+			</Page>
+			<Page>
+				<s>다른 동료들과 같이 너에게도 블랙윙을 토벌하는 임무를 맡길게.</s>
+			</Page>
+			<Page>
+				<s>비록 우리가 도적단 때문에 공공연하게 정체를 드러내진 못하지만 듀얼블레이드야말로 선대 다크로드의 정통성 있는 계승자야.</s>
+			</Page>
+			<Page>
+				<s>따라서 설희님은 설령 우리가 한 일이 도적단의 업적으로 오해를 받더라도 악을 처단하는 일을 게을리해서는 안 된다고 말씀하시지.</s>
+			</Page>
+			<Page>
+				<s>수장의 뜻을 이해했다면 넌 이 도시를 중심으로 블랙윙을 추적하고 악행을 저지하면 돼.</s>
+			</Page>
+			<Page speaker="player">
+				<s>다크로드의 일지 조사는요?</s>
+			</Page>
+			<Page>
+				<s>까다로운 임무이니 일단 내가 맡을게.</s>
+			</Page>
+			<Page speaker="player">
+				<s>알겠습니다.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(마을의 [ff7b50]정보원[-]들 사이에서 난 아직 도적으로 인식되고 있는 것 같으니, 그들로부터 블랙윙에 대한 정보를 모으는 게 효율적일 거야.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>안녕. 난 커닝시티 최고의 정보통 넬라야.</s>
+				<s>이 마을에서 일어나는 여러 가지 소식들을 빠짐없이 알고 있지.</s>
+				<s>물론 #un#, 너에 대해서도.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0065" index="56065" sort="Epic">
+
+	<Title>커닝시티 기현상 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>최근 이 도시에 수상한 동향이 없었느냐고?</s>
+			</Page>
+			<Page>
+				<s>앗! 혹시 너도 니오라 병원에서 나는 소리를 들은 거야?</s>
+				<s>얼마 전부터 그 폐쇄된 병원에서 자꾸 이상한 울음소리가 들려서 소름이 돋지 뭐야.</s>
+			</Page>
+			<Page>
+				<s>얼마 전에 그 병원에 갔었는데 아무도 없었다고?</s>
+				<s>그럴 리가! 난 분명히 괴성을 들었는걸!</s>
+			</Page>
+			<Page>
+				<s>누구 말이 맞는지 내기하자!</s>
+				<s>물론 확인은 네가 하는 거야.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0065_01">
+				<s>난 무서워서 가까이 가지도 못하겠는걸.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>니오라 병원 탐색</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0065_02">
+			</Page>
+			<Page>
+				<s>역시 아무도 없…</s>
+			</Page>
+			<Page>
+				<s>!</s>
+			</Page>
+			<Page actionCommand="DualBlade_0065_03">
+				<s>이 기척은!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Portrait>NPC_MysteriousGirl_03</Portrait>
+		<ActiveMemo>니오라 병원 탐색</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0065_04">
+			</Page>
+			<Page>
+				<s>내가 들어오는 소리에 고양이들이 숨어 있다가 튀어나온 모양이군.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0065_05">
+				<s>하지만 전에 이 병원에 왔을 때는 분명 고양이가 없었는데…</s>
+			</Page>
+			<Page speaker="NPC_MysteriousGirl_03">
+				<s>……</s>
+			</Page>
+			<Page>
+				<s>(사람이 있는 걸 전혀 알아차리지 못했어.)</s>
+			</Page>
+			<Page>
+				<s>당신은 어디서…?</s>
+			</Page>
+			<Page speaker="NPC_MysteriousGirl_03">
+				<s>구석에서 숨죽이고 있었어요.</s>
+			</Page>
+			<Page>
+				<s>계속 이 병원 안에 있었던 건가요?</s>
+			</Page>
+			<Page speaker="NPC_MysteriousGirl_03">
+				<s>사나운 고양이가 무서워서요.</s>
+			</Page>
+			<Page>
+				<s>녀석들을 모두 밖으로 쫓았어요.</s>
+			</Page>
+			<Page speaker="NPC_MysteriousGirl_03" actionCommand="DualBlade_0065_06">
+				<s>병원이 평화를 되찾았네요.</s>
+				<s>그리고 전 다시 고독해지겠죠…</s>
+			</Page>
+			<Page>
+				<s>사라졌다…?</s>
+			</Page>
+			<Page>
+				<s>뭐지? 내가 헛것을 본 건가?</s>
+			</Page>
+			<Page actionCommand="DualBlade_0065_07">
+				<s>어쩌면 나 정말 지친 걸지도 몰라…</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0066" index="56066" sort="Epic">
+
+	<Title>커닝시티 기현상 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>병원에 다녀왔어?</s>
+				<s>그 괴성의 정체는 대체 뭐였어?</s>
+			</Page>
+			<Page>
+				<s>뭐? 고양이라고?</s>
+				<s>에이, 괜히 겁먹었잖아!</s>
+			</Page>
+			<Page>
+				<s>응? 유령 같은 여자도 있었다고?</s>
+			</Page>
+			<Page>
+				<s>거짓말하지 마!</s>
+				<s>내가 겁이 많다고 놀리려는 거지?</s>
+			</Page>
+			<Page>
+				<s>어쨌든 고양이를 쫓아 주어서 고마워.</s>
+				<s>언젠가 기회가 되면 꼭 보답할게!</s>
+			</Page>
+			<Page speaker="player">
+				<s>(그런데 병원에 터를 잡고 있던 그 고양이들…</s>
+				<s>전에 늪지에서 발견한 고양이 발자국과 관련이 있는 건가?)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(다시 한 번 그 발자국을 조사해 보는 게 좋겠군.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>늪지로 이동</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0066_01">
+			</Page>
+			<Page>
+				<s>고양이 발자국을 추적해 여기까지 왔어.</s>
+			</Page>
+			<Page>
+				<s>발자국이 저쪽에 있는 허름한 오두막으로 이어져 있는 것 같은데.</s>
+			</Page>
+			<Page>
+				<s>안을 확인해 보자.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Portrait>NPC_KnockedTrashCan_00</Portrait>
+		<ActiveMemo>늪지대 오두막 탐색</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0066_02">
+			</Page>
+			<Page>
+				<s>아무도 없군.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0066_03">
+				<s>…바닥을 보니 병원에 나타났던 떠돌이 고양이들이 여기에 진을 치고 있었던 모양이야.</s>
+			</Page>
+			<Page>
+				<s>쓰레기통 안에 뭔가가 있는데.</s>
+			</Page>
+			<Page>
+				<s>…지도 그리고 인형이다.</s>
+			</Page>
+			<Page>
+				<s>다른 물건들과 달리 이 두 개만 먼지가 쌓여 있지 않아.</s>
+			</Page>
+			<Page>
+				<s>그렇다는 건 최근에 이 오두막 안에 누군가가 있었다는 거겠군.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0066_04">
+				<s>갑자기 고양이 떼가 도시로 몰려온 이유를 알겠어.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0067" index="56067" sort="Epic">
+
+	<Title>듀얼블레이드의 사명 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>위험한 늪지 한가운데에 있는 오두막에 방문한 자가 평범한 주민일리는 없겠지.</s>
+			</Page>
+			<Page>
+				<s>도시 주변에 나타난 수상한 자에 대해 보고하자.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>비화원으로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>벌써 임무를 끝내고 돌아온 거야?</s>
+				<s>음? 보고할 일이 있다고?</s>
+			</Page>
+			<Page>
+				<s>앗, 이 불길한 인형은…!</s>
+			</Page>
+			<Page>
+				<s>블랙윙의 인형술사의 것이로군!</s>
+			</Page>
+			<Page>
+				<s>오두막에서 이 인형이 발견된 거면 그자가 이 도시 주변을 어슬렁거렸던 모양인데.</s>
+			</Page>
+			<Page>
+				<s>…가만, 이 지도를 한번 봐봐!</s>
+				<s>빅토리아 아일랜드 지도에 군데군데 표시가 되어 있고 동선이 그려져 있어.</s>
+			</Page>
+			<Page>
+				<s>헤네시스에서 엘리니아, 커닝시티에서 노틸러스 그리고 페리온…</s>
+				<s>…마지막으로 슬리피우드에서 끊겼군.</s>
+			</Page>
+			<Page>
+				<s>이건 블랙윙의 계획을 표시한 동선인가? 당장 조사해 봐야겠어!</s>
+				<s>#un#, 임무 수고했어!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0068" index="56068" sort="Epic">
+
+	<Title>겹쳐지는 발길</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>지난 번에 네가 늪지에서 구한 지도에 대한 분석이 끝났어.</s>
+			</Page>
+			<Page>
+				<s>지도에 표시되어 있던 동선은 얼마 전에 만났던 팬텀님의 이동 경로와 일치하더군.</s>
+				<s>아마 인형술사가 그를 미행하고 있던 것 같아.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>이건 네가 레벤 광산에서 알아냈던, 블랙윙이 영웅을 추적하고 있다는 정보와 일치해.</s>
+				<s>따라서 그리 새삼스러울 것도 없지.</s>
+			</Page>
+			<Page>
+				<s>하지만 이번 이야기를 들으면 더 놀랄 거야.</s>
+				<s>레지스탕스로부터 도적단 조사에 대한 정보가 도착했거든.</s>
+			</Page>
+			<Page>
+				<s>서신엔 다크로드가 최근 슬리피우드 방면으로 향한 정황이 포착되었다고 적혀 있었어.</s>
+				<s>그것도 단독으로 말이야.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page speaker="player">
+				<s>인형술사의 지도에 표시되어 있던 마지막 행선지도 슬리피우드였잖아요?</s>
+			</Page>
+			<Page>
+				<s>그래, 공교롭게도 영웅과 다크로드의 동선이 일치하고 있지.</s>
+				<s>이게 우연일까?</s>
+			</Page>
+			<Page speaker="player">
+				<s>블랙윙처럼 다크로드도 영웅을 추적하고 있는 걸까요?</s>
+			</Page>
+			<Page>
+				<s>그렇게 생각하는 게 합리적인 추론이겠지.</s>
+				<s>하지만 어째서 그가 다시 팬텀님을 만나려고 하는 거지?</s>
+			</Page>
+			<Page>
+				<s>#un#, 설희님께서 새로운 임무를 지시하셨다.</s>
+				<s>지금부터 [ff7b50]슬리피우드[-]로 출발할 거야. 물론 너도 함께지.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>조용한 습지로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>여기다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0069" index="56069" sort="Epic">
+
+	<Title>슬리피우드 탐색 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>이 지역은 무척 넓기 때문에 구역을 나눠서 수색할 거야.</s>
+			</Page>
+			<Page>
+				<s>너에게 할당된 지역은 [ff7b50]잊혀진 습지[-]와 개미굴이다.</s>
+				<s>정체를 들키지 않고 다크로드를 찾아야 해.</s>
+			</Page>
+			<Page>
+				<s>물론 팬텀님이나 블랙윙을 목격해도 바로 이곳으로 와서 보고하도록.</s>
+				<s>그들의 위치가 다크로드를 추적하는 단서가 될 테니.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>잊혀진 습지 탐색</ActiveMemo>
+		<Body>
+			<Page>
+				<s>이 습지엔 다크로드도 영웅도 블랙윙도 없는 것 같아.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0070" index="56070" sort="Epic">
+
+	<Title>슬리피우드 탐색 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>[ff7b50]개미굴[-]에서 조사를 계속하자.</s>
+				<s>그들이 이 지역을 떠나기 전에 찾아내야 해.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>개미굴 탐색</ActiveMemo>
+		<Body>
+			<Page>
+				<s>이 굴에도 누군가가 다녀간 흔적은 없군.</s>
+			</Page>
+			<Page>
+				<s>……</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0071" index="56071" sort="Epic">
+
+	<Title>그림자의 시선</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>내가 과민한 건가.</s>
+			</Page>
+			<Page>
+				<s>아까부터 미묘하게 시선이 자꾸 따라붙는 기분이 드는데…</s>
+			</Page>
+			<Page>
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>설마 내가 추적하는 게 아니라 추적당하고 있는 건가…!</s>
+			</Page>
+			<Page>
+				<s>시선을 쫓자!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>시선 추적</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0071_01">
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page speaker="player">
+				<s>누구십니까?</s>
+			</Page>
+			<Page>
+				<s>…그리운 검술이군.</s>
+			</Page>
+			<Page speaker="player" actionCommand="DualBlade_0071_02">
+				<s>그게 무슨…</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0072" index="56072" sort="Epic">
+
+	<Title>임무 경과 보고</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>홀연히 사라졌어…</s>
+			</Page>
+			<Page>
+				<s>그 사람은 대체 누구지?</s>
+				<s>그리고 뭐가 위험하다는 걸까…?</s>
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>수색 임무를 보고하러 가자.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>다크로드를 찾았나?</s>
+			</Page>
+			<Page speaker="player">
+				<s>아니요, 하지만 검을 들고 무장한 자를 만났습니다.</s>
+			</Page>
+			<Page>
+				<s>검사?</s>
+			</Page>
+			<Page speaker="player">
+				<s>네, 하지만 순식간에 사라져서 정체를 알아내진 못했어요.</s>
+			</Page>
+			<Page>
+				<s>내가 파악한 정보엔 블랙윙 간부 중에 검을 다루는 자는 없었는데…</s>
+			</Page>
+			<Page speaker="player">
+				<s>외견만으로 판단하는 건 섣부르겠지만 블랙윙으로 보이진 않았습니다.</s>
+				<s>물론 도적단도 아닌 것 같았고요.</s>
+			</Page>
+			<Page>
+				<s>흠, 우리 임무에 방해되는 것 같진 않으니 일단 그 정체 모를 검술사에 대한 건 보류하지.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0073" index="56073" sort="Epic">
+
+	<Title>미스터리 추적 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>은밀하게 자체 수색을 했지만 다른 동료들도 별다른 성과가 없었어.</s>
+				<s>그래서 조사 방향을 바꿔 주민들에게 수소문했지.</s>
+			</Page>
+			<Page>
+				<s>그리고 영웅을 목격했다는 여러 증언을 확보했어.</s>
+				<s>슬리피우드를 침탈한 블랙윙 무리와 맞붙어 그들을 물리치고 이미 이곳을 떠났다고 하더군.</s>
+			</Page>
+			<Page>
+				<s>다만 도적에 대한 목격담은 전혀 없었어.</s>
+			</Page>
+			<Page>
+				<s>레지스탕스가 준 정보가 거짓이 아니라면 다크로드는 남몰래 방문했다가 떠났을 거야.</s>
+				<s>어쩌면 팬텀님을 돕기 위해 왔다가 헛걸음한 걸지도 모르지.</s>
+			</Page>
+			<Page>
+				<s>아무튼 임무는 실패야.</s>
+				<s>슬리피우드의 소동도 종식되었으니 이만 철수하자.</s>
+			</Page>
+			<Page speaker="player">
+				<s>잠시 자유 시간을 허락해 주실 수 있나요?</s>
+				<s>이곳에서 좀 더 알아보고 싶은 게 있습니다.</s>
+			</Page>
+			<Page>
+				<s>임무와는 무관한 일인가?</s>
+			</Page>
+			<Page speaker="player">
+				<s>개인적인 일이에요.</s>
+				<s>오래 걸리지 않을 겁니다.</s>
+			</Page>
+			<Page>
+				<s>좋아, 우린 먼저 가보도록 하지.</s>
+				<s>용무가 끝나면 비화원으로 바로 복귀해.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>개미굴로 이동</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0073_01">
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>없군.</s>
+			</Page>
+			<Page>
+				<s>이번이 벌써 두 번째야.</s>
+				<s>누군가가 내 눈 앞에서 갑자기 유령처럼 사라지는 일…</s>
+			</Page>
+			<Page>
+				<s>다시 만나면 이 기이한 현상에 대해 알 수 있을지도 모른다고 생각했는데…</s>
+			</Page>
+			<Page>
+				<s>마을로 가서 수소문해 보자.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0074" index="56074" sort="Epic">
+
+	<Title>미스터리 추적 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>사람을 찾는다 하였는가?</s>
+			</Page>
+			<Page>
+				<s>슬리피우드 동굴 안에서 홀연히 나타났다가 홀연히 사라지는 자…</s>
+				<s>나는 그분을 알고 있네.</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]동굴의 출구[-]에서 몬스터를 도발하여 소동을 일으키게.</s>
+				<s>그러면 모든 것을 기억하고 있는 그분이 모습을 드러내실걸세.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>……나의 의식을 깨운 자가 자네인가?</s>
+			</Page>
+			<Page>
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>눈을 뜬 자로군.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(이런, 이 사람은 내가 찾는 자가 아니야.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0075" index="56075" sort="Epic">
+
+	<Title>미스터리 추적 3</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="player">
+				<s>무장을 한 검사를 찾고 있어요.</s>
+				<s>개미굴에서 만났는데 갑자기 나타났다가 순식간에 사라졌죠.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그가 누군지 알고 계십니까?</s>
+				<s>당신은 모든 것을 기억하는 분이시라고 들었습니다.</s>
+			</Page>
+			<Page>
+				<s>부지불식간에 나타났다 사라지는 자라…</s>
+			</Page>
+			<Page>
+				<s>용사가 최후를 맞이한 장소는 마왕 발록이 봉인되어 있는 지하 신전이네.</s>
+				<s>그곳으로 가게.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>지하로 내려가는 길로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>안녕하신가?</s>
+			</Page>
+			<Page>
+				<s>오늘 무슨 날인가?</s>
+				<s>고요한 이 신전이 오늘따라 북적이는군.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0076" index="56076" sort="Epic">
+
+	<Title>악몽의 재현</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>유령처럼 나타났다 사라지는 자를 찾고 있다고?</s>
+			</Page>
+			<Page>
+				<s>네가 찾는 그 사람인지는 모르겠지만 조금 전에 귀신같이 빠르게 움직이는 한 사내가 이 신전 아래로 내려가는 걸 보긴 했지.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>신전의 밑바닥으로 이동</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0076_01">
+			</Page>
+			<Page actionCommand="DualBlade_0076_02">
+				<s>…아무도 없어.</s>
+			</Page>
+			<Page>
+				<s>이 땅울림은…?!</s>
+			</Page>
+			<Page>
+				<s>저쪽이다!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<ActiveMemo>트리스탄의 무덤으로 이동</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0076_03">
+			</Page>
+			<Page speaker="NPC_DarkLord_10">
+				<s>여긴 어떻게…?!</s>
+			</Page>
+			<Page speaker="NPC_TristansSpirit_05">
+				<s>진!</s>
+			</Page>
+			<Page speaker="NPC_PossessedMuYoung_00" actionCommand="DualBlade_0076_04">
+				<s>…………</s>
+			</Page>
+			<Page speaker="NPC_PossessedMuYoung_00">
+				<s>…자, 무기를 드세요.</s>
+			</Page>
+			<Page speaker="NPC_PossessedMuYoung_00">
+				<s>그럴 수 있다면 말이죠.</s>
+			</Page>
+			<Page speaker="NPC_DarkLord_10">
+				<s>큿…!</s>
+			</Page>
+			<Page speaker="NPC_TristansSpirit_05">
+				<s>끔찍한 악몽의 재현이군…!</s>
+			</Page>
+			<Page>
+				<s>?!</s>
+			</Page>
+			<Page speaker="NPC_TristansSpirit_05" actionCommand="DualBlade_0076_05">
+				<s>조심해! 온다!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<ActiveMemo>다크로드와 대화</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0076_06">
+			</Page>
+			<Page speaker="player">
+				<s>달아난 건가?</s>
+			</Page>
+			<Page speaker="player" actionCommand="DualBlade_0076_07">
+				<s>그러고 보니 그 무장한 검사도 어느새 사라졌어…</s>
+			</Page>
+			<Page>
+				<s>자네 트리스탄을 보았는가?</s>
+			</Page>
+			<Page speaker="player">
+				<s>그 유령 같은 검사의 이름이 트리스탄인가요?</s>
+				<s>그는 어디로 사라진 거죠?</s>
+			</Page>
+			<Page>
+				<s>아마 우리를 공격한 소년을 뒤따라갔을 테지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그러고 보니 당신은 어째서 방어만 하고 공격하지 않은 거죠?</s>
+			</Page>
+			<Page>
+				<s>그가 공격한 건 그의 뜻이 아니니까.</s>
+				<s>그는 인질에 불과해.</s>
+			</Page>
+			<Page>
+				<s>그런데 자네는 어떻게 여기에 있는 거지?</s>
+			</Page>
+			<Page speaker="player">
+				<s>우연히 만난 그 유령 같은 검사를 쫓아왔어요.</s>
+			</Page>
+			<Page>
+				<s>유령 같은 자가 아니라 그는 유령이다.</s>
+			</Page>
+			<Page speaker="player">
+				<s>?!</s>
+			</Page>
+			<Page>
+				<s>영안을 뜬 자가 또 있었을 줄이야…</s>
+			</Page>
+			<Page speaker="player" actionCommand="DualBlade_0076_08">
+				<s>그게 무슨…?</s>
+			</Page>
+			<Page>
+				<s>이런, 눈이 또 있었나!</s>
+			</Page>
+			<Page>
+				<s>저쪽을 먼저 처리해야겠군.</s>
+			</Page>
+			<Page speaker="player">
+				<s>?!</s>
+			</Page>
+			<Page actionCommand="DualBlade_0076_09">
+				<s>#un#, 곧 또 보지.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0077" index="56077" sort="Epic">
+
+	<Title>신전 사건 보고</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>조금 전에 신전 밖으로 나간 자를 보았느냐고?</s>
+			</Page>
+			<Page>
+				<s>물론이야.</s>
+				<s>서두르면 [ff7b50]또 다른 문[-]에서 따라잡을 수 있을걸.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>또 다른 문으로 이동</ActiveMemo>
+		<Body>
+			<Page speaker="player">
+				<s>앗! 홍아님!</s>
+			</Page>
+			<Page>
+				<s>#un#.</s>
+			</Page>
+			<Page speaker="player">
+				<s>다크로드를 보지 못하셨나요?</s>
+				<s>신전에서 그를 만났거든요.</s>
+			</Page>
+			<Page>
+				<s>이런, 길이 엇갈린 모양이군.</s>
+				<s>난 조금 전에 여기 도착했거든.</s>
+			</Page>
+			<Page>
+				<s>어쩐지 네 태도가 마음에 걸려서 본부로 철수하던 도중에 다시 슬리피우드로 돌아온 거지.</s>
+				<s>그리고 주민들에게 수소문해서 네가 신전으로 향한 걸 알게 된 거야.</s>
+			</Page>
+			<Page>
+				<s>그런데 다크로드를 여기서 다시 볼 줄이야…</s>
+				<s>정말 후안무치한 인간이군.</s>
+			</Page>
+			<Page>
+				<s>이 발록의 신전은 전대 다크로드님의 비극적인 사건이 일어났던 장소거든.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>그 자는 왜 이 신전을 찾아온 거지?</s>
+			</Page>
+			<Page speaker="player">
+				<s>(발록의 신전에서 겪은 사건을 보고한다.)</s>
+			</Page>
+			<Page>
+				<s>다크로드, 유령, 그리고 인질이 된 소년이라…</s>
+			</Page>
+			<Page>
+				<s>기이한 사건이군.</s>
+				<s>커닝시티로 돌아가서 조사해봐야겠어.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0078" index="56078" sort="Epic">
+
+	<Title>듀얼블레이드 해산</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>#un#, 소집이야!</s>
+				<s>지금 바로 [ff7b50]설희[-]님이 계신 위층으로 이동하자.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>설희의 방으로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>어서 와요, #un#.</s>
+				<s>긴급 사태입니다.</s>
+			</Page>
+			<Page>
+				<s>홍아, 당신이 입수한 정보를 직접 이야기해 주겠어요?</s>
+			</Page>
+			<Page speaker="NPC_Honga_19">
+				<s>근시일 내에 도적단이 비화원을 기습할 거야.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page speaker="player">
+				<s>본부의 위치가 들통난 경위는요?</s>
+			</Page>
+			<Page speaker="NPC_Honga_19">
+				<s>그것까진 파악하지 못했어.</s>
+				<s>하지만 확실한 정보지.</s>
+			</Page>
+			<Page>
+				<s>어쩐지 다크로드답지 않은 방법이에요.</s>
+			</Page>
+			<Page>
+				<s>제가 아는 그는 교묘한 술책을 꾸며 비화원을 암암리에 장악하는 방식으로 움직였을 거예요.</s>
+				<s>이 도시에 소란이 일어나는 걸 꺼리니까요.</s>
+			</Page>
+			<Page>
+				<s>그런데도 우리와 전면전을 감행하는 데엔 분명 무슨 까닭이 있을 거예요.</s>
+			</Page>
+			<Page speaker="NPC_Honga_19">
+				<s>……습격에 맞설 준비를 하겠습니다.</s>
+				<s>함정도 발동시킬까요?</s>
+			</Page>
+			<Page>
+				<s>비화원에서 교전은 피해야 해요. 도시에 적지 않은 피해가 발생할 테니까요.</s>
+				<s>듀얼블레이드는 커닝시티의 안전을 지켜야 합니다.</s>
+			</Page>
+			<Page speaker="NPC_Honga_19">
+				<s>그렇다면 그들을 도시 밖으로 유인해야겠군요.</s>
+			</Page>
+			<Page speaker="NPC_Honga_19">
+				<s>비화원을 임시 폐쇄하고 사분오열된 조직원들이 도적단의 추격을 유도하도록 작전을 세우겠습니다.</s>
+				<s>빅토리아 아일랜드에서 벗어난 사방으로 행선지를 잡으면 될 테죠.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그들이 미끼를 물까요?</s>
+			</Page>
+			<Page speaker="NPC_Honga_19">
+				<s>설희님 말씀대로 이번 기습은 다크로드의 필사적인 결단으로 보여.</s>
+				<s>그렇다면 반드시 추적해 올 거야.</s>
+			</Page>
+			<Page>
+				<s>섬 밖으로 유인한 다음에는 듀얼블레이드의 이도류로 도적단을 각개격파하도록 하죠.</s>
+				<s>작전에 성공하면 저들의 전력에 큰 타격을 입힐 수 있을 거예요.</s>
+			</Page>
+			<Page speaker="NPC_Honga_19">
+				<s>지금 바로 지령을 하달하겠습니다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0079" index="56079" sort="Epic">
+
+	<Title>비화원 폐쇄</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>#un#, 이번 작전은 이인일조로 진행한다.</s>
+				<s>넌 나와 오시리아 대륙으로 이동할 거야.</s>
+			</Page>
+			<Page>
+				<s>채비를 모두 마치면 오르비스 정거장에서 합류하자.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>꾸륵!</s>
+			</Page>
+			<Page speaker="player">
+				<s>(글자가 적힌 종이는 없지만 어쩐지 무슨 말을 하는지 알 것 같다.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>수리님도 건투를 빕니다.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page>
+				<s>아직 비화원을 떠나지 않았군요.</s>
+			</Page>
+			<Page>
+				<s>전 설희 언니, 아니, 설희님을 배웅하고 출발하려고요.</s>
+			</Page>
+			<Page>
+				<s>제가 그분과 작전조가 되길 바랐는데…</s>
+			</Page>
+			<Page>
+				<s>아쉽지만 어쩔 수 없죠.</s>
+				<s>홍아님이 있으니.</s>
+			</Page>
+			<Page>
+				<s>설희님은 강하지만 거취가 자유롭지 못해요.</s>
+				<s>다크로드에게 반기를 들어 듀얼블레이드를 조직했으니 도적단의 표적이나 다름없기 때문이죠.</s>
+			</Page>
+			<Page>
+				<s>그래서 홍아님이 설희님의 눈이자 칼이 된 거예요.</s>
+				<s>전 지금보다 더 강하고 현명해져서 그 역할을 물려받는 게 목표랍니다.</s>
+			</Page>
+			<Page>
+				<s>이번 작전도 열심히 해서 공훈을 세울 거예요.</s>
+				<s>그러면 목표에 한 발짝 더 가까워지겠죠?</s>
+			</Page>
+			<Page speaker="player">
+				<s>저도 분발해야겠네요.</s>
+				<s>건투를 빕니다.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<ActiveMemo>오르비스 정거장으로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>#un#, 여기야.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0080" index="56080" sort="Epic">
+
+	<Title>반격 도모</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>바로 출발하자.</s>
+				<s>우리의 목적지는 오시리아 대륙의…</s>
+			</Page>
+			<Page speaker="player">
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>#un#? 무얼 그리 골똘히 생각하는 거야?</s>
+			</Page>
+			<Page>
+				<s>혹시 두고 온 물건이라도 있어?</s>
+				<s>그런 거라면 포기해.</s>
+			</Page>
+			<Page>
+				<s>당분간 비화원은 접근 금지야.</s>
+				<s>거기서 도적단을 마주쳤다간 작전이 수포로 돌아갈 테니까.</s>
+			</Page>
+			<Page speaker="player">
+				<s>설희님은 도적단의 이번 기습이 다크로드답지 않다고 말씀하셨어요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그래서 그가 무리하게 비화원을 습격하려는 이유를 곰곰이 생각해 봤는데 아무래도 슬리피우드 사건 때문인 것 같습니다.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그가 신전을 떠날 때 목격자를 처리하겠다는 뉘앙스의 말을 흘렸거든요.</s>
+			</Page>
+			<Page>
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>다크로드가 슬리피우드에서 일어났던 일을 묻으려 한다는 건가?</s>
+			</Page>
+			<Page speaker="player">
+				<s>아마도요. 그리고 저 또한 그 사건의 목격자입니다.</s>
+				<s>다시 말해 ‘처리’ 대상이죠.</s>
+			</Page>
+			<Page>
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>그렇게까지 해서 감추려고 하는 이유가 뭐지?</s>
+			</Page>
+			<Page speaker="player">
+				<s>그걸 지금부터 알아보려고요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>시바님, 목적지를 슬리피우드로 변경하겠습니다.</s>
+				<s>그 사건은 불가해한 구석이 많아서 조사가 필요해요.</s>
+			</Page>
+			<Page>
+				<s>하지만 작전은?</s>
+			</Page>
+			<Page speaker="player">
+				<s>다크로드가 감추려는 비밀을 폭로하는 게 그에게 가장 치명적인 반격이 될 겁니다.</s>
+			</Page>
+			<Page>
+				<s>음……</s>
+			</Page>
+			<Page speaker="player">
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>일리 있는 의견이야.</s>
+				<s>하지만 그건 이번 작전이 끝난 다음에 설희님과 상의하여 진행하는 게 좋겠어.</s>
+				<s>지금은 명령에 따르는 게 우선이다.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그렇다면 단독 행동이라도 허가해 주세요.</s>
+			</Page>
+			<Page>
+				<s>뜻을 굽힐 생각이 전혀 없군.</s>
+			</Page>
+			<Page speaker="player">
+				<s>일이 끝나면 불복에 대한 처벌은 받겠습니다.</s>
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>다크로드는 강하고 교활한 사내다.</s>
+				<s>너 혼자 상대하는 건 불가능해.</s>
+			</Page>
+			<Page>
+				<s>하지만 도적단의 전력이 듀얼블레이드를 추적하는 일에 집중되어 있는 지금이 바로 그의 뒤를 캐내기에 절호의 기회일지도 모른다는 생각이 드는군.</s>
+			</Page>
+			<Page>
+				<s>그럼 우린 여기서 갈라지자.</s>
+			</Page>
+			<Page>
+				<s>나는 널 믿지만… 부디 조심해.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>발록의 신전으로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>오, 안녕하신가…</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>내게도 안부를 물어봐 주겠어…?</s>
+				<s>왜냐하면 나는 안녕하지 못하거든…</s>
+			</Page>
+			<Page>
+				<s>배가 고파…</s>
+				<s>너무너무 고파서 이러다 아사할 것 같아…</s>
+			</Page>
+			<Page>
+				<s>한동안 아무것도 먹질 못했어…</s>
+				<s>사람 하나 살리는 셈 치고 음식 좀 가져다 줘…</s>
+			</Page>
+			<Page>
+				<s>이왕이면 네펜데스 주스가 좋아…</s>
+				<s>오르비스의 요정 알퐁스 그린이 만든다는 그 주스 말이야…</s>
+			</Page>
+			<Page>
+				<s>부디 제발 나에게 자비를 베풀어 줘…</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0081" index="56081" sort="Epic">
+
+	<Title>걸식하는 목격자</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>안녕하세요! 무슨 일로 마을 밖까지 절 만나러 오셨나요?</s>
+			</Page>
+			<Page>
+				<s>네펜데스의 주스를 부탁하러 오셨다고요?</s>
+				<s>다른 대륙까지 주스의 매력이 소문났군요! 정말 기뻐요!</s>
+			</Page>
+			<Page>
+				<s>주스가 완성되면 연락드릴게요. 어디로 연락드리면 될까요?</s>
+			</Page>
+			<Page>
+				<s>앗, 당장 필요하시다고요?</s>
+				<s>하지만 일부 재료가 소진되어서 지금 바로 내어드릴 순 없어요.</s>
+			</Page>
+			<Page>
+				<s>정 급하시면 부족한 재료를 가져다 주시겠어요?</s>
+				<s>주변에 피어 있는 네펜데스종 식물로부터 [ff7b50]#p_0# #pc_0#개[-]를 구해 주세요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>와, 정말 빠르시네요! 움직임이 마치 그림자 같았어요.</s>
+			</Page>
+			<Page>
+				<s>덕분에 신선한 꿀을 얻었으니 네펜데스 주스가 더욱 맛있게 만들어질 거예요.</s>
+			</Page>
+			<Page>
+				<s>그럼 지금 바로 요리를 시작할게요. 조금만 기다려 주세요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>네펜데스 주스가 완성되었어요!</s>
+			</Page>
+			<Page>
+				<s>어때요? 주스를 만드는 손놀림만은 저도 빠르죠? 헤헤.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<ActiveMemo>발록의 신전으로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>오… 내가 죽기 전에 와서 정말 다행이야…</s>
+			</Page>
+			<Page>
+				<s>그러면 소문의 주스를 어서 내게…!</s>
+			</Page>
+			<Page>
+				<s>(꿀꺽꿀꺽)</s>
+			</Page>
+			<Page>
+				<s>캬아! 이거 정말 굉장한걸!</s>
+				<s>이 한 컵으로 허기도 해결되고 기운도 회복되었어.</s>
+			</Page>
+			<Page>
+				<s>네가 삿갓 쓴 그 녀석 보다 낫군. 껄껄껄.</s>
+			</Page>
+			<Page>
+				<s>보다시피 나는 이곳에서 꼼짝 못 하는 신세라 그 녀석이 늘 음식을 챙겨 주거든.</s>
+			</Page>
+			<Page>
+				<s>그런데 먹고 싶은 요리를 말해도 결코 들어주지 않았지.</s>
+				<s>신전을 오래 비울 순 없다나 뭐라나.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(확실히 저런 무거운 족쇄를 차고 움직이긴 어렵겠군.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(그 사건의 목격자로 이 남자를 의심했었는데 아닌 것 같아.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(이 사람이 목격자였으면 다크로드가 여기에 그냥 둘 리가 없을 테니.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0082" index="56082" sort="Epic">
+
+	<Title>신전의 방문자</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>그런데 요즘 그 삿갓 쓴 녀석이 도통 보이질 않아.</s>
+				<s>대체 어딜 간 거지…?</s>
+			</Page>
+			<Page>
+				<s>하도 오매불망 기다리다 보니 얼마 전에는 다른 사람을 그 녀석으로 착각하기도 했지.</s>
+				<s>하필 그 자도 삿갓을 쓰고 있었거든.</s>
+			</Page>
+			<Page>
+				<s>그런데 자세히 살펴보니 내가 아는 얼굴이었어.</s>
+				<s>세상과 단절된 지 오래라 사람에 대한 기억이 가물가물한데도 그 청년은 잊을 수 없었지.</s>
+			</Page>
+			<Page>
+				<s>마왕 발록을 봉인했던 자니까 말이야.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page speaker="player">
+				<s>그가 누구죠?</s>
+				<s>아직 이 신전에 있습니까?</s>
+			</Page>
+			<Page>
+				<s>여기에 머문 건 잠깐이었어.</s>
+				<s>지금쯤 [ff7b50]페리온[-]으로 돌아갔을 거야.</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]만지[-]는 평소에 그 산에서 수행한다고 했으니까.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page speaker="player">
+				<s>안녕하세요.</s>
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page speaker="player">
+				<s>얼마 전에 슬리피우드 신전을 방문하신 건에 대해 이야기를 듣고 싶습니다.</s>
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page speaker="player">
+				<s>전 듀얼블레이드 소속, #un#입니다.</s>
+			</Page>
+			<Page speaker="player">
+				<s>전대 다크로드 사망 사건을 기억하시나요?</s>
+				<s>당시 그분의 친우가 발록 원정대에 함께 했었다고 들었습니다.</s>
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page speaker="player">
+				<s>그가 바로 당신입니까?</s>
+			</Page>
+			<Page>
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>후…</s>
+			</Page>
+			<Page>
+				<s>여러 사람의 운명을 바꾼 사건이기에 차마 계속해서 침묵만 고수할 수는 없겠지.</s>
+				<s>수행의 규율을 깨뜨린다 하더라도…</s>
+			</Page>
+			<Page>
+				<s>네가 말한 자의 이름은 용사 트리스탄, 내가 아니다.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(슬리피우드에서 보았던 유령의 이름과 같다…!)</s>
+			</Page>
+			<Page>
+				<s>하지만 당시 발록을 봉인한 건 나와 트리스탄님이었지.</s>
+				<s>우리는 승리했지만 나는 마왕의 사념에 의해 치명적인 내상을 입었어.</s>
+				<s>그래서 지금도 회복을 위해 수련 중이지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>하지만 전대 다크로드 역시 마왕을 봉인하기 위해 트리스탄님과 함께 신전으로…</s>
+			</Page>
+			<Page>
+				<s>내 이야기는 아직 끝나지 않았다.</s>
+			</Page>
+			<Page>
+				<s>우리의 사투가 있고 얼마 지나지 않아 봉인이 깨어졌다는 소문이 들려 왔어.</s>
+				<s>그래서 트리스탄님은 벗이었던 당시 다크로드에게 조사에 참여해 줄 것을 청했지.</s>
+			</Page>
+			<Page>
+				<s>다크로드는 자신의 제자 진과 함께 기꺼이 원정에 동참했다.</s>
+				<s>날 배제한 건 부상자를 배려하신 걸 테지. 그런데…</s>
+			</Page>
+			<Page>
+				<s>조사를 떠났던 원정대는 어린 소년이었던 진을 제외하고는 모두 사망했어.</s>
+			</Page>
+			<Page speaker="player">
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>충격이었다.</s>
+				<s>그래서 진상을 밝히기 위해 부상당한 몸을 이끌고 조사를 시작했지.</s>
+			</Page>
+			<Page>
+				<s>그리고 그 사건에 또 다른 생존자인 어린 소녀가 있었고, 그녀가 성님의 딸인 설희라는 사실을 알게 되었어.</s>
+			</Page>
+			<Page>
+				<s>하지만 거기까지였다.</s>
+				<s>진을 추궁해도 그는 아무것도 말해주지 않았고, 설희는 잠적했기 때문에 나는 더 이상 아무것도 알아낼 수 없었지.</s>
+			</Page>
+			<Page>
+				<s>다만 설희가 듀얼블레이드라는 조직의 수장이 되어 나타나 도적단에 대항하는 정황으로 미루어 보아, 그 사건으로 두 사람의 관계가 크게 바뀌었다는 것만은 분명히 알겠더군.</s>
+			</Page>
+			<Page>
+				<s>진에게 복수심을 품고 있는 설희의 태도가 성님과 트리스탄님의 죽음에 진의 과오가 작용했을 거라는 걸 짐작케 할 뿐이야.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(아주 끔찍한 과오였지…)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(다크로드가 슬리피우드 사건을 덮으려는 이유를 알 것 같다.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(과거 사건의 당사자인 트리스탄님이 나타났기 때문이야.</s>
+				<s>그는 자신의 원죄가 드러날까 두려워 유령의 목격자를 제거하려는 거지.)</s>
+			</Page>
+			<Page>
+				<s>…난 그 사건에 대해 지금도 책임을 느낀다.</s>
+			</Page>
+			<Page>
+				<s>내가 봉인을 완전하게 했더라면 두 분이 죽음에 이르지도 않았을 테고 사이 좋았던 소꿉친구가 앙숙이 되지도 않았을 테니까 말이야.</s>
+			</Page>
+			<Page>
+				<s>내가 조금만 더 강했더라면… 윽!</s>
+			</Page>
+			<Page speaker="player">
+				<s>괜찮으세요?</s>
+			</Page>
+			<Page>
+				<s>마왕의 사념이 남긴 상흔이 이따금 욱신거려.</s>
+			</Page>
+			<Page>
+				<s>얼마 전에 그 신전을 다시 찾아간 것도 이 통증 때문이었지.</s>
+				<s>어쩐지 불길한 예감이 들어서…</s>
+			</Page>
+			<Page>
+				<s>걱정 마라.</s>
+				<s>난 이 싸움에서 지지 않을 테니.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(그를 더 괴롭히지 않는 게 좋겠다.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0083" index="56083" sort="Epic">
+
+	<Title>이얀의 다정</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>안녕하세요. 저는 이얀이라고 해요.</s>
+				<s>잠시 실례해도 될까요?</s>
+			</Page>
+			<Page>
+				<s>조금 전에 만지님과 대화를 나누셨죠?</s>
+				<s>그분의 상태는 어떤가요?</s>
+			</Page>
+			<Page>
+				<s>어쩐지 몹시 괴로워 보여서요.</s>
+				<s>그 통증이 또 시작된 것 같은데…</s>
+			</Page>
+			<Page speaker="player">
+				<s>마왕에게 입은 상처 때문만은 아닐 겁니다.</s>
+				<s>괴로움의 원인에 자책감도 크게 작용하는 것처럼 보였거든요.</s>
+			</Page>
+			<Page>
+				<s>그분은 약하지 않아요.</s>
+				<s>위험에 처한 절 구해 줄 정도로 선하고 용감한 사람이죠.</s>
+			</Page>
+			<Page>
+				<s>당시엔 천재 검술사였지만 어렸던 것뿐이에요.</s>
+				<s>그러니 그만 스스로를 용서하면 좋겠는데…</s>
+			</Page>
+			<Page>
+				<s>용사님, 오르비스에 가면 미네르바 여신님의 사랑을 받는 애완동물 [ff7b50]#d_0_0#[-]를 만날 수 있어요.</s>
+			</Page>
+			<Page>
+				<s>그에게서 [ff7b50]#p_0#[-]을 구해 주실 수 있으세요?</s>
+				<s>그 깃털엔 사악한 기운을 정화시키는 힘이 있다고 들었어요.</s>
+				<s>그걸 [ff7b50]만지[-]님께 전해 주셨으면 해요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>알겠습니다.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(그의 트라우마를 상기시킨 책임이 내게도 있으니…)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page speaker="player">
+				<s>이얀님의 선물입니다.</s>
+				<s>사악한 기운을 정화하는 #bp_0#이에요.</s>
+			</Page>
+			<Page>
+				<s>……후, 또 그녀에게 걱정을 끼쳤군.</s>
+			</Page>
+			<Page>
+				<s>못난 모습을 계속 보일 순 없지.</s>
+				<s>더더욱 수행에 집중해야겠어.</s>
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page speaker="player">
+				<s>(그의 상태가 괜찮아질 때까지 당분간 방해하지 말자.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0084" index="56084" sort="Epic">
+
+	<Title>용사의 제자</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page speaker="player">
+				<s>안녕하세요.</s>
+				<s>다시 왔습니다.</s>
+			</Page>
+			<Page speaker="player">
+				<s>기분은 괜찮으신가요?</s>
+				<s>얼굴색은 많이 좋아진 것 같은데…</s>
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page speaker="player">
+				<s>얼마 전에 그 신전을 다시 찾아간 이유도 그 통증 때문이라고 하신 말씀을 기억합니다.</s>
+				<s>혹시 통증이 무언가를 암시하는 건가요?</s>
+			</Page>
+			<Page>
+				<s>……마왕의 사념에 의한 상처다.</s>
+				<s>통증의 재발이 봉인 해제의 조짐일지도 모르지.</s>
+			</Page>
+			<Page>
+				<s>하지만 내가 확인했을 때 봉인은 무사했어.</s>
+				<s>다만 누군가가 봉인을 건드린 흔적이 있더군.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>그리고 [ff7b50]무영[-]이 쓰러져 있었다.</s>
+				<s>그래서 일단 그 녀석을 구조하여 신전에서 빠져나왔지.</s>
+			</Page>
+			<Page>
+				<s>다행히 무영은 얼마 지나지 않아 정신을 차렸어.</s>
+				<s>나는 그가 봉인을 건드린 침략자를 저지하다가 혼절한 게 아닐까 짐작했지.</s>
+				<s>하지만 무영은 아무것도 기억하지 못했어.</s>
+			</Page>
+			<Page speaker="player">
+				<s>무영…?</s>
+			</Page>
+			<Page>
+				<s>내 제자다.</s>
+				<s>원래는 트리스탄님의 제자였는데 그분이 사망한 후에 내가 거두었지.</s>
+			</Page>
+			<Page>
+				<s>그 녀석은 마왕에게 스승을 잃었기 때문에 지금도 신전에서 봉인을 감시하고 경계하는 역할을 수행하고 있어.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(트리스탄님의 사망 원인은 아직 불명확하다.</s>
+				<s>어쩌면 다크로드 때문일 수도 있어.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(하지만 모호한 정보이니 섣불리 말하지 않는 게 좋겠지.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>…혹시 만지님과 비슷한 복장을 한 자인가요?</s>
+			</Page>
+			<Page>
+				<s>그렇다.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(그렇다면 그 자는 그때 왜 우리를 공격한 거지?</s>
+				<s>봉인 수호를 위해서?)</s>
+			</Page>
+			<Page speaker="player">
+				<s>무영은 지금 어디에 있습니까?</s>
+			</Page>
+			<Page>
+				<s>상태가 회복되어 다시 신전으로 돌아갔어.</s>
+				<s>임무를 계속하겠다면서 말이야.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>발록의 신전으로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>오, 안녕하신가!</s>
+				<s>내 생명의 은인이 왔군!</s>
+			</Page>
+			<Page>
+				<s>반가운 소식이 있어.</s>
+				<s>그 녀석이 드디어 돌아왔거든!</s>
+			</Page>
+			<Page>
+				<s>그렇다고 너에게 입은 은혜를 잊진 않을 거야.</s>
+				<s>언젠가 꼭 보답할게.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page>
+				<s>앗! 이런 위험한 곳에 사람이…!</s>
+			</Page>
+			<Page>
+				<s>안녕하세요, 전 만지 스승님의 제자 무영이라고 해요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page speaker="player">
+				<s>(전에 봤던 모습과 전혀 다른 인상인걸.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0085" index="56085" sort="Epic">
+
+	<Title>스승의 유품</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>이전에 이곳에서 저와 만난 적이 있으시다고요?</s>
+			</Page>
+			<Page>
+				<s>제가 검을 들고 당신을 공격했다니…!</s>
+			</Page>
+			<Page>
+				<s>믿을 수 없어요!</s>
+				<s>하지만 저는 아무것도 기억나질 않는걸요.</s>
+			</Page>
+			<Page>
+				<s>제가 기억하는 건 아마 정신을 잃은 동안 꾸었던 꿈뿐이에요.</s>
+				<s>그건 무척 슬픈 꿈이었죠.</s>
+			</Page>
+			<Page>
+				<s>양갈래 머리를 한 소녀가 서 있었어요.</s>
+				<s>소녀의 초점 없는 시선의 끝에는 한 소년이 있었고요.</s>
+			</Page>
+			<Page>
+				<s>마치 세상이 무너진 사람처럼 소년의 얼굴엔 절망이 가득했어요.</s>
+				<s>그리고 그 눈에선 하염없이 눈물이 흘러내렸죠.</s>
+			</Page>
+			<Page>
+				<s>그들이 누군지는 모르겠어요.</s>
+				<s>하지만 어딘지 낯이 익어 보이더군요.</s>
+			</Page>
+			<Page>
+				<s>네? 제가 당신을 공격하던 때에 트리스탄님의 유령도 함께 있었다고요?</s>
+			</Page>
+			<Page>
+				<s>유령이라니…!</s>
+				<s>점점 더 황당한 말씀만 하시는군요?</s>
+			</Page>
+			<Page>
+				<s>스승님을 다시 만나고 싶다고 말씀하셔도 저로선 도와드릴 방법이 없어요.</s>
+				<s>당신의 말이 사실이라면 오히려 제가 그분을 뵙고 싶은 마음인걸요.</s>
+			</Page>
+			<Page>
+				<s>스승님의 일지요?</s>
+				<s>음, 글쎄요… 그분이 살아생전에 일기 같은 걸 쓰셨던가…?</s>
+			</Page>
+			<Page actionCommand="DualBlade_0085_01">
+				<s>제 창고에 스승님의 유품이 남아 있을 거예요.</s>
+				<s>그곳을 뒤져보죠.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>무영의 창고 입장</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0085_02">
+			</Page>
+			<Page>
+				<s>죄송해요.</s>
+				<s>제대로 관리를 하지 않아서 물건이 어지럽게 쌓여 있네요.</s>
+			</Page>
+			<Page>
+				<s>물건은 마음대로 만지셔도 괜찮아요.</s>
+				<s>귀중품이랄 것도 딱히 없으니까요.</s>
+			</Page>
+			<Page>
+				<s>…앗! 이 날개 소리는…!</s>
+			</Page>
+			<Page actionCommand="DualBlade_0085_03">
+				<s>조심하세요!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0085_04">
+			</Page>
+			<Page>
+				<s>휴우, 오랫동안 방치해 두었더니 창고에 위험한 녀석들이 숨어들었었네요.</s>
+			</Page>
+			<Page>
+				<s>…이건 녀석들이 떨어뜨린 물건인가요?</s>
+			</Page>
+			<Page>
+				<s>앗! 이건 스승님이 유품이군요!</s>
+			</Page>
+			<Page>
+				<s>잠시만요…</s>
+			</Page>
+			<Page>
+				<s>…아! 스승님의 기록을 찾았어요!</s>
+			</Page>
+			<Page actionCommand="DualBlade_0085_05">
+				<s>여긴 어두우니 밖으로 나가서 살펴 보시겠어요?</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0086" index="56086" sort="Epic">
+
+	<Title>원정대의 사정</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>자, 여기 트리스탄님의 기록이에요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(문헌을 뒤져 발록에 대한 기록이 있는 페이지를 찾는다.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>…………</s>
+			</Page>
+			<Page speaker="player">
+				<s>(발록 원정대에 대한 내용은 만지님의 증언과 대체로 일치하는군.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(그런데 여기에 흥미로운 정보가 적혀 있어.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(트리스탄님이 만지님을 대신할 동료로 성님께 원정을 의뢰한 줄 알았는데 아니었어.</s>
+				<s>오히려 도적단 측에서 접촉한 모양이야.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>『[i][a3a3a3]…다크로드들은 대대로 ‘역사를 조작하는 자’에 대한 존재를 추적해 왔다고 한다.[-][/i]</s>
+				<s>[i][a3a3a3]그리고 성은 마왕의 봉인이 다시 깨어난 일 역시 그 맥락에서 발생된 문제라고 인식하고 있었다…[-][/i]』</s>
+			</Page>
+			<Page speaker="player">
+				<s>(역사를 조작하는 자…?)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(그 사건에 아직 드러나지 않은 비밀이 더 있는 것 같다.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>…………</s>
+			</Page>
+			<Page speaker="player">
+				<s>(위험한 원정에 어린 제자를 동참시킬 정도면 성님은 진을 무척 신뢰하셨을 거야.</s>
+				<s>그렇다면 그 역시 ‘역사를 조작하는 자’에 대해 알고 있을 거야.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(하물며 그는 그 원정에서 스승을 제거할 계획까지 세웠어.</s>
+				<s>그의 성격상 계략을 성공시키기 위해 모든 변수를 고려했을 테지.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(그렇다면 ‘역사를 조작하는 자’에 대해 많은 정보를 가지고 있을 가능성이 크다.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(위험을 감수하더라도 도적단 본부를 한 번 더 조사해 볼 필요가 있겠어.</s>
+				<s>[ff7b50]커닝시티[-]로 가자.)</s>
+			</Page>
+			<Page>
+				<s>바라시는 정보는 확인하셨나요?</s>
+				<s>그렇다면 스승님의 기록은 다시 잘 보관하겠습니다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>커닝시티로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>아앗! 드디어 만났다!</s>
+			</Page>
+			<Page>
+				<s>역시 실력 있는 도적이라서 그런지 좀처럼 네 행방을 파악할 수 없었어.</s>
+			</Page>
+			<Page speaker="player">
+				<s>?!</s>
+			</Page>
+			<Page speaker="player">
+				<s>(아직도 날 도적이라고 생각하고 있어…)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(하지만 다크로드는 내가 듀얼블레이드라는 걸 눈치챘을 거야.</s>
+				<s>슬리피우드에서 무영을 상대로 이도류를 사용했으니까.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(그리고 지금은 다크로드의 타깃이니 내 정체가 정보원들에게도 알려졌으리라고 생각했는데…)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(듀얼블레이드 추적에 정보원들을 동원하진 않은 모양이다.)</s>
+			</Page>
+			<Page>
+				<s>저번에 네가 고양이 떼를 쫓아 준 일에 대해 보답을 하겠다고 했었잖아?</s>
+				<s>그래서 널 찾은 거야. 난 약속은 확실히 지키는 사람이라고!</s>
+			</Page>
+			<Page>
+				<s>게다가 도적단과의 거래는 더더욱 신용을 지키려고 노력하는 편이지.</s>
+				<s>이 도시의 해결사라서 처리하기 곤란한 문제가 있을 때 종종 도와주니까 말이야.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(그렇다면 다크로드가 일궈 온 도적단의 명성을 이용해 볼까.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>좋습니다.</s>
+				<s>그러면 보답으로 정보를 하나 부탁드려도 될까요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>다크로드님이 외출하시는 때를 알고 싶습니다.</s>
+			</Page>
+			<Page>
+				<s>음, 이상한 요청이네?</s>
+				<s>수장의 스케줄은 네가 직접 물어보는 편이 더 빠를 텐데…</s>
+			</Page>
+			<Page>
+				<s>어쨌든 알겠어.</s>
+				<s>그 의뢰를 보상으로 접수할게.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0087" index="56087" sort="Epic">
+
+	<Title>도시로 귀환</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>#un#! 바로 지금이야!</s>
+			</Page>
+			<Page>
+				<s>다크로드님이 지금 자리를 비우셨어!</s>
+				<s>어디로 가신 건지는 모르겠지만 부재 중이란 건 확실해.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(짐작대로군.</s>
+				<s>흩어져 있는 듀얼블레이드를 추적하기 위해 자주 외출할 거라고 생각했지.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(서두르자.</s>
+				<s>그가 돌아오기 전에 그 밀실을 조사해야 해.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>집배원과 대화</ActiveMemo>
+		<Body>
+			<Page>
+				<s>#un#님! #un#님!</s>
+			</Page>
+			<Page>
+				<s>휴, 걸음이 너무 빨라서 놓칠 뻔했네요.</s>
+			</Page>
+			<Page>
+				<s>#un#님 앞으로 서신이 도착했어요.</s>
+				<s>이걸 전해드리려고 몇 번이나 커닝시티에 방문했지만 계속 안 계셔서 곤란했어요.</s>
+			</Page>
+			<Page>
+				<s>이제라도 전해드리게 되어 정말 다행입니다.</s>
+				<s>그럼 용무가 끝났으니 전 이만 가 볼게요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(지금은 시간이 없어.</s>
+				<s>서신은 나중에 확인하자.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0088" index="56088" sort="Epic">
+
+	<Title>밀실 잠입 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>(정보원의 말대로 다크로드는 없는 것 같다.)</s>
+			</Page>
+			<Page actionCommand="DualBlade_0088_01">
+				<s>(도적단의 눈에 띄지 않도록 조심해서 그 일지가 있는 방으로 숨어들자.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>진의 방 탐색</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0088_02">
+			</Page>
+			<Page actionCommand="DualBlade_0088_03">
+				<s>잠입 성공이군.</s>
+			</Page>
+			<Page>
+				<s>‘역사를 조작하는 자’에 대해 찾아야 해.</s>
+			</Page>
+			<Page speaker="NPC_TheDarkLordsDiary_00">
+				<s>(책장을 살펴 본다.)</s>
+			</Page>
+			<Page>
+				<s>…………!</s>
+			</Page>
+			<Page>
+				<s>찾았다!</s>
+			</Page>
+			<Page speaker="NPC_TheDarkLordsDiary_00" actionCommand="DualBlade_0088_04">
+				<s>『[i][a3a3a3]X월 X일[-][/i]</s>
+				<s>[i][a3a3a3]…영웅의 종적을 쫓다가 엘나스에 위치한 대마법사의 연구실에서 문헌을 하나 입수했다.[-][/i]</s>
+				<s>[i][a3a3a3]거기에 ‘역사를 조작하는 자’의 행적으로 추정되는 기록이 있었다.[-][/i]</s>
+				<s>[i][a3a3a3]사실 입증을 위해 문헌 분석을 그에게 의뢰…[-][/i]』</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0088_05">
+			</Page>
+			<Page actionCommand="DualBlade_0088_06">
+				<s>도적들이 더 몰려 오기 전에 여기서 빠져나가자!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<ActiveMemo>니오라 병원으로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>후… 무사히 따돌린 건가…</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0089" index="56089" sort="Epic">
+
+	<Title>익명의 회합</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>언제까지 여기에 숨어있을 순 없어.</s>
+				<s>들키는 건 시간 문제다.</s>
+			</Page>
+			<Page>
+				<s>일단 이 도시를 벗어나야 해.</s>
+				<s>그런데 어디로 가지?</s>
+				<s>시바님이 계시는 오시리아 대륙으로 갈까?</s>
+			</Page>
+			<Page>
+				<s>…아!</s>
+			</Page>
+			<Page>
+				<s>아까 집배원한테 받은 서신을 먼저 확인해 보자.</s>
+			</Page>
+			<Page>
+				<s>『[i][a3a3a3]늪지대 오두막으로 즉시 이동하라[-][/i]』</s>
+			</Page>
+			<Page>
+				<s>내용은 이게 전부야.</s>
+				<s>누가 보낸 거지?</s>
+			</Page>
+			<Page>
+				<s>이건 구조일까?</s>
+				<s>아니면 함정?</s>
+			</Page>
+			<Page>
+				<s>…지금이 아니면 한동안 다시 이 도시로 돌아오기 어렵겠지.</s>
+			</Page>
+			<Page>
+				<s>그렇다면 피하기 보다 부딪치는 쪽을 선택하자!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>늪지대 오두막으로 이동</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0089_01">
+			</Page>
+			<Page>
+				<s>저 오두막 안에 무엇이 기다리고 있을지…</s>
+				<s>긴장되는군.</s>
+			</Page>
+			<Page>
+				<s>각오를 단단히 하고 오두막 문을 열자.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<ActiveMemo>설희와 대화</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0089_02">
+			</Page>
+			<Page speaker="NPC_LadySyl_05">
+				<s>오랜만이군요, #un#.</s>
+			</Page>
+			<Page speaker="NPC_LadySyl_05">
+				<s>하지만 회포를 풀 시간이 없네요.</s>
+				<s>도적단이 이곳도 곧 수색할 테니까요.</s>
+			</Page>
+			<Page speaker="NPC_LadySyl_05">
+				<s>그러니 짧게 말할게요.</s>
+			</Page>
+			<Page speaker="NPC_LadySyl_05" actionCommand="DualBlade_0089_03">
+				<s>듀얼블레이드 내부에 도적단과 내통하는 자가 있어요.</s>
+			</Page>
+			<Page>
+				<s>그, 그게 정말인가요?</s>
+			</Page>
+			<Page speaker="NPC_LadySyl_05">
+				<s>당신에게 보낸 서신을 아직 가지고 있나요?</s>
+				<s>그 서신을 지금 펼쳐 보세요.</s>
+			</Page>
+			<Page>
+				<s>……!!</s>
+			</Page>
+			<Page>
+				<s>글자가 사라졌다…?!</s>
+			</Page>
+			<Page speaker="NPC_LadySyl_05">
+				<s>수신자가 펼치는 순간부터 글자가 서서히 지워지기 때문입니다.</s>
+			</Page>
+			<Page speaker="NPC_LadySyl_05">
+				<s>그 종이는 증거를 남기지 않기 위해 특수하게 고안된 밀지용 두루마리예요.</s>
+				<s>오직 듀얼블레이드만이 사용하죠.</s>
+			</Page>
+			<Page speaker="NPC_LadySyl_05">
+				<s>그런데 그 종이가 도적단 본부에서 발견되었어요.</s>
+			</Page>
+			<Page>
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>그렇다면 내통자는 누굽니까?</s>
+			</Page>
+			<Page speaker="NPC_LadySyl_05">
+				<s>아직 몰라요.</s>
+				<s>하지만 당신은 아니죠.</s>
+			</Page>
+			<Page>
+				<s>?!</s>
+			</Page>
+			<Page>
+				<s>절 믿어 주시는 겁니까?</s>
+			</Page>
+			<Page speaker="NPC_LadySyl_05">
+				<s>정황 증거가 있거든요.</s>
+				<s>도적단 본부에서 그 종이를 되찾아 온 사람이 바로 당신이니까요.</s>
+			</Page>
+			<Page>
+				<s>제가 언제…</s>
+			</Page>
+			<Page speaker="NPC_LadySyl_05">
+				<s>제 앞으로 조화를 보냈었잖아요?</s>
+			</Page>
+			<Page>
+				<s>!!!</s>
+			</Page>
+			<Page>
+				<s>…그 종이는 다크로드의 일지 사이에 끼워져 있었습니다.</s>
+			</Page>
+			<Page speaker="NPC_LadySyl_05">
+				<s>그렇다면 내통자는 도적단의 일원이 아니라 다크로드와 직접 연결되어 있겠네요.</s>
+			</Page>
+			<Page speaker="NPC_LadySyl_05">
+				<s>듀얼블레이드가 흩어져 있는 지금 상황에서 이런 일이 발생한 건 조직의 존폐를 위협하는 중차대한 문제라고 생각해요.</s>
+			</Page>
+			<Page speaker="NPC_LadySyl_05">
+				<s>따라서 혐의를 두고 동료들을 조사하는 건 괴로운 일이지만, 내통자를 찾아낼 겁니다.</s>
+			</Page>
+			<Page>
+				<s>제가 무엇을 하면 됩니까?</s>
+			</Page>
+			<Page speaker="NPC_LadySyl_05">
+				<s>우선 여기서 벗어나 안전한 장소로 가세요.</s>
+				<s>당신의 역할은 차후에 알려주겠습니다.</s>
+			</Page>
+			<Page speaker="NPC_LadySyl_05" actionCommand="DualBlade_0089_04">
+				<s>결코 저들에게 잡혀선 안 됩니다.</s>
+				<s>당신은 지금 제가 유일하게 믿고 있는 사람이라는 걸 잊지 마세요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0090" index="56090" sort="Epic">
+
+	<Title>절망 끝에서</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>……아직 설희님으로부터 소식이 없다.</s>
+			</Page>
+			<Page>
+				<s>그동안 나는 내가 할 수 있는 일을 하기 위해 이곳 엘나스까지 왔지.</s>
+			</Page>
+			<Page>
+				<s>다크로드의 일지에 기록되어 있던 대마법사의 연구실을 찾아 보자.</s>
+			</Page>
+			<Page>
+				<s>별다른 소득이 없더라도 아무것도 하지 않는 것보다는 나으니까.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>낯선 얼굴이군. 이 마을은 처음인가?</s>
+				<s>이래봬도 사냥꾼이라 눈썰미가 좋거든.</s>
+				<s>비록 안대를 하고 있지만 한쪽 눈만으로도 충분해.</s>
+			</Page>
+			<Page>
+				<s>뭐? 대마법사를 찾아왔다고?</s>
+				<s>아, 알케스터님 말인가?</s>
+			</Page>
+			<Page>
+				<s>이걸 어쩌나. 그분은 지금 마을에 안 계셔.</s>
+				<s>얼마 전부터 연구실에 틀어박히신 것 같거든.</s>
+			</Page>
+			<Page>
+				<s>연구실의 위치 말인가?</s>
+				<s>오르비스 탑 1층에 낡은 문이 하나 보일 거야.</s>
+				<s>거기가 바로 그분의 연구실이지.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0091" index="56091" sort="Epic">
+
+	<Title>설산의 대마법사</Title>
+
+	<Task index="1">
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0091_01">
+			</Page>
+			<Page>
+				<s>이게 연구실 문인가.</s>
+			</Page>
+			<Page>
+				<s>(똑똑) 계십니까-?</s>
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>(쿵쿵) 아무도 안 계십니까-?</s>
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>대답이 없군.</s>
+				<s>그 마법사님은 어디 가신 건가.</s>
+			</Page>
+			<Page>
+				<s>…들어가 보자.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>알케스터의 연구실 입장</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0091_02">
+			</Page>
+			<Page actionCommand="DualBlade_0091_03">
+				<s>……조용한걸.</s>
+			</Page>
+			<Page>
+				<s>콜록콜록!</s>
+			</Page>
+			<Page actionCommand="DualBlade_0091_04">
+				<s>윽, 먼지 때문에 기침이 멎질 않아. 콜록콜록.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<ActiveMemo>알케스터와 대화</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0091_05">
+			</Page>
+			<Page>
+				<s>…아니, 이게 웬 소란이지?</s>
+			</Page>
+			<Page>
+				<s>이런, 연구에 집중하느라 손님이 온 줄도 몰랐군.</s>
+				<s>무슨 일로 날 찾아왔는가?</s>
+			</Page>
+			<Page speaker="player">
+				<s>‘역사를 조작하는 자’에 대한 정보를 구하고 있습니다.</s>
+			</Page>
+			<Page>
+				<s>허허, 그렇잖아도 얼마 전에 방문한 손님 때문에 그에 관련된 연구를 하고 있었네.</s>
+			</Page>
+			<Page speaker="player">
+				<s>영웅 팬텀님 말씀입니까?</s>
+			</Page>
+			<Page>
+				<s>오, 자네도 알고 있었군.</s>
+				<s>그는 ‘수백 년 동안 영체가 사라지지 않고 존재할 수 있는 비법’에 대해 문의하기 위해 찾아왔었지.</s>
+			</Page>
+			<Page>
+				<s>그래서 난 세 가지 조건에 대해 일러 주었네.</s>
+			</Page>
+			<Page>
+				<s>육체가 완전한 죽음의 상태에 이르지 않아야 할 것.</s>
+				<s>이 세상 어딘가에 영체를 묶어둘 육체가 온전히 남아 있을 것.</s>
+				<s>그리고 둘의 관계가 끊어지지 않도록 생명력을 유지할 것.</s>
+			</Page>
+			<Page>
+				<s>그런데 그 방문 뒤로 나의 스승님께서 영체에 대해 언급하셨던 일이 떠오르더군.</s>
+				<s>그래서 그분의 기록을 뒤져 보니 300년 전 전쟁에서 빙의 현상으로 추정되는 목격담이 다수 기록되어 있었어.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page speaker="player">
+				<s>(영체 그리고 빙의라…)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(슬리피우드에서 무영의 상태가 이상했던 이유가 혹시…)</s>
+			</Page>
+			<Page>
+				<s>그리고 그 현상이 보고된 시점과 역사에 모순이 발생하는 시점이 묘하게 일치하고 있더군.</s>
+				<s>아마 자네가 말하는 ‘역사를 조작하는 자’와 관련되어 있는 것 같지 않은가?</s>
+			</Page>
+			<Page speaker="player">
+				<s>팬텀님이 문의를 한 까닭이 뭔가요?</s>
+				<s>혹시 그 현상들의 원인이 되는 영체가 나타났기 때문인가요?</s>
+				<s>그렇다면 그 영체의 정체는 뭐죠?</s>
+			</Page>
+			<Page>
+				<s>글쎄, 그 영웅에게 물어야 할 질문인 것 같군.</s>
+			</Page>
+			<Page speaker="player">
+				<s>팬텀님의 소재를 아시나요?</s>
+			</Page>
+			<Page>
+				<s>신출귀몰한 영웅의 행방을 내 어찌 알겠는가?</s>
+			</Page>
+			<Page actionCommand="DualBlade_0091_06">
+				<s>아마 그를 직접 찾는 것보단 차라리 그에게 전언을 보내는 쪽이 더 빠르겠지.</s>
+				<s>마을에 집배원이 방문하면 자네에게 일러 주겠네.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0092" index="56092" sort="Epic">
+
+	<Title>기다리던 방문</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>알케스터님께서 연구로 바쁘셔서 나에게 자네의 일을 부탁하셨어.</s>
+			</Page>
+			<Page>
+				<s>마을에 집배원이 방문하면 알려 주라고 하시더군.</s>
+				<s>지금 그가 왔으니 용무가 있다면 어서 가서 만나 봐.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>집배원과 대화</ActiveMemo>
+		<Body>
+			<Page>
+				<s>안녕하세요.</s>
+				<s>제 도움이 필요하신가요?</s>
+			</Page>
+			<Page>
+				<s>아, 서신을 발송하고 싶으시군요.</s>
+			</Page>
+			<Page>
+				<s>…수신자는 팬텀님이시군요.</s>
+				<s>네, 지금 바로 접수해 드리겠습니다.</s>
+			</Page>
+			<Page>
+				<s>아, 그리고 잠시만요!</s>
+				<s>#un#님 앞으로 소포가 도착했어요.</s>
+			</Page>
+			<Page>
+				<s>커닝시티에 계시지 않아서 수취인 불명으로 일단 페리온에 가져가려고 했는데 여기서 만나서 정말 다행입니다.</s>
+			</Page>
+			<Page>
+				<s>소포는 여기 전달드렸습니다.</s>
+				<s>항상 이용해 주셔서 감사합니다!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0093" index="56093" sort="Epic">
+
+	<Title>설희의 지령</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>…소포에 서신이 동봉되어 있군.</s>
+			</Page>
+			<Page>
+				<s>그리고 보내는 사람의 이름이 적혀 있지 않아.</s>
+				<s>그렇다면…</s>
+			</Page>
+			<Page>
+				<s>일단 서신부터 확인해 볼까.</s>
+			</Page>
+			<Page>
+				<s>『[i][a3a3a3]니할 사막 모래그림단 아지트를 찾아라[-][/i]』</s>
+			</Page>
+			<Page>
+				<s>그리고 소포 내용물은…</s>
+				<s>설희님의 인장이다!</s>
+			</Page>
+			<Page>
+				<s>드디어 지령이 도착했어!</s>
+			</Page>
+			<Page>
+				<s>바로 움직이자!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>모래그림단 아지트로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>…이건 인장이로군.</s>
+			</Page>
+			<Page>
+				<s>만나서 반갑네.</s>
+				<s>내가 바로 모래그림단의 단장 자노라네.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0094" index="56094" sort="Epic">
+
+	<Title>비밀 결사단과의 거래</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>자네가 듀얼블레이드 수장의 심부름꾼인가?</s>
+			</Page>
+			<Page actionCommand="DualBlade_0094_01">
+				<s>그렇다면 내게 그걸 증명해 보이게.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<PassiveMemo>#p_0#과 전투</PassiveMemo>
+		<Body>
+			<Page skip="true">
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page>
+				<s>검술을 보니 듀얼블레이드가 맞군.</s>
+				<s>도난이나 위조가 가능한 인장만으로는 완전히 신용할 수가 없어서 말이야.</s>
+			</Page>
+			<Page>
+				<s>의뢰인과 심부름꾼이 달라서 확실히 하고 싶었던 것뿐이니 양해 바라네.</s>
+			</Page>
+			<Page>
+				<s>그럼 여기 두 개의 두루마리를 받게나.</s>
+			</Page>
+			<Page>
+				<s>하나는 설희님이 맡긴 서신이고, 다른 하나는 설희님이 의뢰한 정보지.</s>
+			</Page>
+			<Page>
+				<s>첫 번째 서신은 자네 혼자서 확인하고, 두 번째 서신은 설희님께 전하면 되네.</s>
+			</Page>
+			<Page>
+				<s>절대 집배원에게 맡기지 말고 직접 전해야 하네!</s>
+			</Page>
+			<Page>
+				<s>거래는 여기까지야.</s>
+				<s>이제 남은 건 자네 몫이지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(둘 다 내가 도적단 본부에서 손에 넣었던 그 종이와 재질이 같군.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(지시대로 첫 번째 서신을 확인해 보자.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>『[i][a3a3a3] X월 X일 X시, 향기 없는 꽃이 피어 있는 곳으로[-][/i]』</s>
+			</Page>
+			<Page speaker="player">
+				<s>(약속 날짜는 아직 꽤 남았군.</s>
+				<s>그때까지 다른 하나의 서신을 잘 보관해야겠다.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0095" index="56095" sort="Epic">
+
+	<Title>불길한 예감</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>약속 날짜는 아직이야.</s>
+			</Page>
+			<Page>
+				<s>그런데 어쩐지 그때는 흘려들었던 모래그림단 단장님의 경고가 마음에 걸려.</s>
+			</Page>
+			<Page>
+				<s>절대 집배원에게 맡기지 말라고 하셨었지…</s>
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>집배원이 수취인 불명의 서신이나 소포를 [ff7b50]페리온[-]으로 회수해 가는 것 같았어.</s>
+				<s>그곳으로 가 보자.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>페리온으로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>앗, 안녕하세요.</s>
+				<s>혹시 배송 사고로 분실된 배송품 명단을 확인하러 오셨나요?</s>
+				<s>성함이…?</s>
+			</Page>
+			<Page>
+				<s>#un#님이시군요.</s>
+				<s>잠시만요, 확인해 보겠습니다.</s>
+			</Page>
+			<Page>
+				<s>…아! 팬텀님께 보내는 서신 하나를 저희에게 맡기셨었군요.</s>
+			</Page>
+			<Page>
+				<s>확인해 보니 그 서신이 분실된 배송품에 포함되어 있습니다.</s>
+				<s>정말 죄송합니다!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0096" index="56096" sort="Epic">
+
+	<Title>배송 사고</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="player">
+				<s>(사고로 위장해 배송품을 빼돌린다…</s>
+				<s>기시감이 느껴지는걸.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(리스항구의 정보상인이 도적단에게 당했던 수법이야!)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(그렇다면 난 지금 도적단의 감시망 안에 있는 건가?)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(약속 날짜가 오기 전에 감시자로부터 벗어나야 한다.</s>
+				<s>그렇지 않으면 설희님까지 위험해질 거야.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(감시자를 역추적하자.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>배송 사고가 난 위치가 어디죠?</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]마가티아[-]입니다.</s>
+				<s>지금 [ff7b50]휴이[-]가 그곳에서 사고를 수습 중이죠.</s>
+			</Page>
+			<Page>
+				<s>소식이 오는 대로 기별하겠습니다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>마가티아로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>앗! #un#님!</s>
+			</Page>
+			<Page>
+				<s>이번에는 마가티아에서 뵙는군요.</s>
+			</Page>
+			<Page>
+				<s>배송 사고 소식을 들으셨다고요?</s>
+				<s>아아, 정말 면목 없습니다!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0097" index="56097" sort="Epic">
+
+	<Title>사고 수습 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>이 도시는 워낙 폐쇄되어서 배송이 어려운 지역입니다.</s>
+				<s>그래서 사고 수습도 쉽지 않네요.</s>
+			</Page>
+			<Page>
+				<s>네? 절 도와주시겠다고요?</s>
+				<s>어우, 그러면 저야 정말 감사하죠!</s>
+			</Page>
+			<Page>
+				<s>배송을 위해 제가 이동했던 경로를 되짚고 있었습니다.</s>
+			</Page>
+			<Page>
+				<s>#un#님께는 그 중 한 곳인 [ff7b50]연구소 102호[-] 구역을 부탁드릴게요.</s>
+				<s>거긴 제가 제뉴미스트 연금술사들에게 배달하기 위해 지났던 길입니다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>돌아오셨군요.</s>
+				<s>연구소 102호에 분실된 배송품이 있었나요?</s>
+			</Page>
+			<Page>
+				<s>아… 아무것도 없었군요.</s>
+				<s>거기가 아닌 모양이네요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0098" index="56098" sort="Epic">
+
+	<Title>사고 수습 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>알카드노 연금술사에게 배달하기 위해 지났던 길은 [ff7b50]연구소 C-2 구역[-]입니다.</s>
+				<s>여기도 수색을 부탁드리겠습니다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>연구소 수색은 어떠셨나요?</s>
+			</Page>
+			<Page>
+				<s>…배송품도 단서도 찾지 못하셨군요.</s>
+				<s>이번에도 낭패군요.</s>
+			</Page>
+			<Page>
+				<s>#un#님, 정말 죄송합니다!</s>
+			</Page>
+			<Page>
+				<s>차후에 반드시 배상해 드리겠습니다.</s>
+				<s>다만 더 이상 배송이 지연되면 안 되기 때문에 일단 남은 물건을 모두 배송한 뒤에 듀이와 논의해서 처리해 드리겠습니다.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(서신을 되찾지 못한 건 괜찮아.</s>
+				<s>다시 쓰면 되니까.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(문제는 감시자를 찾지 못한 채 약속 날짜가 다가오고 있다는 것이다…)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0099" index="56099" sort="Epic">
+
+	<Title>브로커의 제안</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>이봐, 잠깐만!</s>
+			</Page>
+			<Page>
+				<s>내가 제뉴미스트 연구소와 알카드노 연구소 사이를 아슬아슬하게 오가는 집배원을 내내 지켜봤거든.</s>
+				<s>그러다가 우연히 그의 뒤를 따라붙는 그림자 하나를 보았지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>어때? 관심 있나?</s>
+				<s>그렇다면 나와 거래를 하지 않겠어?</s>
+			</Page>
+			<Page>
+				<s>내 의뢰인의 연구에 손을 빌려줬으면 해.</s>
+				<s>그는 지금 꽃의 향기를 배가시키는 방법에 대해 실험 중이거든.</s>
+				<s>그리고 그 실험엔 제뉴미스트 연구소에서만 구할 수 있는 재료가 필요하지.</s>
+			</Page>
+			<Page>
+				<s>문제는 내 의뢰인이 제뉴미스트 소속의 연금술사가 아니라는 거야.</s>
+				<s>그래서 자네가 대신 잠입하여 그 재료를 구해주었으면 해.</s>
+			</Page>
+			<Page>
+				<s>그건 [ff7b50]연구소 103호[-]에서 연성하고 있는 실험체 [ff7b50]#d_0_0#[-]한테서 얻을 수 있는 [ff7b50]#p_0#[-]이야.</s>
+				<s>그럼 부탁할게.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>오오, 고마워!</s>
+				<s>덕분에 의뢰인을 만족시킬 수 있겠어.</s>
+			</Page>
+			<Page>
+				<s>그러면 약속한 대로 집배원을 쫓던 그림자에 대한 정보를 줄게.</s>
+			</Page>
+			<Page>
+				<s>그는 자네처럼 두 개의 검을 가지고 있었어.</s>
+				<s>그리고 그의 검술 또한 자네의 것과 몹시 닮아 있었지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page speaker="player">
+				<s>(그렇다면 나를 감시하던 그 자가 바로 내통자야!)</s>
+			</Page>
+			<Page speaker="player">
+				<s>그 자는 지금 어디에 있는지 아십니까?</s>
+			</Page>
+			<Page>
+				<s>배송 사고가 난 뒤로는 보지 못했어.</s>
+				<s>아마 이 도시를 떠난 게 아닐까?</s>
+			</Page>
+			<Page speaker="player">
+				<s>(정보를 정리해 보자.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(그는 나를 계속 감시하고 있었어.</s>
+				<s>그리고 내가 팬텀님께 서신을 보내는 걸 막으려 했지.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(그래서 엘나스에서부터 집배원에게 따라붙어 기회를 엿보았고, 결국 마가티아에서 배송 사고를 일으켜 서신을 가로채는 데에 성공한 것 같다.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(그러면 그 다음엔…?)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(아마 다시 감시자 역할을 수행하기 위해 나를 추적하지 않았을까?)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(하지만 그가 지금 마가티아에 없다는 건 나와 엇갈린 거겠지.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(약속 날짜까지 가급적 자취를 남기지 않도록 조심히 움직여야겠어.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0100" index="56100" sort="Epic">
+
+	<Title>비화원 귀환</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>드디어 약속 날짜가 되었다!</s>
+			</Page>
+			<Page>
+				<s>감시자가 따라붙지 않도록 주의하면서 서신에 적혀 있던 ‘향기 없는 꽃이 피어 있는 곳’으로 가자.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>비화원으로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>오랜만에 돌아왔군.</s>
+			</Page>
+			<Page>
+				<s>향기 없는 꽃이 피어 있는 곳…</s>
+			</Page>
+			<Page>
+				<s>그건 오직 나만이 알아차릴 수 있는 메시지야.</s>
+			</Page>
+			<Page>
+				<s>향기 없는 꽃은 내가 종이로 접었던 조화를 말하는 거니까.</s>
+			</Page>
+			<Page>
+				<s>그리고 내가 보낸 조화가 설희님께 전달된 장소는 바로 여기, 비화원이지.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<ActiveMemo>설희의 방으로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>어서 와요, #un#.</s>
+				<s>당신이 시간에 맞춰 올 거라고 믿었어요.</s>
+			</Page>
+			<Page>
+				<s>하지만 도적단도 듀얼블레이드 동료들도 제가 이곳에 있을 거라고는 생각하지 못하겠죠.</s>
+				<s>등잔 밑이 어두운 법이니까요.</s>
+			</Page>
+			<Page>
+				<s>그리고 당신 역시 우리의 작전에서 벗어난 독단적인 행보를 보인 것 같더군요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>반격의 실마리를 찾고 싶었습니다.</s>
+			</Page>
+			<Page>
+				<s>그래서 결과는요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>(지금까지 알아 낸 정보를 상세히 보고한다.)</s>
+			</Page>
+			<Page>
+				<s>……빙의 현상을 일으킨 영체와 역사를 조작하는 자가 동일 인물이라는 건가요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>저는 그렇게 추정합니다.</s>
+			</Page>
+			<Page>
+				<s>그리고 다크로드 역시 그 인물에 대해 조사하고 있다는 거군요…</s>
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>보고는 여기까진가요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>네.</s>
+			</Page>
+			<Page>
+				<s>모래그림단의 서신은요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>지시하신 대로 밀봉 상태로 가져왔습니다.</s>
+			</Page>
+			<Page>
+				<s>지금 바로 확인해 보죠.</s>
+			</Page>
+			<Page speaker="player">
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>…그들에게 의뢰한 건 듀얼블레이드 조직원들의 행적 조사예요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>조직원들이 뿔뿔이 흩어져 있는 상황에서 내통자를 효율적으로 가려내기 위해서 그들과 거래를 한 거죠.</s>
+			</Page>
+			<Page>
+				<s>……그리고 이 조사로 내통자가 한 사람으로 추려진 것 같군요.</s>
+			</Page>
+			<Page>
+				<s>유일하게 행적을 추적할 수 없었던 자…</s>
+			</Page>
+			<Page>
+				<s>바로 홍아예요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!!!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0101" index="56101" sort="Epic">
+
+	<Title>내통자의 정체 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>우리의 작전은 도적단을 유인하는 것이었어요.</s>
+			</Page>
+			<Page>
+				<s>따라서 조직원들은 일부러 자취를 남기면서 이동했죠.</s>
+				<s>그래서 모래그림단은 조직원들의 행적을 쉽게 알아낼 수 있었어요.</s>
+			</Page>
+			<Page>
+				<s>그런데 이런 상황에서 행방이 묘연하다는 건 의심을 피할 수 없는 상당한 사유예요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>하지만 홍아님이 그럴 리가…</s>
+			</Page>
+			<Page>
+				<s>납득할 수 없는 건 저도 마찬가집니다.</s>
+				<s>그의 충심을 단 한 번도 의심해 본 적이 없으니까요.</s>
+			</Page>
+			<Page>
+				<s>그래서 이 정황 증거가 진실을 가리키고 있는지 확인해 보려고 해요.</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]마가티아[-]에 배송 사고를 일으킨 자를 목격한 이가 있다고 했죠?</s>
+				<s>그에게 이 홍아의 초상화를 보여 주세요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>마가티아로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>오, 또 만났군.</s>
+			</Page>
+			<Page>
+				<s>거래는 언제나 환영이야.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0102" index="56102" sort="Epic">
+
+	<Title>내통자의 정체 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>초상화를 확인해 주었으면 한다고?</s>
+				<s>그리 어려운 일이 아니니 좋아.</s>
+			</Page>
+			<Page>
+				<s>하지만 이것도 엄연히 거래이니 대가는 제대로 지불해야 해.</s>
+			</Page>
+			<Page>
+				<s>일전에도 말했지만 지금 난 의뢰인의 연구를 돕고 있어.</s>
+				<s>그런데 재료가 부족해서 실험에 그다지 진척이 없는 모양이더라고.</s>
+			</Page>
+			<Page>
+				<s>그러니 자네가 그 재료를 가져다 주면 좋겠어.</s>
+				<s>[ff7b50]연구소 203호[-]에서 [ff7b50]#p_0#[-]를 부탁할게.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>크, 세월아 네월아 연구만 하는 연금술사들만 보다가 자네와 같은 용사와 거래를 하니 일처리가 빨라서 좋군.</s>
+			</Page>
+			<Page>
+				<s>재료가 마련되었으니 내 의뢰인의 연구도 박차를 가하겠지.</s>
+			</Page>
+			<Page>
+				<s>자, 그럼 이제 초상화를 보여 주겠어?</s>
+			</Page>
+			<Page>
+				<s>어디 보자……</s>
+			</Page>
+			<Page>
+				<s>……오! 그래 맞아, 이 얼굴이야!</s>
+			</Page>
+			<Page>
+				<s>집배원 주변을 서성거리던 자는 이 사내가 확실해!</s>
+			</Page>
+			<Page>
+				<s>난 시력이 좋으니 틀릴 리가 없어.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<ActiveMemo>비화원으로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>어서 와요, #un#.</s>
+			</Page>
+			<Page>
+				<s>…당신의 비통한 표정을 보니 목격자에게 확언을 받은 거군요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>제가 처음 무언가 이상하다고 느낀 건 한창 작전이 진행되는 와중이었어요.</s>
+			</Page>
+			<Page>
+				<s>우리를 추적하는 도적단의 태도가 어딘지 묘했거든요.</s>
+			</Page>
+			<Page>
+				<s>그들은 적당한 거리를 유지하려는 것 같았고 전투도 피하는 것처럼 보였어요.</s>
+			</Page>
+			<Page>
+				<s>그래서 작전을 수행하면서도 저들의 술수에 말려든 것 같다는 찜찜한 기분을 지울 수 없었죠.</s>
+			</Page>
+			<Page>
+				<s>듀얼블레이드가 본부에서 벗어나 구심점을 잃고 와해되는 것, 이게 바로 그들의 계획이었네요.</s>
+			</Page>
+			<Page>
+				<s>하지만 낙담하지 마세요.</s>
+			</Page>
+			<Page>
+				<s>듀얼블레이드는 배신의 역사에서 태어난 조직입니다.</s>
+				<s>겨우 이 정도로 좌절하지 않아요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0103" index="56103" sort="Epic">
+
+	<Title>듀얼블레이드 집결</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>내부자의 배신으로 비화원은 사실상 도적단에게 노출된 것과 다름없는 상태가 되었어요.</s>
+				<s>하지만 새 은신처를 찾아 숨을 생각은 없어요.</s>
+				<s>이제부턴 정면 승부를 할 겁니다.</s>
+			</Page>
+			<Page>
+				<s>조직원들이 작전을 중단하고 비화원으로 귀환했어요.</s>
+				<s>우리는 도적단의 습격에 대비해 방비하는 한편 그들에 대한 반격을 시작할 거예요.</s>
+			</Page>
+			<Page>
+				<s>다크로드의 집권을 방치할수록 그의 세력은 더욱 공고해질 거예요.</s>
+				<s>따라서 빠른 시일 내에 그를 실각시켜야 해요.</s>
+			</Page>
+			<Page>
+				<s>당신도 힘을 보태 주세요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>오, #un#!</s>
+				<s>위기 상황에서 네가 설희님께 큰 도움이 되었다고 들었어.</s>
+				<s>정말 수고했다.</s>
+			</Page>
+			<Page>
+				<s>이번엔 내가 나설 차례야.</s>
+				<s>도적단이 내부자와 결탁하여 우리 뒤통수를 쳤잖아?</s>
+			</Page>
+			<Page>
+				<s>홍아 녀석이 대체 무슨 생각으로 그런 짓을 저질렀는지 이해할 수는 없지만, 어쨌든 난 그것을 역이용할 생각이거든.</s>
+			</Page>
+			<Page>
+				<s>모래그림단 보고서를 보면 그들이 홍아를 추적한 마지막 장소가 엘리니아 숲이라고 되어 있어.</s>
+			</Page>
+			<Page>
+				<s>그런데 예전에 내가 도적단 감시 임무를 맡았을 때 그들이 주기적으로 그 숲에 들락거리는 걸 봤었거든.</s>
+			</Page>
+			<Page>
+				<s>공교롭게도 홍아의 행적이 끊긴 장소와 일치하지.</s>
+				<s>난 이게 우연이 아니라고 생각해!</s>
+			</Page>
+			<Page>
+				<s>그래서 동료들과 함께 숲을 탐색해 봤는데 아무런 단서도 발견하지 못했어.</s>
+				<s>다만 그들이 숲을 출입한 건 사실이니 흔적 없는 게 오히려 더 수상했지.</s>
+			</Page>
+			<Page>
+				<s>도적들은 은닉술에 탁월해.</s>
+				<s>그래서 난 면밀한 조사 끝에 숲의 지형과 그곳에 잔재해 있는 흑마법의 흔적을 이용하여 은폐된 장소가 있다는 사실을 알아냈지.</s>
+			</Page>
+			<Page>
+				<s>원인을 파악했으니 이제 문제를 해결하는 일만 남았어.</s>
+				<s>난 지금부터 숲의 지형 문제를 처리할 생각이야.</s>
+				<s>그러니 네가 흑마법에 대한 문제를 맡아주었으면 해.</s>
+			</Page>
+			<Page>
+				<s>엘리니아 숲에 남아 있는 흑마법의 기운을 거두기 위해선 [ff7b50]마법도서관[-]에 계신 [ff7b50]하인즈[-]님의 도움이 필요해.</s>
+			</Page>
+			<Page>
+				<s>사실 숲의 어둠은 그분으로부터 비롯된 거거든.</s>
+				<s>위대한 대마법사이신 그분의 업적과 명성을 생각해 보면 거짓말 같지만 사실이지.</s>
+			</Page>
+			<Page>
+				<s>감춰진 숲의 진실이 드러나면 이 위태로운 형세에 돌파구가 생길 거야.</s>
+				<s>도적단이 이토록 애써 감추려고 하는 비밀이라면 반대로 우리에겐 더 효과적인 무기가 될 테니까.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page>
+				<s>도서관 일로 온 거면 서동을 찾아 가게.</s>
+			</Page>
+			<Page>
+				<s>응? 내게 용무가 있는가?</s>
+			</Page>
+			<Page>
+				<s>엘리니아 숲에 남아 있는 흑마법의 기운을 거둬 달라고…?!</s>
+			</Page>
+			<Page>
+				<s>내 과거의 치부를 아는 자였군.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0104" index="56104" sort="Epic">
+
+	<Title>숲의 미궁</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>흑마법의 잔재를 완전히 뿌리뽑기 위해선 오랜 시간이 필요하네.</s>
+				<s>엘리니아의 요정들이 그 일을 돕고 있지.</s>
+			</Page>
+			<Page>
+				<s>잠시 잠깐이라도 숲의 어둠을 제거할 수는 없느냐고?</s>
+			</Page>
+			<Page>
+				<s>방법은 있네.</s>
+				<s>하지만 준비가 필요해.</s>
+			</Page>
+			<Page>
+				<s>마가티아의 연금술사들이 생명연금 연구에 사용하는 [ff7b50]#p_0#[-]이라는 물건이 있네.</s>
+				<s>자네가 [ff7b50]#d_0_0#[-]로부터 이것을 구해올 수 있겠는가?</s>
+			</Page>
+			<Page>
+				<s>그 재료만 마련되면 바로 숲을 정화시킬 수 있을걸세.</s>
+			</Page>
+			<Page>
+				<s>뜻이 있다면 자네를 지금 바로 마가티아로 보내주겠네.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>오, 정말로 #bp_0#을 가져왔군!</s>
+			</Page>
+			<Page>
+				<s>그럼 잠시만 대기하겠나?</s>
+				<s>내 약속대로 숲에 드리워진 어둠의 기운을 정화시켜 보겠네.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0105" index="56105" sort="Epic">
+
+	<Title>은폐된 실종자</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>엘리니아 숲에 흑마법의 기운이 사라졌네.</s>
+				<s>하지만 이미 말했듯이 이 효과는 일시적이지.</s>
+			</Page>
+			<Page>
+				<s>그러니 혹시 정화된 숲에서 무언가를 계획하고 있다면 서두르는 게 좋을걸세.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>거대한 나무로 이동</ActiveMemo>
+		<Body>
+			<Page actionCommand="DualBlade_0105_01">
+				<s>이 주변 숲의 공기가 유독 평소와 다르게 느껴져…</s>
+			</Page>
+			<Page>
+				<s>이쪽 방향에 낯선 길이 보여.</s>
+			</Page>
+			<Page>
+				<s>여긴가?</s>
+				<s>도적단이 은닉한 장소…!</s>
+			</Page>
+			<Page>
+				<s>살펴보자.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<ActiveMemo>제피와 대화</ActiveMemo>
+		<PassiveMemo>다크로드의 수하와 전투</PassiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0105_02">
+			</Page>
+			<Page speaker="NPC_Jeppi_00">
+				<s>다, 당신은 누구요?</s>
+			</Page>
+			<Page>
+				<s>(가득 쌓여 있는 책… 혹시…)</s>
+			</Page>
+			<Page>
+				<s>…당신이 예전에 커닝시티에서 서점을 운영했던 제피님이신가요?</s>
+			</Page>
+			<Page speaker="NPC_Jeppi_00" actionCommand="DualBlade_0105_03">
+				<s>그, 그렇소만 여길 어떻게…</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<ActiveMemo>제피와 대화</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0105_04">
+			</Page>
+			<Page speaker="player">
+				<s>전 듀얼블레이드 소속, #un#입니다.</s>
+			</Page>
+			<Page speaker="player">
+				<s>저희는 어느 날 갑자기 실종된 당신을 찾고 있었어요.</s>
+				<s>역시 도적단에게 감금되어 있었던 거군요.</s>
+			</Page>
+			<Page>
+				<s>그게 무슨 소리요!</s>
+				<s>저들은 나를 지키던 자들이요!</s>
+				<s>그런데 어째서 다짜고짜 저들을 다치게 한 거요?</s>
+			</Page>
+			<Page>
+				<s>목적이 무엇이오?</s>
+				<s>나를 해하려는 거요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>아니에요.</s>
+				<s>다크로드로부터 당신을 구하려는 겁니다.</s>
+			</Page>
+			<Page>
+				<s>무슨 오해를 하고 있는 거요?</s>
+				<s>다크로드는 나를 보호하고 있소.</s>
+				<s>여기 은신처를 마련해 준 것도 바로 그란 말이오.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page speaker="player">
+				<s>…다크로드는 무엇으로부터 당신을 지키고 있는 거죠?</s>
+			</Page>
+			<Page>
+				<s>오랜 시간 메이플 월드의 그늘에 숨어 역사를 조작해 온 자가 있다오.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>역대 다크로드들은 전쟁을 일으키고 사람들을 이간질하는 그 자의 정체를 어렴풋이 깨닫고 있었지.</s>
+			</Page>
+			<Page>
+				<s>나 역시 의문을 품고 있었소.</s>
+				<s>왜곡되고 조작된 역사들, 결정적인 순간에 기이한 행동을 한 자들…</s>
+				<s>비록 서점 주인에 불과하지만 난 이 부자연스러운 현상에 대해 파고들었소.</s>
+			</Page>
+			<Page>
+				<s>그리고 전대 다크로드는 내 연구를 바탕으로 조사한 끝에 마왕의 신전에서 적의 실체에 다다르게 되었다오.</s>
+				<s>하지만 그 원정은 비극으로 끝나고 말았지…</s>
+			</Page>
+			<Page>
+				<s>내가 단언할 수 있는 건 그들의 진짜 목표는 발록이 아니라 그 마왕을 이용해 역사를 조작하려던 자였다는 거요.</s>
+				<s>그리고 그 사건의 생존자는 어린 아이 둘뿐이었소…</s>
+			</Page>
+			<Page>
+				<s>비록 그 자리에 없었지만 사건의 진상을 짐작하기엔 충분했지.</s>
+				<s>당시 생존자 중 한 명인 다크로드는 여전히 침묵하고 있지만 말이요.</s>
+			</Page>
+			<Page>
+				<s>다크로드는 그 참사를 일으킨 자로부터 날 숨기기 위해 이곳으로 피신시켰소.</s>
+				<s>그리고 말하길 그는 자신의 존재를 인식한 자들을 용서하지 않는다고 했다오.</s>
+			</Page>
+			<Page>
+				<s>그러니까 그 자는 아직 이 세상 어딘가에 존재하고 있는 거요.</s>
+				<s>그리고 다크로드는 복수를 바라며 그 존재를 쫓고 있지.</s>
+			</Page>
+			<Page>
+				<s>아, 잠시만 기다리시오!</s>
+			</Page>
+			<Page speaker="player">
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>듀얼블레이드라고 했으니 이 서신을 설희에게 전해줬으면 하오.</s>
+				<s>내가 알고 있는 모든 진실을 적었소.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0105_05">
+				<s>이건 홀로 묵묵히 비극의 무게를 짊어지고 있는 애처로운 진에 대한 나의 변호라오.</s>
+				<s>그를 위해 내가 할 수 있는 일이 이것뿐이라 아쉽구려.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0106" index="56106" sort="Epic">
+
+	<Title>그림자의 당부</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>제피님에게 부탁받은 서신…</s>
+				<s>설희님께 가져가자.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>비화원으로 이동</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0106_01">
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>(누군가가 나를 쫓고 있다…)</s>
+			</Page>
+			<Page>
+				<s>(이 기척은…!)</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<ActiveMemo>추적자와 대화</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0106_02">
+			</Page>
+			<Page speaker="player">
+				<s>역시 당신이었군요.</s>
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page speaker="player">
+				<s>뭐라도 말씀해 보시죠?</s>
+				<s>설명해야 할 이야기가 많잖아요?</s>
+			</Page>
+			<Page>
+				<s>……그 서신, 설희님께 전달하는 걸 조금만 늦춰줄 수는 없을까?</s>
+			</Page>
+			<Page speaker="player">
+				<s>…어째서죠?</s>
+			</Page>
+			<Page>
+				<s>이제 곧 일이 해결될 거야.</s>
+				<s>그때 내가 모든 걸 보고하겠다.</s>
+			</Page>
+			<Page>
+				<s>아직은 그분께 진실을 전하기엔 일러…</s>
+			</Page>
+			<Page speaker="player">
+				<s>…역시 알고 계셨군요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>수 년 전 비극의 진범을 다크로드가 감추고 있다는 걸.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그리고 그 진범이 그 사건의 또 다른 생존자라는 걸 말이에요.</s>
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page speaker="player">
+				<s>그 사건의 멍에를 짊어진 건 다크로드만이 아니에요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>누구보다 잘 아시잖아요?</s>
+				<s>설희님 역시 그 사건의 굴레에서 벗어나지 못하고 온 인생을 바쳐 왔다는걸요.</s>
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>…그렇다면 하나만 당부하지.</s>
+			</Page>
+			<Page>
+				<s>무슨 일이 있더라도 반드시 설희님의 곁을 지켜 줘.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0106_03">
+				<s>부탁한다.</s>
+			</Page>
+			<Page speaker="player" actionCommand="DualBlade_0106_04">
+				<s>…………</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<ActiveMemo>설희와 대화</ActiveMemo>
+		<Body>
+			<Page>
+				<s>어서 와요, #un#.</s>
+			</Page>
+			<Page>
+				<s>…표정이 어둡군요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>실종된 제피님을 만났습니다.</s>
+				<s>그리고 그분에게 부탁받은 서신을 가져왔어요.</s>
+			</Page>
+			<Page>
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>그는 무사하던가요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>네, 그분은 안전합니다.</s>
+			</Page>
+			<Page>
+				<s>다행이군요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>서신을 드리기 전에 여쭤보고 싶은 게 하나 있습니다.</s>
+				<s>무례한 질문이 될 수도 있겠지만 실은 내내 궁금했거든요.</s>
+			</Page>
+			<Page>
+				<s>이야기하세요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>수 년 전 그 사건 당시 설희님은 어째서 발록의 신전에 계셨던 건가요?</s>
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>…몹시 위험한 임무라고 들었어요.</s>
+				<s>그래서 걱정되어서 몰래 미행했었죠.</s>
+			</Page>
+			<Page speaker="player">
+				<s>전대 다크로드님과 트리스탄님의 죽음을 직접 보셨나요?</s>
+			</Page>
+			<Page>
+				<s>어째서 그런 걸 묻는 거죠?</s>
+			</Page>
+			<Page speaker="player">
+				<s>설희님께 진실을 전하고 싶기 때문입니다.</s>
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>…당시의 일을 모두 기억하진 못해요.</s>
+			</Page>
+			<Page>
+				<s>다만 눈을 떴을 때 두 분은 처참한 모습이었고…</s>
+				<s>진의 검에 유혈이 낭자했죠…</s>
+			</Page>
+			<Page speaker="player">
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>#un#.</s>
+			</Page>
+			<Page speaker="player">
+				<s>……설희님, 이 서신을 읽어봐 주세요.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0106_05">
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>이, 이건…</s>
+			</Page>
+			<Page>
+				<s>마, 말도 안 돼…</s>
+				<s>믿을 수 없어…!</s>
+			</Page>
+			<Page speaker="player">
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>다크로드가 진범이 아니라고…?</s>
+				<s>그럴 리가…!</s>
+			</Page>
+			<Page speaker="player">
+				<s>…홍아님은 이미 알고 계셨어요.</s>
+			</Page>
+			<Page>
+				<s>!!!</s>
+			</Page>
+			<Page>
+				<s>…읏, 그렇다면 나는 대체 지금까지 무얼 위해서…!!</s>
+			</Page>
+			<Page speaker="player">
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>하아… 하아…</s>
+			</Page>
+			<Page>
+				<s>…#un#, 자리를 비켜 주겠어요?</s>
+			</Page>
+			<Page>
+				<s>생각을 정리할 시간이 필요해요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>필요하실 때 불러 주세요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0107" index="56107" sort="Epic">
+
+	<Title>행방불명</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>#un#!</s>
+				<s>설희님을 보지 못했나?</s>
+			</Page>
+			<Page speaker="player">
+				<s>?!</s>
+			</Page>
+			<Page>
+				<s>설희님이 사라지셨어!</s>
+			</Page>
+			<Page>
+				<s>모두가 찾고 있지만 아직까지 행방을 알아내지 못했지.</s>
+			</Page>
+			<Page>
+				<s>너도 어서 그분을 찾아!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>당신도 아직 언니, 아니, 설희님을 찾지 못했나요?</s>
+			</Page>
+			<Page>
+				<s>아아, 마지막으로 봤던 설희님의 얼굴이 떠올라요.</s>
+			</Page>
+			<Page>
+				<s>곧 부서질 것 같은 표정으로 저에게 이렇게 말씀하셨거든요.</s>
+				<s>『[i][a3a3a3]진실을 확인하겠다.[-][/i]』고요.</s>
+			</Page>
+			<Page>
+				<s>서, 설마 도적단이…!</s>
+			</Page>
+			<Page>
+				<s>아니, 아닐 거예요.</s>
+				<s>설희님은 저들에게 당할 정도로 약하지 않으니까요!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0108" index="56108" sort="Epic">
+
+	<Title>비극의 내막</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>홍아님의 당부대로 설희님 곁을 지켰어야 했는데…!</s>
+			</Page>
+			<Page>
+				<s>설희님은 세상이 뒤집힌 것 같은 기분일 거야.</s>
+				<s>지금까지 자신이 믿어온 것이 모두 허상이라는 걸 깨닫게 되었으니…</s>
+			</Page>
+			<Page>
+				<s>차분히 생각해 보자.</s>
+				<s>진실을 확인할 수 있는 곳이 어디인지…</s>
+			</Page>
+			<Page>
+				<s>…아, 혹시 그 비극이 일어났던 신전인가?</s>
+			</Page>
+			<Page>
+				<s>가 보자!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>발록의 신전으로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>오, 안녕하신가?</s>
+			</Page>
+			<Page>
+				<s>최근에 방문자가 없었느냐고?</s>
+			</Page>
+			<Page>
+				<s>글쎄, 나는 보지 못했는데.</s>
+			</Page>
+			<Page>
+				<s>다만 이 신전에서 자네를 기다리고 있는 자가 있다는 건 알고 있지.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0108_01">
+				<s>만나볼 텐가?</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<ActiveMemo>트리스탄의 영혼과 대화</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0108_02">
+			</Page>
+			<Page>
+				<s>진실을 따르는 자여…</s>
+				<s>만나기를 기다렸네.</s>
+			</Page>
+			<Page speaker="player">
+				<s>트리스탄님.</s>
+			</Page>
+			<Page>
+				<s>성과 나의 죽음은 비극이었네.</s>
+				<s>하지만 그날의 비극이 아직도 끝나지 않은 지금이 더욱 비극적이지.</s>
+			</Page>
+			<Page>
+				<s>진은 무고하네.</s>
+				<s>그 참사는 ‘역사를 조작하는 자’의 소행이야.</s>
+			</Page>
+			<Page>
+				<s>그 자의 이름은 스우, 블랙윙의 수장 오르카의 쌍둥이 형제라네.</s>
+			</Page>
+			<Page>
+				<s>그는 빙의 능력을 사용하여 수 차례 역사를 조작했고, 만지와 내가 마왕을 봉인한 역사도 바꾸려고 하였지.</s>
+			</Page>
+			<Page>
+				<s>하지만 그건 다크로드를 끌어들이기 위한 함정이었어!</s>
+				<s>역대 다크로드들은 대대로 그 자를 추적하고 방해했기 때문에 그에겐 가장 성가신 존재였을 테니 말이야.</s>
+			</Page>
+			<Page>
+				<s>교활하고 잔인한 그는 우리 중에 가장 약한 고리를 찾아내 빙의하였네.</s>
+				<s>기둥 뒤에 숨어서 우리를 지켜보고 있던 여린 한 소녀에게 말이네!</s>
+			</Page>
+			<Page>
+				<s>설희가 그토록 싸늘하게 웃는 건 처음 보았어.</s>
+				<s>인질을 앞에 두고 우리는 발록의 공격에 속수무책일 수밖에 없었지.</s>
+			</Page>
+			<Page>
+				<s>그렇게 우리의 생명은 스러져갔네.</s>
+				<s>소년의 모습을 한 영혼의 악의에 의해…</s>
+			</Page>
+			<Page>
+				<s>스우가 진과 설희를 살려둔 이유는 나도 모르겠네.</s>
+				<s>어쩌면 변덕인지도 모르지.</s>
+			</Page>
+			<Page>
+				<s>그리고 스우는 얼마 전에 다시 모습을 드러냈어.</s>
+				<s>바로 팬텀님이 슬리피우드에 방문했을 때였지.</s>
+				<s>그가 지금처럼 영혼의 상태가 된 까닭이 바로 그 영웅에게 있기 때문이네.</s>
+			</Page>
+			<Page>
+				<s>스우의 존재를 감지한 나와 진이 신전을 빠져나가려는 그를 막아서자, 그는 나의 제자 무영에게 빙의하였네.</s>
+			</Page>
+			<Page>
+				<s>그리고 자네의 난입으로 그 영혼은 빙의 상태로 도주하다가 곧 무영의 육신에서 떠났지.</s>
+				<s>그리고 만지가 무영을 수습하였네.</s>
+			</Page>
+			<Page>
+				<s>이게 ‘역사를 조작하는 자’를 둘러싼 사건의 전말이야.</s>
+			</Page>
+			<Page>
+				<s>자네는 설희를 찾기 위해 이곳으로 왔나?</s>
+				<s>하지만 그 아이는 이 신전에 없네.</s>
+			</Page>
+			<Page>
+				<s>진실을 알게 된 설희가 어디로 향했겠는가?</s>
+			</Page>
+			<Page speaker="player">
+				<s>솔직히 잘 모르겠습니다…</s>
+			</Page>
+			<Page>
+				<s>그럼 다시 묻겠네.</s>
+				<s>이미 진실을 알고 있던 다크로드는 어디로 갔겠나?</s>
+			</Page>
+			<Page speaker="player">
+				<s>!!</s>
+			</Page>
+			<Page actionCommand="DualBlade_0108_03">
+				<s>부디 자네가 진의 거짓말과 설희의 오해가 빚어진 이 비극을 매듭지어 주길 바라네.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0109" index="56109" sort="Epic">
+
+	<Title>이면 거래</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>뒷골목에서 홍아님을 만났을 때 이런 말을 했었어.</s>
+				<s>‘이제 곧 일이 해결될 거’라고.</s>
+			</Page>
+			<Page>
+				<s>다크로드가 오랜 세월 거짓말을 한 이유, 그리고 홍아님이 조직을 배신한 이유는 같아.</s>
+			</Page>
+			<Page>
+				<s>모두 설희님을 지키기 위해서지.</s>
+			</Page>
+			<Page>
+				<s>그렇다면 설희님을 지키기 위한 가장 확실한 방법은…</s>
+			</Page>
+			<Page>
+				<s>이 비극을 초래한 악의 근원, 스우에게 복수하는 것이다!</s>
+			</Page>
+			<Page>
+				<s>그는 블랙윙의 관계자이니… [ff7b50]에델슈타인[-]으로 가자!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>에델슈타인으로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>앗! 잠깐만요!</s>
+			</Page>
+			<Page>
+				<s>참고인 조사를 위해 당신에게 임의 동행을 요청합니다.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0109_01">
+				<s>자, 이쪽으로 따라 오세요.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<ActiveMemo>레지스탕스와 대화</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0109_02">
+			</Page>
+			<Page>
+				<s>오랜만이야.</s>
+				<s>갑자기 불러 세워서 놀랐어?</s>
+			</Page>
+			<Page>
+				<s>다름이 아니라 너에게 확인하고 싶은 일이 있어서.</s>
+			</Page>
+			<Page>
+				<s>홍아라는 자 말이야, 듀얼블레이드 맞아?</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>그가 얼마 전에 우리에게 거래를 청해 왔거든.</s>
+				<s>그런데 거래를 마친 그의 옆에 도적단이 있었어.</s>
+			</Page>
+			<Page>
+				<s>너희 조직과 도적단은 사이가 썩 좋지 않잖아?</s>
+				<s>그래서 수상하다고 생각했지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>홍아님이 거래로 무얼 요구하던가요?</s>
+			</Page>
+			<Page>
+				<s>레벤 광산 내부 지도였어.</s>
+			</Page>
+			<Page speaker="player">
+				<s>저도 그 지도를 구할 수 있을까요?</s>
+			</Page>
+			<Page>
+				<s>그렇게 말할 것 같아서 미리 준비해 왔지.</s>
+			</Page>
+			<Page>
+				<s>그와 거래를 하고 나서 어쩐지 뒷맛이 좋지 않았어.</s>
+				<s>조직 내부 일에 괜스레 끼어든 것 같은 찜찜한 기분이 들더라고.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0109_03">
+				<s>그래서 지도를 한 벌 더 준비한 거니까 대가는 따로 지불하지 않아도 돼.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<ActiveMemo>광산 입구로 이동</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0109_04">
+			</Page>
+			<Page>
+				<s>역시 홍아님은 짐작한 대로 블랙윙의 본부가 있는 레벤 광산 안으로 진입한 것 같다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0110" index="56110" sort="Epic">
+
+	<Title>결자해지</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>레지스탕스에게 받은 광산 내부 지도를 얼추 암기했어.</s>
+			</Page>
+			<Page>
+				<s>블랙윙 본부 내부로 가장 빠르게 진입할 수 있는 방법은 뒷길을 통하는 거야.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0110_01">
+				<s>문지기에게 들키지 않도록 조심히 움직이자.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>광산 뒷길 진입</ActiveMemo>
+		<Body>
+			<Page>
+				<s>지도에는 이 뒷길에서 갱도로 바로 이어지는 길이 있었어.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0110_02">
+				<s>직진이다.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<ActiveMemo>어두운 갱도 진입</ActiveMemo>
+		<Body>
+			<Page>
+				<s>어둡군.</s>
+			</Page>
+			<Page>
+				<s>!!</s>
+			</Page>
+			<Page actionCommand="DualBlade_0110_03">
+				<s>경계 경보가 울린 건가!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<ActiveMemo>발전소</ActiveMemo>
+		<Body>
+			<Page>
+				<s>갱도는 일단 통과했는데…</s>
+			</Page>
+			<Page>
+				<s>아무래도 이 구역도 편히 지나가게 해주진 않을 것 같군.</s>
+			</Page>
+			<Page>
+				<s>마치 대기하고 있었던 것처럼 블랙윙이 가로막는 걸 보면 나보다 먼저 침입한 자가 있는 게 분명해.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0110_04">
+				<s>빠르게 처리하고 서둘러 찾자!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="5">
+		<Portrait>Bookshelf_04</Portrait>
+		<ActiveMemo>오르카의 방 진입</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0110_05">
+			</Page>
+			<Page speaker="player">
+				<s>여기가 블랙윙의 수장 오르카의 방인가…</s>
+			</Page>
+			<Page speaker="player" actionCommand="DualBlade_0110_06">
+				<s>…이 책장인 것 같군.</s>
+				<s>비밀 연구실로 이어지는 숨겨진 통로.</s>
+			</Page>
+			<Page speaker="player">
+				<s>뭐지? 이 울림은…!</s>
+			</Page>
+			<Page speaker="player">
+				<s>진원지는 이 너머인 것 같아.</s>
+			</Page>
+			<Page speaker="player">
+				<s>서두르자!</s>
+			</Page>
+			<Page speaker="Bookshelf_04" position="Right" actionCommand="DualBlade_0110_07">
+				<s>(책장을 밀자 숨겨진 문이 드러난다.)</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="6">
+		<ActiveMemo>비밀스러운 실험실 진입</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0110_08">
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page speaker="NPC_DarkLord_11">
+				<s>…이런, 영체도 여기 있었나!</s>
+			</Page>
+			<Page speaker="NPC_DarkLord_11">
+				<s>그렇다면 영혼도 육신도 모두 결딴내 주지!</s>
+			</Page>
+			<Page>
+				<s>…당신들을 상대하는 것도 즐겁겠지만,</s>
+			</Page>
+			<Page>
+				<s>지금 내가 기다리는 건 당신들이 아니에요.</s>
+			</Page>
+			<Page speaker="NPC_DarkLord_11" actionCommand="DualBlade_0110_09">
+				<s>기다렸다고…?</s>
+			</Page>
+			<Page>
+				<s>불청객이 또 나타났군요.</s>
+				<s>정말 성가셔요.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0110_10">
+				<s>[ff7b50]우리[-]를 방해하지 마세요.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="7">
+		<ActiveMemo>누군가의 무의식</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0110_11">
+			</Page>
+			<Page actionCommand="DualBlade_0110_12">
+				<s>…………</s>
+			</Page>
+			<Page speaker="NPC_Lotus_02">
+				<s>오르카……</s>
+			</Page>
+			<Page>
+				<s>…기다려, 스우.</s>
+			</Page>
+			<Page>
+				<s>이 봉인을 해제시키고 널 되살릴 테니까.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0110_13">
+				<s>반드시…!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="8">
+		<ActiveMemo>다시 현실로</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0110_14">
+			</Page>
+			<Page speaker="NPC_Honga_26">
+				<s>#un#!!</s>
+			</Page>
+			<Page speaker="player" EmotionName="Cry">
+				<s>…………</s>
+			</Page>
+			<Page speaker="NPC_DarkLord_12" actionCommand="DualBlade_0110_15">
+				<s>눈물…?!</s>
+			</Page>
+			<Page speaker="player" EmotionName="Cry">
+				<s>아… 안… 돼…!</s>
+			</Page>
+			<Page speaker="NPC_DarkLord_12">
+				<s>……!</s>
+			</Page>
+			<Page speaker="NPC_Honga_26" actionCommand="DualBlade_0110_16">
+				<s>제길!</s>
+				<s>#un#! 정신 차려!!</s>
+			</Page>
+			<Page speaker="NPC_Honga_26">
+				<s>설희님…!!</s>
+			</Page>
+			<Page speaker="NPC_DarkLord_11">
+				<s>!!!</s>
+			</Page>
+			<Page speaker="NPC_LadySyl_06">
+				<s>네가 부순 걸 되돌릴 수는 없지만,</s>
+			</Page>
+			<Page speaker="NPC_LadySyl_06">
+				<s>그분들의 인의와 헌신이 헛되지 않도록,</s>
+			</Page>
+			<Page speaker="NPC_LadySyl_06">
+				<s>너를 단죄하겠다!</s>
+			</Page>
+			<Page speaker="NPC_LadySyl_06" actionCommand="DualBlade_0110_17">
+				<s>끝이다, 스우!</s>
+			</Page>
+			<Page speaker="NPC_Lotus_01" actionCommand="DualBlade_0110_18">
+				<s>유감이군요.</s>
+				<s>타임 오버입니다.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="9">
+		<ActiveMemo>전대 다크로드와 대화</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="DualBlade_0110_19">
+			</Page>
+			<Page>
+				<s>이도류의 계승자여.</s>
+			</Page>
+			<Page>
+				<s>선의와 거짓, 충심과 망각이 얽히고설켜 신의는 증오가 되었지만…</s>
+			</Page>
+			<Page>
+				<s>비극 속에서도 소중한 사람을 지키려는 최선,</s>
+			</Page>
+			<Page>
+				<s>그것만이 진실이네.</s>
+			</Page>
+			<Page speaker="player">
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>그대가 해묵은 원한의 매듭을 풀어 주었어.</s>
+			</Page>
+			<Page>
+				<s>감사하고 있네.</s>
+			</Page>
+			<Page>
+				<s>사람은 누군가를 지키려고 할 때 더 강해지는 법이니…</s>
+			</Page>
+			<Page actionCommand="DualBlade_0110_20">
+				<s>앞으로도 두 사람을 잘 부탁하네.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="10">
+		<ActiveMemo>설희와 대화</ActiveMemo>
+		<Body>
+			<Page skip="true">
+			</Page>
+			<Page>
+				<s>어서 와요, #un#.</s>
+				<s>안색이 많이 좋아졌네요. 다행이에요.</s>
+			</Page>
+			<Page>
+				<s>기억은 어때요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>조각조각 떠오르긴 하는데 그마저도 선명하진 않습니다.</s>
+				<s>머릿속에 안개가 낀 것 같아요.</s>
+			</Page>
+			<Page>
+				<s>빙의의 영향이군요.</s>
+			</Page>
+			<Page>
+				<s>하지만 나와 달리 일부 기억이 남아 있는 건 당신의 강한 의지 덕분이겠지요.</s>
+			</Page>
+			<Page>
+				<s>그때 당신의 무의식은 빙의 상태에서도 스우에게 저항했어요.</s>
+			</Page>
+			<Page>
+				<s>당신이 아니었다면 수 년 전의 참사가 되풀이되었을 겁니다.</s>
+			</Page>
+			<Page speaker="player">
+				<s>무의식적으로 발휘된 통찰력이 의식의 완전한 잠식을 경계한 것 같아요.</s>
+			</Page>
+			<Page>
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>듀얼블레이드의 [ff7b50]혜안[-] 말이군요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그리고 비교할 수 없습니다.</s>
+				<s>그때 설희님은 어리셨으니까요.</s>
+			</Page>
+			<Page>
+				<s>그래도 자신을 용서하기란 쉽지 않네요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>그 뒤로도 스우의 영체를 계속해서 추적했지만 아직 이렇다 할 단서를 잡지 못했어요.</s>
+			</Page>
+			<Page>
+				<s>조사하면서 알아낸 것 중 하나는 그 장소가 팬텀님에 대한 함정이었다는 거예요.</s>
+			</Page>
+			<Page>
+				<s>그런데 우리가 먼저 기습했고, 스우는 계략을 망치지 않기 위해 우리를 추방했죠.</s>
+			</Page>
+			<Page>
+				<s>그렇게 블랙윙의 작전은 성공한 듯 했어요.</s>
+				<s>팬텀님이 그 술수에 걸려들었으니까요.</s>
+			</Page>
+			<Page>
+				<s>하지만 영웅은 위기를 극복했고 결국 그들은 실패했습니다.</s>
+			</Page>
+			<Page>
+				<s>다만 그 후로 스우의 영체는 종적을 감추었어요.</s>
+				<s>육신은 아직 블랙윙 본부에 있는 것 같지만 광산의 경비가 강화되어 접근이 어려워졌죠.</s>
+			</Page>
+			<Page>
+				<s>#un#, 전 그 육체가 보관되어 있던 실험실을 보고 확신했어요.</s>
+				<s>블랙윙이 스우의 부활을 꾀하고 있다는걸.</s>
+			</Page>
+			<Page>
+				<s>영과 육이 분리된 상태에서도 그 정도였는데 본모습으로 깨어나면 얼마나 강할지…</s>
+				<s>솔직히 말해서 상당히 우려가 됩니다.</s>
+			</Page>
+			<Page>
+				<s>하지만 두렵다고 해서 포기하진 않을 거예요.</s>
+				<s>이 손으로 복수를 완성시키는 것이 두 분에 대한 속죄라고 생각해요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0111" index="56111" sort="Epic">
+
+	<Title>지키기 위한 선택</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>#un#, 그동안 고마웠어.</s>
+			</Page>
+			<Page speaker="player">
+				<s>갑자기 왜 그러세요?</s>
+				<s>어디 멀리 떠나는 사람처럼…</s>
+			</Page>
+			<Page speaker="player">
+				<s>앗! 설마 제명되신 거예요?</s>
+			</Page>
+			<Page>
+				<s>다행히 그건 아니야.</s>
+				<s>물론 불복과 독단에 대한 징계가 없는 건 아니지만.</s>
+			</Page>
+			<Page>
+				<s>그보다 이젠 네 독립을 인정해도 될 것 같아서 말이야.</s>
+			</Page>
+			<Page>
+				<s>혼자서도 충분히 잘하니 앞으론 사형 노릇 그만두려고.</s>
+			</Page>
+			<Page speaker="player">
+				<s>섭섭하게 그런 말씀 마세요.</s>
+				<s>앞으로도 가르침 부탁드립니다.</s>
+			</Page>
+			<Page>
+				<s>크크, 역시 내가 사람 보는 눈 하나는 탁월하다니까.</s>
+			</Page>
+			<Page speaker="player">
+				<s>이 흐름에서 자기 자신을 칭찬하시는군요.</s>
+			</Page>
+			<Page>
+				<s>네 칭찬이기도 해.</s>
+			</Page>
+			<Page speaker="player">
+				<s>대단히 감사합니다.</s>
+			</Page>
+			<Page>
+				<s>잡소리는 여기까지.</s>
+				<s>사건이 일단락되었으니 이젠 말해도 되겠지.</s>
+			</Page>
+			<Page>
+				<s>마왕의 신전에서 스우에게 빙의된 무영을 상대했던 일 기억해?</s>
+			</Page>
+			<Page>
+				<s>실은 그 상황을 지켜보고 있었어.</s>
+				<s>다크로드가 말한 목격자가 바로 나였지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>그 일을 계기로 다크로드와 독대하여 과거의 진실을 알게 된 거야.</s>
+			</Page>
+			<Page>
+				<s>처음엔 도무지 믿지 못했어.</s>
+				<s>하지만 내 나름대로 조사하면서 그의 말이 진실이라는 걸 깨닫게 되었지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>아, 그래서 엘리니아에…!</s>
+			</Page>
+			<Page>
+				<s>맞아, 그 과정에서 제피도 만난 거야.</s>
+			</Page>
+			<Page>
+				<s>다크로드는 내게 협상을 제안했어.</s>
+				<s>한동안 자취를 감췄던 스우가 슬리피우드에서 모습을 드러냈기 때문이지.</s>
+			</Page>
+			<Page>
+				<s>그래서 듀얼블레이드의 활동에 제동을 걸기 위해 그는 널 이용했어.</s>
+				<s>네가 도적으로 위장한 정탐꾼이라는 사실을 처음부터 눈치채고 있었거든.</s>
+			</Page>
+			<Page>
+				<s>그런데 슬리피우드에서 스우를 놓친 데다가 영웅의 보석을 훔친 스우가 오르카와 합세하는 상황이 되자 그는 설희님 측근의 협력이 필요하다고 판단한 거야.</s>
+			</Page>
+			<Page>
+				<s>그래서 난 도적단이 비화원을 기습할 거라는 구실로 설희님을 안전한 장소로 피신시키려고 했어.</s>
+				<s>하지만 결과적으로 설희님의 통찰을 완전히 속이진 못했지.</s>
+			</Page>
+			<Page>
+				<s>설희님의 행방이 묘연해지자 다크로드는 오랫동안 준비했던 복수를 바로 실행하기로 결단했어.</s>
+				<s>그리고 그가 선택한 방법은 스우의 육체를 소거하는 것이었지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page speaker="player">
+				<s>오랜 세월 동안 영체가 존재하기 위한 필요 조건 중에 육체의 보존이 있었어요.</s>
+			</Page>
+			<Page>
+				<s>너도 조사를 했던 모양이군.</s>
+			</Page>
+			<Page>
+				<s>그런데 다크로드가 그 계획을 세운 데엔 다른 이유도 있어.</s>
+				<s>빙의되지 않는 법을 계속 탐구했지만 아직까지 그 방안을 찾지 못했거든.</s>
+				<s>그래서 영체 대신 육신을 공격하기로 한 거야.</s>
+			</Page>
+			<Page>
+				<s>하지만 너도 알다시피 스우의 영체는 바로 그곳에 있었지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>준비가 미흡했던 탓이야.</s>
+				<s>설희님이 스우와 접촉하기 전에 복수를 성사시켜야만 했으니까.</s>
+			</Page>
+			<Page>
+				<s>곧이어 네가 실험실에 들어왔고 스우는 빙의를 시도했어.</s>
+				<s>게다가 설희님까지 나타났지. 상황은 최악으로 치달았어.</s>
+			</Page>
+			<Page>
+				<s>그런데 네가 스우의 빙의에 필사적으로 저항했어.</s>
+				<s>그리고 설희님은 기지를 발휘하여 스우의 중력을 무효화시켰지.</s>
+			</Page>
+			<Page>
+				<s>그 덕분에 비록 복수는 성공하지 못했지만 모두가 무사할 수 있었어.</s>
+			</Page>
+			<Page>
+				<s>네 공로가 커.</s>
+				<s>이번 일만큼은 칭찬받아 마땅하다.</s>
+			</Page>
+			<Page>
+				<s>반면에 나는 형편없었지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>홍아님이 다크로드와 손을 잡은 건 설희님을 지키기 위해서였잖아요?</s>
+			</Page>
+			<Page>
+				<s>…그는 스스로 죄를 대속하고 평생을 증오 속에서 살았어.</s>
+				<s>그의 삶이 증명하는 진정성을 의심할 수 없었지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>다크로드는 복수가 끝난 뒤에도 계속 진실을 묻어두려 했어.</s>
+				<s>하지만 난 그에게 협조하면서도 계획이 성공하여 설희님의 안전이 확실해지면 그분께 진실을 말씀드리려고 했지.</s>
+			</Page>
+			<Page>
+				<s>그런데 넌 자신의 힘으로 진실에 닿았고 설희님께 바로 고했어.</s>
+				<s>다크로드도 나도 너도 설희님을 지킨다는 명목으로 움직였지만…</s>
+				<s>결과적으론 네가 옳았던 셈이지.</s>
+			</Page>
+			<Page>
+				<s>네겐 참혹한 진실을 마주하더라도 설희님이 이겨낼 거라는 믿음이 있었던 거니까.</s>
+			</Page>
+			<Page speaker="player">
+				<s>아직 그분의 마음에서 어둠이 완전히 걷히지는 않았지만…</s>
+				<s>언젠가는 괜찮아지실 겁니다.</s>
+			</Page>
+			<Page>
+				<s>크크, 든든하군.</s>
+			</Page>
+			<Page>
+				<s>아, 맞다! 네가 회복하면 한 가지 묻고 싶은 게 있었어.</s>
+			</Page>
+			<Page>
+				<s>광산의 실험실에서 스우의 영체를 봤어?</s>
+			</Page>
+			<Page speaker="player">
+				<s>네.</s>
+			</Page>
+			<Page>
+				<s>내 눈에는 보이지 않았어.</s>
+				<s>그런데 다크로드도 그자를 볼 수 있었던 것 같았지.</s>
+			</Page>
+			<Page>
+				<s>체질의 차이인가?</s>
+				<s>유달리 영감이 뛰어난 사람이 있다는 얘기를 들어본 적이 있거든.</s>
+			</Page>
+			<Page>
+				<s>조사해 봐야겠어.</s>
+				<s>복수는 아직 끝나지 않았으니까.</s>
+			</Page>		
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>정보원과 대화</ActiveMemo>
+		<Body>
+			<Page>
+				<s>무슨 일이지?</s>
+				<s>정보 거래가 필요해?</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0112" index="56112" sort="Epic">
+
+	<Title>불가사의한 초청</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>이전 거래에서 내가 구해 주었던 초대장에 대해 알고 싶다고?</s>
+			</Page>
+			<Page>
+				<s>무슨 소리야?</s>
+				<s>난 너한테 그런 걸 준 기억이 없어.</s>
+			</Page>
+			<Page>
+				<s>무덤가로 갈 수 있는 초대장이었다고?</s>
+			</Page>
+			<Page>
+				<s>정말 모른다니까?</s>
+				<s>꿈이라도 꾼 거야?</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>다크로드와 대화</ActiveMemo>
+		<Body>
+			<Page>
+				<s>그날 이후 처음인가.</s>
+				<s>건강해 보여 다행이군.</s>
+			</Page>
+			<Page speaker="player">
+				<s>하얀 꽃이 핀 무덤가에 대해 알고 싶어요.</s>
+			</Page>
+			<Page>
+				<s>…일지의 기록을 보았다고 자백하는 건가?</s>
+			</Page>
+			<Page>
+				<s>뭐, 몰래 훔쳐 읽은 건 이미 알고 있었지만.</s>
+			</Page>
+			<Page>
+				<s>그 일지는 역대 다크로드들에게 계속 이어 전해지는 비밀 기록이야.</s>
+			</Page>
+			<Page>
+				<s>내가 영혼초가 핀 묘지를 알게 된 것도 전대 다크로드님의 기록 덕분이지.</s>
+			</Page>
+			<Page>
+				<s>다크로드가 아닌 자에게 말할 수 있는 정보는 여기까지다.</s>
+			</Page>
+			<Page speaker="player">
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>나도 질문 하나 해도 되나?</s>
+			</Page>
+			<Page>
+				<s>설희의 안부가 궁금하군.</s>
+			</Page>
+			<Page speaker="player">
+				<s>강건하십니다. 늘 그랬듯.</s>
+			</Page>
+			<Page>
+				<s>그렇다면 다행이군.</s>
+			</Page>
+			<Page>
+				<s>전보다 빈도는 줄었지만 아직도 이따금 악몽을 꾸는 것 같기에 염려했는데…</s>
+			</Page>
+			<Page speaker="player">
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>내가 도적단의 수장이 된 건 힘과 권력이 필요했기 때문이야.</s>
+				<s>이 지위를 이용해 과거 사건을 숨기고 복수를 준비했지.</s>
+			</Page>
+			<Page>
+				<s>일이 모두 끝나면 다크로드의 이름을 설희에게 돌려주려고 했어.</s>
+				<s>그러면 그녀가 예전처럼 다시 행복하게 웃을 수 있을 거라고 생각했거든.</s>
+			</Page>
+			<Page>
+				<s>하지만 진실을 알게 되었으니 그 꿈은 이룰 수 없겠지…</s>
+			</Page>
+			<Page speaker="player">
+				<s>…그분의 증오가 괴롭진 않았나요?</s>
+			</Page>
+			<Page>
+				<s>그때의 난 그러기에 마땅한 짓을 저질렀어.</s>
+			</Page>
+			<Page>
+				<s>다크로드님의 권고를 가벼이 여기고 원정을 떠나기 전에 설희에게 ‘위험하다’고 말했거든.</s>
+				<s>그 신전까지 몰래 따라올 정도로 그녀의 마음에 걱정과 두려움을 일으킨 게 바로 나였어.</s>
+			</Page>
+			<Page speaker="player">
+				<s>…………</s>
+			</Page>
+			<Page speaker="player">
+				<s>(설희님의 증오는 다크로드가 스스로에게 내린 가혹한 형벌인 셈인가.)</s>
+			</Page>
+			<Page>
+				<s>결국 난 설희를 지키려고 했지만 지키지 못했고 오히려 오랫동안 괴롭게만 했지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>당신이 거짓말을 한 까닭은 어렸던 설희님이 무너지지 않길 바랐기 때문이었겠죠.</s>
+			</Page>
+			<Page speaker="player">
+				<s>긴 시간 동안 스스로 악역을 자청하며 소중한 사람으로부터 증오와 비난과 경멸 받는 일을 감내했어요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그렇게 설희님은 복수심을 자양분 삼아 성장했고, 진실을 감당할 수 있을 만큼 강해지셨죠.</s>
+			</Page>
+			<Page speaker="player">
+				<s>당신의 헌신이 설희님을 지켜낸 거예요.</s>
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>자네에게 위로 받을 줄은 몰랐는데…</s>
+			</Page>
+			<Page>
+				<s>어쩐지 마음의 짐이 조금 덜어진 것 같은 기분이 드는군.</s>
+			</Page>
+			<Page>
+				<s>고마워.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="DualBlade_0113" index="56113" sort="Epic">
+
+	<Title>설중화</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>안녕하세요!</s>
+			</Page>
+			<Page>
+				<s>설희님 앞으로 소포를 배달하려고 하는데요, 이전처럼 대리 수령하시겠어요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>(향주머니가 담겨 있던 상자와 같군.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>그렇게 할게요.</s>
+			</Page>
+			<Page>
+				<s>네, 전달드렸습니다.</s>
+				<s>감사합니다!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>비화원으로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>꾸륵?</s>
+			</Page>
+			<Page speaker="player">
+				<s>수리님.</s>
+			</Page>
+			<Page speaker="player">
+				<s>전 아직 풀지 못한 수수께끼가 하나 있어요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>홍아님과 다크로드의 동맹은 슬리피우드 사건이 계기였습니다.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그런데 제가 다크로드의 방에 잠입해서 듀얼블레이드만이 사용하는 밀지를 입수한 건 그 사건 전이었어요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>다시 말해 우리 중에 아직 밝혀지지 않은 내통자가 있다는 겁니다.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그리고 다크로드는 설희님이 종종 악몽을 꾸신다는 걸 어떻게 알고 있는 거죠?</s>
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page speaker="player">
+				<s>대답을 바란 건 아니에요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그저 비극의 시간 동안 소중한 인연이 계속되길 바라는 마음으로 두 사람을 지켜보는 누군가가 있었다는 걸 확인하고 싶었을 뿐입니다.</s>
+			</Page>
+			<Page actionCommand="DualBlade_0113_01">
+				<s>꾸르르륵!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<ActiveMemo>설희와 대화</ActiveMemo>
+		<Body>
+			<Page>
+				<s>어서 와요, #un#.</s>
+			</Page>
+			<Page speaker="player">
+				<s>설희님, 전대 다크로드는 어떤 분이었나요?</s>
+			</Page>
+			<Page>
+				<s>…오래 전 주니어 발록의 발톱이 저를 낚아챈 적이 있어요.</s>
+				<s>그때 다크로드였던 아버지가 저를 구출해 주셨죠.</s>
+			</Page>
+			<Page speaker="player">
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>나중에 듣기론 제 울음소리를 들은 진이 스승님을 불러온 거라더군요.</s>
+				<s>그 인연으로 전 그분의 양녀가 되었어요.</s>
+			</Page>
+			<Page>
+				<s>아버지는 제 머리를 양쪽으로 묶어 주시곤 했어요.</s>
+			</Page>
+			<Page>
+				<s>솜씨는 서툴렀지만 제 머리 위에서 나지막이 울리는 아버지의 목소리를 듣고 있으면 소중히 대해지고 있다는 생각에 기분이 몽글몽글해졌죠.</s>
+			</Page>
+			<Page>
+				<s>하지만 그 머리 스타일은 금세 망가졌어요.</s>
+				<s>진이 자꾸 장난을 쳤거든요.</s>
+			</Page>
+			<Page>
+				<s>그러면 더 예쁘게 묶어 주겠다는 진을 뒤로하고, 전 다시 아버지께 종종 달려갔었죠.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(양갈래 머리…?!)</s>
+			</Page>
+			<Page speaker="player">
+				<s>…혹시 전대 다크로드께서 돌아가신 뒤에 머리를 자르신 건가요?</s>
+			</Page>
+			<Page>
+				<s>…머리를 묶고 쓰다듬어 줄 손이 사라졌으니까요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(애도 그리고 결기의 마음인가…)</s>
+			</Page>
+			<Page speaker="player">
+				<s>다크로드가 복수를 끝내고 다크로드의 자리를 설희님께 돌려주겠다는 이야기를 했어요.</s>
+			</Page>
+			<Page>
+				<s>!</s>
+			</Page>
+			<Page>
+				<s>우리가 그 사건을 겪지 않았다고 해도 아버지는 진을 후계자로 삼으셨을 거예요.</s>
+			</Page>
+			<Page>
+				<s>그는 자격이 충분해요.</s>
+				<s>그리고 지금 다크로드의 이름에 걸맞게 충분히 잘하고 있고요.</s>
+			</Page>
+			<Page>
+				<s>아버지께 배운 검술의 명맥을 이어나가는 것, 그게 제 역할입니다.</s>
+			</Page>
+			<Page>
+				<s>앞으로는 도적단과 공생하며 이도류를 더욱 발전시켜 나갈 생각이에요.</s>
+			</Page>
+			<Page>
+				<s>진을 직접 대면하는 데에는 시간이 좀 더 필요하겠지만요…</s>
+			</Page>
+			<Page>
+				<s>서신을 쓰면 당신에게 부탁할게요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>맡겨 주세요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그리고 소포입니다.</s>
+			</Page>
+			<Page>
+				<s>이번에도 발신인이 불명인가요?</s>
+			</Page>
+			<Page speaker="player">
+				<s>그렇습니다.</s>
+			</Page>
+			<Page>
+				<s>……!!</s>
+			</Page>
+			<Page>
+				<s>향주머니가 아니라 꽃다발이군요!</s>
+				<s>생화를 보내온 건 처음이에요.</s>
+			</Page>
+			<Page>
+				<s>…이건 설원의 장미네요.</s>
+				<s>향이 짙고 결코 시들지 않는 꽃이죠.</s>
+			</Page>
+			<Page speaker="player">
+				<s>…흰 장미의 꽃말은 뭔가요?</s>
+			</Page>
+			<Page>
+				<s>‘결백’, ‘존경’, ‘순수한 사랑’ 그리고 ‘다시 만나고 싶다’예요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>…………</s>
+			</Page>
+			<Page actionCommand="DualBlade_0113_02">
+				<s>제 방에 장식해 두어야겠어요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(언젠가 다크로드도 이 미소를 직접 볼 수 있겠지…)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+</root>

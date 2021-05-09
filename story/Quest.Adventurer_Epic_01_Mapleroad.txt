@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+
+<Quest code="Epic0001" index="1" sort="Epic">
+
+	<Title>메이플 아일랜드의 친구들</Title>
+
+	<Task index="1">
+		<Body>
+			<Page position="Right">
+				<s>#un#, 아까부터 올리비아가 그림자처럼 내 뒤를 졸졸 따라다녀. 부탁이니까 이 녀석 좀 말려줄래?</s>
+			</Page>
+			<Page speaker="Olivia_01" position="Right">
+				<s>론도! 내가 뭘 원하는지 알잖아? 그 모자 안에 감춘 머리 장식 한 번만 만져보게 해줘~ #un#, 솔직히 너도 궁금하지?</s>
+			</Page>			
+			<Page speaker="player" position="Left">
+				<s>난 두 사람 실랑이에 말려들고 싶지 않…</s>
+				<s>앗, 론도 조심!!!</s>
+			</Page>
+			<Page position="Right">
+				<s>우왓! 올리비아, 뭐 하는 짓이야? 내 머리에서 손 떼지 못해?</s>
+				<s>악! 내 모자, 내 모자가!!!</s>
+			</Page>
+			<Page speaker="Olivia_01" position="Right">
+				<s>헛! 잠깐 모자를 벗기려고 한 것뿐인데, 바람에 날아갈 줄이야…</s>
+				<s>론도, 미안해애애애~</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="2">
+		<Body>
+			<Page speaker="player" position="Left">
+				<s>아… 올리비아가 도망간다!</s>
+			</Page>
+			<Page speaker="Rondo_03" position="Right">
+				<s>쳇, 약삭빠른 녀석. 이 꼬락서니로 뒤쫓아갈 수도 없고… 두고 보자!</s>
+			</Page>
+			<Page speaker="Rondo_03" position="Right">
+				<s>#un#, 올리비아의 뒷모습을 보고 있을 때가 아니야. 어서 내 모자를 찾아줘! 녀석을 말리지 않은 너도 조금은 책임이 있으니까.</s>
+			</Page>
+			<Page speaker="Rondo_03" position="Right">
+				<s>내 생각에 모자는 바람결에 [ff7b50]오른편[-]으로 날아간 것 같아. 이 꼴론 창피해서 돌아다닐 수 없으니 난 여기 숨어서 기다리겠어.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="3">
+		<ActiveMemo>론도의 모자 찾기</ActiveMemo>
+		<ActiveSummary>#ac#과 대화하세요.</ActiveSummary>
+		<Body>
+			<Page speaker="player" position="Left">
+				<s>(저들은 누구지? 이 섬에서 외부인은 처음 보네. 여기에 계속 서 있었다면 론도의 모자를 봤을지도 몰라.)</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>저… 혹시 이쪽으로 날아온 모자 못 보셨어요?</s>
+			</Page>
+			<Page position="Right">
+				<s>속닥속닥…</s>
+			</Page>
+			<Page speaker="StrangerH_01" position="Right">
+				<s>쑥덕쑥덕…</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>(이상한 사람들이네. 말을 걸었는데 대답도 안 하고 둘이서만 귓속말을 하다니… 좀 불쾌한데.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Epic0002" index="2" sort="Epic">
+
+	<Title>론도의 모자</Title>
+
+	<Task index="1">
+		<PassiveSummary>#d_0_0#를 사냥하여 #p_0# #pc_0#개를 수집하세요.</PassiveSummary>
+		<Body>
+			<Page position="Right">
+				<s>잠시 실례했습니다. 모자를 찾으신다고요?</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>네, 혹시 주우셨다면 돌려주시겠어요? 그게 없으면 제 친구가 곤란하거든요.</s>
+			</Page>			
+			<Page position="Right">
+				<s>저한텐 없지만, 친구분의 소중한 모자가 어디 있는지 알려드릴 순 있습니다. 단, 조건이 있습니다. 제 질문에 대답해 주시면 모자의 행방을 말씀드리죠. 괜찮으시겠습니까?</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>궁금하신 게 뭔진 모르겠지만, 전 아는 게 많지 않아서 별로 도움이 안 될 거예요.</s>
+			</Page>
+			<Page position="Right">
+				<s>괜찮습니다. 그냥 솔직히 대답해 주시면 됩니다. 먼저 성함을 알려주시겠습니까?</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>전 #un#예요.</s>
+			</Page>
+			<Page position="Right">
+				<s>#un#님께선 [ff7b50]시그너스 여제[-]를 뵌 적이 있습니까?</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>없어요. 누군지도 모르고요.</s>
+			</Page>
+			<Page position="Right">
+				<s>그렇다면 [ff7b50]검은 마법사[-]의 [ff7b50]군단장[-]이나 [ff7b50]블랙윙[-] 단원들을 아십니까?</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>전혀 몰라요. 처음 들어봤어요. 전 이 섬 밖으로 나가본 적이 없어서 여기 있는 친구들밖에 몰라요. 그러니까 [ff7b50]슈가[-], [ff7b50]테스[-], [ff7b50]올리비아[-], [ff7b50]론도[-] 말고는 아무도 몰라요.</s>
+			</Page>
+			<Page position="Right">
+				<s>메이플 월드에 그들을 모르는 사람이 있다니… 신기하군요. 그럼 마지막 질문을 드리겠습니다. 혹시 [ff7b50]꿈의 조각[-]을 아십니까?</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>꿈의 조각? 몰라요. 그게 뭐죠?</s>
+			</Page>
+			<Page position="Right">
+				<s>모르시면 됐습니다. 질문은 모두 끝났습니다. 아무래도 당신은 우리가 찾는 사람이 아닌 것 같군요…</s>
+			</Page>
+			<Page position="Right">
+				<s>어쨌든 약속대로 모자의 행방을 알려드리겠습니다. 조금 전에 [ff7b50]#d_0_0#[-]들이 바람에 날려온 모자를 주워가더군요. 그들을 잡으면 [ff7b50]#p_0#[-]를 구할 수 있을 겁니다.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="2">
+		<ActiveSummary>#ac#과 대화하세요.</ActiveSummary>
+		<Body>
+			<Page position="Right">
+				<s>찾으시던 모자가 이 [ff7b50]#pr_1#[-]가 맞습니까? 그렇다면 어서 곤란해하고 있을 친구분께 돌려주세요.</s>
+			</Page>
+		</Body>
+	</Task>
+		
+	<Task index="3">
+		<ActiveSummary>#ac#에게 #bpr_0#를 전달하세요.</ActiveSummary>
+		<Body>
+			<Page speaker="Rondo_03">
+				<s>왜 이리 오래 걸렸어? 모자를 만들어 오는 줄 알았네. 아무튼, 수고했다. 이걸로 얼른 귀를 가려야지!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<Body>
+			<Page speaker="player">
+				<s>엣? 론도, 그 동물 같은 귀… 머리 장식이 아니라 진짜 귀였어?</s>
+			</Page>
+			<Page speaker="Rondo_01">
+				<s>…응. 비밀이다? 특히 올리비아한텐 절대로 말하지 마!</s>
+			</Page>
+			<Page speaker="player">
+				<s>(그래서 감추고 있었구나. 귀여우니까 굳이 숨기지 않아도 될 텐데…)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Epic0003" index="3" sort="Epic">
+
+	<Title>슈가의 경고</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>참, 조금 전에 테스가 우리를 만나러 여기에 왔었어. 난 모자가 없어서 숨어있었지만… 하필 이 타이밍에 올 게 뭐람!</s>
+			</Page>
+			<Page>
+				<s>그런데 우연히 테스의 혼잣말을 들었는데, 슈가한테 무슨 일이 있는 모양이야. 뭐? 귀가 커서 작은 소리도 잘 들리는 거냐고? 그, 그런 건 그냥 모른 척 넘어가 줘!</s>
+			</Page>
+			<Page>
+				<s>어쨌든 지금 당장 친구들을 만나보는 게 좋겠어. [ff7b50]#an#[-]와 [ff7b50]테스[-]는 지금쯤 [ff7b50]#nw_0#[-]에 있을 거야. 발 빠른 난 먼저 갈 테니까, 거기서 보자!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page position="Right">
+				<s>#un#, 론도, 큰일이야! 메이플 아일랜드에 위험한 침입자가 나타났어. 가까운 곳에서 악의를 품은 자의 기척이 느껴져. 조만간 무서운 일이 일어날 것 같아!</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>(혹시 론도의 모자를 찾다가 만난 사람들을 말하는 건가? 수상쩍긴 했지만, 공격적으로 보이진 않았는데…)</s>
+			</Page>
+			<Page speaker="Tess_01" position="Right">
+				<s>단풍나무에 깃든 [ff7b50]메이플 월드의 정신[-]… 슈가는 그 여신의 분신이야. 그래서 이 섬의 이상기류를 감지할 수 있는 걸 테지.</s>
+			</Page>
+			<Page position="Right">
+				<s>응. 그러니까 모두, 내게서 멀어지지 마! 너희들을 지켜볼 수 있게 가까이 있어 줘.</s>
+			</Page>
+			<Page speaker="Rondo_04">
+				<s>그러고 보니 #un#, 네가 이 섬에 처음 나타났을 때도 슈가가 가장 먼저 알아차렸지? 그땐 정말 깜짝 놀랐어!</s>
+			</Page>
+			<Page position="Right">
+				<s>응. 메이플 아일랜드는 모험가들의 섬인데, #un#한텐 우리와는 다른 묘한 기운이 느껴졌거든. 그래서 빨리 알아차릴 수 있었어.</s>
+			</Page>
+			<Page speaker="Rondo_04">
+				<s>그때 우리가 번갈아 가며 정신 잃은 널 돌봐줬잖아. 겨우 정신을 차리나 싶었더니 아무것도 기억하지 못해서 결국 [ff7b50]슈가가 이름까지 지어줬지[-].</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>모두의 은혜는 잊지 않고 있어. 언젠가 꼭 보답할게!</s>
+			</Page>
+			<Page speaker="Tess_01" position="Right">
+				<s>어이어이, 이 훈훈한 분위기는 뭐야? 지금 추억놀이 할 때가 아니야. 메이플 월드에서 가장 평화로운 이 섬에 침입자가 나타났어. 게다가 우린 놈들의 정체도 목적도 몰라. 그러니 경계심을 늦추지 말자고!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Epic0004" index="4" sort="Epic">
+
+	<Title>올리비아를 찾아라!</Title>
+
+	<Task index="1">
+		<Body>
+			<Page position="Right">
+				<s>그런데 너희들 올리비아랑 같이 있지 않았어?</s>
+			</Page>
+			<Page speaker="Rondo_04">
+				<s>윽… 내 앞에서 그 왈가닥 이름은 꺼내지도 마.</s>
+			</Page>
+			<Page position="Right">
+				<s>하하~ 둘이 또 싸웠어? 그렇지만 섬에 위험한 침입자가 나타났다는 사실을 올리비아한테도 알려줘야 해. 모두 흩어져서 찾아보자!</s>
+			</Page>
+			<Page position="Right">
+				<s>슈가는 서쪽, 론도는 남쪽, 나는 북쪽을 찾아볼게. #un#, 넌 동쪽에서 [ff7b50]#an#[-]를 찾아봐. 그러니까 [ff7b50]#nw_0#[-]이 있는 방향으로 가면 되는 거야. 알겠지?</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page position="Right">
+				<s>끼야앗!</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>(앗! 이건 올리비아의 비명소리! 설마 벌써 그자들에게 당한 건가?)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Epic0005" index="5" sort="Epic">
+
+	<Title>올리비아의 위기 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="player" position="Left">
+				<s>올리비아! 괜찮아? 무슨 일이야?</s>
+			</Page>
+			<Page position="Right">
+				<s>앗! 용감한 #un#님, 도와주세요. 저기 있는 #p_0#을 물리쳐 주세요!</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>올리비아, 나한테 왜 존댓말을 하는 거야?</s>
+			</Page>
+			<Page position="Right">
+				<s>네? 무, 무, 무, 무슨 소리세요? 저는 원래 누구에게나 존댓말을 하는 예의 바른 사람이라고요.</s>
+			</Page>
+			<Page position="Right">
+				<s>그보다 제 부탁을 들어주세요. [ff7b50]#p_0#[-] 때문에 발목을 다쳐서 꼼짝할 수 없어요. 그러니 어서 저것들을 처리해 주세요! [ff7b50]#pc_0#마리[-]를 청소하면 안심할 수 있을 것 같아요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>고작 #bp_0# 따위에 이런 굴욕을 당하다니… 이건 모두 그들 때문이에요! [ff7b50]검은 두건[-]을 쓴 사람들이 다짜고짜 절 공격했거든요. 그 무섭도록 엄청난 힘… 지금 생각해도 아찔해요.</s>
+			</Page>
+			<Page>
+				<s>전 기습에 놀라 도망치다가 #bp_0#과 충돌하고 말았어요. 그래서 발목을 접질렸죠. 꼼짝도 못 하고 있는데 #bp_0#까지 떼로 공격해 오는 거예요! 때마침 #un#님이 나타나지 않았다면 더 크게 다쳤을 거예요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(앗, 내가 만났던 사람들도 검은 두건을 쓰고 있었는데… 역시 그들이 바로 슈가가 경고한 침입자들이었어!)</s>
+			</Page>
+			<Page speaker="player">
+				<s>그렇잖아도 침입자들을 조심하라는 말을 해주려고 널 찾고 있었어. 대체 그들은 정체가 뭐지?</s>
+			</Page>
+			<Page>
+				<s>그건 잘 모르겠어요. 하지만 그자들은 #un#님을 노리고 있어요. 그들이 #un#님에 대해 물었을 때, 친구라고 대답하니까 공격을 퍼부었거든요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>뭐? 정말이야? 하지만 전에 만났을 때 그들이 찾는 사람은 내가 아니라고 말했는데…</s>
+			</Page>
+			<Page>
+				<s>거짓말인 게 뻔하잖아요! 당신을 방심하게 만들 셈이었을 거예요. 이 작은 섬에서 발각되는 건 시간 문제예요. 당신 힘으론 그들을 상대할 수 없어요. 그러니 얼른 피하세요!</s>
+			</Page>
+			<Page speaker="player">
+				<s>응, 알았어. 부축해줄 테니까 얼른 슈가한테 가자! 슈가가 우리를 지켜줄 거야.</s>
+			</Page>
+			<Page>
+				<s>바보 같은 소리 말아요! 여신도 아니고 겨우 분신에 불과한 슈가가 그자들을 상대로 우리를 보호할 수 있을 거라고 믿어요? 우리가 힘을 합쳐도 그자들을 상대하기엔 역부족이에요.</s>
+			</Page>
+			<Page>
+				<s>지금은 도망치는 게 최선이에요. 오른쪽으로 가면 [ff7b50]선착장[-]이 보일 거예요. 거기서 배를 타고 이 섬에서 빠져나가세요. 그들이 당신을 찾아내기 전에 서두르세요! 저도 곧 뒤따를게요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Epic0006" index="6" sort="Epic">
+
+	<Title>리스항구를 향하여</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="player" position="Left">
+				<s>(앗, 저 사람들은!!! 피하기엔 너무 늦었어. 눈이 마주쳐버렸으니… 이제 어쩌지?)</s>
+			</Page>
+			<Page speaker="StrangerH_02" position="Right">
+				<s>M, 아까는 잠시 혼란스러웠는데 역시 내 눈은 틀리지 않았어. 이 사람이 바로 우리가 찾던 그 사람이야!</s>
+			</Page>
+			<Page position="Right">
+				<s>그렇다면 더는 망설일 필요 없지.</s>
+				<s>#un#님, 실례를 무릅쓰고 단도직입적으로 말씀드리겠습니다. 지금부터 저희와 동행해 주셔야겠습니다. 당신이 꼭 만나야 할 사람이 있어요.</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>싫어요! 제 친구를 공격한 당신들을 뭘 믿고 따라가요?</s>
+			</Page>
+			<Page position="Right">
+				<s>친구를 공격? 무슨 말씀입니까? 잘 모르겠지만, 지금은 사정이 급합니다. 자세한 이야기는 나중에 하고 일단 저희와 함께…</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>시침 떼지 마세요! 조금 전에 올리비아를 공격했잖아요? 당신들 급한 사정은 제 알 바 아니니 비켜주세요!</s>
+			</Page>
+			<Page speaker="StrangerH_02" position="Right">
+				<s>이렇게 나오면 곤란한데… 그러면 우리도 다소 거친 방법을 사용할 수밖에 없다고. 지금 비상 상황이라서 말이야. 미안! 불평은 나중에 들을게!</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>악! 뭐 하는 거예요? 이거 놔요!</s>
+			</Page>
+		</Body>
+	</Task>
+			
+	<Task index="2">
+		<Body>
+			<Page speaker="Rondo_05">
+				<s>그 손 멈춰! #un# 몸에 손대지 마!!!</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>론도!</s>
+			</Page>
+			<Page speaker="Rondo_05">
+				<s>#un#, 조금 전에 올리비아한테 다 들었어. 이 자들은 나한테 맡기고 넌 어서 배에 타!</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>안 돼! 올리비아를 만났다면 알잖아? 이들이 얼마나 엄청난 자들인지… 널 위험에 빠뜨리고 혼자 갈 순 없어!</s>
+			</Page>
+			<Page speaker="Rondo_05">
+				<s>나 그렇게 무모한 녀석 아니니까 걱정하지 마! 정면승부는 피할 거야. 그렇지만 최소한 이 자들의 발을 묶어둘 순 있지. 네가 배를 타면 나도 적당한 타이밍에 몸을 뺄 거야. 모자 찾아준 은혜를 이렇게 갚는다 생각해.</s>
+			</Page>
+			<Page speaker="Rondo_05">
+				<s>저 배를 타면 빅토리아 아일랜드로 갈 수 있어. [ff7b50]#nw_0#[-]에 도착하면, [ff7b50]믿을 만한 사람[-]을 찾아서 당분간 몸을 의탁해. 자, 배가 곧 떠날 거야! 서둘러! 나도 곧 따라갈 테니까… 조만간 다시 보자, 친구!</s>
+			</Page>
+			<Page speaker="StrangerH_02" position="Right">
+				<s>앗, 거기서!</s>
+			</Page>
+			<Page speaker="Rondo_05">
+				<s>어이, 형씨! 어딜 가려고? 나를 쓰러뜨리지 않고서는 저 녀석 털끝 하나도 건드리지 못할걸?</s>
+			</Page>
+			<Page speaker="StrangerM_02" position="Right">
+				<s>이런… 어리석은!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="3">
+		<ActiveMemo>리스항구 탐색</ActiveMemo>
+		<ActiveSummary>#nw_0#에서 #ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page speaker="player" position="Left">
+				<s>(이곳이 리스항구인가? 우락부락한 뱃사람투성이인 이곳에 어울리지 않게 귀여운 소녀가 있다. 저 소녀라면 날 도와줄 수 있을까?)</s>
+			</Page>
+			<Page position="Right">
+				<s>…왜 그렇게 절 빤히 바라보세요? 저에게 할 말이라도 있나요?</s>
+			</Page>
+			<Page position="Right">
+				<s>딱 보아하니 초보 모험가 같은데, 리스항구가 처음이라 어디서부터 무얼 어떻게 시작해야 할지 몰라 방황 중이시군요. 얼굴에 그렇게 쓰여있어요. 후후…</s>
+				<s>그렇다면 좋아요! 제가 당신을 도와줄게요.</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>(이 소녀… 좋은 사람인 것 같다. 리스 항구에서 처음 만난 사람이 이 소녀여서 다행이야.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+</root>

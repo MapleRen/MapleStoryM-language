@@ -1,0 +1,4972 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+
+
+	<Quest code="Lachelein_0001" index="35086" sort="Theme">
+
+		<Title>강 줄기 너머</Title>
+		<Task index="1">
+			<Body>
+				<Page speaker="NPC_Muto_01">
+					<s>무…토…이제…심심…하지…않다…</s>
+				</Page>
+				<Page speaker="NPC_Muto_01">	
+					<s>자리…비…켜…줄…수…있…다…</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0001_00">
+					<s>(무토가 길을 비켜주면 다음으로 나아갈 수 있겠지? 그렇다면…)</s>
+				</Page>	
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0001_01">
+				</Page>
+				<Page actionCommand="Lachelein_0001_02">
+					<s>으음… 얼마나… 더…</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0002_01" index="35087" sort="Theme">
+		<Title>축제의 도시</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>여기는 어디지? 꼭 축제라도 열리고 있는 것 같은… 앗!</s>
+				</Page>
+				<Page>
+					<s>(사람들이 있어…? 아케인 리버에도 살아가는 사람들이 있는 건가?)</s>
+				</Page>
+				<Page>
+					<s>(물어보면 이곳에 대해 알려줄지도 몰라. 우선 사람들과 얘기해 보자.)</s>
+				</Page>	
+			</Body>				
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>아, 행복해! 왜냐구? 몰라! 아무튼 행복해!</s>
+				</Page>
+				<Page speaker="player">
+					<s>(…이상한 사람이다. 다른 사람을 찾아보자.)</s>
+				</Page>		
+			</Body>
+		</Task>
+		
+		
+		<Task index="3">
+			<Body>
+				<Page>
+					<s>춤추는 폭죽, 달려가는 강물. 신나는 나, 행복한 나!</s>
+				</Page>
+				<Page speaker="player">
+					<s>(…? 이 사람도 이상해. 다른 사람을 찾아보는 게 좋겠다.)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		
+		<Task index="4">
+			<Body>
+				<Page>
+					<s>모두의 축제! 서로 편 가르지 않는 것이 축제! 먹자, 먹어! 하하핫!</s>
+				</Page>
+				<Page speaker="player">
+					<s>(모두 들뜬 데다 가면까지 쓰고 있어. 축제라서 그런 걸까? 하지만 뭔가…)</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_01">
+					<s>혹시, 외지인이십니까?</s>
+				</Page>
+				<Page speaker="player">
+					<s>!? 누구…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_01" actionCommand="Lachelein_0002_00">
+					<s>맞는 것 같군요. 이곳은 위험합니다. 우선 자리를… 이런, 벌써!</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="5">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0002_01">
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_01">
+					<s>너, 의심스러운 자… 우리와 함께 간다…</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0002_00">
+					<s>!? (이런, 당했다! 순식간에 구속당했어!)</s>
+				</Page>				
+			</Body>
+	
+		</Task>
+		
+		
+		<Task index="6">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0002_02">
+				</Page>
+				<Page speaker="NPC_StarMask_01" actionCommand="Lachelein_0002_03">
+					<s>제발… 사, 살려 주…</s>
+				</Page>
+				<Page speaker="player">
+					<s>(방금 그건… 나비가 되어 소멸한 건가!?)</s>
+				</Page>
+				<Page animName="Face6">
+					<s>여기는 슬픔도, 고통도 없는 꿈과 환상의 도시, 레헬른.</s>
+				</Page>
+				<Page actionCommand="Lachelein_0002_04" animName="Face3">
+					<s>행복한 꿈으로 인도하겠어요. 영원히 깨어나지 않도록 해요. 후후…</s>
+				</Page>
+				<Page animName="Face5">
+					<s>어머. 통하지 않은 건가요?</s>
+				</Page>
+				<Page animName="Face5">
+					<s>당신은 밖에서 온 다른 존재로군요. 귀한 손님이셨네요.</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0002_05">
+					<s>그게 무슨…</s>
+				</Page>
+				<Page  animName="Face5">
+					<s>어머, 이건?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_01">
+					<s>이쪽입니다! 빨리!</s>
+				</Page>
+				<Page speaker="player">
+					<s>(…생각할 시간이 없어. 일단 목소리가 들리는 방향으로 피하자!)</s>
+				</Page>
+				<Page animName="Face6">
+					<s>이런, 이런…</s>
+				</Page>
+				<Page animName="Face6">
+					<s>놓쳐버린 건가요.</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_03">
+					<s>지금… 쫓아가서…</s>
+				</Page>
+				<Page animName="Face3">
+					<s>후후, 그 전에 숙제를 하지 못한 아이에게는 벌을 줘야겠죠?</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_03">
+					<s>자, 자비를…</s>
+				</Page>
+				<Page animName="Face6">
+					<s>후후…</s>
+				</Page>
+				<Page skip="true" type="Image" Image.Code="LacheleinCinema_01_01" Image.Index="1" Image.Path="DynamicTexture/Quest/ArcaneRiver/Lachelein/LacheleinCinema_01_01" Image.IsOn="TRUE" Image.UseOriginSize="true">
+				</Page>
+				<Page type="Image" Image.Code="LacheleinCinema_01_02" Image.Index="2" Image.Path="DynamicTexture/Quest/ArcaneRiver/Lachelein/LacheleinCinema_01_02" Image.IsOn="TRUE" Image.UseOriginSize="true" voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q1" voiceCode="0" >
+					<s>헤어나올 수 없는 꿈에서 발버둥 쳐 본 적이 있나요…?</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q1" voiceCode="1" animName="Face6">
+					<s>꿈이라는 걸 알면서도, 어떻게 해도 벗어날 수 없는 그 무력감을 당신은 느껴보셨나요?</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q1" voiceCode="2" animName="Face6">
+					<s>끝없는 어둠을 찢고 세상 밖으로 나왔을 때 저는 깨달았어요.</s>
+				</Page>
+				<Page skip="true" type="Image" Image.Code="LacheleinCinema_01_02" Image.Index="2" Image.Path="DynamicTexture/Quest/ArcaneRiver/Lachelein/LacheleinCinema_01_02" Image.IsOn="FALSE">
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q1" voiceCode="3"  type="Image" Image.Code="LacheleinCinema_01_03" Image.Index="3" Image.Path="DynamicTexture/Quest/ArcaneRiver/Lachelein/LacheleinCinema_01_03" Image.IsOn="TRUE" Image.UseOriginSize="true" Image.imageFadeIn="true" Image.imageFadeDurtaion="1" actionCommand="Lachelein_0002_06" animName="Face3">
+					<s>…더 이상 나약한 나는 없다는 것을.</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0002_02" index="35088" sort="Theme">
+		<Title>축제의 도시</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>여기는 어디지? 꼭 축제라도 열리고 있는 것 같은… 앗!</s>
+				</Page>
+				<Page>
+					<s>(사람들이 있어…? 아케인 리버에도 살아가는 사람들이 있는 건가?)</s>
+				</Page>
+				<Page>
+					<s>(물어보면 이곳에 대해 알려줄지도 몰라. 우선 사람들과 얘기해 보자.)</s>
+				</Page>	
+			</Body>				
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>아, 행복해! 왜냐구? 몰라! 아무튼 행복해!</s>
+				</Page>
+				<Page speaker="player">
+					<s>(…이상한 사람이다. 다른 사람을 찾아보자.)</s>
+				</Page>		
+			</Body>
+		</Task>
+		
+		
+		<Task index="3">
+			<Body>
+				<Page>
+					<s>춤추는 폭죽, 달려가는 강물, 신나는 나. 행복한 나!</s>
+				</Page>
+				<Page speaker="player">
+					<s>(…? 이 사람도 이상해. 다른 사람을 찾아보는 게 좋겠다.)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		
+		<Task index="4">
+			<Body>
+				<Page>
+					<s>모두의 축제! 서로 편 가르지 않는 것이 축제! 먹자, 먹어! 하하핫!</s>
+				</Page>
+				<Page speaker="player">
+					<s>(모두 들뜬 데다 가면까지 쓰고 있어. 축제라서 그런 걸까? 하지만 뭔가…)</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_01">
+					<s>혹시, 외지인이십니까?</s>
+				</Page>
+				<Page speaker="player">
+					<s>!? 누구…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_01" actionCommand="Lachelein_0002_00">
+					<s>맞는 것 같군요. 이곳은 위험합니다. 우선 자리를… 이런, 벌써!</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="5">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0002_01">
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_01">
+					<s>너, 의심스러운 자… 우리와 함께 간다…</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0002_00">
+					<s>!? (이런, 당했다! 순식간에 구속당했어!)</s>
+				</Page>				
+			</Body>
+	
+		</Task>
+		
+		
+		<Task index="6">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0002_02">
+				</Page>
+				<Page speaker="NPC_StarMask_01" actionCommand="Lachelein_0002_03">
+					<s>제발… 사, 살려 주…</s>
+				</Page>
+				<Page speaker="player">
+					<s>(방금 그건… 나비가 되어 소멸한 건가!?)</s>
+				</Page>
+				<Page>
+					<s>여기는 슬픔도, 고통도 없는 꿈과 환상의 도시, 레헬른… 어머.</s>
+				</Page>
+				<Page animName="Face1">
+					<s>당신은…</s>
+				</Page>
+				<Page speaker="player">
+					<s>(…? 나를 알고 있는 건가?)</s>
+				</Page>
+				<Page actionCommand="Lachelein_0002_04">
+					<s>…꿈으로 인도하겠어요. 영원히 깨어나지 마시길.</s>
+				</Page>
+				<Page animName="Face1">
+					<s>…역시.</s>
+				</Page>
+				<Page animName="Face5">
+					<s>당신은 역시 다른 존재로군요. 귀한 손님이 오셨다고 해야 할까요.</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0002_05">
+					<s>그게 무슨…</s>
+				</Page>
+				<Page animName="Face5">
+					<s>어머, 이건?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_01">
+					<s>이쪽입니다! 빨리!</s>
+				</Page>
+				<Page speaker="player">
+					<s>(…생각할 시간이 없어. 일단 목소리가 들리는 방향으로 피하자!)</s>
+				</Page>
+				<Page animName="Face6">
+					<s>이런, 이런…</s>
+				</Page>
+				<Page animName="Face6">
+					<s>놓쳐버린 건가요.</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_03">
+					<s>지금… 쫓아가서…</s>
+				</Page>
+				<Page animName="Face3">
+					<s>후후, 그 전에 숙제를 하지 못한 아이에게는 벌을 줘야겠죠?</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_03">
+					<s>자, 자비를…</s>
+				</Page>
+				<Page animName="Face5">
+					<s>…재미있군요.</s>
+				</Page>
+				<Page skip="true" type="Image" Image.Code="LacheleinCinema_01_01" Image.Index="1" Image.Path="DynamicTexture/Quest/ArcaneRiver/Lachelein/LacheleinCinema_01_01" Image.IsOn="TRUE" Image.UseOriginSize="true">
+				</Page>
+				<Page type="Image" Image.Code="LacheleinCinema_01_02" Image.Index="2" Image.Path="DynamicTexture/Quest/ArcaneRiver/Lachelein/LacheleinCinema_01_02" Image.IsOn="TRUE" Image.UseOriginSize="true" voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q1" voiceCode="0" >
+					<s>헤어나올 수 없는 꿈에서 발버둥 쳐 본 적이 있나요…?</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q1" voiceCode="1" animName="Face6">
+					<s>꿈이라는 걸 알면서도, 어떻게 해도 벗어날 수 없는 그 무력감을 당신은 느껴보셨나요?</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q1" voiceCode="2" animName="Face6">
+					<s>끝없는 어둠을 찢고 세상 밖으로 나왔을 때 저는 깨달았어요.</s>
+				</Page>
+				<Page skip="true" type="Image" Image.Code="LacheleinCinema_01_02" Image.Index="2" Image.Path="DynamicTexture/Quest/ArcaneRiver/Lachelein/LacheleinCinema_01_02" Image.IsOn="FALSE">
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q1" voiceCode="3"  type="Image" Image.Code="LacheleinCinema_01_03" Image.Index="3" Image.Path="DynamicTexture/Quest/ArcaneRiver/Lachelein/LacheleinCinema_01_03" Image.IsOn="TRUE" Image.UseOriginSize="true" Image.imageFadeIn="true" Image.imageFadeDurtaion="1" actionCommand="Lachelein_0002_06" animName="Face3">
+					<s>…더 이상 나약한 나는 없다는 것을.</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0002_03" index="35089" sort="Theme">
+		<Title>축제의 도시</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>여기는 어디지? 꼭 축제라도 열리고 있는 것 같은… 앗!</s>
+				</Page>
+				<Page>
+					<s>(사람들이 있어…? 아케인 리버에도 살아가는 사람들이 있는 건가?)</s>
+				</Page>
+				<Page>
+					<s>(물어보면 이곳에 대해 알려줄지도 몰라. 우선 사람들과 얘기해 보자.)</s>
+				</Page>	
+			</Body>				
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>아, 행복해! 왜냐구? 몰라! 아무튼 행복해!</s>
+				</Page>
+				<Page speaker="player">
+					<s>(…이상한 사람이다. 다른 사람을 찾아보자.)</s>
+				</Page>		
+			</Body>
+		</Task>
+		
+		
+		<Task index="3">
+			<Body>
+				<Page>
+					<s>춤추는 폭죽, 달려가는 강물, 신나는 나. 행복한 나!</s>
+				</Page>
+				<Page speaker="player">
+					<s>(…? 이 사람도 이상해. 다른 사람을 찾아보는 게 좋겠다.)</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		
+		<Task index="4">
+			<Body>
+				<Page>
+					<s>모두의 축제! 서로 편 가르지 않는 것이 축제! 먹자, 먹어! 하하핫!</s>
+				</Page>
+				<Page speaker="player">
+					<s>(모두 들뜬 데다 가면까지 쓰고 있어. 축제라서 그런 걸까? 하지만 뭔가…)</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_01">
+					<s>혹시, 외지인이십니까?</s>
+				</Page>
+				<Page speaker="player">
+					<s>!? 누구…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_01" actionCommand="Lachelein_0002_00">
+					<s>맞는 것 같군요. 이곳은 위험합니다. 우선 자리를… 이런, 벌써!</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="5">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0002_01">
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_01">
+					<s>너, 의심스러운 자… 우리와 함께 간다…</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0002_00">
+					<s>!? (이런, 당했다! 순식간에 구속당했어!)</s>
+				</Page>				
+			</Body>
+	
+		</Task>
+		
+		
+		<Task index="6">
+			<Body>
+			<Page skip="true" actionCommand="Lachelein_0002_02">
+			</Page>
+				<Page speaker="NPC_StarMask_01" actionCommand="Lachelein_0002_03">
+					<s>제발… 사, 살려 주…</s>
+				</Page>
+				<Page speaker="player">
+					<s>(방금 그건… 나비가 되어 소멸한 건가!?)</s>
+				</Page>
+				<Page animName="Face6">
+					<s>여기는 슬픔도, 고통도 없는 꿈과 환상의 도시, 레헬른.</s>
+				</Page>
+				<Page animName="Face5">
+					<s>어머, 당신은?</s>
+				</Page>
+				<Page speaker="player">
+					<s>(설마 나를 알고 있는 건가? 하지만 어떻게?)</s>
+				</Page>
+				<Page actionCommand="Lachelein_0002_04" animName="Face5">
+					<s>후후, 이번에는 영원히 깨어나지 않을 잠으로 인도해야겠군요.</s>
+				</Page>
+				<Page animName="Face5">
+					<s>어머. 역시 호락호락하진 않은 건가요.</s>
+				</Page>
+				<Page animName="Face5">
+					<s>귀한 손님이 오셨군요. 아니, 제가 당신에게 귀한 손님이 되는 걸까요?</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0002_05">
+					<s>그게 무슨…</s>
+				</Page>
+				<Page animName="Face5">
+					<s>어머, 이건?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_01">
+					<s>이쪽입니다! 빨리!</s>
+				</Page>
+				<Page speaker="player">
+					<s>(…생각할 시간이 없어. 일단 목소리가 들리는 방향으로 피하자!)</s>
+				</Page>
+				<Page animName="Face6">
+					<s>이런, 이런…</s>
+				</Page>
+				<Page animName="Face6">
+					<s>놓쳐버린 건가요.</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_03">
+					<s>지금… 쫓아가서…</s>
+				</Page>
+				<Page animName="Face3">
+					<s>후후, 그 전에 숙제를 하지 못한 아이에게는 벌을 줘야겠죠?</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_03">
+					<s>자, 자비를…</s>
+				</Page>
+				<Page animName="Face6">
+					<s>후후…</s>
+				</Page>
+				<Page skip="true" type="Image" Image.Code="LacheleinCinema_01_01" Image.Index="1" Image.Path="DynamicTexture/Quest/ArcaneRiver/Lachelein/LacheleinCinema_01_01" Image.IsOn="TRUE" Image.UseOriginSize="true">
+				</Page>
+				<Page type="Image" Image.Code="LacheleinCinema_01_02" Image.Index="2" Image.Path="DynamicTexture/Quest/ArcaneRiver/Lachelein/LacheleinCinema_01_02" Image.IsOn="TRUE" Image.UseOriginSize="true" voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q1" voiceCode="0" >
+					<s>헤어나올 수 없는 꿈에서 발버둥 쳐 본 적이 있나요…?</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q1" voiceCode="1" animName="Face6">
+					<s>꿈이라는 걸 알면서도, 어떻게 해도 벗어날 수 없는 그 무력감을 당신은 느껴보셨나요?</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q1" voiceCode="2" animName="Face6">
+					<s>끝없는 어둠을 찢고 세상 밖으로 나왔을 때 저는 깨달았어요.</s>
+				</Page>
+				<Page skip="true" type="Image" Image.Code="LacheleinCinema_01_02" Image.Index="2" Image.Path="DynamicTexture/Quest/ArcaneRiver/Lachelein/LacheleinCinema_01_02" Image.IsOn="FALSE">
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q1" voiceCode="3"  type="Image" Image.Code="LacheleinCinema_01_03" Image.Index="3" Image.Path="DynamicTexture/Quest/ArcaneRiver/Lachelein/LacheleinCinema_01_03" Image.IsOn="TRUE" Image.UseOriginSize="true" Image.imageFadeIn="true" Image.imageFadeDurtaion="1" actionCommand="Lachelein_0002_06" animName="Face3">
+					<s>…더 이상 나약한 나는 없다는 것을.</s>
+				</Page>						
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0003" index="35090" sort="Theme">
+		<Title>눈을 뜬 자</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>잘 따라와 주셨군요. 여기까지 오면 안심할 수 있습니다.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>방독면, 자네는 정말 겁도 없군 그래. 하마터면 큰일이 날 뻔했네!</s>
+				</Page>
+				<Page>
+					<s>하지만 구해야 했던 것을 아시잖습니까. 다행히 모든 게 좋았습니다.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>그렇긴 해도 그녀에게 그렇게 가까이 접근하다니… 정말 간도 크군 그래.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>어쨌든 무사해서 다행이네. 이봐, 친구. 자네는 괜찮은가?</s>
+				</Page>
+				<Page speaker="player">
+					<s>네, 괜찮습니다. 그런데 여긴…</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>아지트라네. 자네가 만난 그 여자를 피해 숨어지낼 수 있는 안전한 공간이지.</s>
+				</Page>
+				<Page speaker="player">
+					<s>숨어 지낸다니, 어째서인가요? 그리고 그 여자는 대체…?</s>
+				</Page>
+				<Page>
+					<s>그녀의 이름은 '루시드'.</s>
+					<s>꿈을 조종할 수 있는 능력을 갖고 있습니다. </s>
+				</Page>
+				<Page>
+					<s>그리고 그 능력으로 레헬른이라는 이 거대한 감옥을 만들어 저희를 가두고 있습니다.</s>
+				</Page>
+				<Page speaker="player">
+					<s>감옥?</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>끔찍한 감옥이지. 정신을 옭아매고 단 한 조각의 의심도 허용하지 않으니까.</s>
+				</Page>
+				<Page speaker="player">
+					<s>하지만 아까 본 사람들은 다들 행복하다고 말했어요.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>자네 말이 맞네. 이곳의 주민들은 모두가 행복하다고 말하지.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>사람들은 끝나지 않는 축제의 공간에서 먹고, 마시고, 춤춘다네. 영원히.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>그리고 그 정해진 역할을 벗어나지 못하네. 영원히 먹고, 영원히 마시고, 영원히 춤 추는 거야.</s>
+				</Page>
+				<Page speaker="player">
+					<s>그런… 그런 삶이 정말로 행복한 건가요?</s>
+				</Page>
+				<Page>
+					<s>그것이 루시드와 여기, 레헬른이 무서운 이유입니다.</s>
+				</Page>
+				<Page>
+					<s>그들은 이 세계와 자신에 대한 의구심을 갖지 않거든요. 아니, 갖지 못한다는 게 정확하겠군요.</s>
+				</Page>
+				<Page>
+					<s>꿈의 세계에 갇혀 정신이 묶이고, 그 자각조차 하지 못하는 진정한 감옥인 겁니다.</s>
+				</Page>
+				<Page speaker="player">
+					<s>(어쩐지… 행복하다고 말하는 그들의 태도가 이상하다고는 생각했지만…)</s>
+				</Page>
+				<Page speaker="player">
+					<s>그렇다면 그걸 자각하고 있는 당신들은 주민들과 다른 존재인 건가요?</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>우리는 '눈을 뜬 자'들이라네. 아주 드물게 꿈에서 깨어난 자들이 있거든.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>눈을 뜬 이들은 깨닫게 되지. 이상한 도시, 이상한 사람…</s>
+					<s>그리고 자기 자신도 그런 신세였다는 걸.</s>
+				</Page>
+				<Page speaker="player">
+					<s>그렇다면 숨어 지내는 이유는 역시…</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>루시드는 '눈을 뜬 자'들을 내버려 두지 않네. 스스로를 자각하고 도시를 의심하는 사람들은 방해가 될 테니까.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>발각된 '눈을 뜬 자'들은 자네가 본 대로 나비가 되어 사라져 버리지.</s>
+				</Page>
+				<Page speaker="player">
+					<s>하지만 꿈의 세계가 이 도시에 한정된 거라면 밖으로 탈출하는 방법도…</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>불가능해. 도시를 둘러싼 안개가 밖으로 나갈 수 없게 한다네.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>백문이 불여일견이니 자네 눈으로 직접 확인해 보는 게 좋겠군.</s>
+				</Page>		
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<ActiveMemo>붉은 안개 조사</ActiveMemo>
+			<Body>
+				<Page speaker="player">
+					<s>(아까 들은 붉은 안개가 이건가 보군.)</s>
+				</Page>
+				<Page speaker="player">
+					<s>(확실히, 한 발 내딛을수록 방향 감각이 없어지고 몸이 무거워진다.)</s>
+				</Page>
+				<Page speaker="player">
+					<s>(날치가 있다면 강을 거스르는 방법도 있을 텐데…)</s>
+				</Page>
+				<Page speaker="player">
+					<s>(지금은 별다른 수가 없군. 일단 아지트로 돌아가 보자.)</s>
+				</Page>		
+		
+			</Body>
+		</Task>
+		
+		
+		<Task index="3">
+			<Body>
+				<Page>
+					<s>돌아왔군. 자네같은 외지인은 처음이라 혹시나 싶었지만…</s>
+				</Page>
+				<Page speaker="player">
+					<s>도시에 흐르는 강을 통해 빠져나가는 방법은…</s>
+				</Page>
+				<Page>
+					<s>무리야. 실체가 있는 존재가 강에 접근하면 순식간에 기력을 모두 빼앗겨 버리거든.</s>
+				</Page>
+				<Page>
+					<s>강을 이용한다는 건 어떤 의미에서는 붉은 안개보다 더 위험한 방법인 거야.</s>
+				</Page>
+				<Page speaker="player">
+					<s>하지만 전… 여기서 언제까지고 머무를 수는 없어요.</s>
+				</Page>
+				<Page>
+					<s>그렇겠지. 외지인이 이곳을 목표로 찾아오지는 않았을 테니까.</s>
+				</Page>
+				<Page>
+					<s>결국 자네나 우리나 저 안개를 처리해야 하는 건 마찬가지라는 소리지.</s>
+				</Page>
+				<Page speaker="player">
+					<s>(그런가. 이거 난감한데.)</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_02" position="Right">
+					<s>잠깐, 기다려주시겠습니까?</s>
+				</Page>		
+			
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0004" index="35091" sort="Theme">
+		<Title>위장</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>다음 이야기에 앞서, 당신의 모습은 너무 눈에 띕니다. 최소한 가면만이라도 준비하는 게 좋겠습니다.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>그렇군. 얼굴을 노출하는 건 위험하지. 방독면의 말대로 우선 가면을 준비하는 것이 좋겠네.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>[ff7b50]무법자들의 거리1[-]에 가면 [ff7b50]종이봉투 뒷골목주민[-]들이 있을 걸세.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>그들에게 [ff7b50]싸구려 가면 재료[-]를 구해 오게. 급한 대로 만드는 거지만 없는 것보다는 낫겠지.</s>
+				</Page>				
+			
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>수량은 충분히 모아 왔군. 그러면 이제 슬슬 가면을 만들어 볼까?</s>
+				</Page>	
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0005" index="35092" sort="Theme">
+		<Title>마음의 안정을 위해</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>…</s>
+				</Page>
+				<Page>
+					<s>……</s>
+				</Page>
+				<Page>
+					<s>………………</s>
+				</Page>
+				<Page speaker="player">
+					<s>…?</s>
+				</Page>
+				<Page>
+					<s>으윽, 안 되겠네! 저것들 소리가 신경쓰여서 도무지 집중할 수가 없어!</s>
+				</Page>
+				<Page speaker="player">
+					<s>소리?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_02">
+					<s>아마 나무판자 뒷골목주민들이 내는 소리를 말씀하시는 걸 겁니다. 평소에도 자주 시끄러움을 호소하셨으니까요.</s>
+				</Page>
+				<Page>
+					<s>맞네! 저 녀석들이 시도 때도 없이 나무를 긁어 대는 통에 도무지 집중을 할 수가 없단 말이지.</s>
+				</Page>
+				<Page>
+					<s>[ff7b50]무법자들의 거리3[-]에서 [ff7b50]나무판자 뒷골목주민[-]들을 좀 잠잠하게 만들어 주겠나?</s>
+				</Page>				
+			
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>자네가 녀석들을 혼내주니 거짓말처럼 잠잠해지더군. 그 사이에 가면을 뚝딱 만들어 봤네. 어떤가?</s>
+				</Page>
+				<Page speaker="player">
+					<s>(…웬만하면 쓰고 싶지 않게 생겼다.)</s>
+				</Page>		
+			
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0006" index="35093" sort="Theme">
+		<Title>손에 손 잡고</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>어쨌든 가면도 만들었으니 이야기를 계속 하지. 어디까지 했었더라?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_02">
+					<s>현재로선 이곳을 빠져나갈 방법이 없는 상태라는 부분까지였습니다.</s>
+				</Page>
+				<Page>
+					<s>그렇군. 그러면 앞으로의 방법 말인데…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_02">
+					<s>애초에 레헬른은 꿈의 영향력 안에 있습니다. 이곳을 벗어나지 못하는 것도 필시 그 영향이겠지요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_02">
+					<s>그리고 본론은 지금부터입니다.</s>
+				</Page>
+				<Page speaker="player">
+					<s>혹시…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_02">
+					<s>예. 저희는 이 꿈의 도시를 루시드로부터 해방시키려고 합니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_02">
+					<s>성공한다면 도시를 둘러싼 안개도 사라지겠지요. 당신도 목적지로 향할 수 있게 될 겁니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_02">
+					<s>그러니 저희에게 힘을 빌려주시기 않으시겠습니까?</s>
+				</Page>
+				<Page speaker="player">
+					<s>(…손 놓고 있는 것보다는 직접 방법을 찾는 게 낫겠지.)</s>
+				</Page>
+				<Page speaker="player">
+					<s>…알겠어요. 뭘 하면 되죠?</s>
+				</Page>
+				<Page>
+					<s>지금 우리 힘은 너무 미미하네. 우리의 힘을 키우고 루시드의 영향력을 줄일 방법을 찾아야겠지.</s>
+				</Page>
+				<Page>
+					<s>도시 곳곳에 우리와 같은 '눈을 뜬 자'들이 있을 거야. 그들을 찾아 힘을 모으는 걸로 시작하세.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_02">
+					<s>제가 함께 하겠습니다. 우선 [ff7b50]중심가[-]로 향하는 편이 좋겠군요.</s>
+				</Page>
+				<Page>
+					<s>행운을 비네. 조심하게.</s>
+				</Page>				
+			
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>다행히 일전의 클리너들은 보이지 않는군요. 곧바로 탐문을 시작하지요.</s>
+				</Page>
+				<Page>
+					<s>망을 보는 동안 주민들과 대화하여 실마리를 찾는 게 좋겠습니다.</s>
+				</Page>
+				<Page>
+					<s>'눈을 뜬 자'는 꿈에서 깨어나지 않은 것처럼 말할 겁니다. 하지만 이미 깨어나 있으니 빈틈이 있겠지요.</s>
+				</Page>
+				<Page>
+					<s>제가 망을 볼 테니 주민들과 대화를 부탁드립니다.</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="3">
+			<Body>
+				<Page>
+					<s>행복해, 먹으니까 행복해! 행복하니까 먹어!</s>
+				</Page>
+				<Page>
+					<s>계속 먹으면 계속 행복해. 계속 행복하면 계속 먹어. 그러니까 계속 행복해!</s>
+				</Page>
+				<Page speaker="player">
+					<s>(…알 듯 말 듯 한 이야기다. 다른 사람의 말을 들어 보자.)</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="4">
+			<Body>
+				<Page>
+					<s>춤은 행복하다. 춤은 돈다. 세상도 돈다. 세상은 행복하다.</s>
+				</Page>
+				<Page>
+					<s>세상은 계속 돈다. 세상은 행복하다. 춤도 행복하다. 춤추면 계속 행복하다!</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0006_01">
+					<s>(어, 어지러워… 다른 사람을 찾아 보자.)</s>
+				</Page>		
+			
+			</Body>
+		</Task>
+		
+		
+		<Task index="5">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0006_02">
+				</Page>
+				<Page>
+					<s>끄, 끄윽! 나는 행복하다! 맛있는 걸 먹으니 배가 불러. 그래서 행복하다! 진짜다!</s>
+				</Page>
+				<Page speaker="player">
+					<s>…? 뭔가 이상한데?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_03" actionCommand="Lachelein_0006_03">
+					<s>왜 그러십니까?</s>
+				</Page>
+				<Page speaker="player">
+					<s>이 사람의 말은 뭔가 이상해요. 아니, 이상하진 않은데, 이상하지 않은 게 이상하고…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_03">
+					<s>…? 무슨 말씀이신지…</s>
+				</Page>
+				<Page speaker="player">
+					<s>으윽. 그러니까… 행복한 이유가 너무 논리적이란 뜻이에요. '맛있는 걸 먹어서 행복하다' 같이.</s>
+				</Page>
+				<Page speaker="player">
+					<s>게다가 다른 사람들의 행복은 순환하고 있었어요. 행복해서 먹고, 먹어서 행복하고…</s>
+				</Page>
+				<Page speaker="player">
+					<s>하지만 이 사람이 말하는 행복은 완결되어 있어요. 이상해요. 아니, 이상한 건 아니고…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_03">
+					<s>그렇군요. 당신의 판단을 믿습니다. 아마 그가 '눈을 뜬 자'일 겁니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_03">
+					<s>그에게 말을 걸어 아지트에 합류하도록 설득해 주십시오.</s>
+				</Page>
+				<Page speaker="player">
+					<s>하지만 이곳을 잘 알고 있는 당신이 설득하는 편이 더 좋지 않을까요?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_03">
+					<s>그가 '눈을 뜬 자'라면 당신이 이곳의 누구와도 다르다는 걸 알아보겠지요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_03">
+					<s>그렇다면 당신의 존재를 보이는 것이 더 효과적인 설득 방법이 될 겁니다.</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0006_04">
+					<s>…듣고 보니…</s>
+				</Page>
+				<Page speaker="player">
+					<s>당신, '눈을 뜬 자'죠? 우리가 당신에게 도움이 될 수 있어요.</s>
+				</Page>
+				<Page>
+					<s>!? 쉿, 쉿! 조용히 해요! 저는 위험한 일에 관심 없어요!</s>
+				</Page>
+				<Page>
+					<s>제게 말 걸지 마세요. 나비가 되고 또 사라지고 싶지 않다고요!</s>
+				</Page>
+				<Page speaker="player">
+					<s>하지만 언제까지나 도망칠 수는 없어요. 뜻이 같은 사람들끼리 힘을 합하면…</s>
+				</Page>
+				<Page>
+					<s>전 지금까지 들키지 않고 잘 지내왔어요. 그러니 내 걱정은 말고 돌아가요.</s>
+				</Page>
+				<Page speaker="player">
+					<s>(두려움이 뿌리 깊게 박혀 있어. 낭패인데…)</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_03" actionCommand="Lachelein_0006_05">
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_03">
+					<s>앗!</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_03">
+					<s>클리너다! 클리너가 나타났다!</s>
+				</Page>
+				<Page speaker="player">
+					<s>!? 클리너라고?</s>
+				</Page>
+				<Page>
+					<s>히, 히익! 다, 당신! 어디든 좋으니 날 데려가요! 어서!</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0006_06">
+					<s>네, 네? 네! 이쪽으로!</s>
+				</Page>
+				<Page speaker="player">
+					<s>……?</s>
+				</Page>
+				<Page speaker="player">
+					<s>그런데 클리너는…?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_03">
+					<s>…뭐, 소리를 질렀으니 곧 오겠지요. '눈을 뜬 자'를 데리고 아지트로 갑시다.</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0007" index="35094" sort="Theme">
+		<Title>새우가면의 기억</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>수고하셨습니다. 무사히 '눈을 뜬 자'를 구출할 수 있었군요.</s>
+				</Page>
+				<Page>
+					<s>우선 새우가면에게 이야기를 들어보는 게 좋겠습니다. 기억하는 것들이 있을지도 모르니까요.</s>
+				</Page>
+				<Page speaker="player">
+					<s>기억?</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>꿈에서 깨어난 직후에는 모든 것을 생생히 기억하지.</s>
+					<s>하지만 빠르게 잊어버리게 된다네. 꿈이란 그렇지 않은가.</s>
+				</Page>
+				<Page speaker="player">
+					<s>그렇다면 당신들도 기억 나는 것들이 있는 건가요?</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>우리는 깨어난 지 오랜 시간이 지났다네. 거의 모든 것을 잊어버렸지.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>다행히 방독면이 몇몇 장면을 떠올렸기 때문에 자네에게 레헬른과 루시드의 이야기를 해줄 수 있었던 거라네.</s>
+				</Page>
+				<Page>
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_ShrimpMask_02">
+					<s>영감님 말이 맞아요. 저도 막 깨어난 건 아니라서 많이 잊어버렸지만…</s>
+				</Page>
+				<Page speaker="NPC_ShrimpMask_02">
+					<s>아, 그러고 보니 꿈을 꾸는 내내 들었던 소리가 있었는데… 그래, 오르골 소리였어요!</s>
+				</Page>
+				<Page speaker="NPC_ShrimpMask_02">
+					<s>시끌벅적 야시장 쪽에서 들려왔었어요. 꿈에서 깨어나자 소리가 들리지 않게 돼서 확실하진 않지만…</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>오르골 소리라… 하지만 우리는 오르골 소리를 듣지 못했어.</s>
+				</Page>
+				<Page>
+					<s>그렇다면 그 소리는 꿈을 꾸는 자들에게만 들리는 건지도 모르겠군요.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>그럴싸하군. 조사할 가치가 있겠어. 시끌벅적 야시장이라 했던가?</s>
+				</Page>
+				<Page>
+					<s>#un#과 제가 조사해 보겠습니다. #un#, [ff7b50]시끌벅적 야시장[-]에서 만나시지요.</s>
+				</Page>							
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>잘 도착하셨군요.</s>
+				</Page>
+				<Page speaker="player">
+					<s>도착하긴 했지만 오는 길에 이상한 것들이…</s>
+				</Page>
+				<Page>
+					<s>…이해합니다. 꿈의 세계라는 걸 감안하더라도 수상한 녀석들이 더러 있습니다만…</s>
+				</Page>
+				<Page>
+					<s>주민들은 그런 흔한 의문조차 갖지 못하고 있습니다. 그저 '행복하다'만 되뇔 뿐.</s>
+				</Page>
+				<Page speaker="player">
+					<s>……</s>
+				</Page>
+				<Page>
+					<s>하루빨리 꿈의 세계로부터 해방해야 합니다. 이곳에서는 오르골에 대한 정보를 모으도록 하죠. 부탁드립니다.</s>
+				</Page>					
+			</Body>
+
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0008" index="35095" sort="Theme">
+		<Title>엘리자베스 수색1</Title>
+		<Task index="1">
+			<Body>
+				<Page speaker="player">
+					<s>저, 혹시 오르골 소리…</s>
+				</Page>
+				<Page>
+					<s>믿을 수가 없어. 꿈을 꾸는 걸까. 정말 사라졌잖아. 내 엘리자베스가.</s>
+				</Page>
+				<Page speaker="player">
+					<s>엘리자베스?</s>
+				</Page>
+				<Page>
+					<s>나의 사랑. 나의 원수. 엘리자베스. 혼내줘야 해. 아니, 감싸줘야 해. 나의 달빛. 나의 태양. 나의 행복.</s>
+				</Page>
+				<Page speaker="player">
+					<s>그… 저는 이만…</s>
+				</Page>
+				<Page>
+					<s>찾아 내. 본 적 없는 가면. 클리너를 부를 거야. 끌려가서 치킨… 나비가 되기 싫으면.</s>
+				</Page>
+				<Page speaker="player">
+					<s>큭… 하지만 엘리자베스란 게 대체 뭔지는 알아야…</s>
+				</Page>
+				<Page speaker="NPC_StylishMask_01">
+					<s>어리석군. 그것이 당신이니까.</s>
+				</Page>
+				<Page speaker="player">
+					<s>(…? 저 사람, 뭔가 알고 있는 건가?)</s>
+				</Page>				
+			
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="player">
+					<s>혹시 엘리자베스에 대해 뭔가 알고 있나요?</s>
+				</Page>
+				<Page>
+					<s>애완 닭. 그것이 엘리자베스니까.</s>
+				</Page>
+				<Page speaker="player">
+					<s>애완… 닭…?</s>
+				</Page>
+				<Page>
+					<s>닭은 위장에 넣는 것. 그것이 치킨이니까.</s>
+				</Page>
+				<Page>
+					<s>하지만 치킨이 되지 않으면 위장에 들어가지 않는다. 그것이 닭이니까.</s>
+				</Page>
+				<Page>
+					<s>닭은 날고 치킨은 뛴다. 하지만 날뛰는 것은 독자적인 것. 그것이 엘리자베스.</s>
+				</Page>
+				<Page speaker="player">
+					<s>하지만 다 같은 닭을 어떻게 구분해야…</s>
+				</Page>
+				<Page>
+					<s>있는 대로 쥐어박는다. 그들은 있어야 할 곳으로 돌아간다. 그것이 닭이니까. 그것이 엘리자베스니까.</s>
+				</Page>
+				<Page speaker="player">
+					<s>(무슨 말인지 모르겠지만… 어쨌든 [ff7b50]닭이 뛰노는 곳1[-]에서 있는 대로 쥐어박아 보는 편이 좋겠다.)</s>
+				</Page>		
+			
+			</Body>
+		</Task>
+		
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="player">
+					<s>(엘리자베스는… 돌아오지 않은 건가.)</s>
+				</Page>
+				<Page>
+					<s>엘리자베스가 보이지 않는다는 건 엘리자베스가 여기 없다는 것. 그것이 현실이니까.</s>
+				</Page>
+				<Page speaker="player">
+					<s>하지만 빠짐없이 쥐어박았는데…</s>
+				</Page>
+				<Page>
+					<s>쥐어박은 닭들은 저마다 미래의 치킨의 모습을 그리고 있었다는 것. 그것은 무엇.</s>
+				</Page>
+				<Page speaker="player">
+					<s>미래의 치킨 모습이라니… 들고 있었던 건 토마토 뿐인데 그걸로 무슨 치킨을…</s>
+				</Page>
+				<Page>
+					<s>애꿎은 닭을 괴롭히는 건 지양해야 할 일. 토마토 알레르기가 있는 닭. 그것이 엘리자베스니까.</s>
+				</Page>
+				<Page speaker="player">
+					<s>(닭이 토마토 알레르기라고!?)</s>
+				</Page>				
+			</Body>
+	
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0009" index="35096" sort="Theme">
+		<Title>엘리자베스 수색2</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>인간은 시행착오를 하기 마련. 그것이 인간이니까.</s>
+				</Page>
+				<Page>
+					<s>[ff7b50]닭이 뛰노는 곳2[-]에는 엘리자베스가 있을 것. 실패는 성공의 어머니니까.</s>
+				</Page>				
+			
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>돌아왔어. 나의 엘리자베스! 각오했어. 나의 엘리자베스!</s>
+				</Page>
+				<Page>
+					<s>이 행복한 세상을. 내 손으로 만들 거야. 행복한 치킨… 닭을.</s>
+				</Page>
+				<Page>
+					<s>수상한 사람은 오르골 소리를 궁금해했지. 행복한 오르골을.</s>
+				</Page>
+				<Page speaker="player">
+					<s>(…기억하고 있었던 건가?)</s>
+				</Page>
+				<Page>
+					<s>마음으로부터 오는 오르골 소리. 마음이 어디냐고 묻는다면 대답하는 것이 인지상정.</s>
+				</Page>
+				<Page>
+					<s>바람이 부는 쪽. 달빛이 향하는 쪽. 자갈이 구르는 쪽. 강물이 흘러오는 쪽.</s>
+				</Page>
+				<Page speaker="player">
+					<s>대체 무슨 말…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_04">
+					<s>[ff7b50]왼쪽[-]이로군요.</s>
+				</Page>
+				<Page speaker="player">
+					<s>!? 그걸 어떻게?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_04">
+					<s>모든 요소가 왼쪽을 가리키고 있으니까요. 가령 강물이 흘러오는 쪽이라든가 하는.</s>
+				</Page>
+				<Page speaker="player">
+					<s>듣고 보니… 도무지 알 수 없는 소리들만 한다고 생각했는데.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_04">
+					<s>후후, 당신도 곧 그 속에 있는 의미를 잡아낼 수 있게 될 겁니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_04">
+					<s>어쨌든 왼쪽으로 이동해서 다른 사람들의 말을 듣는 게 좋겠습니다.</s>
+				</Page>		
+			
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0010" index="35097" sort="Theme">
+		<Title>오르골 소리가 들려오는 곳</Title>
+		<Task index="1">
+			<Body>
+				<Page speaker="player">
+					<s>(이 사람에게 물어볼까.)</s>
+				</Page>
+				<Page speaker="player">
+					<s>혹시 오르골 소리가 들려오지 않나요?</s>
+				</Page>
+				<Page>
+					<s>오르골 소리? 물론이지. 난 행복하거든. 푸드파이터 대회에서 65535번째 준우승 중이니까.</s>
+				</Page>
+				<Page speaker="player">
+					<s>그렇다면 혹시 어느 방향에서…</s>
+				</Page>
+				<Page>
+					<s>난 행복하다니까? 이런 행복한 기분에는 무언가를 부수는 게 좋을 거야. 그치?</s>
+				</Page>
+				<Page speaker="player">
+					<s>…?</s>
+				</Page>
+				<Page>
+					<s>그래. 우승 접시같은 게 좋겠어.</s>
+				</Page>
+				<Page speaker="player">
+					<s>우승 접시?</s>
+				</Page>
+				<Page>
+					<s>파이가면의 우승 접시. [ff7b50]우승접시의 거리1[-]에 있는 우승 접시를 시원하게 부수는 게 좋아.</s>
+				</Page>
+				<Page>
+					<s>그러면 행복한 나는 더더욱 또렷한 오르골 소리를 듣게 되겠지? 상상만 해도 행복하구만!</s>
+				</Page>
+				<Page speaker="player">
+					<s>(그러니까… 준우승을 했으니 우승 접시를 부숴 달라는 말이겠지?)</s>
+				</Page>
+				<Page>
+					<s>접시를 부수고 [ff7b50]파란 접시 조각[-]을 [ff7b50]20개[-]쯤 가져오면 나는 더 행복할 거야!</s>
+				</Page>				
+			
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>나는 행복해. 접시를 보니 후련해서 다시 행복해.</s>
+				</Page>
+				<Page>
+					<s>오르골 소리는 파이가면에게서 들리고 있어. 그러니 행복하지.</s>
+				</Page>
+				<Page speaker="player">
+					<s>(파이가면이라… 말을 걸어 보자.)</s>
+				</Page>		
+			
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0011" index="35098" sort="Theme">
+		<Title>파이가면과 오르골</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>여긴 꿈과 환상의 도시! 우린 매일 먹고 마시잖아! 그러니 매일 행복하잖아!</s>
+				</Page>
+				<Page>
+					<s>매일매일이 똑같잖아! 먹고! 마시잖아! 그래서 행복하잖아!</s>
+				</Page>
+				<Page>
+					<s>오늘도 먹고! 내일도 마시잖아! 정말 행복하잖아!</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_04">
+					<s>(…#un#, 눈치채셨습니까? 이 사람은 진정으로 행복해하지 않는 것 같습니다.)</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_04">
+					<s>(행복을 외치는 다른 사람들과는 뭔가 다릅니다. 고민을 들어보는 게 좋겠습니다.)</s>
+				</Page>
+				<Page speaker="player">
+					<s>(그렇군요.)</s>
+				</Page>
+				<Page speaker="player">
+					<s>무엇이 당신을 가장 행복하게 만드나요?</s>
+				</Page>
+				<Page>
+					<s>나는 푸드파이트 대회의 우승자잖아! 벌써 65535번 연속 우승이잖아!</s>
+				</Page>
+				<Page>
+					<s>너무 많이 승리했잖아! 이제 아무도 이런 대회 신경쓰지 않잖아! 그래서 정말 행복하잖아!</s>
+				</Page>
+				<Page>
+					<s>우승 접시를 깨서 모두의 기억을 새로 시작하고 싶잖아! 하지만 난 먹기만 할 수밖에 없잖아!</s>
+				</Page>
+				<Page speaker="player">
+					<s>하지만 접시를 깬다고 모두의 기억이 새로 시작된다는 건…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_04">
+					<s>(…#un#, 다녀오지요.)</s>
+				</Page>
+				<Page speaker="player">
+					<s>(…방독면?)</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_04">
+					<s>(지금은 조용히 다녀오는 게 좋겠습니다. 다녀오면 알게 될 겁니다.)</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_04">
+					<s>([ff7b50]우승접시의 거리2[-]에서 [ff7b50]비뚤어진 우승접시[-]를 적당히 깨고 오면 되겠지요. 저는 자리를 지키고 있겠습니다.)</s>
+				</Page>						
+			</Body>
+		</Task>
+
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="NPC_ProtectiveMask_04">
+					<s>그 사이에 푸드파이트 대회가 진행되었습니다. 대회의 회차는…</s>
+				</Page>
+				<Page speaker="NPC_BalloonMask_01">
+					<s>제 1회 푸드파이트 대회! 그 결과는…</s>
+				</Page>
+				<Page speaker="player">
+					<s>1회차!?</s>
+				</Page>
+				<Page speaker="player">
+					<s>그럴 수가! 정말 접시를 깬 것만으로…?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_04">
+					<s>그보다는 그 전의 대회가 65535번 째였던 것이 열쇠입니다.</s>
+				</Page>
+				<Page speaker="player">
+					<s>…? 그게 무슨…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_04">
+					<s>후후, 모르셔도 괜찮습니다. 이곳은 꿈의 세계니까요. 그보다 이제 우승자가 발표됩니다.</s>
+				</Page>
+				<Page speaker="NPC_BalloonMask_01">
+					<s>우승자는… 파이가면!</s>
+				</Page>					
+			</Body>
+		</Task>
+	</Quest>
+		
+	<Quest code="Lachelein_0012" index="35099" sort="Theme">
+		<Title>파이가면의 깨달음</Title>
+		<Task index="1">
+			<Body>
+				<Page speaker="NPC_BeautyMask_02">
+					<s>와, 봤어? 정말 어마어마하게 먹어 댔어!</s>
+				</Page>
+				<Page speaker="NPC_Resident_01" actionCommand="Lachelein_0012_01">
+					<s>1회 우승자는 반드시 내가 되고 싶었는데! 준우승이라니 정말 행복하군!</s>
+				</Page>							
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0012_02">
+				</Page>
+				<Page speaker="NPC_PieMask_01">
+					<s>우승했잖아… 모두가 날 우러러보고 있잖아. 이 순간의 주인공은 나잖아…!</s>
+				</Page>
+				<Page speaker="NPC_PieMask_01">
+					<s>이것이… 진정한 행복이잖아!</s>
+				</Page>
+				<Page speaker="NPC_PieMask_01">
+					<s>…어? 진정한… 행복?</s>
+				</Page>
+				<Page speaker="NPC_PieMask_01">
+					<s>어… 어째서…? 나는 원래 행복했는데… 지금의 감정은 분명 행복… 하지만 이전의 나는…</s>
+				</Page>
+				<Page  speaker="NPC_PieMask_01" actionCommand="Lachelein_0012_03">
+					<s>으으, 뭔가… 나는… 어째서…</s>
+				</Page>
+				<Page speaker="player">
+					<s>오르골이 되었다!?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_05">
+					<s>…#un#, 이 오르골을 부숴 주십시오.</s>
+				</Page>
+				<Page speaker="player">
+					<s>하지만 이건 도시의 주민이 변한 모습…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_05">
+					<s>추측이 맞다면 이 오르골의 소리가 주민들의 꿈을 유지시키는 개념일 겁니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_05">
+					<s>이 오르골이 파괴된다면 주변에 대한 꿈의 영향력이 감소하겠지요. 반드시 파괴해야 합니다.</s>
+				</Page>
+				<Page speaker="player">
+					<s>하지만…</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_05" actionCommand="Lachelein_0012_04">
+					<s>오르골… 손 대지 마라…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_05" actionCommand="Lachelein_0012_05">
+					<s>이런, 벌써!</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_05" actionCommand="Lachelein_0012_13">
+					<s>#un#! 시간이 없습니다! 제가 클리너를 상대할 테니 어서 오르골을!</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0012_06">
+					<s>실랑이 할 시간이 없어. 파괴할 수밖에…!</s>
+				</Page>
+				<Page speaker="player">
+					<s>(생각보다 단단해…!)</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_05">
+					<s>걸리적거린다… 비켜…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_05">
+					<s>윽…</s>
+				</Page>
+				<Page speaker="player">
+					<s>(방독면이…!)</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0012_07">
+					<s>시간이 없어. 얼른…!</s>
+				</Page>
+				<Page speaker="player">
+					<s>됐어!</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_05">
+					<s>오르골이…</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_05" actionCommand="Lachelein_0012_14">
+					<s>꿈의 영향력이…</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="3">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0012_08">
+				</Page>
+				<Page>
+					<s>주변의 공기가…?</s>
+				</Page>
+				<Page speaker="NPC_Resident_01">
+					<s>이게 어떻게 된 일이지?</s>
+				</Page>
+				<Page speaker="NPC_BeautyMask_02">
+					<s>내가 뭘 하고 있었던 거야?</s>
+				</Page>
+				<Page>
+					<s>주민들이 꿈에서 깨어난 것 같아. 우선 해방에 성공… 아차, 방독면!</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_04">
+					<s>으윽… 괘, 괜찮습니다.</s>
+				</Page>
+				<Page>
+					<s>하지만 괜찮지 않아 보여요. 클리너에게 당한 건가요?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_04">
+					<s>아닙니다. 그게 아니라… 오르골이 파괴될 즈음 갑자기 고통이… 이젠… 괜찮습니다.</s>
+				</Page>
+				<Page speaker="NPC_WatermelonMask_02">
+					<s>이봐, 이게 무슨 일이야!? 갑자기 긴 꿈에서 깨어난 것만 같은데!</s>
+				</Page>
+				<Page>
+					<s>이곳의 주민들이 모두 깨어났어요. 아무래도 아지트로…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_04">
+					<s>아닙니다. 오르골이 사라져 영향력이 약해진 지금은 오히려 이곳이 최적의 대피처라고 생각합니다.</s>
+				</Page>
+				<Page>
+					<s>그러고 보니… 그렇다면 이곳의 주민들은 이대로…</s>
+				</Page>
+				<Page speaker="NPC_WatermelonMask_02">
+					<s>어이! 난 당신들을 따라가겠어. 이곳에서 한시도 더 있고 싶지 않다고!</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_04" actionCommand="Lachelein_0012_09">
+					<s>…어쩔 수 없군요. 셋이 함께 아지트로 돌아갑시다.</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="4">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0012_10">
+				</Page>		
+				<Page>
+					<s>흐응, 이래저래 거슬리는 분들이로군요.</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_08">
+					<s>외지인… '눈을 뜬 자'… 강력… 자비를…</s>
+				</Page>
+				<Page actionCommand="Lachelein_0012_11">
+					<s>……</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q2" voiceCode="0" animName="Face6">
+					<s>과연, 위대하신 그분이 선택한 사람이군요.</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q2" voiceCode="1" actionCommand="Lachelein_0012_12" animName="Face3">
+					<s>하지만… 그런다고 달라지는 건 아무것도 없어요.</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q2" voiceCode="2_1" animName="Face2">
+					<s>그러니 열심히 발버둥쳐 주세요.</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q2" voiceCode="2_2" animName="Face1">
+					<s>거짓된 희망 속에서 허우적거려 주세요.</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q2" voiceCode="2_3" animName="Face1">
+					<s>차가운 얼음덩이 속에서 제가 그랬던 것처럼.</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q2" voiceCode="2_4" animName="Face1" actionCommand="Lachelein_0012_15">
+					<s>끝없는 꿈속에서 제가 그랬던 것처럼…</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0013" index="35100" sort="Theme">
+		<Title>다른 오르골을 찾아</Title>
+		<Task index="1">
+			<Body>
+				<Page speaker="NPC_GrayMask_01">
+					<s>방독면, 자네 괜찮은가? 기운이 없어 보이는데.</s>
+				</Page>
+				<Page>
+					<s>괜찮습니다. 그보다… 오르골을 파괴했고 꿈의 영향력이 약해지는 것을 보았습니다.</s>
+				</Page>
+				<Page>
+					<s>조금이라도 빨리 남은 오르골을 찾아 부숴야 합니다.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>남은 오르골이라고?</s>
+				</Page>
+				<Page>
+					<s>짐작대로 오르골은 레헬른 주민들의 꿈을 유지하기 위한 장치였습니다. 그리고…</s>
+				</Page>
+				<Page>
+					<s>파괴한 오르골 외에도 [ff7b50]두 개의 오르골[-]이 더 있습니다.</s>
+					<s>그것들을 모두 부숴야 레헬른을 해방할 수 있습니다.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>하지만 자네가 그 사실을 어떻게…</s>
+				</Page>
+				<Page>
+					<s>오르골이 부숴질 때 기운이 빠지는 동시에 여러 기억들이 흘러들어 오더군요.</s>
+				</Page>
+				<Page speaker="NPC_WatermelonMask_01">
+					<s>하지만 근처에 있던 나는 아무것도 떠오르지 않았는데?</s>
+				</Page>
+				<Page>
+					<s>…잘 모르겠습니다. 하지만 거짓말은 아닙니다.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>자네가 허튼 소리를 할 위인은 아니지. 그렇다면 다음 목적도 명확해졌네만…</s>
+					<s>무턱대고 찾을 수도 없는 노릇이고.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>수박가면, 자네. 무언가 떠오르는 것이 없는가?</s>
+					<s>꿈에서 깬 지 얼마 되지 않았으니 기억이 날 법도 한데.</s>
+				</Page>
+				<Page speaker="NPC_WatermelonMask_01">
+					<s>으음, 별로 떠올리고 싶진 않아. 왜냐하면 그 여자, 루시드를 본 기억이 나거든.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>루시드라고!? 어떻게?</s>
+				</Page>
+				<Page speaker="NPC_WatermelonMask_01">
+					<s>그것까지는 잘 기억이 나지 않아. 하지만 그 여자, '악몽'이라는 걸 찾고 있었어.</s>
+				</Page>
+				<Page>
+					<s>악몽…입니까.</s>
+				</Page>
+				<Page speaker="NPC_WatermelonMask_01">
+					<s>반가운 걸 찾는 느낌은 아니었어. 뭔가 신경이 날카로워보였다고 해야 하나, 그랬는데.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>꿈의 주인에게 악몽이라면… 자신이 원하는 것을 방해하는 무엇인가를 지칭하는 건지도 모르겠군.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>이 세계는 루시드가 만들었지만, 루시드 본인도 제어하지 못하는 요소가 있는 건 아닐까?</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>악몽이라면 그 중에서도 꿈의 세계를 위협할 만한 큰 장애물이라는 의미겠지.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>그런 존재가 있다면 루시드를 물리치는 열쇠가 될지도 모르지.</s>
+				</Page>
+				<Page>
+					<s>그렇다면… 아마 #un#인지도 모르겠군요.</s>
+				</Page>
+				<Page speaker="player">
+					<s>…?</s>
+				</Page>
+				<Page>
+					<s>당신이 온 덕분에 우리는 오르골을 파괴해서 일부나마 해방할 수 있었습니다.</s>
+				</Page>
+				<Page>
+					<s>게다가 나비로 만드는 루시드의 힘도 당신에겐 통하지 않았습니다.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>호오, 과연… 루시드를 물리치기 위해 외부에서 온 건가, 자네는?</s>
+				</Page>
+				<Page speaker="player">
+					<s>설마, 그럴 리가요.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>하하, 농담일세. 하지만 정말로 루시드의 '악몽'이란 자네일지도 모르겠어.</s>
+				</Page>
+				<Page>
+					<s>혹시 또 다른 정보는 없겠습니까?</s>
+				</Page>
+				<Page speaker="NPC_WatermelonMask_01">
+					<s>음… 아, 나는 오르골이 깨지고 나서야 꿈에서 깨어나게 됐잖아? 하지만 여전히 소리가 들려왔거든.</s>
+				</Page>
+				<Page speaker="NPC_WatermelonMask_01">
+					<s>레헬른 무도회장쪽에서 들려오고 있었어. 확실하게 깬 지금은 들려오지 않긴 하지만.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_01">
+					<s>[ff7b50]무도회장[-]이라… 행선지는 정해졌군.</s>
+				</Page>
+				<Page>
+					<s>예. 다녀오겠습니다.</s>
+				</Page>							
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0013_01">
+				</Page>
+				<Page actionCommand="Lachelein_0013_02">
+					<s>……</s>
+				</Page>
+				<Page speaker="player">
+					<s>방독면?</s>
+				</Page>
+				<Page>
+					<s>#un#, 당신은 알고 계셨습니까? 주민들의 정체를.</s>
+				</Page>
+				<Page speaker="player">
+					<s>정체?</s>
+				</Page>
+				<Page>
+					<s>[ff7b50]에르다스[-]라는 사실 말입니다.</s>
+				</Page>
+				<Page speaker="player">
+					<s>…!</s>
+				</Page>
+				<Page speaker="player">
+					<s>그건… 확신은 없었어요. 이전의 경험에 비추어 막연히 추측했을 뿐.</s>
+				</Page>
+				<Page speaker="player">
+					<s>하지만 방독면, 당신이 그걸 어떻게?</s>
+				</Page>
+				<Page>
+					<s>오르골이 파괴되고 꿈의 세계가 조금 벗겨질 때, 이 세계 너머를 조금 엿볼 수 있었습니다.</s>
+				</Page>
+				<Page>
+					<s>어떻게 제게만 그런 일이 일어나는 건지는 알 수 없지만, 만약 사실이라면…</s>
+				</Page>
+				<Page>
+					<s>꿈에 갇힌 에르다스들이 마치 사람인 양 행세하고 있다는 거겠지요.</s>
+				</Page>
+				<Page speaker="player">
+					<s>……</s>
+				</Page>
+				<Page>
+					<s>아이러니입니다. 민낯을 감추기 위해 쓴 가면인 줄 알았는데, 사실은 가면 자체가 민낯이었다니.</s>
+				</Page>
+				<Page>
+					<s>만들어진 세계에 만들어진 얼굴… 그렇다면 우리의 본질은 어디에 있는 걸까요?</s>
+				</Page>
+				<Page>
+					<s>아니, 애초에 우리에게 본질이란 게… 영혼이란 게 과연 있을까요?</s>
+				</Page>
+				<Page>
+					<s>영혼 없는 자들의 살기 위한 발버둥에 무슨 의미가 있을지…</s>
+				</Page>
+				<Page speaker="player">
+					<s>……</s>
+				</Page>
+				<Page actionCommand="Lachelein_0013_03">
+					<s>…가죠.</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="3">
+			<Body>
+				<Page>
+					<s>…우선은 할 일을 해야겠습니다.</s>
+				</Page>
+				<Page>
+					<s>야시장에서와 같이 탐문을 해야겠습니다. 가까이 있는 삐리리가면부터 시작하지요.</s>
+				</Page>		
+			
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0014" index="35101" sort="Theme">
+		<Title>무도회장의 드레스 코드</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>강하지 않은 자, 춤 출 자격 없다. 춤 출 자격 없는 자, 강하지 않다.</s>
+				</Page>
+				<Page>
+					<s>무도회장에 어울리는 품격. 그것을 증명하는 것이 최소 조건.</s>
+				</Page>
+				<Page>
+					<s>[ff7b50]본색을 드러내는 곳1[-]을 휘젓는 바보들을 혼내주고 그들의 [ff7b50]가면 재료[-]를 빼앗아오는 걸로 자격 인정.</s>
+				</Page>				
+			</Body>
+			
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>당신, 생각보다 강한 것. 바보보다 강한 것 인정.</s>
+				</Page>
+				<Page speaker="player">
+					<s>(나름의 자격을 갖추게 된 건가? 다른 사람에게 말을 걸어 보자.)</s>
+				</Page>				
+			</Body>
+	
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0015" index="35102" sort="Theme">
+		<Title>행복한 멋쟁이청년가면</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>자네는 행복하나? 나는 행복하다네. 그때 그곳, 광기 어린 것들과의 만남이 행복했다네.</s>
+				</Page>
+				<Page>
+					<s>그들이 내게 '빌려'간 물건도 행복할 거라네. 물건이 돌아오지 않은 것마저 행복하다네.</s>
+				</Page>
+				<Page>
+					<s>행복한 그들에게 정의의 힘을 보여준다면 나는 더욱 행복할 거라네.</s>
+				</Page>
+				<Page>
+					<s>행복한 그들은 [ff7b50]본색을 드러내는 곳2[-]에 있는 [ff7b50]광기의 무도회주민[-]이라네!</s>
+				</Page>							
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>멋지다네. 그대는 참교육자라네. 정의는 승리한다네.</s>
+				</Page>
+				<Page>
+					<s>풍문으로 들었다네. 낯선 자가 찾는 소리. 풍문은 검은가면에게 향한다네!</s>
+				</Page>
+				<Page speaker="player">
+					<s>(무슨 소린지… 어쨌든 검은가면을 찾으라는 말이겠지.)</s>
+				</Page>						
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0016" index="35103" sort="Theme">
+		<Title>눈을 뜬 자, 검은가면</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>……</s>
+				</Page>
+				<Page speaker="player">
+					<s>혹시 오르골 소리가 들려오지 않나요?</s>
+				</Page>
+				<Page>
+					<s>몰라. 내게 그런 소리는 들리지 않으니 내 주변에서 사라져. 나는 살고 싶으니.</s>
+				</Page>
+				<Page speaker="player">
+					<s>(들리지 않는다고?)</s>
+				</Page>
+				<Page speaker="player">
+					<s>당신, 혹시…!</s>
+				</Page>
+				<Page>
+					<s>그래. 눈을 떴지. 그게 뭐? 어차피 다 똑같은 녀석들 소굴인데!</s>
+				</Page>
+				<Page speaker="player">
+					<s>그렇지 않아요. 아지트에 가면 당신과 같이 '눈을 뜬 자'들이…</s>
+				</Page>
+				<Page>
+					<s>알아. 너희 일은 내 귀에까지 들려오고 있으니까.</s>
+				</Page>
+				<Page>
+					<s>그런데 꿈의 주인이 정말 너희를 모를 것 같아? 됐으니까 사라져!</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_07">
+					<s>이런, 도망쳤습니다! 저 방향은 위험합니다! 따라가야 합니다!</s>
+				</Page>						
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>칫, 왜 여기까지 굳이 따라와서는…!</s>
+				</Page>
+				<Page speaker="player">
+					<s>이 주변은 위험해요. 괜찮은가요?</s>
+				</Page>
+				<Page>
+					<s>난 괜찮아. 옆에 이 친구가 문제지.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_08">
+					<s>…윽.</s>
+				</Page>
+				<Page speaker="player">
+					<s>바, 방독면!</s>
+				</Page>
+				<Page>
+					<s>나를 보호하다가 클리너에게 당했어. 중한 건 자기 목숨인데 대체 왜 그런 어리석은 짓을…!</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0017" index="35104" sort="Theme">
+		<Title>검은가면 구출</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>게다가 당신까지 따라와서 셋 다 고립되어 버린 거야! 쳇! 이젠 다 틀렸어.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_08">
+					<s>그렇지… 않습니다.</s>
+				</Page>
+				<Page speaker="player">
+					<s>방독면, 괜찮아요?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_08">
+					<s>괜찮습니다. 그보다…</s>
+					<s>이곳의 클리너는 생각만큼 강하지 않습니다. 오르골이 파괴된 영향이겠지요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_08">
+					<s>#un#이라면 이 녀석들을 뚫을 수 있을 겁니다.</s>
+				</Page>
+				<Page>
+					<s>말도 안 돼. 아무리 약해졌다고 해도 클리너야. 게다가 너무 많아!</s>
+					<s>루시드마저 경계하던 악몽이라는 녀석이 아닌 바에야…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_08">
+					<s>지금 이 자리에 있을지도 모릅니다. 그 악몽 말입니다.</s>
+				</Page>
+				<Page speaker="player">
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_08">
+					<s>당신은 포위가 허술해지면 아지트로 몸을 피하십시오. 저희는 무도회장에서 할 일이 있습니다.</s>
+				</Page>
+				<Page>
+					<s>그렇게까지 말한다면 수락하지. 그리고…</s>
+				</Page>
+				<Page>
+					<s>무도회가면을 찾아 봐. 항상 음악 소리와 춤이 어쩌고 말하곤 했거든.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_08">
+					<s>그렇군요. #un#, 우선 포위망을 뚫는 게 먼저입니다.</s>
+				</Page>							
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>검은가면은 무사히 빠져나간 것 같군요. 이제 무도회장으로 돌아갑시다.</s>
+				</Page>
+				<Page speaker="player">
+					<s>방독면, 안색이 좋지 않아요. 당신도 돌아가는 게 좋겠어요.</s>
+				</Page>
+				<Page>
+					<s>괜찮습니다. 아직 끝내지 못한 일들이 있으니까요.</s>
+				</Page>
+				<Page speaker="player">
+					<s>……</s>
+				</Page>					
+			</Body>
+
+		</Task>
+		
+		
+		<Task index="3">
+			<Body>
+				<Page>
+					<s>우여곡절 끝에 무도회장으로 다시 돌아올 수 있었군요. 이제 무도회가면의 말을 들어 보지요.</s>
+				</Page>		
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0018" index="35105" sort="Theme">
+		<Title>방독면의 사명</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>나는 행복해. 머릿속에서 이렇게 음악이 들려오고, 음악에 맞춰 춤출 생각을 하면 행복해.</s>
+				</Page>
+				<Page>
+					<s>저 화려한 무대의 주인공이 내가 아니어도 행복해. 아무도 날 봐 주지 않아도 정말 행복해…?</s>
+				</Page>
+				<Page>
+					<s>한가운데서 화려하게 춤 추는 꿈을 꿀 수 있어서… 행복해…</s>
+				</Page>
+				<Page speaker="player">
+					<s>(방독면, 이 사람 설마…)</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_07">
+					<s>(그렇군요. 일전의 일을 생각하면, 오르골의 정체는 그녀인 것 같습니다.)</s>
+				</Page>
+				<Page speaker="player">
+					<s>(하지만 오르골들은 어째서 하나같이 이렇게 비틀린 행복을 안고 있는 걸까요?)</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_07">
+					<s>(모르겠습니다. 어쩌면 꿈의 주인 본인이 안고 있는 마음이 발현된 것인지도 모르겠군요.)</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_07">
+					<s>(누군게에게 인정받고, 거짓된 행복에 사로잡히고… 하나같이 그런 사람들 뿐이니까요.)</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_07">
+					<s>어쨌든 지금은 무도회가면의 욕망을 해소해주는 게 좋겠습니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_07">
+					<s>[ff7b50]춤추는 구두 점령지2[-]에 가면 화려하게 [ff7b50]춤추는 빨간구두[-]가 있을 겁니다.</s>
+					<s>녀석들의 춤을 방해한다면 사람들의 시선이 무대로 쏠리게 만들 수 있겠지요.</s>
+				</Page>							
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>윽, 후…</s>
+				</Page>
+				<Page>
+					<s>…빨간구두를 잠잠하게 했으니 이제 무도회가면에게 돌아가 봅시다.</s>
+				</Page>
+				<Page speaker="player">
+					<s>…방독면, 왜 이렇게까지 하는 거죠? 몸도 성하지 않으면서.</s>
+				</Page>
+				<Page>
+					<s>……</s>
+				</Page>
+				<Page>
+					<s>#un#, 일전에 제가 '에르다스에게도 영혼이 있을까'라고 여쭌 일을 기억하십니까?</s>
+				</Page>
+				<Page>
+					<s>그때 이후로 꽤 오래 고민했습니다. 영혼이 없다면 나는 누구인가, 그런 것을요.</s>
+				</Page>
+				<Page>
+					<s>그러다 문득 생각했습니다. 제가 에르다스라면 이곳에 존재하는 이유가 무엇인지.</s>
+				</Page>
+				<Page>
+					<s>루시드가 꿈의 세계를 지배하고 있고 저는 그것을 막고 있습니다. 그것이 제 존재의 의미.</s>
+				</Page>
+				<Page>
+					<s>제 존재가 만들어진 이유이며 사명이라는 결론에 도달했습니다.</s>
+				</Page>
+				<Page>
+					<s>존재의 의미가 있고 사명이 있습니다.</s>
+					<s>영혼이 있을까? 그런 건 애초에 중요하지 않았던 거지요.</s>
+				</Page>
+				<Page speaker="player">
+					<s>…사실 의기소침한 모습을 보고 조금 걱정했어요.</s>
+					<s>하지만 당신의 각오를 새롭게 다지게 된 셈이 됐군요.</s>
+				</Page>
+				<Page>
+					<s>그렇습니다. 걱정을 끼쳤군요.</s>
+				</Page>
+				<Page>
+					<s>자, 이야기는 이 정도로 하고 무도회가면에게 돌아가 보는 게 좋겠습니다.</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0019" index="35106" sort="Theme">
+		<Title>무도회가면의 행복</Title>
+		<Task index="1">
+			<Body>
+				<Page actionCommand="Lachelein_0019_01">
+					<s>아아, 모두가 무대에 집중하고 있어… 춤을 출 거야… 행복할 거야…</s>
+				</Page>				
+			</Body>
+			
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0019_02_1">
+				</Page>
+				<Page speaker="NPC_MasqueradeMask_01">
+					<s>이것이 춤, 모두의 시선, 관심과 사랑… 아아…</s>
+				</Page>
+				<Page speaker="NPC_MasqueradeMask_01">
+					<s>지금 이 순간, 마법처럼… 날 묶어 왔던 사슬이 벗겨지는 느낌…! 이것이 행복…!</s>
+				</Page>
+				<Page speaker="NPC_MasqueradeMask_01">
+					<s>아…? 이것이… 행복? 나는 행복했었던 게 아니었나…?</s>
+				</Page>
+				<Page speaker="NPC_MasqueradeMask_01" actionCommand="Lachelein_0019_03">
+					<s>모르겠어, 모르겠어… 나는… 행복….</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_09">
+					<s>역시, 그녀가 오르골이었군요. 클리너들이 나타나기 전에 빨리…</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_01">
+					<s>오르골… 건드리지 마라…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_09" actionCommand="Lachelein_0019_05">
+					<s>이런, 옵니다!</s>
+				</Page>					
+			</Body>
+
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page actionCommand="Lachelein_0019_06">
+					<s>공격이 잦아들었어. 이 틈에 빨리!</s>
+				</Page>		
+			</Body>
+
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0019_07">
+				</Page>
+				<Page speaker="NPC_RedFlowerMask_01">
+					<s>아? 이게 어떻게 된 일이지?</s>
+				</Page>
+				<Page speaker="NPC_NoblewomanMask_01">
+					<s>내가 뭘 하고 있었던 거야?</s>
+				</Page>
+				<Page>
+					<s>좋아, 이걸로…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_10">
+					<s>크…윽! 또 머리가…!</s>
+				</Page>
+				<Page>
+					<s>바, 방독면!</s>
+				</Page>
+				<Page actionCommand="Lachelein_0019_08">
+					<s>얼른 아지트로 돌아가요! 일어설 수 있겠어요?</s>
+				</Page>
+				<Page speaker="NPC_Lucid_25" animName="Face6">
+					<s>후후… 발버둥칠 땐 잠시 잊어버릴지도 모르죠.</s>
+				</Page>
+				<Page speaker="NPC_Lucid_25" animName="Face6">
+					<s>하지만 곧 떠올리게 될 거예요. 그 발 아래, 닿지 않는 까마득한 심연이 있었다는 것을.</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q3" voiceCode="2" speaker="NPC_Lucid_25" actionCommand="Lachelein_0019_09" animName="Face5">
+					<s>기대하셔도 좋아요. 이제부터 시작될 테니.</s>
+				</Page>					
+			</Body>
+
+		</Task>
+		
+		
+		<Task index="5">
+			<Body>
+				<Page>
+					<s>방독면을 잘 데려와 주었네. 방독면! 괜찮은가?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_02">
+					<s>괜…찮습니다…</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0020_01" index="35107" sort="Theme">
+		<Title>루시드와 방독면</Title>
+		<Task index="1">
+			<Body>
+				<Page actionCommand="Lachelein_0020_01">
+					<s>오르골을 파괴한 것은 다행이지만 아무래도 방독면의 상태가 심상치 않은 게 걱정이네.</s>
+				</Page>				
+			</Body>
+			
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0020_02">
+				</Page>
+				<Page>
+					<s>방독면, 안색이 아까보다 더 나빠진 것 같아요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>꿈의 영향력이 줄어들 수록 제 몸도 안좋아지는 것만 같습니다.</s>
+					<s>처음엔 우연이라고 생각했지만…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>확실히 오르골이 파괴되자 힘이 줄어드는 것이 느껴지는군요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>설마 저는…</s>
+				</Page>
+				<Page actionCommand="Lachelein_0020_03">
+					<s>(…?)</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_02">
+					<s>이, 이건…!?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>느끼셨습니까? 이건… 꿈의 힘이 팽창하고 있습니다. 무서운 속도로!</s>
+				</Page>
+				<Page>
+					<s>하지만 어째서 이런…!?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>…오르골을 파괴했기 때문입니다.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_02">
+					<s>뭐라고? 그게 무슨 소린가! 오르골은 꿈을 유지하는 장치가 아닌가?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>맞습니다. 하지만 그 오르골을 움직이는 힘은 꿈의 주인에게서 비롯됐던 겁니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>오르골을 통해 주민들의 꿈을 유지하는데 쓰이고 있었지만, 장치가 사라지면…</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_02" actionCommand="Lachelein_0020_04">
+					<s>갈 곳 없는 힘이 폭주한다는 건가… 윽!</s>
+				</Page>
+				<Page>
+					<s>여, 영감님!?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>그녀의 힘이 여기까지 영향을 미치는 겁니다. 얼른 몸을 피해야…!</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_08">
+					<s>이곳은, 꿈의 도시… 레헬른.</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_08">
+					<s>꿈 꾸는 자들을 방해하는 건 용납 못 한다…</s>
+				</Page>
+				<Page>
+					<s>(큭, 대처할 틈이…!)</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>강으로 떨어지면 안됩니다, #un#! 기력을 잃게 됩니다!</s>
+				</Page>
+				<Page actionCommand="Lachelein_0020_05">
+					<s>아, 알고 있지만… 떨어진다…!</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11" type="Image" Image.Code="LacheleinCinema_03" Image.Path="DynamicTexture/Quest/ArcaneRiver/Lachelein/LacheleinCinema_03" Image.IsOn="TRUE" Image.UseOriginSize="true" Image.imageFadeIn="true" Image.imageFadeDurtaion="1">
+					<s>#un#! 제 손을 잡으세요!</s>
+				</Page>
+				<Page>
+					<s>바, 방독면! 당신까지 빠져 버려요…! 힘… 이…</s>
+				</Page>
+				<Page actionCommand="Lachelein_0020_06">
+					<s>아… 기운… 이…</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_08">
+					<s>…강에 빠진 것을 확인.</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_08">
+					<s>아케인 리버의 강물이… 그들을 원래 있어야 할 곳으로 되돌릴 것.</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_08" actionCommand="Lachelein_0020_07">
+					<s>에르다로…</s>
+				</Page>
+				<Page speaker="NPC_Lucid_25" animName="Face6" type="Image" Image.CloseAllImage="true">
+					<s>어라? 이렇게 그분의 발치에도 도달하지 못한 채…?</s>
+				</Page>
+				<Page speaker="NPC_Lucid_25" animName="Face6">
+					<s>후훗, 그렇다면 뒷일도 필요가 없겠군요. 이대로… 응?</s>
+				</Page>
+				<Page speaker="NPC_Lucid_25">
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_Lucid_25" actionCommand="Lachelein_0020_08" animName="Face2">
+					<s>저건, 혹시…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>…내 짐작대로였던 건가.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>이 강물에서 나만이 움직일 수 있는 이유.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>그래서 지금 #un#… 그를 구할 수 있는 이유…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>악몽…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>그건… 다름 아닌…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11" actionCommand="Lachelein_0020_09">
+					<s>[ff7b50]나…[-]</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+		
+		<Task index="3">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0020_10">
+				</Page>
+				<Page>
+					<s>으으…</s>
+				</Page>
+				<Page>
+					<s>살아있어…? 하지만 난 강물에 빠졌는데… 아차, 방독면!</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12" actionCommand="Lachelein_0020_11">
+					<s>여깁니다.</s>
+				</Page>
+				<Page>
+					<s>살아있었군요! 하지만 그 강물에 빠지고 어떻게…?</s>
+				</Page>
+				<Page>
+					<s>설마 강물에 대한 말은 거짓이었던 건가요?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>아닙니다. 그저 제게는 통하지 않았을 뿐.</s>
+				</Page>
+				<Page>
+					<s>통하지 않았다…?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>전 인간도, 에르다스도 아닌 존재였기 때문입니다. 실체가 없는 존재에 작용할 리가 없죠.</s>
+				</Page>
+				<Page>
+					<s>실체가 없다고요? 그러면 당신은 대체…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>우리는 지금까지 착각하고 있었습니다. 루시드가 찾던 악몽의 정체를.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>루시드의 악몽. 그녀가 만든 세계의 제어 바깥에 있는 존재. 그게 저였던 겁니다.</s>
+				</Page>
+				<Page>
+					<s>그럴 수가… 악몽이 당신이었다니!</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>……</s>
+				</Page>
+				<Page>
+					<s>그렇다면 더더욱 그녀를 막아야 할 이유가 생긴 셈이로군요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>아뇨, 그렇지 않습니다. 전 더 이상 함께하지 않을 테니까요. 제가 '악몽'이기 때문에.</s>
+				</Page>
+				<Page>
+					<s>그런… 어째서?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>저는 비록 영혼이 없더라도 존재의 의미, 사명이 있기 때문에 싸울 수 있었습니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>하지만 저는 꿈의 존재. 결국 루시드에 의해 만들어진 겁니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>그렇다면 이상하지요. 루시드는 왜 원하지 않는 '악몽'을 만들어 냈을까요?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>…답은 간단합니다. 저의 존재는 창조자조차 원하지 않은 사고의 결과이기 때문입니다.</s>
+				</Page>
+				<Page>
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>웃기는 소리였던 거지요. 존재의 의미니, 사명이니… 저는 그런 존재가 아니었는데 말입니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>그러니 이제 그만두겠습니다. #un#, 당신은 당신의 뜻대로 하시면 됩니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>마지막 오르골은 시계탑의 꼭대기에 있을 겁니다.</s>
+				</Page>
+				<Page>
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>……</s>
+				</Page>
+				<Page>
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>……</s>
+				</Page>
+				<Page>
+					<s>…당신은 정말로 그걸로 괜찮은 건가요?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>……</s>
+				</Page>
+				<Page>
+					<s>모두에게 의미 있는 존재는 없어요. 당신이 어떻게 생겨났든 그건 변하지 않아요.</s>
+				</Page>
+				<Page>
+					<s>당신이라는 존재의 의미가 크게 새겨진 자들이 있어요. 영감님도, 수박가면도… 그리고 저도.</s>
+				</Page>
+				<Page>
+					<s>악몽이란 꿈에서 깨어나면 사라질 뿐이에요. 하지만 당신은 계속 남아 이 세계를 바꾸고 있죠.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>……</s>
+				</Page>
+				<Page actionCommand="Lachelein_0020_12">
+					<s>먼저 갈게요, 시계탑 옥상으로. 빠르게 갈 거니까 서둘러 따라오지 않으면 늦을 거에요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12" actionCommand="Lachelein_0020_13">
+					<s>……</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0020_02" index="35108" sort="Theme">
+		<Title>루시드와 방독면</Title>
+		<Task index="1">
+			<Body>
+				<Page actionCommand="Lachelein_0020_01">
+					<s>오르골을 파괴한 것은 다행이지만 아무래도 방독면의 상태가 심상치 않은 게 걱정이네.</s>
+				</Page>				
+			</Body>
+			
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0020_02">
+				</Page>
+				<Page>
+					<s>방독면, 안색이 아까보다 더 나빠진 것 같아요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>꿈의 영향력이 줄어들 수록 제 몸도 안좋아지는 것만 같습니다.</s>
+					<s>처음엔 우연이라고 생각했지만…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>확실히 오르골이 파괴되자 힘이 줄어드는 것이 느껴지는군요. 설마 저는…</s>
+				</Page>
+				<Page actionCommand="Lachelein_0020_03">
+					<s>(…?)</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_02">
+					<s>이, 이건…!?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>느끼셨습니까? 이건… 꿈의 힘이 팽창하고 있습니다. 무서운 속도로!</s>
+				</Page>
+				<Page>
+					<s>하지만 어째서 이런…!?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>…오르골을 파괴했기 때문입니다.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_02">
+					<s>뭐라고? 그게 무슨 소린가! 오르골은 꿈을 유지하는 장치가 아닌가?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>맞습니다. 하지만 그 오르골을 움직이는 힘은 꿈의 주인에게서 비롯됐던 겁니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>오르골을 통해 주민들의 꿈을 유지하는데 쓰이고 있었지만, 장치가 사라지면…</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_02" actionCommand="Lachelein_0020_04">
+					<s>갈 곳 없는 힘이 폭주한다는 건가… 윽!</s>
+				</Page>
+				<Page>
+					<s>여, 영감님!?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>그녀의 힘이 여기까지 영향을 미치는 겁니다. 얼른 몸을 피해야…!</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_08">
+					<s>이곳은, 꿈의 도시… 레헬른.</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_08">
+					<s>꿈 꾸는 자들을 방해하는 건 용납 못 한다…</s>
+				</Page>
+				<Page>
+					<s>(큭, 대처할 틈이…!)</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>강으로 떨어지면 안됩니다, #un#! 기력을 잃게 됩니다!</s>
+				</Page>
+				<Page actionCommand="Lachelein_0020_05">
+					<s>아, 알고 있지만… 떨어진다…!</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11" type="Image" Image.Code="LacheleinCinema_03" Image.Path="DynamicTexture/Quest/ArcaneRiver/Lachelein/LacheleinCinema_03" Image.IsOn="TRUE" Image.UseOriginSize="true" Image.imageFadeIn="true" Image.imageFadeDurtaion="1">
+					<s>#un#! 제 손을 잡으세요!</s>
+				</Page>
+				<Page>
+					<s>바, 방독면! 당신까지 빠져 버려요…! 힘… 이…</s>
+				</Page>
+				<Page actionCommand="Lachelein_0020_06">
+					<s>아… 기운… 이…</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_08">
+					<s>…강에 빠진 것을 확인.</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_08">
+					<s>아케인 리버의 강물이… 그들을 원래 있어야 할 곳으로 되돌릴 것.</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_08" actionCommand="Lachelein_0020_07">
+					<s>에르다로…</s>
+				</Page>
+				<Page speaker="NPC_Lucid_25" animName="Face1">
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_Lucid_25" animName="Face1">
+					<s>결국 이렇게 될 것을.</s>
+				</Page>
+				<Page speaker="NPC_Lucid_25" animName="Face1">
+					<s>잘 가요. 나의 그대여. 이대로…</s>
+				</Page>
+				<Page speaker="NPC_Lucid_25">
+					<s>응?</s>
+				</Page>
+				<Page speaker="NPC_Lucid_25">
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_Lucid_25" actionCommand="Lachelein_0020_08" animName="Face2">
+					<s>저건, 혹시…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11" type="Image" Image.CloseAllImage="true">
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>…내 짐작대로였던 건가.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>이 강물에서 나만이 움직일 수 있는 이유.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>그래서 지금 #un#… 그를 구할 수 있는 이유…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>악몽…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>그건… 다름 아닌…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11" actionCommand="Lachelein_0020_09">
+					<s>[ff7b50]나…[-]</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+		
+		<Task index="3">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0020_10">
+				</Page>
+				<Page>
+					<s>으으…</s>
+				</Page>
+				<Page>
+					<s>살아있어…? 하지만 난 강물에 빠졌는데… 아차, 방독면!</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12" actionCommand="Lachelein_0020_11">
+					<s>여깁니다.</s>
+				</Page>
+				<Page>
+					<s>살아있었군요! 하지만 그 강물에 빠지고 어떻게…?</s>
+				</Page>
+				<Page>
+					<s>설마 강물에 대한 말은 거짓이었던 건가요?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>아닙니다. 그저 제게는 통하지 않았을 뿐.</s>
+				</Page>
+				<Page>
+					<s>통하지 않았다…?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>전 인간도, 에르다스도 아닌 존재였기 때문입니다. 실체가 없는 존재에 작용할 리가 없죠.</s>
+				</Page>
+				<Page>
+					<s>실체가 없다고요? 그러면 당신은 대체…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>우리는 지금까지 착각하고 있었습니다. 루시드가 찾던 악몽의 정체를.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>루시드의 악몽. 그녀가 만든 세계의 제어 바깥에 있는 존재. 그게 저였던 겁니다.</s>
+				</Page>
+				<Page>
+					<s>그럴 수가… 악몽이 당신이었다니!</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>……</s>
+				</Page>
+				<Page>
+					<s>그렇다면 더더욱 그녀를 막아야 할 이유가 생긴 셈이로군요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>아뇨, 그렇지 않습니다. 전 더 이상 함께하지 않을 테니까요. 제가 '악몽'이기 때문에.</s>
+				</Page>
+				<Page>
+					<s>그런… 어째서?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>저는 비록 영혼이 없더라도 존재의 의미, 사명이 있기 때문에 싸울 수 있었습니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>하지만 저는 꿈의 존재. 결국 루시드에 의해 만들어진 겁니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>그렇다면 이상하지요. 루시드는 왜 원하지 않는 '악몽'을 만들어 냈을까요?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>…답은 간단합니다. 저의 존재는 창조자조차 원하지 않은 사고의 결과이기 때문입니다.</s>
+				</Page>
+				<Page>
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>웃기는 소리였던 거지요. 존재의 의미니, 사명이니… 저는 그런 존재가 아니었는데 말입니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>그러니 이제 그만두겠습니다. #un#, 당신은 당신의 뜻대로 하시면 됩니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>마지막 오르골은 시계탑의 꼭대기에 있을 겁니다.</s>
+				</Page>
+				<Page>
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>……</s>
+				</Page>
+				<Page>
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>……</s>
+				</Page>
+				<Page>
+					<s>…당신은 정말로 그걸로 괜찮은 건가요?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>……</s>
+				</Page>
+				<Page>
+					<s>모두에게 의미 있는 존재는 없어요. 당신이 어떻게 생겨났든 그건 변하지 않아요.</s>
+				</Page>
+				<Page>
+					<s>당신이라는 존재의 의미가 크게 새겨진 자들이 있어요. 영감님도, 수박가면도… 그리고 저도.</s>
+				</Page>
+				<Page>
+					<s>악몽이란 꿈에서 깨어나면 사라질 뿐이에요. 하지만 당신은 계속 남아 이 세계를 바꾸고 있죠.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>……</s>
+				</Page>
+				<Page actionCommand="Lachelein_0020_12">
+					<s>먼저 갈게요, 시계탑 옥상으로. 빠르게 갈 거니까 서둘러 따라오지 않으면 늦을 거에요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12" actionCommand="Lachelein_0020_13">
+					<s>……</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+	</Quest>
+
+
+	<Quest code="Lachelein_0020_03" index="35109" sort="Theme">
+		<Title>루시드와 방독면</Title>
+		<Task index="1">
+			<Body>
+				<Page actionCommand="Lachelein_0020_01">
+					<s>오르골을 파괴한 것은 다행이지만 아무래도 방독면의 상태가 심상치 않은 게 걱정이네.</s>
+				</Page>				
+			</Body>
+			
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0020_02">
+				</Page>
+				<Page>
+					<s>방독면, 안색이 아까보다 더 나빠진 것 같아요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>꿈의 영향력이 줄어들 수록 제 몸도 안좋아지는 것만 같습니다.</s>
+					<s>처음엔 우연이라고 생각했지만…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>확실히 오르골이 파괴되자 힘이 줄어드는 것이 느껴지는군요. 설마 저는…</s>
+				</Page>
+				<Page actionCommand="Lachelein_0020_03">
+					<s>(…?)</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_02">
+					<s>이, 이건…!?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>느끼셨습니까? 이건… 꿈의 힘이 팽창하고 있습니다. 무서운 속도로!</s>
+				</Page>
+				<Page>
+					<s>하지만 어째서 이런…!?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>…오르골을 파괴했기 때문입니다.</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_02">
+					<s>뭐라고? 그게 무슨 소린가! 오르골은 꿈을 유지하는 장치가 아닌가?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>맞습니다. 하지만 그 오르골을 움직이는 힘은 꿈의 주인에게서 비롯됐던 겁니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>오르골을 통해 주민들의 꿈을 유지하는데 쓰이고 있었지만, 장치가 사라지면…</s>
+				</Page>
+				<Page speaker="NPC_GrayMask_02" actionCommand="Lachelein_0020_04">
+					<s>갈 곳 없는 힘이 폭주한다는 건가… 윽!</s>
+				</Page>
+				<Page>
+					<s>여, 영감님!?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>그녀의 힘이 여기까지 영향을 미치는 겁니다. 얼른 몸을 피해야…!</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_08">
+					<s>이곳은, 꿈의 도시… 레헬른.</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_08">
+					<s>꿈 꾸는 자들을 방해하는 건 용납 못 한다…</s>
+				</Page>
+				<Page>
+					<s>(큭, 대처할 틈이…!)</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>강으로 떨어지면 안됩니다, #un#! 기력을 잃게 됩니다!</s>
+				</Page>
+				<Page actionCommand="Lachelein_0020_05">
+					<s>아, 알고 있지만… 떨어진다…!</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11" type="Image" Image.Code="LacheleinCinema_03" Image.Path="DynamicTexture/Quest/ArcaneRiver/Lachelein/LacheleinCinema_03" Image.IsOn="TRUE" Image.UseOriginSize="true" Image.imageFadeIn="true" Image.imageFadeDurtaion="1">
+					<s>#un#! 제 손을 잡으세요!</s>
+				</Page>
+				<Page>
+					<s>바, 방독면! 당신까지 빠져 버려요…! 힘… 이…</s>
+				</Page>
+				<Page actionCommand="Lachelein_0020_06">
+					<s>아… 기운… 이…</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_08">
+					<s>…강에 빠진 것을 확인.</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_08">
+					<s>아케인 리버의 강물이… 그들을 원래 있어야 할 곳으로 되돌릴 것.</s>
+				</Page>
+				<Page speaker="NPC_Dreamkeeper_08" actionCommand="Lachelein_0020_07">
+					<s>에르다로…</s>
+				</Page>
+				<Page speaker="NPC_Lucid_25" animName="Face6">
+					<s>어라? 이렇게 그분의 발치에도 도달하지 못한 채…?</s>
+				</Page>
+				<Page speaker="NPC_Lucid_25" animName="Face6">
+					<s>당신에게는 축복일지도 모르겠네요.</s>
+				</Page>
+				<Page speaker="NPC_Lucid_25" animName="Face5">
+					<s>세상에서 잊히는 것보다는 세상을 잊는 편이 나을 테니까.</s>
+				</Page>
+				<Page speaker="NPC_Lucid_25" animName="Face5">
+					<s>후훗, 뒷일도 필요가 없겠군요. 이대로… 응?</s>
+				</Page>
+				<Page speaker="NPC_Lucid_25">
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_Lucid_25" type="Image" Image.CloseAllImage="true" actionCommand="Lachelein_0020_08" animName="Face2">
+					<s>저건, 혹시…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>…내 짐작대로였던 건가.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>이 강물에서 나만이 움직일 수 있는 이유.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>그래서 지금 #un#… 그를 구할 수 있는 이유…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>악몽…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11">
+					<s>그건… 다름 아닌…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_11" actionCommand="Lachelein_0020_09">
+					<s>[ff7b50]나…[-]</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+		
+		<Task index="3">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0020_10">
+				</Page>
+				<Page>
+					<s>으으…</s>
+				</Page>
+				<Page>
+					<s>살아있어…? 하지만 난 강물에 빠졌는데… 아차, 방독면!</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12" actionCommand="Lachelein_0020_11">
+					<s>여깁니다.</s>
+				</Page>
+				<Page>
+					<s>살아있었군요! 하지만 그 강물에 빠지고 어떻게…?</s>
+				</Page>
+				<Page>
+					<s>설마 강물에 대한 말은 거짓이었던 건가요?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>아닙니다. 그저 제게는 통하지 않았을 뿐.</s>
+				</Page>
+				<Page>
+					<s>통하지 않았다…?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>전 인간도, 에르다스도 아닌 존재였기 때문입니다. 실체가 없는 존재에 작용할 리가 없죠.</s>
+				</Page>
+				<Page>
+					<s>실체가 없다고요? 그러면 당신은 대체…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>우리는 지금까지 착각하고 있었습니다. 루시드가 찾던 악몽의 정체를.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>루시드의 악몽. 그녀가 만든 세계의 제어 바깥에 있는 존재. 그게 저였던 겁니다.</s>
+				</Page>
+				<Page>
+					<s>그럴 수가… 악몽이 당신이었다니!</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>……</s>
+				</Page>
+				<Page>
+					<s>그렇다면 더더욱 그녀를 막아야 할 이유가 생긴 셈이로군요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>아뇨, 그렇지 않습니다. 전 더 이상 함께하지 않을 테니까요. 제가 '악몽'이기 때문에.</s>
+				</Page>
+				<Page>
+					<s>그런… 어째서?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>저는 비록 영혼이 없더라도 존재의 의미, 사명이 있기 때문에 싸울 수 있었습니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>하지만 저는 꿈의 존재. 결국 루시드에 의해 만들어진 겁니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>그렇다면 이상하지요. 루시드는 왜 원하지 않는 '악몽'을 만들어 냈을까요?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>…답은 간단합니다. 저의 존재는 창조자조차 원하지 않은 사고의 결과이기 때문입니다.</s>
+				</Page>
+				<Page>
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>웃기는 소리였던 거지요. 존재의 의미니, 사명이니… 저는 그런 존재가 아니었는데 말입니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>그러니 이제 그만두겠습니다. #un#, 당신은 당신의 뜻대로 하시면 됩니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>마지막 오르골은 시계탑의 꼭대기에 있을 겁니다.</s>
+				</Page>
+				<Page>
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>……</s>
+				</Page>
+				<Page>
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>……</s>
+				</Page>
+				<Page>
+					<s>…당신은 정말로 그걸로 괜찮은 건가요?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>……</s>
+				</Page>
+				<Page>
+					<s>모두에게 의미 있는 존재는 없어요. 당신이 어떻게 생겨났든 그건 변하지 않아요.</s>
+				</Page>
+				<Page>
+					<s>당신이라는 존재의 의미가 크게 새겨진 자들이 있어요. 영감님도, 수박가면도… 그리고 저도.</s>
+				</Page>
+				<Page>
+					<s>악몽이란 꿈에서 깨어나면 사라질 뿐이에요. 하지만 당신은 계속 남아 이 세계를 바꾸고 있죠.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12">
+					<s>……</s>
+				</Page>
+				<Page actionCommand="Lachelein_0020_12">
+					<s>먼저 갈게요, 시계탑 옥상으로. 빠르게 갈 거니까 서둘러 따라오지 않으면 늦을 거에요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_12" actionCommand="Lachelein_0020_13">
+					<s>……</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+	</Quest>
+
+
+	<Quest code="Lachelein_0021" index="35110" sort="Theme">
+		<Title>새우가면 구출</Title>
+		<Task index="1">
+			<Body>
+				<Page animName="Special">
+					<s>나는… 누구…</s>
+				</Page>
+				<Page speaker="player">
+					<s>(의식이 있어!)</s>
+				</Page>
+				<Page animName="Special">
+					<s>클리너를 줄여… 힘의 연결을 막아…</s>
+				</Page>
+				<Page speaker="player">
+					<s>(클리너를 줄이면 작용하는 힘을 감소시킬 수 있는 건가?)</s>
+				</Page>				
+			</Body>
+			
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="NPC_ShrimpMask_02">
+					<s>저를 둘러싼 힘이 약해졌어요!</s>
+				</Page>
+				<Page speaker="player">
+					<s>돌아왔어!</s>
+				</Page>
+				<Page  speaker="NPC_ShrimpMask_02">
+					<s>휴, 덕분에 살았어요. 예상은 했지만 클리너가 된 기분은 정말 별로였어요!</s>
+				</Page>
+				<Page  speaker="NPC_ShrimpMask_02">
+					<s>이미 아시겠지만 이제 루시드를 만나는 방법 뿐이지만, 위로 가는 길은 루시드의 힘으로 막혀 있어요.</s>
+				</Page>
+				<Page  speaker="NPC_ShrimpMask_02">
+					<s>위로 가려면 탑에 작용하는 힘을 줄인 뒤 비집어 여는 수밖에 없어요.</s>
+				</Page>
+				<Page  speaker="NPC_ShrimpMask_02">
+					<s>근처 어딘가에 공간의 균열이 있을 거에요. 균열을 찾아 조사해 보세요.</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0022" index="35111" sort="Theme">
+		<Title>[꿈의 파편] 첫 번째 무의식</Title>
+		<Task index="1">
+			<Body>
+				<Page speaker="player">
+					<s>(이것이 균열이로군. 하지만 여기저기 깨져 있어.)</s>
+				</Page>
+				<Page speaker="player">
+					<s>(주변의 클리너들이 들고 있는 것, 이것의 파편 같아. 모아서 맞춰 보자.)</s>
+				</Page>					
+			</Body>
+		
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="player">
+					<s>(역시 이 파편, 균열에 꼭 맞아. 이걸 다 끼우면…)</s>
+				</Page>
+				<Page speaker="player">
+					<s>(…!?)</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0022_01">
+					<s>(뭔가… 보이는 것 같아…?)</s>
+				</Page>				
+			</Body>
+	
+		</Task>
+		
+		
+		<Task index="3">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0022_02">
+				</Page>
+				<Page speaker="NPC_Danika_07">
+					<s>좋아. 오늘도 수고했어. 하루가 다르게 실력이 늘어가는구나?</s>
+				</Page>
+				<Page speaker="NPC_Danika_07">
+					<s>너희가 이렇게나 열심인걸 보면 메르세데스님도 기뻐하실 거야.</s>
+				</Page>
+				<Page speaker="NPC_Helena_25" animName="Face1">
+					<s>헤헷, 연습한 대로인걸요! 다니카 님, 저기… 그래서 말인데요!</s>
+				</Page>
+				<Page speaker="NPC_Helena_25" animName="Face1">
+					<s>수련의 결과를 메르세데스님께 보여드리고 싶어요! 곧 돌아오신다는 얘길 들었거든요!</s>
+				</Page>
+				<Page speaker="NPC_Danika_07">
+					<s>후훗, 그러지 않아도 수련장에 한 번 들러야겠다고 하셨어.</s>
+					<s>너희들에게 신경을 못 써 준 것 같다고 미안해하셨거든.</s>
+				</Page>
+				<Page speaker="NPC_Helena_25" animName="Face1">
+					<s>야호! 정말이죠? 그러면 더, 더 열심히 해야죠!</s>
+				</Page>
+				<Page speaker="NPC_Helena_25">
+					<s>뭘 더 해야 할까? 활 쏘기? 달리기? 또 뭐가 있지?</s>
+				</Page>
+				<Page speaker="NPC_Danika_07">
+					<s>헬레나, 의욕이 넘치는 건 좋지만 너무 무리하면 안 된다?</s>
+				</Page>
+				<Page speaker="NPC_Helena_25" animName="Face1">
+					<s>걱정 마세요! 기운만큼은 항상 팔팔하니까!</s>
+				</Page>
+				<Page speaker="NPC_Helena_25" animName="Face1">
+					<s>그럼, 내일 봬요. 가자, 루시드!</s>
+				</Page>
+				<Page actionCommand="Lachelein_0022_03">
+					<s>으, 응. 안녕히 계세요.</s>
+				</Page>
+				<Page speaker="NPC_Helena_25" animName="Face1">
+					<s>생각만 해도 기대돼! 그동안 갈고닦은 실력을 메르세데스님 앞에서 보여주는 거야!</s>
+				</Page>
+				<Page speaker="NPC_Helena_25" actionCommand="Lachelein_0022_04">
+					<s>루시드, 너도 같이 할 거지? 응? 응?</s>
+				</Page>
+				<Page>
+					<s>으, 응. 그래야지. 내일부터 같이…</s>
+				</Page>
+				<Page speaker="NPC_Helena_25" animName="Face1">
+					<s>실력을 보여드리면 그동안 얼마나 노력했는지 알아주실 거야! 그치?</s>
+				</Page>
+				<Page speaker="NPC_Helena_25" animName="Face1">
+					<s>그럼 오늘은 푹 쉬고 내일부터 열심히 해야지. 헤헷, 안녕! 루시드!</s>
+				</Page>
+				<Page actionCommand="Lachelein_0022_05">
+					<s>으응, 안녕. 헬레나. 내일 봐.</s>
+				</Page>
+				<Page actionCommand="Lachelein_0022_06">
+					<s>…노력하면…</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="4">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0022_07">
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\E1" voiceCode="2" animName="Face1">
+					<s>하앗!</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\E1" voiceCode="3" actionCommand="Lachelein_0022_08" animName="Face2">
+					<s>하압!</s>
+				</Page>
+				<Page animName="Face3">
+					<s>……</s>
+				</Page>
+				<Page animName="Face3">
+					<s>아니야… 이래선 안 돼.</s>
+				</Page>
+				<Page animName="Face3">
+					<s>연습한 만큼이라고? 거짓말…!</s>
+				</Page>
+				<Page animName="Face3">
+					<s>아무 소용 없어. 재능이 없는 나에게는…</s>
+				</Page>
+				<Page animName="Face3">
+					<s>내게 타고난 재능이 있었다면… 그랬다면…</s>
+				</Page>
+				<Page animName="Face4">
+					<s>…흐흑…</s>
+				</Page>
+				<Page animName="Face4">
+					<s>…흑…</s>
+				</Page>
+				<Page actionCommand="Lachelein_0022_08_1" animName="Face4">
+					<s>…흐…으…</s>
+				</Page>
+				<Page animName="Face4">
+					<s>……</s>
+				</Page>
+				<Page actionCommand="Lachelein_0022_09" animName="Face4">
+					<s>…(새근)…</s>
+				</Page>
+				<Page type="Image" Image.Code="LacheleinCinema_09" Image.imageDim="true" Image.Path="DynamicTexture/Quest/ArcaneRiver/Lachelein/LacheleinCinema_09" Image.IsOn="TRUE" Image.UseOriginSize="true" Image.imageFadeIn="true" Image.imageFadeDurtaion="1" animName="Face1">
+					<s>좋았어!</s>
+				</Page>
+				<Page speaker="NPC_Mercedes_08">
+					<s>대단하구나, 루시드. 전부 명중시키다니.</s>
+				</Page>
+				<Page>
+					<s>헤헷, 메르세데스님…</s>
+				</Page>
+				<Page speaker="NPC_Mercedes_08" type="Image" Image.Code="LacheleinCinema_04" Image.imageDim="true" Image.Path="DynamicTexture/Quest/ArcaneRiver/Lachelein/LacheleinCinema_04" Image.IsOn="TRUE" Image.UseOriginSize="true">
+					<s>이렇게 훌륭한 실력이라니, 내 동료들에게도 소개해주고 싶을 정도야.</s>
+				</Page>
+				<Page speaker="NPC_Mercedes_08">
+					<s>넌 정말 특별한 존재로구나. 다음에 만나면 얼마나 더 굉장해져 있을지…!</s>
+				</Page>
+				<Page>
+					<s>메르세데스님…</s>
+				</Page>
+				<Page actionCommand="Lachelein_0022_09_1">
+					<s>(아아, 정말 행복해. 이 시간이 영원했으면 좋겠어. 깨고 싶지 않은…)</s>
+				</Page>
+				<Page type="Image" Image.CloseAllImage="true" animName="Face3">
+					<s>…깨어나 버렸어. 또…</s>
+				</Page>
+				<Page animName="Face3">
+					<s>차라리 꿈 꾸지 말지, 꾸었다면 깨어나지 말지…!</s>
+				</Page>
+				<Page actionCommand="Lachelein_0022_10" animName="Face3">
+					<s>아무리 생생하고 마음대로 되더라도 그저 꿈… 어?</s>
+				</Page>
+				<Page>
+					<s>…이 생생함. 아직 현실에 남은 감촉. 이건… 정말 꿈이야…?</s>
+				</Page>
+				<Page animName="Face1">
+					<s>이렇게 생생한 꿈속에서, 나는 내가 원하는 걸 마음대로 할 수 있었어!</s>
+				</Page>
+				<Page actionCommand="Lachelein_0022_11" animName="Face2">
+					<s>내 타고난 재능. 나만이 가진 능력은…! 꿈을 다루는 거야!</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="5">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0022_12">
+				</Page>
+				<Page speaker="NPC_Mercedes_08">
+					<s>하아… 이렇게 고운 음색은 들어본 적이 없어. 마음이 편안해지는구나.</s>
+				</Page>
+				<Page>
+					<s>메르세데스님이 좋은 꿈을 꾸시길 바라는 마음으로… 만들었어요.</s>
+				</Page>
+				<Page speaker="NPC_Mercedes_08">
+					<s>그렇구나. 정말 멋진 솜씨야, 루시드.</s>
+				</Page>
+				<Page actionCommand="Lachelein_0022_13">
+					<s>아… 메르세데스님…!</s>
+				</Page>
+				<Page speaker="NPC_Danika_08" actionCommand="Lachelein_0022_14">
+					<s>이 기분 좋은 음색은 뭐지? 달콤한 꿈을 꿀 것 같은 기분이야.</s>
+				</Page>
+				<Page speaker="NPC_Deet_08">
+					<s>우와, 정말 예쁜 오르골이에요.</s>
+				</Page>
+				<Page actionCommand="Lachelein_0022_15">
+					<s>아…?</s>
+				</Page>
+				<Page>
+					<s>아…</s>
+				</Page>
+				<Page speaker="NPC_Mercedes_08">
+					<s>모두들 오르골 소리를 듣고 모여든 거야. 굉장하구나.</s>
+				</Page>
+				<Page speaker="NPC_Mercedes_08">
+					<s>이 오르골은 에우렐의 보물이 될지도 모르겠어.</s>
+				</Page>
+				<Page speaker="NPC_Mercedes_08">
+					<s>이 음악을 들으면 모두가 평온한 꿈을 꿀 수 있을 것 같구나.</s>
+				</Page>
+				<Page actionCommand="Lachelein_0022_16">
+					<s>아…</s>
+				</Page>
+				<Page animName="Face3">
+					<s>(아니야…)</s>
+				</Page>
+				<Page animName="Face3">
+					<s>(이 오르골은… 오직 메르세데스님만을 위한 거였단 말이야…!)</s>
+				</Page>
+				<Page animName="Face3">
+					<s>(이래선 의미가 없어. 더 예쁘게, 더 굉장하게 만들어야 해!)</s>
+				</Page>
+				<Page animName="Face3">
+					<s>(반드시 더 멋진 걸 보여드리겠어. 그래서… 그래서…)</s>
+				</Page>
+				<Page actionCommand="Lachelein_0022_17" animName="Face1">
+					<s>(간직하고 싶도록, 독점하고 싶도록… 만들 거야…!)</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="6">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0022_18">
+				</Page>
+				<Page speaker="NPC_Philius_07">
+					<s>그럼, 부디 무사하시길.</s>
+				</Page>
+				<Page speaker="NPC_Mercedes_09">
+					<s>고마워요, 필리우스. 그리고 모두들…</s>
+				</Page>
+				<Page speaker="NPC_Philius_07">
+					<s>힘든 싸움이 되겠죠. 메르세데스님과 동료들, 그리고 우리 모두에게도.</s>
+				</Page>
+				<Page speaker="NPC_Deet_09">
+					<s>메르세데스님!</s>
+				</Page>
+				<Page>
+					<s>……</s>
+				</Page>
+				<Page>
+					<s>(예감이 좋지 않아… 다시는 만날 수 없게 되는 건 아닐까…?)</s>
+				</Page>
+				<Page>
+					<s>(이게 마지막이 될지도 몰라… 차라리 나도 함께…!)</s>
+				</Page>
+				<Page animName="Face3">
+					<s>(하지만 내가 싸울 수 있을까? 오히려 방해만 될 거야…)</s>
+				</Page>
+				<Page speaker="NPC_Helena_26">
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_Helena_26">
+					<s>함께 싸우겠어요, 메르세데스님. 저를 전장에 데려가 주세요!</s>
+				</Page>
+				<Page speaker="NPC_Helena_26">
+					<s>조금이라도 도움이 되고 싶어요. 그렇게 하게 해 주세요!</s>
+				</Page>
+				<Page animName="Face3">
+					<s>(아… 헬레나가 먼저…!)</s>
+				</Page>
+				<Page speaker="NPC_Deet_09" actionCommand="Lachelein_0022_18_1">
+					<s>저도 함께 싸우겠어요!</s>
+				</Page>
+				<Page speaker="NPC_Danika_09">
+					<s>헬레나, 디테. 그건 안 돼. 메르세데스님은…</s>
+				</Page>
+				<Page speaker="NPC_Mercedes_09">
+					<s>마음은 잘 알겠지만, 정중히 사양하겠어요.</s>
+				</Page>
+				<Page speaker="NPC_Mercedes_09">
+					<s>모두를 지키는 것이 왕의 책무. 저를 믿고 각자 자리를 지켜 주세요.</s>
+				</Page>
+				<Page speaker="NPC_Helena_26">
+					<s>하지만…</s>
+				</Page>
+				<Page actionCommand="Lachelein_0022_19" animName="Face4">
+					<s>메르세데스님…</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="7">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0022_20">
+				</Page>
+				<Page>
+					<s>…아무리 생각해도 포기할 수 없어.</s>
+				</Page>
+				<Page>
+					<s>같이 가겠다고 말했어야 했어. 그랬다면 뭔가 달라졌을지도 몰라…!</s>
+				</Page>
+				<Page actionCommand="Lachelein_0022_21" animName="Face1">
+					<s>용기를 내자. 가서 말하는 거야. 설득하는 거야. 아직 시간이 있어!</s>
+				</Page>
+				<Page speaker="NPC_Helena_27">
+					<s>…메르세데스님!</s>
+				</Page>
+				<Page speaker="NPC_Helena_27">
+					<s>메르세데스님, 잠시만요! 아직… 아직 드릴 말씀이 남았어요!</s>
+				</Page>
+				<Page actionCommand="Lachelein_0022_22">
+					<s>(헬레나의 목소리! 나보다 먼저 와 있었어…!?)</s>
+				</Page>
+				<Page speaker="NPC_Danika_10">
+					<s>따라가겠다는 거라면 이미 끝난 얘기야. 마을로 돌아가렴.</s>
+				</Page>
+				<Page speaker="NPC_Helena_27">
+					<s>하지만 저는 꼭 따라가야 하는 이유가 있단 말이에요!</s>
+				</Page>
+				<Page speaker="NPC_Danika_10">
+					<s>그게 뭔데?</s>
+				</Page>
+				<Page speaker="NPC_Helena_27">
+					<s>그게… 그러니까… 제가 꼭 가야 하는 이유는…</s>
+				</Page>
+				<Page>
+					<s>(헬레나… 이유도 없이 나선 거야?)</s>
+				</Page>
+				<Page animName="Face2">
+					<s>(난 달라. 난 꼭 메르세데스님과 함께 해야만 해. 그러니까…)</s>
+				</Page>
+				<Page speaker="NPC_Mercedes_10">
+					<s>…어쩔 수 없구나.</s>
+				</Page>
+				<Page>
+					<s>(메르세데스님…?)</s>
+				</Page>
+				<Page speaker="NPC_Mercedes_10" type="Image" Image.Code="PathfinderCinema_05" Image.ImageDim="true" Image.Path="DynamicTexture/Quest/ArcaneRiver/Lachelein/LacheleinCinema_05" Image.IsOn="TRUE" Image.UseOriginSize="true" Image.imageFadeIn="true" Image.imageFadeDurtaion="1">
+					<s>자, 헬레나. 이걸 지니도록 해.</s>
+				</Page>
+				<Page animName="Face3">
+					<s>(…!!!)</s>
+				</Page>
+				<Page speaker="NPC_Helena_27">
+					<s>이건… 미스텔테인?</s>
+				</Page>
+				<Page speaker="NPC_Mercedes_10">
+					<s>널 보호해 줄 거야. 알고 있지? 이건 에우렐의 보물이니까.</s>
+				</Page>
+				<Page speaker="NPC_Helena_27" actionCommand="Lachelein_0022_23">
+					<s>메르세데스님… 하지만…</s>
+				</Page>
+				<Page animName="Face3">
+					<s>(…아무리 해도…)</s>
+				</Page>
+				<Page animName="Face4">
+					<s>(닿을 수 없었어. 다 끝났어. 이제… 아무것도 의미 없어.)</s>
+				</Page>
+				<Page actionCommand="Lachelein_0022_24" animName="Face4">
+					<s>(에우렐의 어디에도… 누구에게도… 내가 있을 곳은 없었던 거야. 처음부터…)</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="8">
+			<Body>
+				<Page speaker="player">
+					<s>(이건 혹시… 꿈의 주인의… 과거? 왜 균열에서 이런 장면이…)</s>
+				</Page>
+				<Page speaker="player">
+					<s>(…그렇군. 이 세계는 그녀의 무의식이 반영된 건가.)</s>
+				</Page>
+				<Page speaker="player">
+					<s>(앗, 위로 가는 통로가 열렸어!)</s>
+				</Page>
+				<Page speaker="player">
+					<s>(시간이 그리 여유롭지 않아. 서둘러 다음 층으로 가 보자.)</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0023" index="35112" sort="Theme">
+		<Title>수박가면 구출</Title>
+		<Task index="1">
+			<Body>
+				<Page animName="Special">
+					<s>으으… 여긴 어디… 나는 누구…</s>
+				</Page>
+				<Page speaker="player">
+					<s>(같은 현상이야. 그렇다면 해결하는 법도 같겠지.)</s>
+				</Page>
+				<Page speaker="player">
+					<s>(주변의 클리너를 줄여 보자.)</s>
+				</Page>				
+			</Body>
+			
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="NPC_WatermelonMask_01">
+					<s>으으…</s>
+				</Page>
+				<Page speaker="player">
+					<s>성공했나?</s>
+				</Page>
+				<Page speaker="NPC_WatermelonMask_01">
+					<s>휴, 고마워. 네가 살아있어서 정말 다행이야.</s>
+				</Page>
+				<Page speaker="NPC_WatermelonMask_01">
+					<s>상황은 대충 알아. 클리너들의 사고는 어느 정도 공유되는 모양이거든.</s>
+				</Page>
+				<Page speaker="NPC_WatermelonMask_01">
+					<s>추측이 맞다면 이 위로 올라가는 열쇠도 예의 균열일 거야. 그럼 행운을 빌어!</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0024" index="35113" sort="Theme">
+		<Title>[꿈의 파편] 두 번째 무의식</Title>
+		<Task index="1">
+			<Body>
+				<Page speaker="player">
+					<s>(발견했다, 파편. 이것도 마찬가지로 깨져 있군.)</s>
+				</Page>
+				<Page speaker="player">
+					<s>(클리너에게서 파편을 모아 보자.)</s>
+				</Page>							
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="player">
+					<s>역시, 꼭 맞아. 그렇다면…</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0024_01">
+					<s>(균열 속으로… 빨려 들어간다…!)</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="3">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0024_02">
+				</Page>
+				<Page animName="Face3">
+					<s>…변한 건 없어. 처음부터 지금까지.</s>
+				</Page>
+				<Page animName="Face3">
+					<s>이제 그만 인정해야 해. 메르세데스님은 나를 필요로 하지 않는다는 걸.</s>
+				</Page>
+				<Page animName="Face3">
+					<s>그리고 난 곧 잊혀지겠지. 그 누구도 나를 필요로 하지 않으니까.</s>
+				</Page>
+				<Page animName="Face3">
+					<s>…그렇다면 차라리.</s>
+				</Page>
+				<Page animName="Face4">
+					<s>내가 먼저 저버리겠어. 디테도, 헬레나도… 메르세데스님도.</s>
+				</Page>
+				<Page animName="Face4">
+					<s>아무도 필요 없어. 누구와도 만나지 않을 거야. 누구의 기억에도… 남지 않을 거야.</s>
+				</Page>
+				<Page actionCommand="Lachelein_0024_03" animName="Face4">
+					<s>밤이 되면… 모두의 꿈속 가장 깊은 곳에 숨어버릴 거야…</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+		
+		<Task index="4">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0024_05">
+				</Page>
+				<Page>
+					<s>나 졸려… 무서워…</s>
+				</Page>
+				<Page speaker="NPC_Deet_10" actionCommand="Lachelein_0024_06">
+					<s>괜찮아. 우리 꼭… 다시 만나자.</s>
+				</Page>
+				<Page speaker="NPC_Danika_11">
+					<s>약속해요. 꼭 다시 만나기로.</s>
+				</Page>
+				<Page speaker="NPC_Philius_08" actionCommand="Lachelein_0024_07">
+					<s>긴 세월이 지나면 강력한 저주라도 결국은 사라지고 말 테지요.</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="5">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0024_08">
+				</Page>
+				<Page actionCommand="Lachelein_0024_09" animName="Face3">
+					<s>뭐지…? 무슨 일이 일어난 것만 같아. 왠지 기분 나빠…</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+		
+		<Task index="6">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0024_10">
+				</Page>
+				<Page>
+					<s>아름다운 에우렐, 그리고 나는 엘프의 여왕. 이보다 더 행복할 수 있을까?</s>
+				</Page>
+				<Page>
+					<s>사랑스런 백성들이여, 말해 봐요. 나를 얼마나 사랑하지요?</s>
+				</Page>
+				<Page speaker="NPC_Danika_13">
+					<s>사랑합니다, 여왕님.</s>
+				</Page>
+				<Page speaker="NPC_Philius_10">
+					<s>사랑합니다, 여왕님.</s>
+				</Page>
+				<Page speaker="NPC_Deet_12">
+					<s>사랑합니다, 여왕님.</s>
+				</Page>
+				<Page speaker="NPC_Roa_05">
+					<s>사랑합니다, 여왕님.</s>
+				</Page>
+				<Page>
+					<s>…</s>
+				</Page>
+				<Page  animName="Face3">
+					<s>……</s>
+				</Page>
+				<Page actionCommand="Lachelein_0024_11" animName="Face4">
+					<s>이게… 아니야… 흑…</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="7">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0024_12">
+				</Page>
+				<Page>
+					<s>…이건 꿈이야. 잊으려 해도 잊을 수가 없어…</s>
+				</Page>
+				<Page  animName="Face3">
+					<s>깨어날 수도, 잠들 수도 없는 이게… 현실이야…</s>
+				</Page>
+				<Page  animName="Face4">
+					<s>그만… 그만… 너무 괴로워…</s>
+				</Page>
+				<Page  animName="Face4">
+					<s>꿈을 그려내고, 지우고, 다시 그려내고, 다시 지우고…</s>
+				</Page>
+				<Page actionCommand="Lachelein_0024_13"  animName="Face4">
+					<s>나가게 해 줘. 아니면 차라리… 잠들게… 해 줘…</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="8">
+			<Body>
+				<Page>
+					<s>(아까와 같아. 같은 인물이 나오는 장면.)</s>
+				</Page>
+				<Page>
+					<s>(방독면이 말했었지. 이 도시는 그녀의 무의식이 반영된 것 같다고.)</s>
+				</Page>
+				<Page>
+					<s>(알 듯 말 듯 하지만… 앗, 위로 가는 통로가 열렸어. 계속 가 보자.)</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0025" index="35114" sort="Theme">
+		<Title>검은가면 구출</Title>
+		<Task index="1">
+			<Body>
+				<Page animName="Special">
+					<s>이거 참, 면목 없게 됐어.</s>
+				</Page>
+				<Page speaker="player">
+					<s>멀쩡하다!?</s>
+				</Page>
+				<Page animName="Special">
+					<s>클리너가 영향을 주는 게 꼭 같은 층만은 아니거든.</s>
+					<s>아래층에서 네가 수를 많이 줄여준 덕택에 정신이 들었어.</s>
+				</Page>
+				<Page animName="Special">
+					<s>하지만 모습이 이래서야 마음대로 움직일 수가 없어. 미안하지만 조금 더 수를 줄여 주지 않겠어?</s>
+				</Page>							
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>오, 수고했어. 원래 모습으로 돌려 줘서 고마워.</s>
+				</Page>
+				<Page>
+					<s>하지만 목적지는 이곳이 아니지? 힘내. 아직 나아갈 길이 남았으니까.</s>
+				</Page>
+				<Page>
+					<s>방법은 잘 알 거야. 어서 위로 향하도록 해.</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0026" index="35115" sort="Theme">
+		<Title>[꿈의 파편] 세 번째 무의식</Title>
+		<Task index="1">
+			<Body>
+				<Page speaker="player">
+					<s>또 균열이… 위로 향하기 위해 해결해야 하는 것도 있지만.</s>
+				</Page>
+				<Page speaker="player">
+					<s>균열이 보여주는 것도 이 도시와 무관하지 않아.</s>
+				</Page>
+				<Page speaker="player">
+					<s>우선 여기서 파편을 모아 보자.</s>
+				</Page>							
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="player" actionCommand="Lachelein_0026_01">
+					<s>좋아. 이렇게 파편을 보수하면…</s>
+				</Page>			
+			</Body>
+		
+		</Task>
+		
+		
+		<Task index="3">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0026_02">
+				</Page>
+				<Page speaker="NPC_Lucid_35" type="Image" Image.Code="LacheleinCinema_07" Image.Path="DynamicTexture\Quest\ArcaneRiver\Lachelein\LacheleinCinema_07" Image.IsOn="TRUE" Image.UseOriginSize="true" Image.imageFadeIn="true" Image.imageFadeDurtaion="1">
+					<s>난… 언제까지 이렇게 갇혀 있어야 하는 거지…?</s>
+				</Page>
+				<Page speaker="NPC_Lucid_35" animName="Face3">
+					<s>싫어… 답답해… 더 이상 견딜 수 없어…</s>
+				</Page>
+				<Page speaker="NPC_Lucid_35" animName="Face3">
+					<s>누구라도 좋아. 제발 날 구해 줘! 이 지독한 악몽을 끝내 줘!</s>
+				</Page>
+				<Page speaker="NPC_Lucid_35" animName="Face4">
+					<s>제발… 날 봐 줘… 누구라도… 흑…</s>
+				</Page>
+				<Page speaker="NPC_Lucid_35" actionCommand="Lachelein_0026_03" animName="Face4">
+					<s>흑… 끄윽…</s>
+				</Page>
+				<Page speaker="NPC_Lucid_35" animName="Face3">
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_Lucid_35" animName="Face3">
+					<s>…무언가…</s>
+				</Page>
+				<Page speaker="NPC_Lucid_35" animName="Face3">
+					<s>…무언가… 나를 이끄는 것만 같은… 느낌…?</s>
+				</Page>
+				<Page speaker="NPC_Lucid_35" actionCommand="Lachelein_0026_04" animName="Face2">
+					<s>누군가 있어. 생각보다 가까이에. 그래, 바로 내… 곁에.</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="4">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0026_05">
+				</Page>
+				<Page speaker="NPC_Lucid_35" type="Image" Image.Code="LacheleinCinema_08" Image.Path="DynamicTexture\Quest\ArcaneRiver\Lachelein\LacheleinCinema_08" Image.IsOn="TRUE" Image.UseOriginSize="true" Image.imageFadeIn="true" Image.imageFadeDurtaion="1">
+					<s>이 불길한 기운… 당신은 누구죠?</s>
+				</Page>
+				<Page speaker="NPC_Lucid_35">
+					<s>설마 당신이…</s>
+				</Page>
+				<Page speaker="NPC_Lucid_35">
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_Lucid_35">
+					<s>하지만…</s>
+				</Page>
+				<Page speaker="NPC_Lucid_35">
+					<s>하지만… 어쩌면 당신이야말로 내가 오랫동안 기다려 온 존재.</s>
+				</Page>
+				<Page speaker="NPC_Lucid_35" actionCommand="Lachelein_0026_06">
+					<s>당신의 모습을 조금 더 가까이에서 봐도 될까요?</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+		
+		<Task index="5">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0026_07">
+				</Page>
+				<Page speaker="NPC_Lucid_35">
+					<s>완전한 파괴와 재생… 누가 감히 이런 상상을 할 수 있을까…!</s>
+				</Page>
+				<Page speaker="NPC_Lucid_35" animName="Face1">
+					<s>그분의 이상이 그려져… 이것이, 신세계…!</s>
+				</Page>
+				<Page speaker="NPC_Lucid_35" animName="Face1">
+					<s>나를 묶고 있는 속박에서 해방되는 느낌이야.</s>
+				</Page>
+				<Page speaker="NPC_Lucid_35" actionCommand="Lachelein_0026_08" animName="Face2">
+					<s>더 이상, 나약한 나는… 없어!</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="6">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0026_09">
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\E2" voiceCode="0" speaker="NPC_Lucid_35" animName="Face1">
+					<s>하, 하핫… 아하하…!</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\E2" voiceCode="1"  speaker="NPC_Lucid_35" animName="Face1">
+					<s>마치 나를 무겁게 짓누르고 있던 무언가가 사라진 것만 같은 기분…</s>
+				</Page>	
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\E2" voiceCode="2"  speaker="NPC_Lucid_35" animName="Face1">
+					<s>아아… 이게 바로 그분의 힘인가…? 나를 완전히 채우고도 넘치는 힘이 느껴져.</s>
+				</Page>	
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\E2" voiceCode="3"  speaker="NPC_Lucid_35" animName="Face1">
+					<s>아하, 아하하, 아하하핫.</s>
+				</Page>	
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\E2" voiceCode="4"  speaker="NPC_Lucid_35" animName="Face2">
+					<s>그래. 난 여태껏 이 순간을, 다시 태어날 때만을 기다려 온 거야.</s>
+				</Page>	
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\E2" voiceCode="5"  speaker="NPC_Lucid_35" actionCommand="Lachelein_0026_10" animName="Face2">
+					<s>이제 내가 그리는 꿈은 현실이 될 거야!</s>
+				</Page>							
+			</Body>
+		</Task>
+		
+		
+		<Task index="7">
+			<Body>
+				<Page>
+					<s>(검은 마법사의 군단장, 루시드…)</s>
+				</Page>
+				<Page>
+					<s>(어쩌면 검은 마법사의 목적에 가장 가까운 자인지도…)</s>
+				</Page>
+				<Page>
+					<s>(…우선은 계속 위를 향하자.)</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0027" index="35116" sort="Theme">
+		<Title>영감님 구출</Title>
+		<Task index="1">
+			<Body>
+				<Page animName="Special">
+					<s>왔군. 으음… 우선 날 좀 도와주겠나? 몸이 마음대로 움직이지 않는군.</s>
+				</Page>
+				<Page animName="Special">
+					<s>주변 녀석들을 좀 정리해 주게. 그러면 몸을 가눌 수 있을 거야.</s>
+				</Page>							
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>고맙네. 덕분에 내가 나로 있을 수 있게 됐어.</s>
+				</Page>
+				<Page>
+					<s>헌데 방독면은…</s>
+				</Page>
+				<Page speaker="player">
+					<s>(방독면이 꿈의 존재라는 것과, 그 충격으로 헤매고 있다는 사실을 전했다.)</s>
+				</Page>
+				<Page>
+					<s>…그런 거였군. 가끔 그에게 벌어졌던 신기한 것들이 결국…</s>
+				</Page>
+				<Page>
+					<s>하지만 괜찮을 거야. 그보다 지금의 자네에게 중요한 건 위를 향하는 일이네.</s>
+				</Page>
+				<Page>
+					<s>시계탑 꼭대기는 이제 금방이야. 부탁하네. 조금 더 힘을 내 주게.</s>
+				</Page>	
+				<Page>
+					<s>이걸 주겠네. 이리로 오면서 주워서 들고 있었던 거야. 도움이 되겠지.</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0028" index="35117" sort="Theme">
+		<Title>[꿈의 파편] 네 번째 무의식</Title>
+		<Task index="1">
+			<Body>
+				<Page speaker="player">
+					<s>(마찬가지야. 이 균열…)</s>
+				</Page>
+				<Page speaker="player">
+					<s>(이쯤 되면 두 가지 다 필요한 게 되었어. 위로 향하는 통로든, 루시드의 정보든.)</s>
+				</Page>
+				<Page speaker="player">
+					<s>(주변 녀석들이 들고 있는 파편을 모으자.)</s>
+				</Page>						
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="player" actionCommand="Lachelein_0028_01">
+					<s>(좋아, 이 정도면 반응하겠지.)</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="3">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0028_02">
+				</Page>
+				<Page speaker="NPC_Claudine_24" position="Right">
+					<s>레지스탕스가 연합을 배신할 거라고요? 말도 안 돼!</s>
+				</Page>
+				<Page speaker="NPC_Cygnus_17" animName="Face1">
+					<s>진정하세요. 미래의 문 너머의 풍경은 조작된 미래일 뿐입니다.</s>
+				</Page>
+				<Page speaker="NPC_Neinheart_18">
+					<s>전혀 가능성 없는 얘기는 아니죠.</s>
+				</Page>
+				<Page speaker="NPC_Claudine_24" position="Right">
+					<s>…뭐라고요?</s>
+				</Page>
+				<Page speaker="NPC_Neinheart_18">
+					<s>농담입니다. 모든 가능성을 고려해야 한다던 어떤 분의 발언이 생각나서요.</s>
+				</Page>
+				<Page speaker="NPC_Claudine_24" position="Right">
+					<s>당신 정말…</s>
+				</Page>
+				<Page speaker="NPC_Helena_22"  position="Right" actionCommand="Lachelein_0028_03">
+					<s>다툴 때가 아닙니다. 싸움은 그만 둬요!</s>
+				</Page>
+				<Page speaker="NPC_Lucid_45" animName="Face5">
+					<s>후훗, 계획대로 동요하고 있어. 모든 것이 순조로워.</s>
+				</Page>
+				<Page speaker="NPC_Lucid_45" animName="Face5">
+					<s>의심의 씨앗은 이미 뿌려졌어. 허상이라 한들 쉽사리 떨쳐내지 못할걸요?</s>
+				</Page>
+				<Page speaker="NPC_Lucid_45" actionCommand="Lachelein_0028_04" animName="Face5">
+					<s>더욱더 진짜 같은 악몽을 기대해도 좋아요. 씨앗은 곧 싹을 틔울 테니.</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="4">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0028_05">
+				</Page>
+				<Page animName="Face6">
+					<s>새로운 세계가 펼쳐질 날이 얼마 남지 않았어요.</s>
+				</Page>
+				<Page animName="Face5">
+					<s>검은 마법사님의, 그리고 저의 이상이 실현되는 날.</s>
+				</Page>
+				<Page  animName="Face5">
+					<s>후훗, 당신이 만들 세계는 어떤 곳인가요. 기대를 내려놓을 수가 없어요.</s>
+				</Page>
+				<Page  animName="Face5" actionCommand="Lachelein_0028_06">
+					<s>조금만, 아주 조금만 맛볼게요. 당신의 그 깊은 내면을…</s>
+				</Page>
+				<Page>
+					<s>…어?</s>
+				</Page>
+				<Page  animName="Face1">
+					<s>…어, 어째서지? 이건…</s>
+				</Page>
+				<Page  animName="Face1">
+					<s>…아무것도 보이지 않아. 아무것도 느껴지지 않아…!</s>
+				</Page>
+				<Page>
+					<s>…설마!!!</s>
+				</Page>
+				<Page actionCommand="Lachelein_0028_07"  animName="Face2">
+					<s>설마…  [ff7b50]당신의 이상[-]이라는 건…!</s>
+				</Page>
+				<Page animName="Face2">
+					<s>…아니야. 내가 바라는 이상은 이게 아니야.</s>
+				</Page>
+				<Page animName="Face2">
+					<s>사라져선 안 돼. 사라질 수 없어. 내게 손을 내밀어 준 분…</s>
+				</Page>
+				<Page animName="Face1">
+					<s>이상은… 실현될 수 있어.</s>
+				</Page>
+				<Page actionCommand="Lachelein_0028_08" animName="Face3">
+					<s>축제를 만드는 거야. 영원한 행복의 축제를. 축제의 도시를…</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="5">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0028_09">
+				</Page>
+				<Page animName="Face6">
+					<s>…여긴 슬픔도, 괴로움도 없는 꿈의 도시.</s>
+				</Page>
+				<Page animName="Face6">
+					<s>달콤한 꿈은 모두를 영원히 행복한 삶으로 만들어 줄 거야.</s>
+				</Page>
+				<Page animName="Face6">
+					<s>이것이 나의 이상… 그분은 분명 알아주실 거야.</s>
+				</Page>
+				<Page animName="Face6">
+					<s>비록 지금은 그분을 거스르는 일이 될지라도…</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\E3" voiceCode="3"  actionCommand="Lachelein_0028_10" animName="Face5">
+					<s>검은 마법사님. 자, 보세요! 이 루시드가 그려낸 신세계를!</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+		
+		<Task index="6">
+			<Body>
+				<Page>
+					<s>(지금 장면은… 분명 루시드가 레헬른을 만든 직후인가.)</s>
+				</Page>
+				<Page>
+					<s>(단편적인 장면들이 보였지만 여전히 확실하지 않아.)</s>
+				</Page>
+				<Page>
+					<s>(검은 마법사의 진짜 목적은 뭐지? 그리고 루시드는…)</s>
+				</Page>
+				<Page>
+					<s>(…계속 나아가면 무언가 더 볼 수 있을지도 몰라. 지금은 나아가자.)</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0029_01" index="35118" sort="Theme">
+		<Title>루시드와의 조우</Title>
+		<Task index="1">
+			<Body>
+				<Page animName="Face5">
+					<s>어머? 생각보다 빨리 오셨군요.</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0029_01">
+					<s>다시 만났군, 군단장 루시드.</s>
+				</Page>							
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0029_02">
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face6">
+					<s>결국 여기까지 오셨네요.</s>
+				</Page>
+				<Page speaker="player">
+					<s>당신이 무슨 생각으로 여길 만들었는지 알아.</s>
+				</Page>
+				<Page speaker="player">
+					<s>하지만 그만둬. 여기서는 어느 누구도 행복하지 않아.</s>
+				</Page>
+				<Page speaker="player">
+					<s>먹고, 마시고, 춤추기만 하는 사람들이 행복할 것 같아?</s>
+				</Page>
+				<Page speaker="player">
+					<s>아무것도 모른 채 그저 행복하다는 말을 되뇌고 있을 뿐이야!</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face6">
+					<s>어머, 정말로 그렇게 생각하시나요?</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face6">
+					<s>아무것도 모른 채, 위대한 질서 아래서 순응하며 행복하게 살아가는 것.</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face3">
+					<s>행복하다고 말하는걸요. 정말로 행복한 게 아닌가요?</s>
+				</Page>
+				<Page speaker="player">
+					<s>물론이지. 강요당한 행복, 그런 질서 같은 걸로 진정 행복해질 것 같아?</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face5">
+					<s>후훗, 그렇군요. 그렇단 말이죠.</s>
+				</Page>
+				<Page speaker="player">
+					<s>…?</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face5">
+					<s>그래서, 그게 어쨌단 거죠?</s>
+				</Page>
+				<Page speaker="player">
+					<s>뭐라고?</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q4" voiceCode="2" speaker="NPC_Lucid_39" animName="Face5">
+					<s>위대하신 그분의 마음을 돌릴 수만 있다면 그런 건 아무래도 상관없는걸요.</s>
+				</Page>
+				<Page speaker="player">
+					<s>그러고 보니, 넌 검은 마법사를 위해 일하는 게 아니었나?</s>
+				</Page>
+				<Page speaker="player">
+					<s>검은 마법사는, 또 너는 대체 뭘 꾸미고 있는 거지?</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q4" voiceCode="4" speaker="NPC_Lucid_39" animName="Face5">
+					<s>후훗, 당신이 그분의 뜻을 이해할 수 있는 날이 올까요? 아뇨, 그런 일은 없어요.</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q4" voiceCode="6" speaker="NPC_Lucid_39" actionCommand="Lachelein_0029_03" animName="Face5">
+					<s>자, 그럼 시작해 볼까요?</s>
+				</Page>
+				<Page speaker="player">
+					<s>이건… 아…?</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0029_04">
+					<s>몸에… 힘이…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_14" actionCommand="Lachelein_0029_05">
+					<s>#un#, 정신 차리세요! 가루를 없애겠습니다!</s>
+				</Page>
+				<Page speaker="player">
+					<s>!!! 이 목소리는!</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0029_06">
+					<s>방독면!?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_14">
+					<s>방금 그 가루는 꿈으로 이끄는 그녀의 매개체였습니다. 남은 가루를 들이마시지 않도록 조심하세요!</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face2">
+					<s>꿈가루가…! 아니, 그보다…</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39"  animName="Face2">
+					<s>설마 했는데… 당신, 정말로…!</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_14">
+					<s>알아보시겠죠. 저는 당신의 '악몽'입니다. #un#과 함께 당신을 물리치겠습니다!</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39"  animName="Face1">
+					<s>당신이, 악몽…이라…</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39"  animName="Face3">
+					<s>아핫, 아하하핫. 그래. 좋아요, 악몽.</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face3">
+					<s>날 막을 수 있다면 막아 봐요. 하지만 이 꿈의 청소부들은 호락호락하지 않을 거랍니다!</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_14" actionCommand="Lachelein_0029_07">
+					<s>…옵니다!</s>
+				</Page>			
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0029_08">
+				</Page>
+				<Page speaker="NPC_Lucid_43" animName="Face1">
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>우리가… 이겼습니다. 꿈의 힘이 서서히 약해지고 있어요.</s>
+				</Page>
+				<Page speaker="player">
+					<s>꿈의 힘이 약해진다면, 방독면. 당신의 상태는…</s>
+				</Page>
+				<Page speaker="NPC_Lucid_43" animName="Face1">
+					<s>결국…</s>
+				</Page>
+				<Page speaker="player">
+					<s>…?</s>
+				</Page>
+				<Page speaker="NPC_Lucid_43" animName="Face6">
+					<s>뭐, 좋아요. 곧 알게 되겠죠.</s>
+				</Page>
+				<Page speaker="NPC_Lucid_43" animName="Face6">
+					<s>행복을 노래하던 많은 사람들의 꿈을 빼앗은 결과를…</s>
+				</Page>
+				<Page speaker="NPC_Lucid_43" actionCommand="Lachelein_0029_09" animName="Face6">
+					<s>깨닫게 될 거예요. 분명…</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0029_10">
+				</Page>
+				<Page speaker="player">
+					<s>아…!</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>오르골입니다. 아마 어떤 오르골보다 강한 영향력을 미치고 있을 겁니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>오르골은 어떤 결핍을 지닌 자들이 갖고 있었어요.</s>
+					<s>그리고 그 결핍에서 오는 바람이 강할수록 주변에 큰 영향을 끼쳤습니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>그리고 이곳의 그 누구보다 큰 결핍과 바람을 가졌던 자는 아마 그녀일 테니까요.</s>
+				</Page>
+				<Page speaker="player">
+					<s>하지만… 이걸 부수면 꿈이 약해질 거고, 그러면 당신은…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>…괜찮습니다. 이것이 제 '사명'이니까요.</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0029_11">
+					<s>…알겠어요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>……</s>
+				</Page>
+				<Page speaker="player">
+					<s>방독면, 상태는…?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>생각보다는… 괜찮습니다. 주변을 둘러싼 꿈의 잔재가 아직 남은 것 같군요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>아마 꿈의 도시도 당장 무너지지는 않을 겁니다. 하지만 서서히 원래대로 돌아가겠지요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>#un#, 고맙습니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>당신이 아니었다면 분명 구해내지 못했을 겁니다. 사람들을, 이 도시를…</s>
+				</Page>
+				<Page speaker="player">
+					<s>방독면…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>붉은 안개가 걷히면 당신도 못다 한 사명을 위해 다시 길을 떠나겠지요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>힘든 여정이겠지만 무사히 마치시길 기도하겠습니다.</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0029_12">
+					<s>그래요. 그럼…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>(그리고… 아직 저의 사명도 다하지 않은 것 같습니다.)</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>(실수 따위가 아닌, 제가 생겨난 진정한 이유.)</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15" actionCommand="Lachelein_0029_13">
+					<s>(악몽에서 구해야만 하는 사람이… 아직 남아 있으니까요.)</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0029_02" index="35119" sort="Theme">
+		<Title>루시드와의 조우</Title>
+		<Task index="1">
+			<Body>
+				<Page animName="Face5">
+					<s>어머? 생각보다 빨리 오셨군요.</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0029_01">
+					<s>다시 만났군, 군단장 루시드.</s>
+				</Page>							
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0029_02">
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face6">
+					<s>…결국 여기까지 오셨네요.</s>
+				</Page>
+				<Page speaker="player">
+					<s>…난 널 알고 있어. 아니, 알고 있어야 하는데 왜 기억할 수 없지?</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39">
+					<s>간단해요. 당신에게는 그 정도로 하찮은 기억이었을 테니까.</s>
+				</Page>
+				<Page speaker="player">
+					<s>아니야. 분명 달라. 그런 것과는…</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face1">
+					<s>그런 건 중요하지 않아요. 제게도 이제 당신은 아무것도 아니니까.</s>
+				</Page>
+				<Page speaker="player">
+					<s>…무슨 생각으로 여길 만들었는지 알아.</s>
+				</Page>
+				<Page speaker="player">
+					<s>하지만 그만둬. 여기서는 어느 누구도 행복하지 않아.</s>
+				</Page>
+				<Page speaker="player">
+					<s>먹고, 마시고, 춤추기만 하는 사람들이 행복할 것 같아?</s>
+				</Page>
+				<Page speaker="player">
+					<s>아무것도 모른 채 그저 행복하다는 말을 되뇌고 있을 뿐이야.</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face6">
+					<s>어머, 정말로 그렇게 생각하시나요?</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face6">
+					<s>아무것도 모른 채, 위대한 질서 아래서 순응하며 행복하게 살아가는 것.</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face3">
+					<s>행복하다고 말하는걸요. 정말로 행복한 게 아닌가요?</s>
+				</Page>
+				<Page speaker="player">
+					<s>물론이지. 강요당한 행복, 그런 질서 같은 걸로 진정 행복해질 것 같아?</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face5">
+					<s>후훗, 그렇군요. 그렇단 말이죠.</s>
+				</Page>
+				<Page speaker="player">
+					<s>…?</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face5">
+					<s>그래서, 그게 어쨌단 거죠?</s>
+				</Page>
+				<Page speaker="player">
+					<s>뭐라고?</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q4" voiceCode="2" speaker="NPC_Lucid_39" animName="Face5">
+					<s>위대하신 그분의 마음을 돌릴 수만 있다면 그런 건 아무래도 상관없는걸요.</s>
+				</Page>
+				<Page speaker="player">
+					<s>그러고 보니, 넌 검은 마법사를 위해 일하는 게 아니었나?</s>
+				</Page>
+				<Page speaker="player">
+					<s>검은 마법사는, 또 너는 대체 뭘 꾸미고 있는 거지?</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q4" voiceCode="4" speaker="NPC_Lucid_39" animName="Face5">
+					<s>후훗, 당신이 그분의 뜻을 이해할 수 있는 날이 올까요? 아뇨, 그런 일은 없어요.</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q4" voiceCode="6" speaker="NPC_Lucid_39" actionCommand="Lachelein_0029_03" animName="Face5">
+					<s>자, 그럼 시작해 볼까요?</s>
+				</Page>
+				<Page speaker="player">
+					<s>이건… 아…?</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0029_04">
+					<s>몸에… 힘이…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_14" actionCommand="Lachelein_0029_05">
+					<s>#un#, 정신 차리세요! 가루를 없애겠습니다!</s>
+				</Page>
+				<Page speaker="player">
+					<s>!!! 이 목소리는!</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0029_06">
+					<s>방독면!?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_14">
+					<s>방금 그 가루는 꿈으로 이끄는 그녀의 매개체였습니다. 남은 가루를 들이마시지 않도록 조심하세요!</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face2">
+					<s>꿈가루가…! 아니, 그보다…</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face2">
+					<s>설마 했는데… 당신, 정말로…!</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_14">
+					<s>알아보시겠죠. 저는 당신의 '악몽'입니다. #un#과 함께 당신을 물리치겠습니다!</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face1">
+					<s>당신이, 악몽…이라…</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face3">
+					<s>아핫, 아하하핫. 그래. 좋아요, 악몽.</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face3">
+					<s>날 막을 수 있다면 막아 봐요. 하지만 이 꿈의 청소부들은 호락호락하지 않을 거랍니다!</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_14" actionCommand="Lachelein_0029_07">
+					<s>…옵니다!</s>
+				</Page>			
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0029_08">
+				</Page>
+				<Page speaker="NPC_Lucid_43">
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>우리가… 이겼습니다. 꿈의 힘이 서서히 약해지고 있어요.</s>
+				</Page>
+				<Page speaker="player">
+					<s>꿈의 힘이 약해진다면, 방독면. 당신의 상태는…</s>
+				</Page>
+				<Page speaker="NPC_Lucid_43" animName="Face1">
+					<s>결국…</s>
+				</Page>
+				<Page speaker="player">
+					<s>…?</s>
+				</Page>
+				<Page speaker="NPC_Lucid_43">
+					<s>뭐, 좋아요. 곧 알게 되겠죠.</s>
+				</Page>
+				<Page speaker="NPC_Lucid_43" animName="Face6">
+					<s>행복을 노래하던 많은 사람들의 꿈을 빼앗은 결과를…</s>
+				</Page>
+				<Page speaker="NPC_Lucid_43" actionCommand="Lachelein_0029_09" animName="Face6">
+					<s>깨닫게 될 거예요. 분명…</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0029_10">
+				</Page>
+				<Page speaker="player">
+					<s>아…!</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>오르골입니다. 아마 어떤 오르골보다 강한 영향력을 미치고 있을 겁니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>오르골은 어떤 결핍을 지닌 자들이 갖고 있었어요.</s>
+					<s>그리고 그 결핍에서 오는 바람이 강할수록 주변에 큰 영향을 끼쳤습니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>그리고 이곳의 그 누구보다 큰 결핍과 바람을 가졌던 자는 아마 그녀일 테니까요.</s>
+				</Page>
+				<Page speaker="player">
+					<s>하지만… 이걸 부수면 꿈이 약해질 거고, 그러면 당신은…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>…괜찮습니다. 이것이 제 '사명'이니까요.</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0029_11">
+					<s>…알겠어요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>……</s>
+				</Page>
+				<Page speaker="player">
+					<s>방독면, 상태는…?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>생각보다는… 괜찮습니다. 주변을 둘러싼 꿈의 잔재가 아직 남은 것 같군요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>아마 꿈의 도시도 당장 무너지지는 않을 겁니다. 하지만 서서히 원래대로 돌아가겠지요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>#un#, 고맙습니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>당신이 아니었다면 분명 구해내지 못했을 겁니다. 사람들을, 이 도시를…</s>
+				</Page>
+				<Page speaker="player">
+					<s>방독면…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>붉은 안개가 걷히면 당신도 못다 한 사명을 위해 다시 길을 떠나겠지요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>힘든 여정이겠지만 무사히 마치시길 기도하겠습니다.</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0029_12">
+					<s>그래요. 그럼…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>(그리고… 아직 저의 사명도 다하지 않은 것 같습니다.)</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>(실수 따위가 아닌, 제가 생겨난 진정한 이유.)</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15" actionCommand="Lachelein_0029_13">
+					<s>(악몽에서 구해야만 하는 사람이… 아직 남아 있으니까요.)</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0029_03" index="35120" sort="Theme">
+		<Title>루시드와의 조우</Title>
+		<Task index="1">
+			<Body>
+				<Page animName="Face5">
+					<s>어머? 생각보다 빨리 오셨군요.</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0029_01">
+					<s>다시 만났군, 군단장 루시드.</s>
+				</Page>							
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0029_02">
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face6">
+					<s>결국 여기까지 오셨네요.</s>
+				</Page>
+				<Page speaker="player">
+					<s>…난 당신을 기억하지 못해. 어째서지?</s>
+				</Page>
+				<Page speaker="player">
+					<s>난 세계를 기억하고 세계는 날 기억하지 못해. 그런데 어째서 당신은 반대로…</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face5">
+					<s>그런 게 중요한가요? 당신을 기억해주는 단 하나의 존재인데. 기뻐서 눈물이라도 흘릴 줄 알았지 뭐에요?</s>
+				</Page>
+				<Page speaker="player">
+					<s>…당신이 무슨 생각으로 여길 만들었는지 알아.</s>
+				</Page>
+				<Page speaker="player">
+					<s>하지만 그만둬. 여기서는 어느 누구도 행복하지 않아.</s>
+				</Page>
+				<Page speaker="player">
+					<s>먹고, 마시고, 춤추기만 하는 사람들이 행복할 것 같아?</s>
+				</Page>
+				<Page speaker="player">
+					<s>아무것도 모른 채 그저 행복하다는 말을 되뇌고 있을 뿐이야!</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face6">
+					<s>어머, 정말로 그렇게 생각하시나요?</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face6">
+					<s>아무것도 모른 채, 위대한 질서 아래서 순응하며 행복하게 살아가는 것.</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face3">
+					<s>행복하다고 말하는걸요. 정말로 행복한 게 아닌가요?</s>
+				</Page>
+				<Page speaker="player">
+					<s>물론이지. 강요당한 행복, 그런 질서 같은 걸로 진정 행복해질 것 같아?</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face5">
+					<s>후훗, 그렇군요. 그렇단 말이죠.</s>
+				</Page>
+				<Page speaker="player">
+					<s>…?</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face5">
+					<s>그래서, 그게 어쨌단 거죠?</s>
+				</Page>
+				<Page speaker="player">
+					<s>뭐라고?</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q4" voiceCode="2" speaker="NPC_Lucid_39" animName="Face5">
+					<s>위대하신 그분의 마음을 돌릴 수만 있다면 그런 건 아무래도 상관없는걸요.</s>
+				</Page>
+				<Page speaker="player">
+					<s>그러고 보니, 넌 검은 마법사를 위해 일하는 게 아니었나?</s>
+				</Page>
+				<Page speaker="player">
+					<s>검은 마법사는, 또 너는 대체 뭘 꾸미고 있는 거지?</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q4" voiceCode="4" speaker="NPC_Lucid_39" animName="Face5">
+					<s>후훗, 당신이 그분의 뜻을 이해할 수 있는 날이 올까요? 아뇨, 그런 일은 없어요.</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\Q4" voiceCode="6" speaker="NPC_Lucid_39" actionCommand="Lachelein_0029_03" animName="Face5">
+					<s>자, 그럼 시작해 볼까요?</s>
+				</Page>
+				<Page speaker="player">
+					<s>이건… 아…?</s>
+				</Page>
+				<Page actionCommand="Lachelein_0029_04">
+					<s>몸에… 힘이…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_14" actionCommand="Lachelein_0029_05">
+					<s>#un#, 정신 차리세요! 가루를 없애겠습니다!</s>
+				</Page>
+				<Page speaker="player">
+					<s>!!! 이 목소리는!</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0029_06">
+					<s>방독면!?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_14">
+					<s>방금 그 가루는 꿈으로 이끄는 그녀의 매개체였습니다. 남은 가루를 들이마시지 않도록 조심하세요!</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face2">
+					<s>꿈가루가…! 아니, 그보다…</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face2">
+					<s>설마 했는데… 당신, 정말로…!</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_14">
+					<s>알아보시겠죠. 저는 당신의 '악몽'입니다. #un#과 함께 당신을 물리치겠습니다!</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face1">
+					<s>당신이, 악몽…이라…</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face3">
+					<s>아핫, 아하하핫. 그래. 좋아요, 악몽.</s>
+				</Page>
+				<Page speaker="NPC_Lucid_39" animName="Face3">
+					<s>날 막을 수 있다면 막아 봐요. 하지만 이 꿈의 청소부들은 호락호락하지 않을 거랍니다!</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_14" actionCommand="Lachelein_0029_07">
+					<s>…옵니다!</s>
+				</Page>			
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0029_08">
+				</Page>
+				<Page speaker="NPC_Lucid_43">
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>우리가… 이겼습니다. 꿈의 힘이 서서히 약해지고 있어요.</s>
+				</Page>
+				<Page speaker="player">
+					<s>꿈의 힘이 약해진다면, 방독면. 당신의 상태는…</s>
+				</Page>
+				<Page speaker="NPC_Lucid_43" animName="Face1">
+					<s>결국…</s>
+				</Page>
+				<Page speaker="player">
+					<s>…?</s>
+				</Page>
+				<Page speaker="NPC_Lucid_43" animName="Face6">
+					<s>뭐, 좋아요. 곧 알게 되겠죠.</s>
+				</Page>
+				<Page speaker="NPC_Lucid_43" animName="Face6">
+					<s>행복을 노래하던 많은 사람들의 꿈을 빼앗은 결과를…</s>
+				</Page>
+				<Page speaker="NPC_Lucid_43" actionCommand="Lachelein_0029_09" animName="Face6">
+					<s>깨닫게 될 거예요. 분명…</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0029_10">
+				</Page>
+				<Page speaker="player">
+					<s>아…!</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>오르골입니다. 아마 어떤 오르골보다 강한 영향력을 미치고 있을 겁니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>오르골은 어떤 결핍을 지닌 자들이 갖고 있었어요.</s>
+					<s>그리고 그 결핍에서 오는 바람이 강할수록 주변에 큰 영향을 끼쳤습니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>그리고 이곳의 그 누구보다 큰 결핍과 바람을 가졌던 자는 아마 그녀일 테니까요.</s>
+				</Page>
+				<Page speaker="player">
+					<s>하지만… 이걸 부수면 꿈이 약해질 거고, 그러면 당신은…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>…괜찮습니다. 이것이 제 '사명'이니까요.</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0029_11">
+					<s>…알겠어요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>……</s>
+				</Page>
+				<Page speaker="player">
+					<s>방독면, 상태는…?</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>생각보다는… 괜찮습니다. 주변을 둘러싼 꿈의 잔재가 아직 남은 것 같군요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>아마 꿈의 도시도 당장 무너지지는 않을 겁니다. 하지만 서서히 원래대로 돌아가겠지요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>#un#, 고맙습니다.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>당신이 아니었다면 분명 구해내지 못했을 겁니다. 사람들을, 이 도시를…</s>
+				</Page>
+				<Page speaker="player">
+					<s>방독면…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>붉은 안개가 걷히면 당신도 못다 한 사명을 위해 다시 길을 떠나겠지요.</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>힘든 여정이겠지만 무사히 마치시길 기도하겠습니다.</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0029_12">
+					<s>그래요. 그럼…</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>(그리고… 아직 저의 사명도 다하지 않은 것 같습니다.)</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15">
+					<s>(실수 따위가 아닌, 제가 생겨난 진정한 이유.)</s>
+				</Page>
+				<Page speaker="NPC_ProtectiveMask_15" actionCommand="Lachelein_0029_13">
+					<s>(악몽에서 구해야만 하는 사람이… 아직 남아 있으니까요.)</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0030" index="35121" sort="Theme">
+		<Title>계속 나아갈 수밖에</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>(루시드가 만들어 낸 붉은 안개는 사라지지 않고 있다.)</s>
+				</Page>
+				<Page>
+					<s>(꿈의 도시가 해방되기까지는 조금 더 시간이 필요한 모양이다.)</s>
+				</Page>
+				<Page>
+					<s>…응? 이 물살을 가르는 소리는… 설마!</s>
+				</Page>
+				<Page>
+					<s>(소리를 따라가 보자. 아마  [ff7b50]레헬른 강 하류[-] 어딘가일 거야!)</s>
+				</Page>							
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0030_00">
+				</Page>
+				<Page speaker="NPC_FlyingFish_02" animName="Base">
+					<s>뀨?</s>
+				</Page>
+				<Page speaker="player">
+					<s>나, 날치야! 돌아왔구나!</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0030_01">
+					<s>그렇다면… 앞으로 가볼 수 있는 걸까?</s>
+				</Page>				
+			</Body>
+	
+		</Task>
+		
+		
+		<Task index="3">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0030_02">
+				</Page>
+				<Page>
+					<s>(날치가 돌아왔다는 건… 드나들 만한 공간이 있다는 얘기일 거야.)</s>
+				</Page>
+				<Page actionCommand="Lachelein_0030_03">
+					<s>(도시를 둘러싼 꿈의 힘이 완전히 사라지기까지는 아직 시간이 필요하겠지만.)</s>
+				</Page>
+				<Page actionCommand="Lachelein_0030_04">
+					<s>(이건…)</s>
+				</Page>
+				<Page>
+					<s>(혹시 꿈의 힘이 더 약해진다면 여길 통해 빠져나갈 수 있을지도.)</s>
+				</Page>
+				<Page actionCommand="Lachelein_0030_05">
+					<s>(더 앞으로 가 보자.)</s>
+				</Page>
+				<Page>
+					<s>(!?)</s>
+				</Page>
+				<Page actionCommand="Lachelein_0030_07">
+					<s>(또 다른 기억이…!?)</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="4">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0030_08">
+				</Page>
+				<Page animName="Face5">
+					<s>드디어 완성됐어. 꿈의 도시, 나의 레헬른.</s>
+				</Page>
+				<Page actionCommand="Lachelein_0030_09">
+					<s>준비는 모두 끝났어. 이제…</s>
+				</Page>
+				<Page actionCommand="Lachelein_0030_10" animName="Face1">
+					<s>……</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="5">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0030_11">
+				</Page>
+				<Page>
+					<s>여긴… 몽환 공간? 어떻게 갑자기 이곳에…</s>
+				</Page>
+				<Page animName="Face2">
+					<s>거기다 이 느낌은 뭐지? 이곳에서 느껴본 적 없는 꺼림칙한…</s>
+				</Page>
+				<Page actionCommand="Lachelein_0030_12" animName="Face2">
+					<s>가능한 빨리 이 공간에서 나가야겠어.</s>
+				</Page>
+				<Page speaker="NPC_Wightmare_01" actionCommand="Lachelein_0030_13">
+					<s>어딜 가시나요, 주인님?</s>
+				</Page>
+				<Page>
+					<s>…그대들은 내가 만들어 낸 꿈속의 존재들이로군요.</s>
+				</Page>
+				<Page>
+					<s>당장 사라지세요.</s>
+				</Page>
+				<Page speaker="NPC_Wightmare_01">
+					<s>케케, 그렇게는 안 될걸요. 모든 걸 마음대로 할 수 있을 거라 생각하세요?</s>
+				</Page>
+				<Page speaker="NPC_Wightmare_01">
+					<s>내가 나비인지, 나비가 나인지. 허상이 실체가 된다면 실체는 허상이 되는 거지요.</s>
+				</Page>
+				<Page speaker="NPC_Wightmare_01">
+					<s>그러니 앞으로는 저희가 함께하는 거예요. 영원히.</s>
+				</Page>
+				<Page animName="Face2">
+					<s>…사양하겠어요.</s>
+				</Page>
+				<Page speaker="NPC_Wightmare_01" actionCommand="Lachelein_0030_14">
+					<s>아, 안심하세요. 한순간도 지루하지 않을 테니까요. 케케.</s>
+				</Page>
+				<Page speaker="NPC_Wightmare_01" actionCommand="Lachelein_0030_15">
+					<s>주인님, 모시겠습니다.</s>
+				</Page>
+				<Page speaker="NPC_Wightmare_01" actionCommand="Lachelein_0030_16">
+					<s>주인님, 모시겠습니다.</s>
+				</Page>
+				<Page animName="Face2">
+					<s>아, 안 돼! 그럴 수 없어. 당장 사라지세요, 당장!</s>
+				</Page>
+				<Page speaker="NPC_Wightmare_01">
+					<s>악몽은 주인님 곁에 있어요. 영원히, 영원히…</s>
+				</Page>
+				<Page actionCommand="Lachelein_0030_17" animName="Face2">
+					<s>이, 이럴 리가 없어! 아악!</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+		
+		<Task index="6">
+			<Body>
+				<Page skip="true" actionCommand="Lachelein_0030_18">
+				</Page>
+				<Page animName="Face1">
+					<s>하아, 하아…</s>
+				</Page>
+				<Page animName="Face1">
+					<s>여긴 현실이야… 그렇다면 방금 건 분명히 꿈…</s>
+				</Page>
+				<Page animName="Face1">
+					<s>하지만 꿈이라면… 어째서 내 뜻대로 되지 않은 거지?</s>
+				</Page>
+				<Page animName="Face1">
+					<s>마치… 악몽을 꾼 것만 같은…</s>
+				</Page>
+				<Page>
+					<s>…악몽…?</s>
+				</Page>
+				<Page>
+					<s>……</s>
+				</Page>
+				<Page animName="Face6">
+					<s>아, 이런 거였군.</s>
+				</Page>
+				<Page animName="Face6">
+					<s>후, 후훗.</s>
+				</Page>
+				<Page animName="Face6">
+					<s>하핫, 핫, 아하핫.</s>
+				</Page>
+				<Page animName="Face3">
+					<s>그래, 악몽이여. 날 마음껏 집어삼켜도 좋아요.</s>
+				</Page>
+				<Page animName="Face3">
+					<s>하지만… 이번엔 다를 거예요. 내 마음대로. 내가 바라는 대로…</s>
+				</Page>
+				<Page voice="TRUE" voicePath ="Sound\Quest\ArcaneRiver\Lachelein\Voice\E4" voiceCode="7" actionCommand="Lachelein_0030_19" animName="Face5">
+					<s>온 천지를 달콤한 꿈으로 뒤덮을 때까지… 축제는 계속되어야만 해.</s>
+				</Page>
+				<Page speaker="player">
+					<s>(그녀의 통제 밖에 있는 요소… 악몽…)</s>
+				</Page>
+				<Page speaker="player" actionCommand="Lachelein_0030_20">
+					<s>(이걸로 모두 마무리된 걸까…?)</s>
+				</Page>					
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0031" index="35122" sort="Daily">
+		<Title>≪일일≫ 끝나지 않은 꿈</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>루시드는 사라졌지만 꿈의 세계는 아직 무너지지 않았어.</s>
+				</Page>
+				<Page>
+					<s>괜찮다면 우릴 도와주겠나? 자네가 도와준다면 더 빨리 악몽을 떨쳐버릴 수 있을 거야.</s>
+				</Page>							
+			</Body>
+		</Task>
+
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>그렇게 말해줄 줄 알았지. 산적해 있는 일들을 말해 주겠네. 준비가 되면 다시 나를 찾아오게.</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0032" index="35123" sort="Daily">
+		<Title>≪일일≫ 수면 가루 회수</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>여전히 도시 주변엔 수면 가루가 날리고 있어. 가루를 가진 녀석들이 꿈속을 헤매며 날뛰고 있지. 수면 가루를 회수한다면 조금은 잠잠하게 만들 수 있을 거야. </s>
+				</Page>						
+			</Body>
+		</Task>
+
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>수면 가루는 내게 주면 되네. 들이마시지 않도록 조심하고.</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+	</Quest>		
+
+	<Quest code="Lachelein_0033" index="35124" sort="Daily">
+		<Title>≪일일≫ 종이봉투 뒷골목주민 처치</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>일전에 자네의 가면을 만들기 위해 혼내주었던 종이봉투 뒷골목주민들을 기억하나? 가면 재료를 잃어버린 녀석들이 설치고 있으니 가서 혼내주게. </s>
+				</Page>						
+			</Body>
+		</Task>
+
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>오, 혹시 남은 가면 재료는 없던가? 응? 하나도 없었다고? 그거 아쉽군.</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+	</Quest>	
+
+	<Quest code="Lachelein_0034" index="35125" sort="Daily">
+		<Title>≪일일≫ 나무판자 뒷골목주민 처치</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>알다시피 난 종종 가면을 만들곤 한다네. 한데 가면을 만들 때마다 그 나무판자 뒷골목주민들이 괴성을 내지른단 말이지. 녀석들을 조용히 시켜줄 수 있겠나?</s>
+				</Page>						
+			</Body>
+		</Task>
+
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>고맙네. 덕분에 가면을 만들 수 있었어. 이렇게 멋진 걸 만드는데 녀석들은 왜 방해를 하는 건지, 원.</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+	</Quest>		
+
+	<Quest code="Lachelein_0035" index="35126" sort="Daily">
+		<Title>≪일일≫ 갈리나 처치</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>토마토에는 글루타민산이 풍부하거든. 그래서 치킨과 곁들이면 맛있는 식사를 즐길 수 있지. 믿을 수 없다고? 갈리나를 쥐어박다 보면 깨닫게 될 걸!</s>
+				</Page>						
+			</Body>
+		</Task>
+
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>자네에게서 감칠맛 넘치는 향기가 나는데?</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+	</Quest>	
+	
+	<Quest code="Lachelein_0036" index="35127" sort="Daily">
+		<Title>≪일일≫ 갈루스 처치</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>토마토와 치킨도 좋은 궁합이지만 마늘도 썩 어울리거든. 갈루스를 찾아보게. 보기만 해도 건강해지는 기분이 들걸?</s>
+				</Page>						
+			</Body>
+		</Task>
+
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>몸이 건강해지는 기분이 들지 않나?</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+	</Quest>	
+	
+	<Quest code="Lachelein_0037" index="35128" sort="Daily">
+		<Title>≪일일≫ 성난 우승접시 처치</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>야시장에서는 여전히 푸드파이터들의 대회가 한창인 모양이야. 그건 좋은데 성난 우승접시도 점점 쌓여가는 게 골칫거리거든. 수가 더 불어나기 전에 줄여 주었으면 좋겠어.</s>
+				</Page>						
+			</Body>
+		</Task>
+
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>별로 줄어든 것 같지가 않은데. 이거야말로 깨는 자와 쌓는 자의 대결이로군, 흠흠.</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+	</Quest>		
+
+	<Quest code="Lachelein_0038" index="35129" sort="Daily">
+		<Title>≪일일≫ 비뚤어진 우승접시 처치</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>푸드파이터들은 여전히 무서운 속도로 먹고 있어. 그만큼 비뚤어진 우승접시도 쌓여 가고 있지. 이대로 가다간 도시가 접시들로 뒤덮일 거야!</s>
+				</Page>						
+			</Body>
+		</Task>
+
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>정말이지 갈 길이 먼 것 같군. 수고했네.</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+	</Quest>	
+
+	<Quest code="Lachelein_0039" index="35130" sort="Daily">
+		<Title>≪일일≫ 성난 무도회주민 처치</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>무도회장 쪽이 지금 난리라네. 왜냐고? 성난 무도회주민들이 주변을 난장판으로 만들고 있다지 뭔가! 얼른 수습하지 않으면 무도회장까지 쳐들어올 기세야!</s>
+				</Page>						
+			</Body>
+		</Task>
+
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>그래도 녀석들이 조금은 화를 가라앉혀서 다행이로군. 뭐, 자네 앞에서는 얌전해지는 게 당연한지도 모르겠지만 말이야.</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+	</Quest>	
+
+	<Quest code="Lachelein_0040" index="35131" sort="Daily">
+		<Title>≪일일≫ 광기의 무도회주민 처치</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>무도회장의 더 큰 문제는 광기의 무도회주민들이야. 광기에 휩싸인 그들에게는 말이 잘 통하지 않거든. 그렇다면 남은 건 실력 행사 뿐이겠지.</s>
+				</Page>						
+			</Body>
+		</Task>
+
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>불쌍하게 생각하지 않아도 되네. 내일이 되면 또 날뛸 녀석들이니.</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0041" index="35132" sort="Daily">
+		<Title>≪일일≫ 약화된 클리너 처치</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>오르골이 부숴진 덕분에 약화된 클리너들의 힘이 더욱 약해지긴 했지만, 그래도 일반인이 감당하기 힘든 존재인 건 사실이지. 그러니 자네가 좀 상대해 주었으면 좋겠네.</s>
+				</Page>						
+			</Body>
+		</Task>
+
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>녀석들이 다 사라지면 평화로운 도시가 될텐데…</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0042" index="35133" sort="Daily">
+		<Title>≪일일≫ 춤추는 빨간구두 처치</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>지금도 무도회장 주변은 또각거리는 소리로 시끄럽다는군. 주민들이 무도회장에 좀 더 집중할 수 있도록 춤추는 빨간구두들을 물리쳐 주게.</s>
+				</Page>						
+			</Body>
+		</Task>
+
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>녀석들이 또각거리는 소리는 간혹 여기까지 들려오곤 했다네. 이젠 좀 낫군.</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+	</Quest>
+	
+	<Quest code="Lachelein_0043" index="35134" sort="Daily">
+		<Title>≪일일≫ 클리너 처치</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>루시드는 물러갔지만 클리너는 여전히 그 영향력을 발휘하고 있다네. 주민들이 안심할 수 있도록 클리너를 좀 상대해 주게.</s>
+				</Page>						
+			</Body>
+		</Task>
+
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>아직도 클리너들이 그렇게나 많이 돌아다니다니… 멀었군 그래.</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+	</Quest>
+
+	<Quest code="Lachelein_0044" index="35135" sort="Daily">
+		<Title>≪일일≫ 푸른 눈의 가고일 처치</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>푸른 눈의 가고일은 자주 보이지는 않지만 만난 주민들마다 끔찍한 기억이라고 회상하더군. 주민들이 그 기억을 극복하려면 녀석들을 물리쳐야 할 거야.</s>
+				</Page>						
+			</Body>
+		</Task>
+
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>좋아. 원래 개체 수가 많은 녀석들이 아니었으니 좀 안심할 수 있겠지.</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+	</Quest>		
+	
+	<Quest code="Lachelein_0045" index="35136" sort="Daily">
+		<Title>≪일일≫ 붉은 눈의 가고일 처치</Title>
+		<Task index="1">
+			<Body>
+				<Page>
+					<s>붉은 눈의 가고일이 점점 활동 반경을 넓히고 있다네. 여기서 억제하지 않으면 모두가 끔찍한 경험을 하게 되겠지.</s>
+				</Page>						
+			</Body>
+		</Task>
+
+		<Task index="2">
+			<Body>
+				<Page>
+					<s>자네 덕분에 이 세계가 점점 좋아지고 있다고 생각하네.</s>
+				</Page>				
+			</Body>
+		</Task>
+		
+	</Quest>	
+
+
+	
+</root>

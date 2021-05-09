@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+
+
+<Quest code="Lionkingscastle_0042" index="31244" sort="AllTime">
+
+	<Title>[사자왕의 성] 이피아의 희망</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>꽃도 나비도 사람들도 모두 사라졌어요. 남은 건 타오르는 불길 뿐… 아름답던 이 성이 이렇게 변해버리다니…</s>
+			</Page>
+			<Page>
+				<s>#un#님, 제가 생전에 만들었던 장신구들을 모아 주시겠어요?</s>
+				<s>[ff7b50]이피아의 반지[-], [ff7b50]이피아의 귀고리[-], [ff7b50]이피아의 목걸이[-]… 이렇게 3개 모두 필요해요.</s>
+			</Page>
+			<Page>
+				<s>제가 그 장신구를 치장했던 날… 레온이 건넨 칭찬은 무뚝뚝했지만, 표정은 무척이나 다정했답니다. 아마 그의 마음에 들었던 걸 테지요.</s>
+			</Page>
+			<Page>
+				<s>레온이 그 장신구를 다시 본다면 우리가 함께 했던 그때를 떠올릴 거예요. 만년설을 녹이는 봄볕처럼, 우리의 추억이 그의 고독과 괴로움을 조금이라도 덜어줄 수 있기를 바랍니다…</s>
+			</Page>
+			<Page>
+				<s>그러면 이 성도 차츰 그 시절의 온기를 되찾을 수 있을 거라고 믿어요. 그 대신 당신에겐 감사의 마음을 담아 [ff7b50]고귀한 이피아의 반지[-]를 드리겠습니다. 아무쪼록 부탁드려요.</s>
+				<s></s>
+				<s>[i][a3a3a3]이피아의 장신구 3종은 군단장 반 레온(노말, 하드, 카오스)을 퇴치하면 획득할 수 있습니다.[-][/i]</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>#un#님, 레온과의 추억이 담긴 소중한 장신구를 모두 구해오셨군요.</s>
+			</Page>
+			<Page>
+				<s>그러면 다음 장신구를 [ff7b50]고귀한 이피아의 반지[-]로 교환해 드리겠습니다.</s>
+				<s></s>
+				<s>[2acfff]이피아의 반지, 이피아의 귀고리, 이피아의 목걸이[-]</s>
+				<s>[i][a3a3a3](잠금 해제된 아이템이 가방 슬롯의 배치 순대로 사용됩니다.)[-][/i]</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]고귀한 이피아의 반지[-]는 가방에서 확인할 수 있습니다.</s>
+			</Page>
+			<Page>
+				<s>다음에도 3개의 장신구를 가져오시면 언제든지 또 [ff7b50]교환[-]해 드리겠습니다.</s>
+				<s>그 보물로 연상되는 행복한 추억들이 레온에게 평안을 가져다주길…</s>
+				<s></s>
+				<s>[i][a3a3a3](알리미에서 『이피아의 희망』 퀘스트 정보를 숨기고 싶다면, 퀘스트 UI에서 알리미 아이콘을 꺼주세요.)[-][/i]</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+	
+	
+<Quest code="MasterLabel_0001" index="1501" sort="Epic">
+
+	<Title>[마스터피스] 하얀 눈의 이야기</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="Ladyblair_01">
+				<s>#un#님, 안녕하세요!</s>
+				<s>정말 눈부시도록 새하얀 의상이네요.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="2">
+		<Body>
+			<Page speaker="Ladyblair_01">
+				<s>마스터 스노우 세트를 모두 모아 오셨으니,</s>
+				<s>제가 이 추위와 어울리는 스노우 얼굴분장을 선물로 드릴게요.</s>
+			</Page>
+			<Page speaker="Ladyblair_01">
+				<s>새하얀 속눈썹… 정말 아름다울 거예요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="MasterLabel_0002" index="1502" sort="Epic">
+
+	<Title>[마스터피스] 하얀 눈의 이야기</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="Ladyblair_01">
+				<s>#un#님, 안녕하세요!</s>
+				<s>정말 눈부시도록 새하얀 의상이네요.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="2">
+		<Body>
+			<Page speaker="Ladyblair_01">
+				<s>마스터 스노우 세트를 모두 모아 오셨으니,</s>
+				<s>제가 이 추위와 어울리는 스노우 얼굴분장을 선물로 드릴게요.</s>
+			</Page>
+			<Page speaker="Ladyblair_01">
+				<s>새하얀 속눈썹… 정말 아름다울 거예요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="MasterLabel_0003" index="1503" sort="Epic">
+
+	<Title>[마스터피스] 빛바랜 기억의 장</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="player">
+				<s>크킄… 흑화한다. 블레어. 강녕하신가?</s>
+            </Page>
+			<Page speaker="Ladyblair_01">
+				<s>#un#님! 옷이 사람을 만드는군요.</s>
+				<s>도대체 당신께 무슨 일이 일어난건지…</s>
+				<s>그래요. 오늘은 무슨 용건이시죠?</s>
+			</Page>
+			<Page speaker="player">
+				<s>내 안의 흑나비가 알려줬지.</s>
+				<s>그대가 블러드 세트의 궁극 아이템을 갖고 있다는 것을…</s>
+				<s>그것을… 어서 나에게…!!</s>
+			</Page>
+			<Page speaker="Ladyblair_01">
+				<s>궁극의 메이크업을 원하신다면!!</s>
+				<s>응당 마스터 블러드 세트를 모두 모아 오셔야지요!!</s>
+			</Page>
+		</Body>
+	<Refuse>
+			<Page speaker="Player">
+				<s>이 몸 가는길 고독함에 메이크업 따위는 사치다!!!</s>
+			</Page>
+			<Page speaker="Ladyblair_01">
+				<s>#un#님…!! 아까는 달라면서요!!</s>
+		    </Page>
+		</Refuse>
+		
+	</Task>
+
+		<Task index="2">
+		<Body>
+			<Page speaker="Ladyblair_01">
+				<s>빨리 정상으로 돌아오면 좋을텐데…</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="MasterLabel_0004" index="1504" sort="Epic">
+
+	<Title>[마스터피스] 빛바랜 기억의 장</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="player">
+				<s>크킄… 흑화한다. 블레어. 강녕하신가?</s>
+            </Page>
+			<Page speaker="Ladyblair_01">
+				<s>#un#님! 옷이 사람을 만드는군요.</s>
+				<s>도대체 당신께 무슨 일이 일어난건지…</s>
+				<s>그래요. 오늘은 무슨 용건이시죠?</s>
+			</Page>
+			<Page speaker="player">
+				<s>내 안의 흑나비가 알려줬지.</s>
+				<s>그대가 블러드 세트의 궁극 아이템을 갖고 있다는 것을…</s>
+				<s>그것을… 어서 나에게…!!</s>
+			</Page>
+			<Page speaker="Ladyblair_01">
+				<s>궁극의 메이크업을 원하신다면!!</s>
+				<s>응당 마스터 블러드 세트를 모두 모아 오셔야지요!!</s>
+			</Page>
+		</Body>
+	<Refuse>
+			<Page speaker="Player">
+				<s>이 몸 가는길 고독함에 메이크업 따위는 사치다!!!</s>
+			</Page>
+			<Page speaker="Ladyblair_01">
+				<s>#un#님…!! 아까는 달라면서요!!</s>
+		    </Page>
+		</Refuse>
+		
+	</Task>
+
+		<Task index="2">
+		<Body>
+			<Page speaker="Ladyblair_01">
+				<s>빨리 정상으로 돌아오면 좋을텐데…</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="MasterLabel_0005" index="1505" sort="Epic">
+
+	<Title>[마스터피스] 백야가 깊어질 때</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="Ladyblair_01">
+				<s>#un#님!</s>
+				<s>오늘도 반짝반짝하는 아름다운 머릿결!! 비단결 같기도 해라.</s>
+            </Page>
+			<Page speaker="player">
+				<s>이제 반짝임도 지겨워요.</s>
+				<s>휴… 빛나는 삶이란 부질없군요.</s>
+				<s>어둠의 다크한 뭐 그런… 새로운 스타일을 해보고 싶은데…</s>
+            </Page>
+			<Page speaker="Ladyblair_01">
+				<s>메이플 월드의 블레어에게 불가능이란 없어요.</s>
+				<s>마땅히 원하는 스타일을 해보셔야지요!</s>
+				<s>어둠의 다크한 밤의 백야 가발을 드리겠어요.</s>
+            </Page>
+		</Body>
+	<Refuse>
+			<Page speaker="Player">
+				<s>거절합니다.</s>
+			</Page>
+			<Page speaker="Ladyblair_01">
+				<s>혼자 있고 싶어요.</s>
+		    </Page>
+		</Refuse>
+
+	</Task>
+
+		<Task index="2">
+		<Body>
+			<Page speaker="Ladyblair_01">
+				<s>백야 헤어를 본뜬 어두운 가발을 드렸어요.</s>
+				<s>멋진 스타일 기대할게요.</s>
+			</Page>
+		</Body>
+	</Task>		
+
+</Quest>
+
+<Quest code="MasterLabel_0006" index="1506" sort="Epic">
+
+	<Title>[마스터피스] 백야가 깊어질 때</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="Ladyblair_01">
+				<s>#un#님!</s>
+				<s>오늘도 반짝반짝하는 아름다운 머릿결!! 비단결 같기도 해라.</s>
+            </Page>
+			<Page speaker="player">
+				<s>이제 반짝임도 지겨워요.</s>
+				<s>휴… 빛나는 삶이란 부질없군요.</s>
+				<s>어둠의 다크한 뭐 그런… 새로운 스타일을 해보고 싶은데…</s>
+            </Page>
+			<Page speaker="Ladyblair_01">
+				<s>메이플 월드의 블레어에게 불가능이란 없어요.</s>
+				<s>마땅히 원하는 스타일을 해보셔야지요!</s>
+				<s>어둠의 다크한 밤의 백야 가발을 드리겠어요.</s>
+            </Page>
+		</Body>
+	<Refuse>
+			<Page speaker="Player">
+				<s>거절합니다.</s>
+			</Page>
+			<Page speaker="Ladyblair_01">
+				<s>혼자 있고 싶어요.</s>
+		    </Page>
+		</Refuse>
+
+	</Task>
+
+		<Task index="2">
+		<Body>
+			<Page speaker="Ladyblair_01">
+				<s>백야 헤어를 본뜬 어두운 가발을 드렸어요.</s>
+				<s>멋진 스타일 기대할게요.</s>
+			</Page>
+		</Body>
+	</Task>		
+
+</Quest>
+
+<Quest code="MasterLabel_0007" index="1507" sort="Epic">
+
+	<Title>[마스터피스] 설아가 저물어 갈 때</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="Ladyblair_01">
+				<s>#un#님!</s>
+				<s>오늘도 반짝반짝하는 아름다운 머릿결!! 비단결 같기도 해라.</s>
+            </Page>
+			<Page speaker="player">
+				<s>이제 반짝임도 지겨워요.</s>
+				<s>휴… 빛나는 삶이란 부질없군요.</s>
+				<s>어둠의 다크한 뭐 그런… 새로운 스타일을 해보고 싶은데…</s>
+            </Page>
+			<Page speaker="Ladyblair_01">
+				<s>메이플 월드의 블레어에게 불가능이란 없어요.</s>
+				<s>마땅히 원하는 스타일을 해보셔야지요!</s>
+				<s>어둠의 다크한 밤의 설아 가발을 드리겠어요.</s>
+            </Page>
+		</Body>
+	<Refuse>
+			<Page speaker="Player">
+				<s>거절합니다.</s>
+			</Page>
+			<Page speaker="Ladyblair_01">
+				<s>혼자 있고 싶어요.</s>
+		    </Page>
+		</Refuse>
+
+	</Task>
+
+		<Task index="2">
+		<Body>
+			<Page speaker="Ladyblair_01">
+				<s>설아 헤어를 본뜬 어두운 가발을 드렸어요.</s>
+				<s>멋진 스타일 기대할게요.</s>
+			</Page>
+		</Body>
+	</Task>		
+
+</Quest>
+
+<Quest code="MasterLabel_0008" index="1508" sort="Epic">
+
+	<Title>[마스터피스] 설아가 저물어 갈 때</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="Ladyblair_01">
+				<s>#un#님!</s>
+				<s>오늘도 반짝반짝하는 아름다운 머릿결!! 비단결 같기도 해라.</s>
+            </Page>
+			<Page speaker="player">
+				<s>이제 반짝임도 지겨워요.</s>
+				<s>휴… 빛나는 삶이란 부질없군요.</s>
+				<s>어둠의 다크한 뭐 그런… 새로운 스타일을 해보고 싶은데…</s>
+            </Page>
+			<Page speaker="Ladyblair_01">
+				<s>메이플 월드의 블레어에게 불가능이란 없어요.</s>
+				<s>마땅히 원하는 스타일을 해보셔야지요!</s>
+				<s>어둠의 다크한 밤의 설아 가발을 드리겠어요.</s>
+            </Page>
+		</Body>
+	<Refuse>
+			<Page speaker="Player">
+				<s>거절합니다.</s>
+			</Page>
+			<Page speaker="Ladyblair_01">
+				<s>혼자 있고 싶어요.</s>
+		    </Page>
+		</Refuse>
+
+	</Task>
+
+		<Task index="2">
+		<Body>
+			<Page speaker="Ladyblair_01">
+				<s>설아 헤어를 본뜬 어두운 가발을 드렸어요.</s>
+				<s>멋진 스타일 기대할게요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="Item_LunaCrystal_0001" index="1509" sort="Epic">
+
+	<Title>[루나 크리스탈] 페어리 하우스로 놀러와</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="NPC_Wisp_01">
+				<s>여행자님 안녕하세요!!</s>
+				<s>아니! 옆에 그 귀여운 요정은 누구인가요!!</s>
+            </Page>
+			<Page speaker="NPC_Wisp_01">
+				<s>달빛의 기운을 받아 태어난 아름다운 아이들이 있다는 얘기는 들어봤자만 제가 직접 보게 될 줄은…!!</s>
+            </Page>
+			<Page speaker="NPC_Wisp_01">
+				<s>#un#님이 아니었다면 저는 이 아이들을 실제로 보지도 못했을걸요!!</s>
+            </Page>
+			<Page speaker="NPC_Wisp_01">
+				<s>안되겠어요, #un#님께서 쁘띠 페어리 세트를 모두 데리고 오시면 제가 선물을 하나 드릴게요!!</s>
+				<s>어떠신가요??</s>
+            </Page>	
+		</Body>
+	<Refuse>
+			<Page speaker="NPC_Wisp_01">
+				<s>으앙, 쁘띠 페어리 세 마리 모두 보고싶었는데!!</s>
+			</Page>
+		</Refuse>
+
+	</Task>
+
+		<Task index="2">
+		<Body>
+			<Page speaker="NPC_Wisp_01">
+				<s>앗, 역시 좋아하실 줄 알았어요!! 기뻐요!!</s>
+            </Page>	
+			<Page speaker="NPC_Wisp_01">
+				<s>와아! 이 친구들이 말로만 듣던 그 쁘띠 페어리 아이들인가요!</s>
+				<s>너무 예뻐요!!</s>
+				<s>#un#님 덕분에 이 아이들도 만나보고… 너무 행복한 순간이네요!!</s>
+            </Page>
+			<Page speaker="NPC_Wisp_01">
+				<s>앗 이렇게 말로만 기뻐할 수는 없죠…</s>
+				<s>어디보자, 제가 쁘띠 페어리들을 만나면 주고 싶어서 준비해둔게 하나 있는데요!!!</s>
+				<s>받아 주시겠어요?</s>
+            </Page>				
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="Item_LunaCrystal_0002" index="1510" sort="Epic">
+
+	<Title>[루나 크리스탈] 멜로디 오브 포니</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="NPC_Wisp_01">
+				<s>여행자님 안녕하세요!! 오랜만에 뵙네요,</s>
+				<s>오늘도 기운이 굉장히 맑으세요!!</s>
+            </Page>
+			<Page speaker="NPC_Wisp_01">
+				<s>아니 여행자님, 세상에 그 친구들은…!!</s>
+				<s>설마… 설마 이 맑은 기운의 정체는…!!!!!!</s>
+            </Page>
+			<Page speaker="NPC_Wisp_01">
+				<s>설마… 전설로만 내려오던 포니 아이들이 맞을까요?</s>
+				<s>지금 정말 두근두근 하는 마음에… 뭐라고 말로 표현해야 할 지 모르겠네요.</s>
+				<s>이렇게 귀엽고 아름다운 생명체가 있을 줄이야…</s>
+				<s>이번에도 #un#님 덕분에 이 아이들까지 만날 수 있게 되었어요.</s>
+            </Page>
+			<Page speaker="NPC_Wisp_01">
+				<s>아름다운 친구들을 봤더니 저의 마음을 주제할 수가 없군요.</s>
+				<s>이번에도 #un#님께서 쁘띠 포니 세트를 모두 데리고 오시면 제가 예쁜 선물을 하나 드릴게요!!</s>
+            </Page>	
+			<Page speaker="NPC_Wisp_01">
+				<s>나중에 포니 친구들을 전부 만나게 되면 주려고 간직해뒀던 것인데,</s>
+				<s>지금이 기회인 것 같아요. 어떠신가요?</s>
+            </Page>			
+		</Body>
+	<Refuse>
+			<Page speaker="NPC_Wisp_01">
+				<s>쁘띠 포니 세 마리… 꼭 보고 싶은데…</s>
+				<s>재고해주실 수는 없을까요?</s>
+				<s>혹 마음이 바뀌신다면 언제든 다시 말을 걸어주세요!</s>				
+			</Page>
+		</Refuse>
+
+	</Task>
+
+		<Task index="2">
+		<Body>
+			<Page speaker="NPC_Wisp_01">
+				<s>쁘띠 포니 아이들을 이렇게 한 자리에서 모두 만나볼 수 있니… 정말 행복해요!</s>
+				<s>이 모든것이 #un#님 덕분이네요.</s>
+				<s>제 행복감을 나눠드리고 싶을 정도로 지금 행복이 넘친답니다!</s>
+            </Page>	
+			<Page speaker="NPC_Wisp_01">
+				<s>아차차, 제가 너무 흥분해서 선물을 잊어버릴 뻔 했네요.</s>
+				<s>제가 이 날을 위해 특별히 만들어둔 오르골이랍니다!</s>
+            </Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="Item_Dominater" index="1511" sort="AllTime">
+
+	<Title>[아카이럼] 비틀린 시간 속의 조각들</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="Sorcerer_01">
+				<s>다이아몬드가 영원을 약속한다고 누가 말했던가? 그건 흔하디 흔한 돌멩이일 뿐.</s>
+				<s>이보다 더 귀중한 것은 비틀린 시간 속에 있으리니…</s>
+            </Page>
+			<Page speaker="Player">
+				<s>비틀린 시간 속에 그렇게 귀중한 것이 있나요?</s>			
+            </Page>
+			<Page speaker="Sorcerer_01">
+				<s>보아하니 너… 아직 비틀린 시간 속을 가보지 못했나 보군.</s>
+			</Page>
+			<Page speaker="Sorcerer_01">
+				<s>비틀린 시간 속엔 검은 마법사의 군단장 아카이럼이 존재하고 있지.</s>
+				<s>내가 말한 귀중한 것, 그것을 만들기 위한 재료를 가지고 있는 자가 바로 아카이럼이야.</s>
+			</Page>
+			<Page speaker="Player">
+				<s>재료만 있으면 그 귀중한 것을 만들 수 있는 건가요?</s>
+				<s>제가 재료를 모아 온다면, 만들어 주실 수 있으신가요?</s>
+			</Page>
+			<Page speaker="Sorcerer_01">
+				<s>재료만 있다면 당장이라도 만들어 줄 수 있지만, 모으기 어려울 거야.</s>
+				<s>태초의 정수 5개, 혼돈의 파편 200개를 모아오는 건 쉽지 않은 일이지만, 도전해 볼 만 하지 않겠어?</s>
+				<s>이 귀중한 힘만 손에 넣는다면, 너는 지금보다 더 강해질 수 있어. 목숨을 걸어야겠지만… 후후.</s>
+            </Page>			
+		</Body>
+	<Refuse>
+			<Page speaker="Sorcerer_01">
+				<s>역시 귀중한 것은 아무나 얻을 수 없지.</s>
+				<s>더 성장하면 그때 다시 나를 찾아오도록.</s>
+			</Page>
+		</Refuse>
+
+	</Task>
+
+		<Task index="2">
+		<Body>
+			<Page speaker="Sorcerer_01">
+				<s>너… 보기보다 제법이군. 이 재료들을 다 모아 왔다는 건… </s>
+				<s>비틀린 시간 속에서 아카이럼을 물리첬다는 말이겠지?</s>
+				<s>보통은 아니군. 약속대로 도미네이터 펜던트를 만들어 주지.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+</root>

@@ -1,0 +1,2168 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+
+
+<Quest code="PinkBean_001" index="5001" sort="Epic">
+
+	<Title>새로운 세계를 탐험해보자!</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>완전 신나! 처음보는 곳이야!</s>
+			</Page>
+			<Page>
+				<s>…진정하자. 재밌게 놀려면 현재 목표를 세워야 더 재미있게 놀 수 있을 거야.</s>
+			</Page>
+            <Page>
+                <s>이럴 때를 대비해서 '시크릿 다이어리’를 만들어 놨지!</s>
+            </Page>
+            <Page>
+                <s>우측의 [ff7b50]시크릿 다이어리[-] 아이콘을 살펴보자! 다이어리에 적힌 목표를 수행하다 보면 뭔가 얻을 수 있을지도 몰라.</s>
+            </Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>그럼, 이제 어디 한번 이 마을을 구경해볼까?</s>
+			</Page>
+		</Body>
+	</Task>
+</Quest>
+
+<Quest code="PinkBean_002" index="5002" sort="Epic">
+
+	<Title>장로님의 말씀</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>이곳 메이플 월드에 적응하기 위해선 여러 사람들을 만나보는게 중요하겠지?</s>
+			</Page>
+			<Page>
+				<s>이번엔 용사 놀이를 해볼까? 이럴 때… 용사는 마을의 장로를 찾아가는 거라고 했어!</s>
+				<s>그래! 마을에서 가장 나이가 많아 보이는 사람을 먼저 찾아가보자!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+            <Page speaker="player">
+                <s>이 사람이 여기선 제일 나이가 많아 보이는데…</s>
+            </Page>
+            <Page speaker="player">
+                <s>안녕하세요! 만나서 반가워요! 이번에 새로 온 핑크빈이라고 해요!</s>
+            </Page>
+			<Page position="Right">
+				<s>(뭐지… 이 뚱뚱한 모험가는…)</s>
+			</Page>
+            <Page position="Right">
+				<s>그래. 예의가 참 바른 모험가로구나. 나는 스탄, 이 마을의 장로지.</s>
+			</Page>
+            <Page speaker="player">
+				<s>아하! 역시 이 마을의 장로는 할아버지셨군요! 어쩐지 가장 늙어 보였어요!</s>
+			</Page>
+            <Page position="Right">
+				<s>뭐… 맞긴 한데… 어째 기분이 좀…</s>
+			</Page>
+		</Body>
+	</Task>
+</Quest>
+
+<Quest code="PinkBean_003" index="5003" sort="Epic">
+
+	<Title>핑크빈의 헤네시스 돕기 대 작전</Title>
+
+	<Task index="1">
+		<Body>
+			<Page position="Right">
+				<s>흠흠, 그래서 자네의 용건은 무엇인가?</s>
+			</Page>
+			<Page speaker="player">
+				<s>(멋진 용사라면 일단 마을의 어려운 일을 도와줘야지. 장로님께 무언가 도울 일이 있는지 물어볼까?)</s>
+			</Page>
+			<Page speaker="player">
+				<s>장로님, 혹시 제가 이곳에서 도울 일이 있을까요?</s>
+			</Page>
+			<Page position="Right">
+				<s>영 믿음직스럽지 못한 모험가인데… 궁수교육원의 [ff7b50]#an#[-]님께서 무언가 바쁜 일이 있으신 듯 했어. 그쪽으로 가봐.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+            <Page>
+                <s>안녕하세요. 처음 보는 얼굴이네요. 새로 오신 모험가 분이신가요?</s>
+            </Page>
+		</Body>
+	</Task>
+</Quest>
+
+<Quest code="PinkBean_004" index="5004" sort="Epic">
+
+	<Title>엘리니아로</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>(이곳에서 도울 일은 다 끝난거 같아. 다른 마을로 한번 여행을 해보고 싶은데… 장로님께 한번 더 찾아가볼까?)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+            <Page>
+                <s>이야기는 들었다네. 헤네시스에서 벌어지고 있던 이상한 일들을 다 해결했다지? 뚱뚱하고 이상하게 생겨서 의심스러웠는데, 아주 믿음직스럽군!</s>
+            </Page>
+			<Page speaker="player">
+                <s>이제 다른 마을로 가보려고 해요. 이 근처의 마을은 어디가 있을까요?</s>
+            </Page>
+			<Page>
+				<s>음… 엘리니아로 가보게. 그곳에는 대마법사 하인즈님도 있으니 앞으로의 여행길을 정하는 데에 좀더 수월할거야.</s>
+				<s></s>
+				<s>[2acfff]수락하면, 엘리니아로 이동합니다.[-]</s>
+			</Page>
+		</Body>
+		
+		<Refuse>
+			<Page>
+				<s>뭐야, 아직 가고 싶지 않은가?</s>
+			</Page>
+		</Refuse>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page speaker="player">
+				<s>(여기가 엘리니아구나! 하인즈라는 분은 어디 계시지?)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(무작정 돌아다니면 길을 잃어버릴지도 몰라. 저기 계신 분께 도움을 청하자!)</s>
+			</Page>
+			<Page speaker="player">
+				<s>안녕하세요! 길 좀 물을게요!</s>
+			</Page>
+			<Page>
+				<s>(이상하게 생긴 모험가네…)</s>
+			</Page>
+			<Page>
+				<s>무슨 일이시죠?</s>
+			</Page>
+		</Body>
+	</Task>
+</Quest>
+
+<Quest code="PinkBean_005" index="5005" sort="Epic">
+
+	<Title>대마법사 하인즈</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>하인즈님은 [ff7b50]마법도서관[-]에 계실거에요. 그 쪽으로 찾아가 보세요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>감사합니다!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+            <Page speaker="player">
+                <s>(엇! 한눈에 봐도 대마법사라는 분위기를 풍기는 영감님이다! 이분이 하인즈님이겠지?)</s>
+            </Page>
+			<Page speaker="player">
+                <s>안녕하세요! 이번에 새로 온 모험가 #un#이라고 해요!</s>
+            </Page>
+			<Page>
+                <s>평범한 사람의 눈은 속였겠지만 내 눈은 속일 수 없지. 거기 멈추게.</s>
+            </Page>
+		</Body>
+	</Task>
+</Quest>
+
+<Quest code="PinkBean_006" index="5006" sort="Epic">
+
+	<Title>하인즈의 의심</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>자네는 모험가는 커녕 메이플 월드의 사람 조차 아니군. 자네에게서 이계의 사악한 기운이 느껴지고 있어. 마치 몬스터와 비슷한…</s>
+			</Page>
+			<Page speaker="player">
+				<s>(어라? 이게 아닌데… 무언가 해명을 하는 편이 좋겠다.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+                <s>다른 곳에서 온 건 맞지만, 결코 메이플 월드를 파괴하러 온 건 아니에요. 전 그냥… 원래 살던 곳이 너무 심심해서 온 것뿐이에요.</s>
+            </Page>
+			<Page>
+                <s>오히려 이곳의 사람들을 도와주고 싶어요. 여기서 멋있는 용사님처럼 노는 게 더 재밌을 것 같은걸요!</s>
+            </Page>
+			<Page speaker="hynze_01">
+                <s>거짓말을 하는 것 같지는 않군… 자네에게서 느껴지는 힘도 미미하고 말이야.</s>
+            </Page>
+			<Page speaker="hynze_01">
+                <s>사람들을 돕고 싶다라… 그렇다면, 곤란에 처한 이곳 주민들에게 도움을 주지 않겠나? 자네를 믿을지 말지는 그 이후에 결정하도록 하겠네.</s>
+            </Page> 
+		</Body>
+	</Task>
+</Quest>
+
+<Quest code="PinkBean_007" index="5007" sort="Epic">
+
+	<Title>인정, 신뢰</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>소식은 들었네. 어려운 사람들을 제대로 도왔다는 것 같더군. 자네를 믿어보도록 하겠네.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+                <s>제 진심이 전해져서 다행이에요. 이곳에 있는 동안은 메이플 월드의 사람들과 싸우고 싶지 않은걸요! </s>
+            </Page>
+			<Page speaker="hynze_01">
+                <s>자네를 신뢰하기로 했으니 다시 한번 내 소개를 하지. 나는 메이플 월드의 대마법사, 하인즈라네.</s>
+            </Page>
+		</Body>
+	</Task>
+</Quest>
+
+<Quest code="PinkBean_008" index="5008" sort="Epic">
+	
+	<Title>하인즈의 조언 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>자네가 느껴지는 기운과는 달리 메이플 월드를 해치지는 않겠다는 걸 알겠네.</s>
+			</Page>
+			<Page>
+				<s>하지만 자네를 의심할 사람은 앞으로도 계속 나올 거라네. 그때마다 자신의 결백을 증명하려면, 메이플 월드의 용사로서 끊임없이 모험하고 싸워나가야 할걸세.</s>
+			</Page>
+			<Page>
+				<s>모험하다가 궁금한 것이 있다면 언제든지 날 찾아오게나. 도움을 줄 테니.</s>
+			</Page>
+			<Page speaker="player">
+				<s>감사합니다, 하인즈님!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+                <s>(하인즈님께서 도와주신다니 다행이야. 앞으로도 메이플 월드를 여행할 수 있겠어.)</s>
+            </Page>
+			<Page>
+                <s>(그리고 내 생각보다 용사 놀이는 더더욱 재밌는 것 같아. 이렇게 재밌는 걸 모험가들만 했다니!)</s>
+            </Page>
+			<Page>
+                <s>(여기에 있는 동안은 계속 메이플 월드의 사람들을 도우고, 나쁜 사람들을 혼내주고 다니자. 색다른 재미가 쏠쏠해!)</s>
+            </Page>
+		</Body>
+	</Task>
+</Quest>
+
+<Quest code="PinkBean_009" index="5009" sort="Epic">
+
+	<Title>커닝시티의 정보원</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="player">
+				<s>이전에 들렀던 마을에서 메이플 월드의 몬스터들이 공격적으로 변했다고 들었어요. 하인즈님, 혹시 이 문제를 조사할 방법이 없을까요?</s>
+			</Page>
+			<Page>
+				<s>커닝시티로 가보는 것은 어떤가? 그곳은 온갖 소문이 모이는 도적의 마을이지. 거기 사람들과 어울리면 항간에 떠도는 여러 가지 이야기를 들을 수 있을 걸세.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>커닝시티 방문</ActiveMemo>
+		<ActiveSummary>커닝시티에서 #ac#과 대화하세요.</ActiveSummary>
+		<Body>
+			<Page>
+				<s>낯선 얼굴이군. 커닝시티에 새로 온 녀석인가? 도적의 마을에 온 걸 환영하네. 어리바리하게 굴면 눈 뜨고 코 베이는 곳이니 항상 경계를 게을리하지 않는 게 좋을 거야. 킥킥.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="PinkBean_010" index="5010" sort="Epic">
+
+	<Title>홍아의 추리</Title>
+
+	<Task index="1">
+		<Body>
+			<Page position="Right">
+				<s>촉을 세우니 집요할 정도로 따라 붙는 묘한 시선이 느껴지는군. 내 예상이 맞다면, [ff7b50]블랙윙[-]은 지금 이 근처에서 우리를 살피고 있어. 집중해서 [ff7b50]이 주변을 탐색[-]해 보자!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>주변 탐색</ActiveMemo>
+		<ActiveSummary>#ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page>
+				<s>우왁! 들켰다!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="PinkBean_011" index="5011" sort="Epic">
+
+	<Title>블랙윙의 인형술사</Title>
+
+	<Task index="1">
+		<PassiveSummary>2호선 3구간에서 #p_0# #pc_0#마리, #p_1# #pc_1#마리를 사냥하세요.</PassiveSummary>
+		<Body>
+			<Page>
+				<s>여기까지 쫓아오다니… 정말 끈질기군!</s>
+			</Page>
+			<Page speaker="Honga_07" position="Right">
+				<s>드디어 찾았다! 블랙윙의 인형술사!</s>
+			</Page>
+			<Page speaker="Honga_07" position="Right">
+				<s>저 놈은 [ff7b50]블랙윙의 간부[-]야. 인정사정 봐주지 말고 이 자리에서 끝장내자!!!</s>
+			</Page>
+			<Page>
+				<s>흥! 내가 순순히 당할 줄 알고? [ff7b50]#p_0#[-], [ff7b50]#p_1#[-]! 인형의 목소리에 복종하여 저들을 막아라!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>으윽… 어떻게 이렇게 강한거지?</s>
+			</Page>
+			<Page speaker="player">
+				<s>대답해! 너희에게 지시하는 자가 누구냐!</s>
+			</Page>
+			<Page>
+				<s>그건 바로… 세상에서 가장 귀엽고 사랑스럽고 위대한 나의 군단장님이지!</s>
+			</Page>
+			<Page speaker="player">
+				<s>악당 주제에 나보다 사랑스러울 리가 없잖아! 헛소리 마라!</s>
+			</Page>
+			<Page>
+				<s>무슨 소리를 하는 거야!! 우리 [ff7b50]오르카[-]님을 모독하지 마!</s>
+			</Page>
+			<Page speaker="player">
+				<s>오르카가 블랙윙의 사주인가? 오르카는 어디 있지?</s>
+			</Page>
+			<Page>
+				<s>그, 그건… 난 말 못 해!</s>
+			</Page>
+			<Page speaker="Honga_07" position="Right">
+				<s>아직도 정신을 덜 차린 모양이군. 한 번 더 혼쭐이 나봐야 순순히 말할 테냐?</s>
+			</Page>
+			<Page>
+				<s>으윽… 이대론 안되겠다. 후퇴다!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page speaker="Honga_07" position="Right">
+				<s>이런! 녀석을 놓치고 말았잖아. 도망치는 것 하나는 선수급이군.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="PinkBean_012" index="5012" sort="Epic">
+
+	<Title>또 다른 블랙윙</Title>
+
+	<Task index="1">
+		<Body>
+			<Page position="Right">
+				<s>인형술사는 벌써 이 도시를 떠난 것 같아. 다시 쫓으려면 정보를 모아야 하는데 그게 얼마나 걸릴지 지금으로선 확신할 수가 없군…</s>
+			</Page>
+			<Page position="Right">
+				<s>하는 수 없지. 아껴둔 정보를 푸는 수밖에… 실은 나에게 또 다른 블랙윙 멤버에 대한 정보가 있거든. 그 자라도 찾아볼 테야?</s>
+			</Page>
+			<Page position="Right">
+				<s>그럼 플로리다 비치에 정박한 [ff7b50]노틸러스 호[-]로 가 봐. 얼마 전에 그 배에 블랙윙이 잠입했다는 정보를 입수했거든. 확실한 정보니까 믿어도 좋아.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>노틸러스 호 방문</ActiveMemo>
+		<ActiveSummary>노틸러스 선착장에서 #ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page>
+				<s>이를 어쩌지! 배가 점점 가라앉고 있어!</s>
+			</Page>	
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_013" index="5013" sort="Epic">
+
+	<Title>부활한 영웅 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>이봐, 소문 들었어? [ff7b50]부활한 영웅[-]이 이 페리온에 찾아왔다는 소문 말이야! 페리온 산꼭대기에 박혀 있는 누구도 뽑을 수 없는 전설의 검을 뽑으러 왔다고 하네.</s>
+			</Page>
+			<Page>
+				<s>그렇다면 그는 [ff7b50]와일드보어의 땅[-]을 지나갈 터. 그를 만나서 검을 뽑았는지 물어보게! 방해하는 [ff7b50]#p_1#[-] 따위는 그냥 해치워버리라고!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>와일드보어의 땅에는 영웅이 없었다고?</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="PinkBean_014" index="5014" sort="Epic">
+
+	<Title>부활한 영웅 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>그럼 그 영웅은 [ff7b50]야생돼지의 땅[-]으로 갔나? 다시 한 번 확인해 줘! [ff7b50]#p_0#[-]가 방해하거든 녀석 따위는 그저 지그시 밟아주라고!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page speaker="player">
+				<s>앗, 저 사람이 영웅인가?</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="PinkBean_015" index="5015" sort="Epic">
+
+	<Title>영웅의 행방</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="player">
+				<s>당신이 영웅인가요?</s>
+			</Page>
+			<Page>
+				<s>…훗, 내 소문이 벌써 이렇게나 퍼진 건가. 그렇다. 내가 바로 영웅이다. 그런데 무슨 일이지?</s>
+			</Page>
+			<Page speaker="player">
+				<s>페리온 마을의 돼지와 함께 춤을님이 영웅이 산꼭대기에 있는 전설의 검을 뽑았는지 궁금하다며 확인해 달라고 했거든요.</s>
+			</Page>
+			<Page>
+				<s>아, 그 불타버린 검 말이군. 그 검은 아직 그 자리에 박혀 있다. 하지만 조만간 내 손에 뽑힐 테지. 후후…</s>
+			</Page>
+			<Page speaker="player">
+				<s>오오, 역시 영웅이군요!</s>
+			</Page>
+			<Page>
+				<s>뭐, 아무렴 그렇지. 그럼 난 이만 검을 보러 가야겠다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>뭐? 영웅이 조만간 그 검을 뽑을 예정이라고? 소문이 사실이었군! 나도 뽑지 못한 검을 뽑겠다고 당당히 선언하다니… 위용이 대단하군!</s>
+			</Page>
+			<Page>
+				<s>그렇다면 영웅님의 실력이 얼마나 대단한지 한 번 볼까? 이봐, 그 자는 검은 마법사를 봉인했던 5명의 영웅 중 누구였어?</s>
+			</Page>
+			<Page speaker="player">
+				<s>네? 그건 잘 모르겠는데…</s>
+			</Page>
+			<Page>
+				<s>뭐야, 영웅의 이름도 물어보지 않았단 말이야? 그러면 그 자의 용모는 어땠지?</s>
+			</Page>
+			<Page speaker="player">
+				<s>몰라요. 망토의 후드를 깊이 눌러쓰고 있어서 얼굴이 잘 보이지 않았으니까.</s>
+			</Page>
+			<Page>
+				<s>쳇, 뭐야, 제대로 아는 게 없잖아? 하지만 누군지 대강 알 것 같아. 아마도 폴암의 영웅 [ff7b50]아란[-]일 테지. 영웅들 중에 검을 사용할 만한 사람은 그녀뿐이니까.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(그녀…라고? 내가 만난 사람은 남자였는데……)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="PinkBean_016" index="5016" sort="Epic">
+
+	<Title>의뢰인의 정체</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>놀라지 마세요! 제게 이 물건을 의뢰한 사람은 오래 전에 검은 마법사를 봉인했던 부활한 영웅이에요! 그분께 이 물건을 전해주시겠어요? [ff7b50]야생돼지의 땅[-]에서 기다리고 계신다고 했거든요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>오, 또 만났군? 연금술사의 심부름이라고? 그래, 소멸의 화염! 아주 중요한 임무를 성공하기 위해 이 물건이 필요했거든.</s>
+			</Page>
+			<Page speaker="player">
+				<s>……당신이 폴암의 영웅 아란인가요? 아란이 영웅 중에 그 검을 뽑을 수 있는 유일한 사람이라고 들었거든요.</s>
+			</Page>
+			<Page>
+				<s>허허, 내 정체를 눈치챘구나! 맞아, 내가 바로 아란이야.</s>
+			</Page>
+			<Page speaker="player">
+				<s>……거짓말! 아란은 여자라고요!</s>
+			</Page>
+			<Page>
+				<s>쳇, 들켰나.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="PinkBean_017" index="5017" sort="Epic">
+
+	<Title>영웅을 사칭하는 자</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="player">
+				<s>넌 누구지? 어째서 거짓 영웅 행세를 하는 거냐!</s>
+			</Page>
+			<Page>
+				<s>이크, 잘 속였다고 생각했는데 벌써 들켰나? 하는 수 없지.</s>
+			</Page>
+			<Page>
+				<s>내 이름은 밝힐 수 없지만, 소속은 말해주지. 난 블랙윙이다. 사사건건 우리를 방해하는 영웅들이 괘씸해 그 유명세를 이용해 악명을 떨치게 해주려 했지. 크흐흐.</s>
+			</Page>
+			<Page>
+				<s>뭐, 원하는 물건이 손에 들어왔으니 이제 네게 볼일은 없다. 그럼 이만!</s>
+			</Page>
+			<Page speaker="player">
+				<s>!!!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>아, 물건은 잘 전해주셨나요? 네? 그 자는 사기꾼이라고요?</s>
+			</Page>
+			<Page>
+				<s>이럴 수가… 전 그것도 모르고 위험한 물건을 만들어주고 말았어요…</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_018" index="5018" sort="Epic">
+
+	<Title>탁월한 정보수집가</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>이번에도 블랙윙을 추적할 거야? 그렇다면 밑바닥부터 정보를 하나씩 모으는 것보다 이 도시를 주름잡고 있는 [ff7b50]#an#[-]님의 도움을 받는 게 훨씬 나을 거야. 그분은 여전히 [ff7b50]재즈바[-]에 계시니, 가서 만나 보라고!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>#un#, 오랜만이군. 블랙윙을 찾기 위해 나를 찾아왔는가? 후후, 너무 놀라지 말게. 이쯤이야 도적의 정보력으론 식은 죽 먹기이니…</s>
+			</Page>
+			<Page>
+				<s>그들을 찾기 위해 이 지역을 뒤지는 건 비효율적이네. 이 마을엔 정보원들이 많으니까 그들의 정보력을 이용하세. 마을의 최신 정보를 모아서 블랙윙과 관련된 단서만 추려서 조사하는 거지.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_019" index="5019" sort="Epic">
+
+	<Title>탄로 나는 정체</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>자, 이걸 받으세요. #un#님의 도움을 받아 재생시킨 [ff7b50]#pr_0#[-]이에요!</s>
+			</Page>
+			<Page>
+				<s>이걸 [ff7b50]유적발굴단 천막[-] 안에 계신 [ff7b50]#an#[-] 박사님께 전해주세요. 그분이 #un#님을 도와 변신술사의 정체를 밝히겠다고 하셨거든요.</s>
+			</Page>
+			<Page>
+				<s>변신술사로 추정되는 인물을 천막 안으로 유인했다고 하니, 어서 들어가 보세요.</s>
+				<s></s>
+				<s>[2acfff]수락하면, 유적발굴단 천막으로 이동합니다.[-]</s>
+			</Page>
+		</Body>
+	
+		<Refuse>
+			<Page>
+				<s>늑장을 부리면 변신술사가 낌새를 알아차리고 도망갈지도 몰라요!</s>
+			</Page>
+		</Refuse>
+	</Task>
+
+	<Task index="2">
+		<ActiveSummary>#ac#과 대화하세요.</ActiveSummary>
+		<Body>
+			<Page speaker="player" position="Left">
+				<s>(앗, 저 사람은 전에 만났던 발굴단원! 그렇다면 박사님이 변신술사로 의심하고 있는 사람이 바로 누리스님인가?)</s>
+			</Page>
+			<Page>
+				<s>#an#, 자네가 말한 대로 군영을 탐색해 봤지만 루비안을 찾지 못했네.</s>
+			</Page>
+			<Page speaker="Nuris_02" position="Right">
+				<s>그럴 리가요. 제가 분명히 봤습니다. 루비안은 그곳에 떨어졌어요.</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>(응? 박사님이 내게 몰래 손짓을 하시는 것 같은데…?)</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>(아… 대화로 저 자의 관심을 끄는 사이에 몰래 부적을 붙이라는 뜻이구나! 좋았어, 실수하지 않게 조심해서 접근하자!)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="3">
+		<ActiveMemo>#ac#에게 접근</ActiveMemo>
+		<ActiveSummary>#ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page position="Right">
+				<s>어… 엇! 자, 자네가 이 천막에는 어쩐 일인가?</s>
+			</Page>
+			<Page speaker="Winston_03">
+				<s>#un#, 성공했는가?</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>네, 박사님 덕분에 눈치채지 못하게 ‘그걸’ 붙였습니다!</s>
+			</Page>
+			<Page speaker="Winston_03">
+				<s>그렇다면 더 이상 거짓 놀음에 장단을 맞출 필요가 없겠군.</s>
+			</Page>
+			<Page speaker="Winston_03">
+				<s>여보게, 자네, 진짜 #ac#는 어디 있는가?</s>
+			</Page>
+			<Page position="Right">
+				<s>???</s>
+				<s>무, 무슨 말씀을 하시는 건지…</s>
+			</Page>
+			<Page speaker="Winston_03">
+				<s>루비안은 매우 위험한 보석이야. 그래서 난 발굴단원들에게 그것을 보여준 적이 없지. 그런데 자네는 그 보석이 군영에 있다고 말했어. 설령 그게 진짜라고 하더라도, 누리스는 그게 루비안이라는 걸 알 턱이 없단 말일세.</s>
+			</Page>
+			<Page position="Right">
+				<s>…젠장, 들통났나. 변신술로 에레고스를 소환하여 추적자들을 처치하려고 했더니 실패했군. 이렇게 되면 어쩔 수 없지.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<ActiveSummary>#ac#와 대화하세요</ActiveSummary>
+		<Body>
+			<Page speaker="player" position="Left">
+				<s>드디어 정체를 드러냈군. 변신술사! 날 골탕 먹인 대가를 치를 준비는 되었겠지?</s>
+			</Page>
+			<Page position="Right">
+				<s>킥킥킥… 큰소리도 적당히 해두라고. 지금부터 변신술로 진짜 공포를 맛보게 해줄 테니!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="5">
+		<ActiveSummary>#ac#와 대화하세요</ActiveSummary>
+		<PassiveMemo offset="0">#p_0#과 전투</PassiveMemo>
+		<PassiveMemo offset="1">#p_1#과 전투</PassiveMemo>
+		<PassiveMemo offset="2">#p_2#와 전투</PassiveMemo>
+		<PassiveSummary>#p_0# #pc_0#명, #p_1# #pc_1#명, 부기로 변한 바로크를 쓰러뜨리세요.</PassiveSummary>
+		<Body>
+			<Page speaker="player" position="Left">
+				<s>!!!</s>
+			</Page>
+			<Page position="Right">
+				<s>…어, 어라? 왜 이러지? 변신술이 통제가 안 돼! 에레고스로 변신하려고 했는데 #p_2#라니!</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>(오오, 혼돈의 부적이 먹혔나 보군!)</s>
+			</Page>
+			<Page position="Right">
+				<s>으아악! 젠장, 하는 수 없지! 저런 애송이한테는 [ff7b50]#p_2#[-]도 벅찰 테니, 그냥 돌진이다!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="6">
+		<ActiveSummary>#ac#와 대화하세요</ActiveSummary>
+		<Body>
+			<Page position="Right">
+				<s>으, 으윽! 애송이 주제에 감히 나를… 변신술만 제대로 됐어도 이런 굴욕은 없었을 텐데…</s>
+			</Page>
+			<Page position="Right">
+				<s>다 끝났다고 생각하지 마라. 머지않아 복수할 테니!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="7">
+		<Body>
+			<Page speaker="player" position="Left">
+				<s>(앗, 사라졌다! 도망친 건가?)</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>(쳇, 놓쳤군. 이제 그만 천막 밖으로 나가자.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_020" index="5020" sort="Epic">
+
+	<Title>꿈 조종자의 초대</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>여기까지 오는 동안 검은 그림자 무리가 보이지 않은 걸 보면, 그 일당은 여기 어딘가에 있을 거야. 흩어져서 찾아보자!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>#ac# 확인</ActiveMemo>
+		<Body>
+			<Page speaker="player">
+				<s>(어라, 이 석상… 낯이 익은데? 특히 이 [ff7b50]나비[-] 모양의 조각을 어디선가 본 것 같아.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(좀 더 가까이 가서 살펴 볼까?)</s>
+				<s></s>
+				<s>[2acfff]수락하면, 꿈의 무덤으로 이동합니다.[-]</s>
+			</Page>
+		</Body>
+		
+		<Refuse>
+			<Page speaker="player">
+				<s>그런데 조금 전까지만 해도 여기에 석상이 없었던 것 같은데... 이상하군.</s>
+			</Page>
+		</Refuse>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page>
+				<s>앗! 어떻게 된 거지? 나비를 만졌더니, 어딘가로 끌려들어 온 것 같아…</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<Body>
+			<Page>
+				<s>당신이군요. 여태까지 훼방을 놓던 이계의 방해꾼이.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(내가 메이플 월드의 모험가가 아니란 걸 알고 있잖아?!)</s>
+			</Page>
+			<Page>
+				<s>결국 여기까지 오셨네요. 어서 와요, 꿈의 무덤에…</s>
+			</Page>
+			<Page>
+				<s>제 이름은 #ac#. 그분의 충실한 종, 즉 군단장이랍니다. 당신을 이 무대로 초대하기 위해 미리 저주를 걸어두었는데, 드디어 발동이 되었군요. 후후.</s>
+			</Page>
+			<Page>
+				<s>그럼 술래가 도착했으니, [ff7b50]놀이[-]를 시작할게요! 이제부터 무척 즐거워질 거예요. 후후후…</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="5">
+		<Body>
+			<Page speaker="Lucid_10">
+				<s>제법이군요. 후훗.</s>
+			</Page>
+			<Page>
+				<s>(루시드의 목소리! 숨어서 지켜보고 있었던 건가?)</s>
+			</Page>
+			<Page>
+				<s>어디냐? 당장 모습을 드러내라!</s>
+			</Page>
+			<Page speaker="Lucid_10">
+				<s>그렇게 성급하게 굴 필요 없어요. 놀이에서 이긴 술래에겐 마땅히 [ff7b50]상[-]을 줄 테니까… 후후.</s>
+			</Page>
+			<Page speaker="Lucid_10">
+				<s>하지만 다음 승부에선 결코 이기지 못할 거예요. 더 살벌하고 짜릿한 무대를 준비할 테니까요. 기대해도 좋답니다. 그럼 또 만나요. 안녕!</s>
+			</Page>
+			<Page>
+				<s>(어? 기척이 사라졌다. 루시드가 떠난 건가?)</s>
+			</Page>
+			<Page>
+				<s>(아아… 갑자기 정신이 아득해지는걸…)</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="6">
+		<Body>
+			<Page position="Right">
+				<s>오, 드디어 눈을 떴다!</s>
+			</Page>
+			<Page position="Right">
+				<s>#un#, 정신이 들어?</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>……?</s>
+			</Page>
+			<Page position="Right">
+				<s>이제야 잠에서 깬 모양이군.</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>제가 또 잠들었나요?</s>
+			</Page>
+			<Page position="Right">
+				<s>응. 마치 기면증에 걸린 것처럼 픽 쓰러졌었어. 그대로 영원히 깨어나지 못할 것 같았는데, 다시 눈을 떠서 정말 다행이야!</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>(가만… 혹시 루시드가 주겠다는 상이 날 현실로 돌려보내주는 거였나? 만약 놀이에서 졌다면 영원히 깨어나지 못했을지도 몰라.)</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>(그렇다면 내가 경험한 건… 꿈? 아니면 현실?)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_021" index="5021" sort="Epic">
+
+	<Title>하인즈의 조언 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>(그녀는 나에게 경고를 하러 온걸까? 왠지 불길해. 하지만 그렇다고 원래 있던 곳으로 돌아갈 때까지 잠자코 있는 것도 하고싶지 않아…)</s>
+			</Page>
+			<Page>
+				<s>(이럴 때 내 원래 힘을 가져올 수 있다면 좋을텐데… 방법이 없을까? 하인즈님께 우선 물어보는 것이 좋겠어.)</s>
+			</Page>
+			<Page>
+				<s>저는 이만 다른 곳으로 가보도록 할게요. 지금까지 도와줘서 고마웠어요!</s>
+			</Page>
+			<Page speaker="Mike_05" position="Right">
+				<s>그럼 여기서 헤어지도록 하지. 조심히 돌아가! 여기서 슬리피우드를 빠져나가는 것도 꽤나 쉽지 않은 일일 테니…</s>
+			</Page>
+			<Page>
+				<s>(이제 그럼 마법도서관으로 돌아가볼까?)</s>
+				<s></s>
+				<s>[2acfff]수락하면, 마법도서관으로 이동합니다.[-]</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>오랜만이네. 그 동안 많은 일이 있었던 모양이군.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_022" index="5022" sort="Epic">
+
+	<Title>오르비스의 점술가</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>꿈과 현실의 경계에서 군단장의 경고를 들었고, 이를 위해 원래 있던 힘을 되찾고싶다라… 하지만 안타깝게도 이계에 있는 힘을 다시 가져올 수 있는 방법은 모르겠군.</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]오르비스[-]의 [ff7b50]스피루나[-]님을 찾아가게. 그분은 일전의 에레브 습격을 예언하실 만큼 용한 점술가분이시지. 그분이라면 자네가 힘을 되찾아오는 미래를 예견해 주실 수 있을지도 모르네.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>오르비스 방문</ActiveMemo>
+		<ActiveSummary>노파의 집에서 #ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page speaker="player">
+				<s>안녕하세요. 여기가 스피루나님의 점술집인가요?</s>
+			</Page>
+			<Page>
+				<s>어서 오세요. 저는 스피루나님의 조수인 헬라라고 해요. 무슨 일이시죠?</s>
+			</Page>
+			<Page speaker="player">
+				<s>스피루나님을 만나 뵙고 싶어서 왔는데요.</s>
+			</Page>
+			<Page>
+				<s>이런, 어쩌죠? 스승님께서 출타 중이셔서 오늘은 영업을 하지 않아요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_023" index="5023" sort="Epic">
+
+	<Title>스피루나의 점술</Title>
+
+	<Task index="1">
+		<Portrait>Spiruna_02</Portrait>
+		<Body>
+			<Page speaker="Spiruna_02">
+				<s>검은 구슬이 복원되었어. 점을 보고 싶다면 내 한 번 봐주지.</s>
+			</Page>
+			<Page speaker="Spiruna_02">
+				<s>지금부터 의식을 거행할 테니, 끝날 때까지 숨소리도 내지 말고 조용히 있게.</s>
+			</Page>
+			<Page speaker="Spiruna_02">
+				<s>…영혼과 무한을 넘나드는 모든 힘의 근원이여, 지금 여기에 당신의 힘을 부여하니…</s>
+			</Page>
+			<Page speaker="Spiruna_02">
+				<s>대기의 정적을 깨뜨리는 외마디 비명처럼… 괴수를 단숨에 베어버리는 용사의 칼날처럼… 암흑을 가르는 한 줄기 빛처럼… 감추어진 진실을 선명히 드러내소서… 웅얼웅얼…</s>
+			</Page>
+			<Page speaker="Spiruna_02">
+				<s>……?</s>
+			</Page>
+			<Page speaker="Spiruna_02">
+				<s>자네… 자네는 평범한 사람이 아니군. 이세계에서 온 알 수 없는 존재…</s>
+			</Page>
+			<Page speaker="Spiruna_02">
+				<s>당신의 운명은 도무지 보이지가 않는군. 안타깝게도 당신의 힘을 되찾아올 수 있는 방법은 보이지가 않소. 다만, 머지않아 험난한 일들이 닥칠 거라는 것만은 말해두겠소.</s>
+			</Page>
+			<Page speaker="player">
+				<s>험난한 일들…?</s>
+			</Page>
+			<Page speaker="Spiruna_02">
+				<s>더 이상은 나도 모르오. 그저 당신 스스로 힘을 기르라는 당부의 말을 하는 수밖에. 그나저나 돌아가기 전에 마지막으로 내 일 하나만 거들어주지 않겠소? 상담에 대한 복채를 내는 셈치고 말이오.</s>
+			</Page>
+			<Page speaker="Spiruna_02">
+				<s>그리 어려운 일은 아니라오. [ff7b50]오르비스 탑 20층[-]에 있는 [ff7b50]#an#[-]의 소원을 하나 들어주라는 것뿐이니까!</s>
+			</Page>
+			<Page speaker="Spiruna_02">
+				<s>지금까지 그 영감이 날 위해 여러 모로 수고를 해줬잖소? 그래서 사례를 하고 싶은데, 늙은 나보단 당신이 해줄 수 있는 게 더 많을 테지. 그러니 부탁하는 거요!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveSummary>오르비스 탑 20층에서 #ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page>
+				<s>설마 또 그 점술가의 심부름인가? 으아, 그 망할 할멈! 나 좀 그만 부려먹으라고 하게!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_024" index="5024" sort="Epic">
+
+	<Title>오르비스 여행의 끝</Title>
+
+	<Task index="1">
+		<Portrait>Spiruna_02</Portrait>
+		<Body>
+			<Page speaker="Spiruna_02">
+				<s>자, 볼일이 없으면 이제 그만 가보시오. 나도 손님을 받아야 먹고 살게 아니오?</s>
+			</Page>
+			<Page speaker="player">
+				<s>(오르비스 여행도 여기까지인 것 같군. 특별한 정보는 얻을 수 없었다고 하인즈님께 말씀드리자.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveSummary>마법도서관에서 #ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page>
+				<s>어서 오시게. 어디, 원하는 정보는 찾을 수 있었는가?</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_025" index="5025" sort="Epic">
+
+	<Title>하인즈의 조언 3</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>음, 표정을 보아하니 이번에도 큰 수확은 없었나 보군. 그럼 엘나스에 가보는 건 어떤가?</s>
+			</Page>
+			<Page>
+				<s>그곳에는 대마법사 알케스터가 있지. 그라면 자네의 힘을 되찾아 올 방법을 알지도 모르네.</s>
+				<s></s>	
+				<s>[2acfff]수락하면, 엘나스로 이동합니다.[-]</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>엘나스 방문</ActiveMemo>
+		<ActiveSummary>엘나스에서 #ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page>
+				<s>낯선 얼굴이군. 이 마을은 처음인가? 이래봬도 사냥꾼이라 눈썰미가 좋거든. 비록 안대를 하고 있지만 한쪽 눈만으로도 충분해.</s>
+			</Page>
+			<Page>
+				<s>뭐? 알케스터님을 찾는다고? 이걸 어쩌나. 그분은 지금 마을에 안 계셔!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_026" index="5026" sort="Epic">
+
+	<Title>『고대의 책』 해독</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>이, 이, 이럴 수가… 저주를 풀어도 책을 읽을 수 없어. 어째서…?</s>
+			</Page>
+			<Page>
+				<s>아… 이건, 설마… 그럴 리가… 말도 안 돼! 크아아아아아!!!!</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]알케스터가 나처럼 이 책에 저주를 걸었어![-] 그래서 내가 저주를 풀어도 그의 저주 때문에 이 책을 해독할 수 없는 거야!</s>
+			</Page>
+			<Page>
+				<s>그 교활한 녀석은 내가 저주를 풀면 이 책을 절대 내놓지 않을 거란 걸 눈치챈 거지. 크으으… 이 비참한 운명에서 벗어날 수 있는 기회였는데, 또 당하다니… 분하다!!!</s>
+			</Page>
+			<Page>
+				<s>꼴도 보기 싫으니까 이 [ff7b50]『#pr_0#』[-]을 내 앞에서 치워버려! 이걸 [ff7b50]#an#[-]에게 가져가든지 말든지 맘대로 하라고! 이제 이 책을 읽으려면 내가 아니라 그 녀석의 힘이 필요하니까!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>샤모스의 절망이 이 관저에 울리는군. 나도 그를 동정하네. 하지만 어쩔 수 없어. 그 자가 다시 『고대의 책』을 읽으면 세계를 위협하게 될 거야. 그리고 그나마 남아있던 손바닥만한 인간성마저 잃게 되겠지.</s>
+			</Page>
+			<Page>
+				<s>그럼 잠시만 기다려주겠나? 지금 바로 『고대의 책』에 걸린 저주를 풀겠네. 샤모스도 그랬지만, 내 것도 저주를 건 자만이 풀 수 있는 술법이거든.</s>
+			</Page>
+			<Page>
+				<s>웅얼웅얼웅얼……</s>
+			</Page>
+			<Page>
+				<s>……음, 다 되었네! 이제 『고대의 책』을 읽을 수 있어! 그럼 보답의 의미로 날 도와준 자네를 위해서 쓸만한 정보가 없는지 먼저 살펴보도록 하지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(진리를 추구한 끝에 인간성을 잃어버리고 만 샤모스… 이대로 언젠가 이곳을 떠날 나 때문에 알케스터님이 샤모스처럼 타락한다면…)</s>
+			</Page>
+			<Page speaker="player">
+				<s>……알케스터님, 금서를 이대로 봉인하세요. 아무리 선한 인간이라도 금서를 읽기 시작하면 점점 욕심이 커져 결국 샤모스 같이 타락하고 말 거예요.</s>
+			</Page>
+			<Page>
+				<s>물론 그럴 수 있네. 하지만 금서에 꼭 흑마법만 적혀 있는 건 아니야. 진귀한 기록을 이대로 묻어버리기엔 아깝지 않은가?</s>
+			</Page>
+			<Page speaker="player">
+				<s>저는 이제 괜찮아요. 제발 자기 자신에게 타락의 기회를 허락하지 마세요.</s>
+			</Page>
+			<Page>
+				<s>흠… 알았네. 나에게 시간을 주겠나? 자네의 말을 숙고하여 결정을 내리겠네.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_027" index="5027" sort="Epic">
+
+	<Title>엘나스 여행의 끝</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>덕분에 이제 엘나스는 안전해졌군. 이 마을과 사람들을 구해주어 진심으로 고맙네.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(엘나스의 여행도 여기서 마쳐야겠군. 하인즈님에게 돌아가자.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveSummary>마법도서관에서 #ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page>
+				<s>어서 오시게. 엘나스는 어땠는가?</s>
+			</Page>
+			<Page>
+				<s>샤모스를 만났다고? 진리를 추구하다가 타락하고만 안타까운 사람이지, 참 가련한 신세야…</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_028" index="5028" sort="Epic">
+
+	<Title>하인즈의 조언 4</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>결국 자네의 힘을 되찾는 걸 포기했다는 말이군. 자네에게는 힘든 결정이었겠지만, 알케스터에게는 좋은 선택이었을 거야.</s>
+			</Page>
+			<Page speaker="player">
+				<s>여기 있는 동안은 좀 더 많이 모험을 하면서, 제 힘을 최대한으로 끌어올려 보고 싶어요. 강해질 수 있는 자료를 얻을 만한 곳이 있을까요?</s>
+			</Page>
+			<Page>
+				<s>몰락한 고대 왕국 아스완이나, 연금술의 도시 마가티아에서 여러 자료를 찾다 보면 자네가 원하는 답이 있는 자료가 있을지도 모르지. 그쪽을 향해 한번 가보게.</s>
+				<s></s>
+				<s>[2acfff]수락하면, 아리안트 정거장으로 이동합니다.[-]</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>아리안트 정거장 방문</ActiveMemo>
+		<ActiveSummary>아리안트 정거장에서 #ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page>
+				<s>오, 아스완! 옛 왕국의 추억이여~</s>
+				<s>어리석은 왕도, 아름다운 미녀도, 죽은 병사도 사라져~♪</s>
+				<s>이제는 영원한 젊음만이 남아 쓸쓸히 주인을 기다리네~♬</s>
+			</Page>
+			<Page speaker="player">
+				<s>(앗, 저 사람 아스완에 대해 노래하고 있어! 그렇다면 그 도시로 가는 길을 알고 있겠지? 어서 물어보자!)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_029" index="5029" sort="Epic">
+
+	<Title>힐라의 흉계</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>아스완의 유령들이 술렁이고 있어요. [ff7b50]#an#[-]가 이 지하도시에 나타났기 때문이죠! 그들은 죽어서도 여전히 힐라에게 고통 받고 있어요.</s>
+			</Page>
+			<Page>
+				<s>원하신다면 제가 당신을 오벨리스크 안으로 안내해드릴게요. 그녀를 만날 각오는 되셨나요?</s>
+				<s></s>
+				<s>[2acfff]수락하면, 아스완 전장으로 이동합니다.[-]</s>
+			</Page>
+		</Body>
+
+		<Refuse>
+			<Page>
+				<s>그녀는 검은 마법사의 군단장이에요. 두려워하는 것이 당연하지요.</s>
+			</Page>
+		</Refuse>
+	</Task>
+
+	<Task index="2">
+		<ActiveSummary>#ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page position="Right">
+				<s>오, 다시 만났군요! 우리의 인연이 제법 질긴가 봐요. 그런 의미에서 당신에게 선물을 하나 주고 싶은데, 젊음의 비약 어떠세요? 호호호!</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>헛소리 마라, 군단장 힐라!</s>
+			</Page>
+			<Page position="Right">
+				<s>훗, 날 그 이름으로 부르는 건가? 그렇다면……</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<PassiveMemo offset="0">#p_0#와 전투</PassiveMemo>
+		<PassiveMemo offset="1">#p_1#와 전투</PassiveMemo>
+		<PassiveMemo offset="2">#p_2#와 전투</PassiveMemo>
+		<ActiveSummary>#ac#와 대화하세요.</ActiveSummary>
+		<PassiveSummary>#p_2#와 #p_0# #pc_0#마리, #p_1# #pc_1#마리를 쓰러뜨리세요.</PassiveSummary>
+		<Body>
+			<Page speaker="player" position="Left">
+				<s>드디어 정체를 드러냈군. 군단장 힐라!</s>
+			</Page>
+			<Page position="Right">
+				<s>호호호… 애송이 주제에 눈썰미가 제법인걸?</s>
+			</Page>
+			<Page position="Right">
+				<s>무례하게도 나의 성에 빈손으로 찾아온 손님에게 성대하게 환영식을 열어주지!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<ActiveSummary>#ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page position="Right">
+				<s>훗, 이대로 포기할 줄 알고? 조만간 커다란 절망을 맛보게 해줄 테니 기대하라고!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="5">
+		<Body>
+			<Page speaker="player" position="Left">
+				<s>(앗! 도망쳤다!)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_030" index="5030" sort="Epic">
+
+	<Title>마가티아를 향해</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>(하인즈님께서는 연금술사의 도시, 마가티아 쪽도 확인해보라고 하셨었지. 무작정 오긴 했는데… 여기가 마가티아가 맞나? 주변 사람한테 물어보자.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>무슨 일이지? 자네는 연금술사가 아닌 것 같군. 이방인인가?</s>
+			</Page>
+			<Page>
+				<s>마가티아에 처음 방문한다고? 흠, 그렇다면 [ff7b50]휴머노이드 A[-]를 만나보는 게 어때? 그러면 이 도시가 어떤 곳인지 감이 올 거야. 그는 여기서 오른쪽으로 직진하면 만날 수 있어.</s>
+			</Page>	
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_031" index="5031" sort="Epic">
+
+	<Title>드랭의 전언</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>무슨 볼일이라도 있으신가요? 드랭? 그이에 대해서는 왜 물으시죠? 더 이상, 그이에 대해서는 아무 말도 하고 싶지 않아요! 그에 대해서 잘 알지도 못하면서 함부로 떠드는 말 따위… 듣고 싶지 않아요.</s>
+			</Page>
+			<Page speaker="player">
+				<s>믿기 어려우시겠지만 전 드랭님을 만났어요! 그와 대화도 했습니다. 당신에게 말을 전해달라고 부탁 받았어요. 언제나 당신 곁에 있겠다고, 사랑한다고 했습니다.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(드랭을 만나게 된 정황과 가족을 영원히 지키기 위한 드랭의 선택에 대해 전한다.)</s>
+			</Page>
+			<Page>
+				<s>당신은… 정말 그이를 만났군요! 맞아요, 우리 그이는 가족을 사랑하는 선량한 사람이에요! 소문처럼 위험한 미치광이 연금술사가 아니에요…</s>
+			</Page>
+			<Page>
+				<s>아아… 전 정말 한심해요! 그이의 고뇌를 눈치채지 못했거든요. 결혼할 때 기쁨도, 행복도, 슬픔도, 고통도 모두 함께하자고 약속했으면서 혼자 고민하다니… 정말 바보 같은 사람…</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page speaker="player">
+				<s>(필리아님의 눈시울이 촉촉해지는 걸 보니, 남편 생각을 하고 있는 것 같군. 하지만 난 [ff7b50]검은 마법사의 연구실[-]로 가는 방법을 알아내야 해.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(학자들은 보통 연구 과정을 기록하니까, 드랭님도 분명 어딘가에 연구실 가는 방법을 적어뒀을 거야. 필리아님께 남편의 연구일지를 보여달라고 부탁하자!)</s>
+			</Page>
+			<Page speaker="player">
+				<s>필리아님, 부군의 기록이 제가 조사하고 있는 일에 아주 중요한 단서가 될 것 같아요. 그러니 [ff7b50]드랭님의 연구일지[-]를 볼 수 있을까요?</s>
+			</Page>
+			<Page>
+				<s>좋아요, 당신은 그이의 전언을 전해준 분이니까요. 그이의 명예를 회복하기 위해서라도 기꺼이 협력할게요.</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]우리 집 거실 끝에 있는 난로의 파이프를 조작하면 지하서재로 갈 수 있어요.[-] 그곳은 드랭과 저 외에는 아무도 모르는 공간이지요. 우리 집을 조사하던 협회장님들께도 말씀드리지 않았답니다.</s>
+			</Page>
+			<Page>
+				<s>거긴 실험이나 연구를 위한 곳이 아니라 개인적인 용도로 만든 작은 서재예요. 그래서 딱히 특별한 건 없죠. 저 역시 그이에 대한 단서를 찾기 위해 몇 번이고 뒤져봤지만 아무 것도 발견하지 못했어요. 그래도 조사해 보시겠어요?</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_032" index="5032" sort="Epic">
+
+	<Title>드랭이 남긴 기록</Title>
+
+	<Task index="1">
+		<Portrait>PipeHandle_02</Portrait>
+		<ActiveMemo>파이프 손잡이 확인</ActiveMemo>
+		<Body>
+			<Page speaker="player" position="Left">
+				<s>(전에 이곳에 왔을 땐 지하서재가 있다는 걸 전혀 눈치채지 못했었지. 이런 난로에 숨겨진 입구가 있을 줄 어찌 알았겠어? 어쨌든 필리아님 설명대로 이 파이프 손잡이를 조작해보자!)</s>
+			</Page>
+			<Page speaker="PipeHandle_02" position="Right">
+				<s>(파이프가 날카로운 쇳소리와 함께 돌아간다. 드르륵… 하는 울림과 함께 난로 안에 통로가 열렸다.)</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>(문이 열렸어! 그럼 바로 지하서재로 내려가자!)</s>
+				<s></s>
+				<s>[2acfff]수락하면, 드랭의 지하서재로 이동합니다.[-]</s>
+			</Page>
+		</Body>
+
+		<Refuse>
+			<Page speaker="player" position="Left">
+				<s>(이 난로 연통을 타고 내려가는 건가? 숯검정이가 되지 않도록 조심해야겠군!)</s>
+			</Page>
+		</Refuse>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>드랭의 지하서재 탐색</ActiveMemo>
+		<ActiveSummary>#ac#을 찾으세요.</ActiveSummary>
+		<Body>
+			<Page>
+				<s>(바닥에 흐트러진 책들 중에 하나다. 다른 책들에 비해 손때가 더 많이 묻어있다.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(드랭님이 생전에 가장 많이 펼쳐봤던 책인 것 같아. 어디 한 번 살펴볼까? 앗, 이건 드랭의 연구서!)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(실종된 연금술사의 연구서라면 검은 마법사에 대한 단서가 적혀 있지 않을까? 흠, 하지만 이 책은 훑어봐도 뭐가 뭔지 전혀 모르겠다.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>!!!</s>
+			</Page>
+			<Page speaker="player">
+				<s>인기척…이 느껴져. 누군가가 오고 있다!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<ActiveSummary>#ac#과 대화하세요.</ActiveSummary>
+		<Body>
+			<Page>
+				<s>자네, 여기에 있으면 곤란하네!</s>
+			</Page>
+			<Page speaker="player" position="Right">
+				<s>앗! 제뉴미스트 협회장님과 알카드노 협회장님! 어째서 두 분이 여기에 계시는 거죠? 그것도 두 분이 함께…</s>
+			</Page>
+			<Page speaker="Maed_05">
+				<s>예전에 우리가 폐쇄조치를 했던 이 집에 무단침입자가 들어온 것 같아서 말이야…</s>
+			</Page>
+			<Page>
+				<s>그 책을 이리 주게. 허락 없이 가져가려 하다니… 그 책은 이 서재 밖으로 절대 나가서는 안 된다네.</s>
+			</Page>
+			<Page speaker="player" position="Right">
+				<s>멋대로 가져가려고 한 건 죄송해요. 하지만 전 이 책이 필요해요! 사본이라도 구할 수 없을까요?</s>
+			</Page>
+			<Page speaker="Maed_05">
+				<s>유감스럽지만 허락할 수 없네.</s>
+			</Page>
+			<Page speaker="player" position="Right">
+				<s>치이… 알겠습니다.</s>
+			</Page>
+			<Page>
+				<s>잠깐! 카드키가 없잖아?! 이 책 사이에 끼워져 있던 카드키를 보지 못했나?</s>
+			</Page>
+			<Page speaker="player" position="Right">
+				<s>못 봤는데요, 이 책을 쭉 훑어봤지만 페이지 사이에는 아무것도 없었어요.</s>
+			</Page>
+			<Page speaker="Maed_05">
+				<s>…그렇다면!</s>
+			</Page>
+			<Page>
+				<s>누군가가 검은 마법사의 연구실로 들어간 게 분명해!</s>
+			</Page>
+			<Page speaker="player" position="Right">
+				<s>?!!</s>
+			</Page>
+			<Page speaker="Maed_05">
+				<s>지금 바로 [ff7b50]연구소 지하 비밀통로[-]로 가보세! 자네도 따라오게!</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="PinkBean_033" index="5033" sort="Epic">
+
+	<Title>결계를 위한 준비 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>누군가가 검은 마법사의 연구실에 침입한 게 분명하네. 허나 무턱대고 연구실 문을 여는 건 위험해. 이 도시의 안전을 위해 결계를 먼저 세워야 하네. 시간이 없으니 자네가 결계에 필요한 물건을 준비해주게.</s>
+			</Page>
+			<Page>
+				<s>먼저 [ff7b50]연구소 203호[-]에서 [ff7b50]#d_0_0#[-]와 [ff7b50]#d_1_0#[-]한테서 [ff7b50]#p_0# #pc_0#개[-]와 [ff7b50]#p_1# #pc_1#병[-]을 구해오게.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>우리의 연구물을 망치는 건 달갑지 않지만 지금은 어쩔 수 없지.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="PinkBean_034" index="5034" sort="Epic">
+
+	<Title>결계를 위한 준비 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>자네, 이번엔… 알카드노 [ff7b50]연구소 A-1 구역[-]에서 [ff7b50]#d_0_0#[-]로부터 [ff7b50]#p_0# #pc_0#개[-]를 구해오게.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>수고했네.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="PinkBean_035" index="5035" sort="Epic">
+
+	<Title>결계를 위한 준비 3</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>마지막으로 [ff7b50]연구소 지하 비밀통로[-]에 있는 [ff7b50]#d_0_0#[-]한테서 [ff7b50]#p_0# #pc_0#개[-]를 얻어오게.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>물건이 모두 준비되었군. 이제 우리가 이걸로 결계를 세우겠네. 잠시 기다리게.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="PinkBean_036" index="5036" sort="Epic">
+
+	<Title>소요의 원인</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>자네의 힘이 필요하네. 이건 우리 연금술사들이 할 수 있는 일이 아니야. 우리가 이 도시에 펼친 결계를 지키는 동안 자네가 검은 마법사의 연구실로 가서 침입자를 물리쳐 주게!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Portrait>SecretPassage_02</Portrait>
+		<ActiveMemo>#ac# 입장</ActiveMemo>
+		<ActiveSummary>#ac#에 입장하세요.</ActiveSummary>
+		<Body>
+			<Page speaker="SecretPassage_02">
+				<s>(배수로의 철창문을 열어젖혔다. 문 너머에서 어둡고 음산한 기운이 느껴진다.)</s>
+			</Page>
+			<Page speaker="player">
+				<s>(들어가 볼까?)</s>
+			</Page>
+		</Body>
+		
+		<Refuse>
+			<Page speaker="player">
+				<s>(이 안에서 흘러나오는 기운이 심상치 않군.)</s>
+			</Page>
+		</Refuse>
+	</Task>
+	
+	<Task index="3">
+		<ActiveMemo>블랙윙과 조우</ActiveMemo>
+		<Body>
+			<Page>
+				<s>하! 드디어 나타났군요! 처음 뵙겠습니다. 저는 블랙윙의 간부 이베흐라고 합니다.</s>
+			</Page>
+			<Page>
+				<s>안타깝게도 당신이 확보한 자료는 블랙윙의 원대한 계획을 위해 이 자리에서 폐기해 주셔야겠습니다. 아니면 제가 당신과 함께 강제로 폐기해 드리지요. 큭큭.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<Body>
+			<Page>
+				<s>이런, 실패군요. 여기서 그만 물러나야겠네요. 하지만 기뻐하지 마십시오. 당신들은 우리를 막지 못할 겁니다. 계획은 거의 완성되었으니까요. 큭큭.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="PinkBean_037" index="5037" sort="Epic">
+
+	<Title>도시의 안전 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>오, 자네가 무사히 내 앞에 다시 나타났으니 검은 마법사의 연구실에서의 일이 별탈 없이 잘 끝났다고 봐도 되는 건가?</s>
+			</Page>
+			<Page speaker="player">
+				<s>(블랙윙이 도시를 떠났다고 전한다.)</s>
+			</Page>
+			<Page>
+				<s>이제 안심이 되는군. 마가티아가 피해를 입지 않도록 애써준 자네에게 정말 감사하네.</s>
+			</Page>
+			<Page>
+				<s>그나저나 제뉴미스트의 실험체들이 이상해진 건 알카드노가 아니라 블랙윙 때문이었군. 그렇다면 그자가 사라진 지금 실험체들의 상태가 어떻게 되었을지 살펴봐야겠네.</s>
+			</Page>
+			<Page>
+				<s>미안하지만 전처럼 우리 협회를 위해 수고해주지 않겠나? 실험체의 샘플을 채취해주게! 전투력이 없는 연금술사들을 실험체가 안전해졌다는 보장도 없이 연구실로 보낼 수는 없잖은가?</s>
+			</Page>
+			<Page>
+				<s>그러니 자네가 [ff7b50]연구소 203호[-]로 가서 [ff7b50]#p_0# #pc_0#개[-]와 [ff7b50]#p_1# #pc_1#개[-]를 구해주게!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>고맙네! 지금 당장 자네가 가져온 실험체의 샘플을 조사해봐야겠어.</s>
+			</Page>
+			<Page>
+				<s>…오, 실험체의 상태가 정상으로 돌아오고 있네! 검은 마법사의 마법진의 파장이 사라지자 생체리듬이 안정세를 되찾아가는 모양이야. 그러면 곧 실험도 재개할 수 있겠군. 정말 잘됐네!</s>
+			</Page>
+			<Page>
+				<s>문득 알카드노의 연구물은 어떨지 궁금하군. 뭐? 거, 걱정이라니! 그런 낯간지러운 게 아니네! 그저 이상현상에 대한 학자다운 탐구심일 뿐이지. 에헴.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="PinkBean_038" index="5038" sort="Epic">
+
+	<Title>도시의 안전 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>이 마가티아가 다시 평화로워져서 정말 다행이야! 이제야 한숨을 돌릴 수 있겠군. 휴우…</s>
+			</Page>
+			<Page>
+				<s>제뉴미스트 실험체의 상태가 정상으로 돌아왔다면 우리 알카드노의 연구물에도 변화가 있을 거야. 로봇의 시스템 오류를 일으킨 마력의 발원지가 제뉴미스트가 아니라 검은 마법사의 연구실이었으니까 말이네.</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]연구소 A-1 구역[-]에서 [ff7b50]#p_0# #pc_0#개[-]를 구해주지 않겠나? 표본으로 [ff7b50]#d_0_0#[-]를 발췌해서 검사하면 나머지 연구물의 상태도 추정할 수 있을 거야.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>수고했네. 그럼 어서 물건을 건네주게나. 바로 파편의 상태를 체크해 보겠네.</s>
+			</Page>
+			<Page>
+				<s>……호오, 이거 참, 놀랍군! 표본을 꼼꼼히 살펴봤는데… 정상이네!</s>
+			</Page>
+			<Page>
+				<s>그동안 로봇들이 통제가 안 되어서 알카드노가 끝장이라는 생각까지 했는데… 문제를 일으켰던 오류가 감쪽같이 사라지다니! 귀신에게 뺨 맞은 기분이군.</s>
+			</Page>
+			<Page>
+				<s>어쨌든 이걸로 블랙윙이 이 도시를 떠났다는 걸 확실히 알겠네. 이제 마가티아는 다시 예전으로 되돌아가겠지. 타인을 경계하고, 서로 반목하던 모습으로 말이야… 사실 그건 연금술사들이 진정으로 바라는 풍경이 아니야.</s>
+			</Page>
+			<Page>
+				<s>우리가 연구하는 건 더 자유롭고 풍요로운 세상을 꿈꾸기 때문이네. 그건 알카드노든 제뉴미스트든 한마음이지. 하지만 방법론에 있어서 의견차가 너무 크네. 그러니 이 관습은 쉽게 타파되지 않을 거야.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_039" index="5039" sort="Epic">
+
+	<Title>마가티아 여행의 끝</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>(이 정도면 마가티아에 일어난 사건이 얼추 수습된 것 같다.)</s>
+			</Page>
+			<Page>
+				<s>(하지만 블랙윙의 간부가 말했던 ‘원대한 계획’이란 뭘까? 하인즈님께 돌아가서 조언을 구해야겠다.)</s>
+				<s></s>
+				<s>[2acfff]수락하면, 마법도서관으로 이동합니다.[-]</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveSummary>마법도서관에서 #ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page>
+				<s>어서 오시게. 기다리고 있었다네.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_040" index="5040" sort="Epic">
+
+    <Title>신수가 향한 곳</Title>
+
+    <Task index="1">
+        <Body>
+            <Page speaker="player">
+                <s>(검은 마법사의 연구실에서 조우했던 블랙윙에 대해 말한다.)</s>
+            </Page>
+            <Page>
+                <s>심상치 않은 일임에는 틀림없군. 이 소식은 내 다른 이들에게 전해주겠네. 마가티아에서는 수고했네.</s>
+            </Page>
+            <Page>
+                <s>하지만 자네가 원하던 힘의 성장에 대한 단서는 얻지 못한 모양이로군. 신수님께 찾아가 보는 것은 어떤가? 신수님은 지금 군단장에게 상처를 입고 리프레에 계신다고 하더군. 그분께 찾아가 도움을 구해 보시게나.</s>
+            </Page>
+        </Body>
+    </Task>
+
+    <Task index="2">
+        <ActiveMemo>리프레 방문</ActiveMemo>
+        <ActiveSummary>리프레에서 #ac#와 대화하세요.</ActiveSummary>
+        <Body>
+            <Page>
+                <s>오, 낯선 얼굴이군! 이 미나르숲에 이방인이 찾아온 건 오랜만이야.</s>
+            </Page>
+            <Page>
+                <s>음? 신수님? 미안하지만 지금은 그분을 뵐 수 없네. 에레브에 계실 때 군단장의 기습을 받아 크게 다치셨는데, 그 상처가 미처 회복되지 않았거든.</s>
+            </Page>
+            <Page>
+                <s>너무 염려 말게. 우리 하프링들이 신수님을 보살피며 치료하고 있으니… 우리가 비록 작고 약해 보이지만, 대대로 드래곤을 키워 온 종족이라 충분히 신수님을 돌봐드릴 수 있어.</s>
+            </Page>
+            <Page>
+                <s>자네가 방문했다는 사실은 내가 그분께 전해드리겠네. 신수님께서 손님을 맞을 수 있을 정도로 기력을 되찾으시면, 자네에게 바로 일러줄 테니 기다리게.</s>
+            </Page>
+        </Body>
+    </Task>
+
+</Quest>
+
+<Quest code="PinkBean_041" index="5041" sort="Epic">
+
+	<Title>신수의 부름</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>오래 기다렸네. 이제 신수님을 알현하러 가보세. 지금 바로 자네를 그분이 계신 곳으로 안내할 테니, 잘 따라오게.</s>
+				<s></s>
+				<s>[2acfff]수락하면, 신수의 쉼터로 이동합니다.[-]</s>
+			</Page>
+		</Body>
+		
+		<Refuse>
+			<Page>
+				<s>아… 눈치챘는가? 그렇네. 자네가 짐작한대로 사실 신수님은 아직 완전히 회복되지 않았어. 그분을 걱정하는 자네의 마음 씀씀이가 기특하구먼.</s>
+			</Page>
+		</Refuse>
+	</Task>
+
+	<Task index="2">
+		<ActiveSummary>신수의 쉼터에서 #ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page position="Right">
+				<s>당신이 #un#님이오? 난 기사 듀나미스라 하오. 시그너스 여제님의 명으로 신수님을 보필하고 있소.</s>
+			</Page>
+			<Page position="Right">
+				<s>신수님을 뵙기 전에, 잠깐 내 얘기를 들어주겠소? 당신에게 사과해두고 싶은 일이 있소. 사실 당신을 기다리게 한 건 신수님이 아니라 바로 나요.</s>
+			</Page>
+			<Page position="Right">
+				<s>신수님께선 그동안 손님을 맞이할 수 있는 상태가 아니셨기 때문에, 당신이 찾아왔다는 걸 말씀드릴 수 없었소. 그러니 이해 바라오.</s>
+			</Page>
+			<Page position="Right">
+				<s>지금은 하프링들의 헌신으로 신수님도 기력을 꽤 회복하셨소. 그러니 당신과 대화를 나누어도 크게 무리가 없을 거요. 그럼 어서 신수님께 가보시오.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Portrait>Shinsoo_02</Portrait>
+		<ActiveSummary>신수의 쉼터에서 #ac#와 대화하세요.</ActiveSummary>
+		<Body>
+			<Page speaker="Shinsoo_02" position="Right">
+				<s>그대, 수수께끼의 용병이여… 여제는 안녕한가?</s>
+			</Page>
+			<Page speaker="Shinsoo_02" position="Right">
+				<s>느닷없는 이별에 많이 놀라고 상심한 건 아닌지, 걱정이군. 그때는 상황이 긴박하여 급작스레 에레브를 떠나올 수밖에 없었네.</s>
+			</Page>
+			<Page speaker="Shinsoo_02" position="Right">
+				<s>그런데 자애로운 여제는 아무것도 묻지 않은 채 날 위해 듀나미스 기사를 보내주었지. 그가 설득하고 애써준 덕분에, 부상과 피로로 잠든 난 하프링들의 보살핌을 받을 수 있었네.</s>
+			</Page>
+			<Page speaker="Shinsoo_02" position="Right">
+				<s>내가 리프레에 온 건 정해진 운명을 거스르고 각성한 여제를 떠나려던 게 아니라, 누군가를 찾고자 한 것… [ff7b50]나를 해하고 생명의 초월자 알리샤를 납치한 검은 마법사의 군단장을 추적[-]하기 위해서라네.</s>
+			</Page>
+			<Page speaker="Shinsoo_02" position="Right">
+				<s>미나르숲의 역사에 대해 알고 있는가? 오랜 옛날 이곳엔 하프링족과 용족뿐만 아니라 마족도 살고 있었네. 하지만 검은 마법사가 영웅들에 의해 봉인되자, 그에게 협조하던 마족은 종적을 감추었지.</s>
+			</Page>
+			<Page speaker="Shinsoo_02" position="Right">
+				<s>그런데 그로부터 오랫동안 행방이 묘연했던 그들이 근래에 모습을 드러내기 시작했네. 또다시 검은 마법사의 군단장으로서… 다만 그자는 영웅 시대에 활약했던 마족 군단장 [ff7b50]데몬[-]과는 다른 인물이지.</s>
+			</Page>
+			<Page speaker="Shinsoo_02" position="Right">
+				<s>새로운 군단장을 위시한 마족은, 메이플 월드 가운데서도 아마 과거에 그들이 거주했던 이 미나르숲을 거점으로 삼았을 터… 그러니 이곳에서 마족을 찾아, 저들이 앗아간 알리샤의 행방을 알아내야 하네.</s>
+			</Page>
+			<Page speaker="Shinsoo_02" position="Right">
+				<s>수수께끼의 용병이여… 여기 리프레를 보호하고 있는 [ff7b50]나인스피릿의 결계[-]가 약해졌네. 그리고 공교롭게도 머지않은 곳에서 마족의 기운이 느껴지고 있지. 이것이 과연 우연이겠는가?</s>
+			</Page>
+			<Page speaker="Shinsoo_02" position="Right">
+				<s>이 결계는 선량한 드래곤과 하프링, 그리고 드래곤의 알을 보호하고 있네. 따라서 결계가 깨지면 이들은 협곡을 지배하는 사악한 용들의 습격을 받아 위험해지겠지…</s>
+			</Page>
+			<Page speaker="Shinsoo_02" position="Right">
+				<s>수수께끼의 용병이여, 부디 그대가 이 리프레를 지켜주게.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_042" index="5042" sort="Epic">
+
+	<Title>신수의 권고</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>나인스피릿님의 아기용이 태어난 걸 알고 마을의 하프링들이 무척 기뻐하고 있소. 신수님께도 말씀드렸더니 당신을 만나고 싶어 하셨소.</s>
+			</Page>
+			<Page>
+				<s>당신이 바란다면 지금 바로 [ff7b50]#an#[-]님을 알현할 수 있도록 안내하겠소.</s>
+				<s></s>
+				<s>[2acfff]수락하면, 신수의 쉼터로 이동합니다.[-]</s>
+			</Page>
+		</Body>
+		
+		<Refuse>
+			<Page>
+				<s>신수님을 뵐 준비가 되면 내게 말을 거시오.</s>
+			</Page>
+		</Refuse>
+	</Task>
+
+	<Task index="2">
+		<Portrait>Shinsoo_02</Portrait>
+		<ActiveMemo>#ac# 알현</ActiveMemo>
+		<ActiveSummary>신수의 쉼터에서 #ac#를 알현하세요.</ActiveSummary>
+		<Body>
+			<Page speaker="Shinsoo_02" position="Right">
+				<s>그대의 활약은 듀나미스 기사에게 모두 들었네. 미나르숲이 평화를 되찾은 건 그대의 공이라고 해도 과언이 아닐 터…</s>
+			</Page>
+			<Page speaker="Shinsoo_02" position="Right">
+				<s>용족은 강자에게 복종하는 습성이 있으니, 나인스피릿님의 아기용이 부화한 지금 미나르숲에 새로운 질서가 생길 것이네. 그 아기용은 이 숲의 희망이 되겠지.</s>
+			</Page>
+			<Page speaker="Shinsoo_02" position="Right">
+				<s>허나 경계를 늦추지 말길… 나인스피릿의 알을 이용하여 이 숲을 지배하려고 한 그 마족이 바로, 나를 공격하고 생명의 초월자 알리샤를 납치한 [ff7b50]검은 마법사의 군단장[-]이네.</s>
+			</Page>
+			<Page speaker="Shinsoo_02" position="Right">
+				<s>그 자는 아직 리프레를 포기하지 않았네. 이번엔 옛 군단장 데몬이 도와주었으나, 앞으로도 그런 행운이 또 있을지 장담할 수 없으니…</s>
+			</Page>
+			<Page speaker="Shinsoo_02" position="Right">
+				<s>부디 앞으로도 그대의 눈길이 이 숲에서 거두어지지 않길 바라네.</s>
+			</Page>
+			<Page speaker="Shinsoo_02" position="Right">
+				<s>아, 그대가 나를 찾아온 이유는 말하지 않아도 알고 있네. 하지만 그대가 고민하고 있는 힘에 대해선 고민할 필요가 더 이상 없을걸세. 자네는 느끼지 못하고 있겠지만 이미 서서히 되돌아오고 있으니…</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_043" index="5043" sort="Epic">
+
+	<Title>신전 너머, 또 다른 시간</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>오, 당신이군요! 절 도우러 오신 겁니까? 침입자는 저 문 너머에 있습니다. 하지만 들어갈 수가 없어요. 저 자는 대체 이 문을 잠가 놓고 무얼 하려는 수작인지… 앗!</s>
+			</Page>
+			<Page>
+				<s>…설마 [ff7b50]여신의 거울[-]을?</s>
+			</Page>
+			<Page>
+				<s>그럴 리가 없지! 그 거울은 하찮은 인간의 힘으로는 움직이지 않는 것. 혹여 움직일 수 있다 하더라도, 여신의 거울을 잘못 사용하면 큰 재앙이 닥칠진대…</s>
+			</Page>
+			<Page>
+				<s>하지만, 모르겠습니다. 인간이란 때론 너무도 어리석어 어떤 일을 저지를지 알 수 없으니… 어쨌든 부서진 회랑 너머, 신들의 황혼으로 가려면 일단 저 문을 열어야만 합니다.</s>
+			</Page>
+			<Page>
+				<s>침입자는 시간을 왜곡시키는 모래시계인 [ff7b50]시간의 눈[-]을 사용하여 문의 시공을 비틀었습니다. 그러니 먼저 [ff7b50]금이 간 모래시계[-]를 회수하여 문지기 석상의 시간을 정상으로 돌려주세요.</s>
+			</Page>
+			<Page>
+				<s>그리고 안으로 들어가서 여신의 거울을 확인해 주십시오. 그럴 리가 없다고 믿지만 혹시라도 침입자가 여신의 거울에 손을 대려 한다면… 막아주십시오! 반드시, 무슨 일이 있더라도 말입니다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>회랑 문 열기</ActiveMemo>
+		<Body>
+			<Page position="Right">
+				<s>(모래시계를 회수하자 시간이 안정되어 석상이 정상으로 작동한다.)</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>(자, 문이 열렸으니 안으로 들어가 볼까?)</s>
+				<s></s>
+				<s>[2acfff]수락하면, 신들의 황혼으로 이동합니다.[-]</s>
+			</Page>
+		</Body>
+		
+		<Refuse>
+			<Page speaker="player" position="Left">
+				<s>잠시 생각을 정리해 보자. 인간의 힘으로 움직일 수 없는 여신의 거울을 노렸다면, 침입자는 인간이 아닌 걸까? 어쩌면 인간이면서 거울을 사용할 수 있는 방법을 알아낸 걸지도…</s>
+			</Page>
+		</Refuse>
+	</Task>
+
+	<Task index="3">
+		<Body>
+			<Page>
+				<s>여긴… 내가 항상 오던 곳이잖아?!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<Body>
+			<Page position="Right">
+				<s>…마침내 내 오랜 소망이 이루어질 때가 왔도다!</s>
+			</Page>
+			<Page position="Right">
+				<s>여신의 거울… 이 거울이 제 주인을 잃었으니, 내가 새로운 주인이 되는 거야. 이것만 있으면 난 이미 완결된 시간을 조작할 수 있어!</s>
+			</Page>
+			<Page position="Right">
+				<s>오래 전 영웅들이 그분을 봉인시켰던 [ff7b50]운명의 전투[-]… 그 승패를 바꾸자. 이제 이 세계의 모든 자들은 저들을 참혹한 패배자로, 그분을 위대한 승리자로 기억하리라!</s>
+			</Page>
+			<Page position="Right">
+				<s>그렇다면 그 날을 기점으로 메이플 월드의 역사도 달라지겠지. 그때부터 오늘날까지 이 세계는 [ff7b50]검은 마법사님의 지배[-]를 받게 되는 거야. 크크큭, 이 얼마나 멋진 계획인가!</s>
+			</Page>
+			<Page position="Right">
+				<s>그분이 이 세계를 통치하시길 일평생 기다려 왔지만… 이제 난 너무 늙고 지쳤어. 그러니까 내 손으로 과거를 바꿔 그토록 고대하던 현실을 직접 맞이할 테다! 크하하하!</s>
+			</Page>
+			<Page position="Right">
+				<s>!!!</s>
+			</Page>
+			<Page position="Right">
+				<s>웬 놈이냐! 시간으로 잠근 문을 열고 들어오다니… 보통이 아니군. 하지만 여기까지 와서 방해 받을 순 없지. 지금 도망치지 않으면 후회하게 될 것이다! 크크크…</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="5">
+		<Body>
+			<Page>
+				<s>이런, 젠장! 오랜 연구 끝에 거울을 사용하는 방법을 겨우 알아냈건만… 이제 와서 일을 그르치다니…</s>
+			</Page>
+			<Page>
+				<s>대체 누구냐! 거울의 힘을 이끌어 낸 순간, 내 소망에 지지 않을 정도로 [ff7b50]강렬한 갈망을 품고 나보다 먼저 거울을 만진 자[-]가!</s>
+			</Page>
+			<Page>
+				<s>……!!!</s>
+			</Page>
+			<Page>
+				<s>이, 이 기운은 뭐지? 검은 마법사님과는 전혀 다른… 하지만 몹시 두려운… 내가 감당할 수 없는 존재의 기척…</s>
+			</Page>
+			<Page>
+				<s>설마 여신의 거울을 사용한 대가인가! 아아, 안 돼! 그분의 세상을 보지 못하고 이대로 사라질 순 없… 크아아악!!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="6">
+		<Body>
+			<Page position="Right">
+				<s>#un#님, 어서 도망치세요! 저 마법사가 [ff7b50]이계의 존재[-]를 불러냈어요! 여기서 머뭇거리다간 놈의 제물이 될 거예요!</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>앗, 당신은! 어째서 이곳에 있는 거죠?</s>
+			</Page>
+			<Page position="Right">
+				<s>조각함에서 꺼낸 파피루스에 여신의 거울에 대한 기록이 있었어요. 전 그걸 읽고 거울을 사용하면 기억을 되찾을 수 있을지도 모른다는 생각이 들어 몰래 숨어 든 거예요.</s>
+			</Page>
+			<Page position="Right">
+				<s>그런데 정말로 효과가 있나 봐요! 조금씩 기억이 돌아오는 것 같거든요. 어두운 숲, 텐트들, 아름다운 날개의 페어리들… 심지어 안경 쓴 사람한테 야단맞았던 일도 떠올라요.</s>
+			</Page>
+			<Page position="Right">
+				<s>또 복면을 쓴 사람을 따라가서 그가 난폭한 몬스터들을 처치하는 것을 구경했었고… 그리고 책이 많은 도서관에서 무슨 지도 같은 것을 제가 몰래 숨겨두기도 했어요.</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>아, 그렇다면 침입자보다 여신의 거울에 먼저 손을 댄 자가 바로…</s>
+			</Page>
+			<Page position="Right">
+				<s>앗, 이런, 도망치기엔 너무 늦어버렸나! #un#님, 제가 어떻게든 해볼 테니 지금 당장 여기서 나가세요! 거울의 힘을 빌리면 놈의 소환을 조금은 늦출 수 있을 것 같거든요.</s>
+			</Page>
+			<Page position="Right">
+				<s>걱정 마세요. 우린 다시 만날 수 있을 거예요. 왠지 그런 예감이 들어요. 그때는 제 이름을 불러 주시겠어요? 드디어 이름이 생각났거든요!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="7">
+		<Body>
+			<Page position="Right">
+				<s>제 이름은 [ff7b50]카오[-]예요. 전 앞으로 제 이름과, 이 이름을 찾을 수 있도록 도와주신 #un#님을 절대 잊지 않을 거예요. #un#님도 제 이름을 꼭 기억해 주세요!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="8">
+		<Body>
+			<Page speaker="player">
+				<s>(신들의 황혼에서 겪은 일을 모두 이야기한다.)</s>
+			</Page>
+			<Page>
+				<s>침입자가, 그가 여신의 거울에 손을 대려 했단 말입니까?</s>
+			</Page>
+			<Page>
+				<s>여신의 거울에 과거를 움직일 수 있는 힘이 있는 건 사실이지만, 그건 여신의 손에서만 가능합니다! 한낱 인간의 힘으로 시간을 움직이려 하다니... 그런 어리석은!</s>
+			</Page>
+			<Page>
+				<s>이제 그곳은 신관도 어찌할 도리가 없는 위험한 장소가 되었습니다. 자격 없는 자가 그릇된 욕망으로 거울을 사용한 탓이겠지요. 하는 수 없군요. 지금부터 그 회랑을 폐쇄하겠습니다!</s>
+			</Page>
+			<Page>
+				<s>저로선 기억을 잃은 신관이 경고한 그 이계의 존재가 무엇인지 도무지 짐작이 가지 않아요. 그러니 이 일은 강한 용사들로 구성된 [ff7b50]원정대[-]에게 의뢰하여 처리토록 하겠습니다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_044" index="5044" sort="Epic">
+
+	<Title>봉인된 장로의 서신</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>젊은이, 이름이 어떻게 되시오? 혹시 #un# 아니오?</s>
+			</Page>
+			<Page>
+				<s>역시… 내 짐작이 맞았구려. 그렇다면 당신에게 보여줄 게 있소. 바로 [ff7b50]장로 스탄의 편지[-]라오.</s>
+			</Page>
+			<Page>
+				<s>그분한테서 이 편지를 맡았을 땐, 그의 아들 알렉스나 제이에게 남긴 건 줄 알았다오. 하지만 수신인에 적힌 이름은 다른 사람이었지. 그렇소, 바로 당신이라오!</s>
+			</Page>
+			<Page speaker="player">
+				<s>(이상하다… 스탄 장로님은 내가 이곳에 오기 전에 돌아가셨잖아? 그런데 내게 편지를 남기다니… 그분은 내가 미래에 올 걸 알고 계셨단 말인가?)</s>
+			</Page>
+			<Page>
+				<s>헌데 문제가 하나 있다오. 그건 봉투가 봉인되어 열어볼 수가 없다는 거요! 하지만 걱정 마오, 다 방법이 있으니… 어느 친절한 모험가 양반이 정령의 힘을 빌리면 편지를 볼 수 있다고 했거든.</s>
+			</Page>
+			<Page>
+				<s>에레브에 [ff7b50]정령의 터[-]라는 곳이 있소. 곧장 그곳으로 가시오. 그리고 [ff7b50]영혼의 돌 55개[-]와 [ff7b50]불꽃의 돌 55개[-]를 구해 오시오.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>정령의 돌은 모두 구해왔소? 그렇다면 내게 잠시 시간을 주시오. 제이에게 부탁해서 그 돌에 담긴 힘으로 편지의 봉인을 해제할 테니…</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_045" index="5045" sort="Normal">
+
+	<Title>침몰하는 배</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>초면에 미안하지만, 나 좀 도와줄 수 있어? 지금 저기 [ff7b50]노틸러스 호[-] 보이지? [ff7b50]배가 점점 기울어져 가는 것 같아[-]. #an#가 어떻게든 배를 고정하려고 노력 중인데, 힘이 부족한가 봐.</s>
+			</Page>
+			<Page>
+				<s>아무래도 [ff7b50]배 안에서 무슨 사달이 난 모양[-]이야. 보통 이 정도 배가 기울면 선원들이 나와서 도와주기 마련인데, 아무도 배에서 나오질 않아.</s>
+			</Page>
+			<Page>	
+				<s>내가 가서 도와주고 싶지만 난 여기에서 배 주변을 살펴야 해서 근무지를 이탈할 수가 없는 상황이야.</s>
+			</Page>	
+			<Page>
+				<s>네가 가서 [ff7b50]#an#[-]를 도와줄 수 없을까? 이대로라면 배가 가라앉을 거야!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>도와줄 게 아니라면 말 시키지 마세요! 배 고정하는 일만 해도 힘들단 말이에요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_046" index="5046" sort="Normal">
+
+	<Title>셰프의 부탁 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>으그그… 역시 나이는 못 속여. 젊었을 때는 웬만한 해적들보다 강하다는 소리를 들었는데, 지금은 손가락 하나 까딱할 수도 없겠군.</s>
+			</Page>
+			<Page>
+				<s>선의가 오지 않은 걸 보면 그의 상태도 말이 아닌 것 같구먼. 내 몸은 내가 추슬러야겠어. 자네, 나를 도와주러 온 거면 내 부탁 하나만 들어주게.</s>
+			</Page>
+			<Page>
+				<s>이 근처를 돌아다니고 있는 [ff7b50]프리져[-]를 해치우고 [ff7b50]지느러미[-]를 모아와 주게나. [ff7b50]40개[-]만 있으면 이 한 몸 챙길 고급 보양식 한 그릇을 뚝딱 만들 수 있거든.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>벌써 구해왔군. 역시 젊음이 좋아! 자네가 구해준 지느러미로 보양식을 만들어 먹으면, 한동안 버틸 수 있을 거야. 프리져의 힘과 영양은 지느러미에 응축되어 있다고들 하거든!</s>
+			</Page>
+			<Page>
+				<s>자, 이제 내가 할 수 있는 일을 해볼까? 젊은 패기로 나 좀 도와주게.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_047" index="5047" sort="Normal">
+
+	<Title>인형술사의 텃세</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>겁도 없이 이런 깊은 숲까지 발을 들이다니… 내 영역에서 썩 나가!</s>
+			</Page>
+			<Page speaker="Lolo_05" position="Right">
+				<s>거짓말하지 마세요! 이 숲은 개인이 소유할 수 없는 곳이에요. 즉 당신 멋대로 이 숲을 사유지라 우기면서 우리를 내쫓을 수 없단 이야기죠!</s>
+			</Page>
+			<Page>
+				<s>에잇, 버티겠다면 강제로 끌어내겠어! 나에게 인형이 있는 한 이 숲의 [ff7b50]실버 슬라임[-]과 [ff7b50]좀비 루팡[-]은 내 편이니 각오해!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>으으… 그냥 샌님과 조무래기인 줄 알았는데, 이렇게 강할 줄이야……</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="PinkBean_048" index="5048" sort="Normal">
+
+	<Title>무사 소년의 유감한 사정</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>오래 기다렸는가? 이제 다 됐네! 이 [ff7b50]보약[-]을 [ff7b50]#an#[-]에게 전해줘. 그리고 그 아이가 약을 복용한 다음 차도가 있는지 살펴봐주게.</s>
+			</Page>
+			<Page>
+				<s>만약 이걸로도 효과가 없으면 답은 하나야. #an#는 마음의 병에 걸린 거네!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveSummary>#ac#에게 사비트라마의 보약을 전달하세요.</ActiveSummary>
+		<Body>
+			<Page>
+				<s>안녕하세요. 제 형님처럼 무지 강해 보이는 분이네요!</s>
+			</Page>
+			<Page>
+				<s>……앗, 이 보약은 사비트라마님께서 보내신 거군요! 배달해 주셔서 감사합니다. 전 하루빨리 이 지긋지긋한 병에서 해방되고 싶어요! 그러니까 지금 당장 이 약을 복용할게요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+</root>
