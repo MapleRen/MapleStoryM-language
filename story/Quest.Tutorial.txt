@@ -3,7 +3,7 @@
 <root>
 
   
-<Quest code="Tutorial01" index="1001" sort="Normal">
+<Quest code="Tutorial01" index="1001" sort="Tutorial">
 
 	<Title>안녕, 새로운 모험가</Title>
 
@@ -60,7 +60,7 @@
 </Quest>
 
 
-<Quest code="Tutorial02" index="1002" sort="Normal">
+<Quest code="Tutorial02" index="1002" sort="Tutorial">
 
 	<Title>퀘스트를 시작하자</Title>
 
@@ -98,7 +98,7 @@
 </Quest>
 
 
-<Quest code="Tutorial03" index="1003" sort="Normal">
+<Quest code="Tutorial03" index="1003" sort="Tutorial">
 
 	<Title>자유롭게 이동하자</Title>
 
@@ -147,7 +147,7 @@
 </Quest>
 
 
-<Quest code="Tutorial04" index="1004" sort="Normal">
+<Quest code="Tutorial04" index="1004" sort="Tutorial">
 
 	<Title>음식을 먹으면 회복한다</Title>
 
@@ -184,7 +184,7 @@
 
 </Quest>
 
-<Quest code="Tutorial05" index="1005" sort="Normal">
+<Quest code="Tutorial05" index="1005" sort="Tutorial">
 
 	<Title>스킬을 사용해보자</Title>
 
@@ -216,7 +216,7 @@
 
 </Quest>
 
-<Quest code="Tutorial07" index="1007" sort="Normal">
+<Quest code="Tutorial07" index="1007" sort="Tutorial">
 
     <Title>튜토리얼 스킵</Title>
 
@@ -235,7 +235,7 @@
 </Quest> 
 
 
-<Quest code="Tutorial08" index="1008" sort="Normal">
+<Quest code="Tutorial08" index="1008" sort="Tutorial">
 
     <Title>여행의 시작</Title>
 
@@ -250,7 +250,7 @@
 
 </Quest>
 
-<Quest code="TutorialCygnus01" index="1009" sort="Normal">
+<Quest code="TutorialCygnus01" index="1009" sort="Tutorial">
 
   <Title>신입 기사단원</Title>
 
@@ -312,7 +312,7 @@
 
 </Quest>
 
-<Quest code="TutorialCygnus02" index="1010" sort="Normal">
+<Quest code="TutorialCygnus02" index="1010" sort="Tutorial">
 
   <Title>퀘스트를 시작하자</Title>
 
@@ -349,7 +349,7 @@
 
 </Quest>
 
-<Quest code="TutorialCygnus03" index="1011" sort="Normal">
+<Quest code="TutorialCygnus03" index="1011" sort="Tutorial">
 
   <Title>포탈을 이용하자</Title>
 
@@ -369,7 +369,7 @@
 
 </Quest>
 
-<Quest code="TutorialCygnus04" index="1012" sort="Normal">
+<Quest code="TutorialCygnus04" index="1012" sort="Tutorial">
 
   <Title>자유롭게 이동하자</Title>
 
@@ -400,7 +400,7 @@
 
 </Quest>
 
-<Quest code="TutorialCygnus05" index="1013" sort="Normal">
+<Quest code="TutorialCygnus05" index="1013" sort="Tutorial">
 
   <Title>아이템을 쉽게 사용해보자</Title>
 
@@ -437,7 +437,7 @@
 
 </Quest>
 
-<Quest code="TutorialCygnus06" index="1014" sort="Normal">
+<Quest code="TutorialCygnus06" index="1014" sort="Tutorial">
 
   <Title>스킬을 쉽게 사용해보자</Title>
 
@@ -465,7 +465,7 @@
 
 </Quest>
 
-<Quest code="TutorialCygnus07" index="1015" sort="Normal">
+<Quest code="TutorialCygnus07" index="1015" sort="Tutorial">
 
     <Title>튜토리얼 스킵</Title>
 
@@ -482,7 +482,7 @@
 
 </Quest>
 
-<Quest code="TutorialCygnus08" index="1016" sort="Normal">
+<Quest code="TutorialCygnus08" index="1016" sort="Tutorial">
 
     <Title>신입 기사단원의 첫걸음</Title>
 
@@ -498,7 +498,7 @@
 </Quest>
 
 
-  <Quest code="TutorialAran01" index="3001" sort="Normal">
+  <Quest code="TutorialAran01" index="3001" sort="Tutorial">
 
     <Title>소란스러운 막사</Title>
 
@@ -528,7 +528,7 @@
 
   </Quest>
 
-  <Quest code="TutorialAran02" index="3002" sort="Normal">
+  <Quest code="TutorialAran02" index="3002" sort="Tutorial">
 
     <Title>헬레나와 퀘스트</Title>
 
@@ -543,7 +543,7 @@
 
   </Quest>
 
-  <Quest code="TutorialAran03" index="3003" sort="Normal">
+  <Quest code="TutorialAran03" index="3003" sort="Tutorial">
 
     <Title>헬레나와 퀘스트</Title>
 
@@ -568,7 +568,7 @@
 
   </Quest>
   
-  <Quest code="TutorialAran04" index="3004" sort="Normal">
+  <Quest code="TutorialAran04" index="3004" sort="Tutorial">
 
     <Title>준비부터 든든히!</Title>
 
@@ -595,7 +595,7 @@
 
   </Quest>
 
-  <Quest code="TutorialAran05" index="3005" sort="Normal">
+  <Quest code="TutorialAran05" index="3005" sort="Tutorial">
 
     <Title>스킬을 알아보자</Title>
 
@@ -630,7 +630,7 @@
 
   </Quest>
 
-  <Quest code="TutorialAran06" index="3006" sort="Normal">
+  <Quest code="TutorialAran06" index="3006" sort="Tutorial">
 
     <Title>구출 준비 완료</Title>
 
@@ -645,7 +645,7 @@
 
   </Quest>
 
-  <Quest code="TutorialAran07" index="3007" sort="Normal">
+  <Quest code="TutorialAran07" index="3007" sort="Tutorial">
 
     <Title>길 잃은 아이 구출</Title>
 
@@ -661,7 +661,7 @@
 
   </Quest>
   
-  <Quest code="TutorialAran08" index="3008" sort="Normal">
+  <Quest code="TutorialAran08" index="3008" sort="Tutorial">
 
     <Title>피난 준비 완료</Title>
 
@@ -692,14 +692,14 @@
 
   </Quest>
   
-  <Quest code="TutorialAran09" index="3009" sort="Normal">
+  <Quest code="TutorialAran09" index="3009" sort="Tutorial">
     
     <Title>튜토리얼 스킵</Title>
     
   </Quest>
  
 
-  <Quest code="TutorialMercedes01" index="1018" sort="Normal">
+  <Quest code="TutorialMercedes01" index="1018" sort="Tutorial">
 
     <Title>싸움이 끝난 후</Title>
 
@@ -736,7 +736,7 @@
 
   </Quest>
 
-  <Quest code="TutorialMercedes02" index="1019" sort="Normal">
+  <Quest code="TutorialMercedes02" index="1019" sort="Tutorial">
 
     <Title>저주와 영웅</Title>
 
@@ -783,7 +783,7 @@
 
   </Quest>
 
-  <Quest code="TutorialMercedes03" index="1020" sort="Normal">
+  <Quest code="TutorialMercedes03" index="1020" sort="Tutorial">
 
     <Title>에우렐을 향해</Title>
 
@@ -798,7 +798,7 @@
 
   </Quest>
 
-  <Quest code="TutorialMercedes04" index="1021" sort="Normal">
+  <Quest code="TutorialMercedes04" index="1021" sort="Tutorial">
 
     <Title>에우렐 도착</Title>
 
@@ -813,7 +813,7 @@
 
   </Quest>
 
-  <Quest code="TutorialMercedes05" index="1022" sort="Normal">
+  <Quest code="TutorialMercedes05" index="1022" sort="Tutorial">
 
     <Title>저주와 봉인</Title>
 
@@ -863,7 +863,7 @@
 
   </Quest>
   
-  <Quest code="TutorialMercedes06" index="1023" sort="Normal">
+  <Quest code="TutorialMercedes06" index="1023" sort="Tutorial">
 
     <Title>봉인 대비 1</Title>
 
@@ -894,7 +894,7 @@
 
   </Quest>
 
-  <Quest code="TutorialMercedes07" index="1024" sort="Normal">
+  <Quest code="TutorialMercedes07" index="1024" sort="Tutorial">
 
     <Title>봉인 대비 2</Title>
 
@@ -928,7 +928,7 @@
 
   </Quest>
 
-  <Quest code="TutorialMercedes08" index="1025" sort="Normal">
+  <Quest code="TutorialMercedes08" index="1025" sort="Tutorial">
 
     <Title>봉인의 마무리</Title>
 
@@ -953,7 +953,7 @@
 
   </Quest>
 
-  <Quest code="TutorialMercedes09" index="1026" sort="Normal">
+  <Quest code="TutorialMercedes09" index="1026" sort="Tutorial">
 
     <Title>봉인의 끝</Title>
 
@@ -976,7 +976,7 @@
 
   </Quest>
   
-  <Quest code="TutorialMercedes10" index="1027" sort="Normal">
+  <Quest code="TutorialMercedes10" index="1027" sort="Tutorial">
 
     <Title>잠든 에우렐</Title>
 
@@ -990,12 +990,12 @@
     </Task>
 
   </Quest>
- <Quest code="TutorialMercedes11" index="1028" sort="Normal">
+ <Quest code="TutorialMercedes11" index="1028" sort="Tutorial">
 
     <Title>튜토리얼 스킵</Title>
 
   </Quest>
-  <Quest code="TutorialEvan01" index="1030" sort="Normal">
+  <Quest code="TutorialEvan01" index="1030" sort="Tutorial">
 
     <Title>하루의 시작</Title>
 
@@ -1023,7 +1023,7 @@
 
   </Quest>
 
-  <Quest code="TutorialEvan02" index="1031" sort="Normal">
+  <Quest code="TutorialEvan02" index="1031" sort="Tutorial">
 
     <Title>유타의 심부름</Title>
 
@@ -1040,7 +1040,7 @@
 
   </Quest>
 
-  <Quest code="TutorialEvan03" index="1032" sort="Normal">
+  <Quest code="TutorialEvan03" index="1032" sort="Tutorial">
 
     <Title>유타의 심부름</Title>
 
@@ -1062,7 +1062,7 @@
 
   </Quest>
 
-  <Quest code="TutorialEvan04" index="1033" sort="Normal">
+  <Quest code="TutorialEvan04" index="1033" sort="Tutorial">
 
     <Title>유타의 심부름</Title>
 
@@ -1076,7 +1076,7 @@
 
   </Quest>
 
-  <Quest code="TutorialEvan05" index="1034" sort="Normal">
+  <Quest code="TutorialEvan05" index="1034" sort="Tutorial">
 
     <Title>도시락 배달</Title>
 
@@ -1101,7 +1101,7 @@
 
   </Quest>
 
-  <Quest code="TutorialEvan06" index="1035" sort="Normal">
+  <Quest code="TutorialEvan06" index="1035" sort="Tutorial">
 
     <Title>만남 그리고…</Title>
 
@@ -1119,7 +1119,7 @@
 
   </Quest>
 
-  <Quest code="TutorialEvan07" index="1036" sort="Normal">
+  <Quest code="TutorialEvan07" index="1036" sort="Tutorial">
 
     <Title>만남 그리고…</Title>
 
@@ -1141,7 +1141,7 @@
 
   </Quest>
 
-  <Quest code="TutorialEvan08" index="1037" sort="Normal">
+  <Quest code="TutorialEvan08" index="1037" sort="Tutorial">
 
     <Title>만남 그리고 마스터?</Title>
 
@@ -1196,7 +1196,7 @@
 
   </Quest>
 
-  <Quest code="TutorialEvan09" index="1038" sort="Normal">
+  <Quest code="TutorialEvan09" index="1038" sort="Tutorial">
 
     <Title>튜토리얼 스킵</Title>
 
@@ -1216,7 +1216,7 @@
 	
   </Quest>
 
-  <Quest code="TutorialLuminous01" index="1040" sort="Normal">
+  <Quest code="TutorialLuminous01" index="1040" sort="Tutorial">
 
     <Title>결전의 날</Title>
 
@@ -1283,7 +1283,7 @@
 
   </Quest>
 
-  <Quest code="TutorialLuminous02" index="1041" sort="Normal">
+  <Quest code="TutorialLuminous02" index="1041" sort="Tutorial">
 
     <Title>빛과 어둠의 대립</Title>
 
@@ -1323,7 +1323,7 @@
       </Body>
     </Task>
   </Quest>
-  <Quest code="TutorialLuminous03" index="1042" sort="Normal">
+  <Quest code="TutorialLuminous03" index="1042" sort="Tutorial">
 	<Title>만남 그리고 시작</Title>
 	<Task index="1">
       <Body>
@@ -1364,7 +1364,7 @@
 
   </Quest>
   
-	<Quest code="TutorialPhantom01" index="1043" sort="Normal">
+	<Quest code="TutorialPhantom01" index="1043" sort="Tutorial">
 		<Title>잠입 작전</Title>
 		
 		<Task index="4">
@@ -1393,7 +1393,7 @@
 	
 	</Quest>
 	
-	<Quest code="TutorialPhantom02" index="1044" sort="Normal">
+	<Quest code="TutorialPhantom02" index="1044" sort="Tutorial">
 		<Title>잠입 작전</Title>
 	
 		<Task index="1">
@@ -1440,7 +1440,7 @@
 	
 	</Quest>
 	
-	<Quest code="TutorialPhantom03" index="1045" sort="Normal">
+	<Quest code="TutorialPhantom03" index="1045" sort="Tutorial">
 		<Title>잠입 작전</Title>
 	
 		<Task index="1">
@@ -1456,7 +1456,7 @@
 	
 	</Quest>
 	
-	<Quest code="TutorialPhantom04" index="1046" sort="Normal">
+	<Quest code="TutorialPhantom04" index="1046" sort="Tutorial">
 		<Title>잠입 작전</Title>
 	
 		<Task index="1">
@@ -1615,7 +1615,7 @@
 		
 	</Quest>
 	
-	<Quest code="TutorialEunwol01" index="1047" sort="Normal">
+	<Quest code="TutorialEunwol01" index="1047" sort="Tutorial">
 		<Title> </Title>
 		
 		<Task index="3">
@@ -1660,7 +1660,7 @@
 		</Task>
 	</Quest>
 	
-	<Quest code="TutorialEunwol02" index="1048" sort="Normal">
+	<Quest code="TutorialEunwol02" index="1048" sort="Tutorial">
 		<Title> </Title>
 	
 		<Task index="1">
@@ -1739,7 +1739,7 @@
 		</Task>
 	</Quest>
 	
-	<Quest code="TutorialEunwol03" index="1049" sort="Normal">
+	<Quest code="TutorialEunwol03" index="1049" sort="Tutorial">
 		<Title> </Title>
 	
 		<Task index="2">
@@ -1819,7 +1819,7 @@
 		</Task>
 	</Quest>
 	
-	<Quest code="TutorialEunwol04" index="1050" sort="Normal">
+	<Quest code="TutorialEunwol04" index="1050" sort="Tutorial">
 		<Title> </Title>
 		
 		<Task index="1">
@@ -1966,7 +1966,7 @@
 		</Task>
 	</Quest>
 	
-	<Quest code="TutorialEunwol05" index="1051" sort="Normal">
+	<Quest code="TutorialEunwol05" index="1051" sort="Tutorial">
 		<Title> </Title>
 	
 		<Task index="2">
@@ -1996,14 +1996,15 @@
 			</Body>
 		</Task>
 	</Quest>
+
 	
-	<Quest code="TutorialResistance01" index="1052" sort="Normal">
+	<Quest code="TutorialResistance01" index="1052" sort="Tutorial">
 		<Title> </Title>
 		
 		<Task index="1">
 			<Body>
 				<Page speaker="Ulrika_ResistanceTuto_01" position="Right">
-					<s>#un#, 빨리 와! 여기에서 모이자고 해놓고 네가 늦으면 어떡해?</s>
+					<s>#un#, 빨리 와! 여기에서 모이자고 해 놓고 네가 늦으면 어떡해?</s>
 				</Page>
 				<Page speaker="Von_ResistanceTuto_01" position="Right">
 					<s>설마 겁먹은 건 아니지? 킥킥.</s>
@@ -2012,7 +2013,8 @@
 					<s>그럴 리가.</s>
 				</Page>
 				<Page speaker="Jun_ResistanceTuto_01" position="Left">
-					<s>저, 정말? 나는 겁나는데… 어른들이 레벤 광산 쪽으로는 가지 말라고 했잖아. [ff7b50]블랙윙[-] 사람들 때문에 위험하다고…</s>
+					<s>저, 정말? 나는 겁나는데…</s>
+					<s>어른들이 레벤 광산 쪽으로는 가지 말라고 했잖아. [ff7b50]블랙윙[-] 사람들 때문에 위험하다고…</s>
 				</Page>
 				<Page speaker="Von_ResistanceTuto_01" position="Right">
 					<s>어휴, 겁쟁이. 그러니까 일부러 어른들 눈을 피해 돌아서 여기까지 온 거잖아.</s>
@@ -2024,7 +2026,8 @@
 					<s>이미 여기까지 왔잖아? 혼날 때 혼나더라도 지금은 놀자.</s>
 				</Page>
 				<Page speaker="Ulrika_ResistanceTuto_01" position="Right">
-					<s>#un#, 지각했으니까 네가 술래야! 넌 발이 빠르니까 10까지 센 후에 찾는 거야, 알았지?</s>
+					<s>#un#, 지각했으니까 네가 술래야!</s>
+					<s>넌 발이 빠르니까 10까지 센 후에 찾는 거야, 알았지?</s>
 				</Page>
 				<Page speaker="Ulrika_ResistanceTuto_01" position="Right">
 					<s>다들 어디에 숨을지 정했어? 그럼 숨바꼭질 시작한다!</s>
@@ -2040,7 +2043,10 @@
 		<Task index="2">
 			<Body>
 				<Page speaker="player" position="Left">
-					<s>조금 늦었다고 내가 술래라니… 두고 봐, 다 찾아주겠어! 모두들 광산 안쪽에 숨었겠지? 그럼 오른쪽으로 가보자.</s>
+					<s>조금 늦었다고 내가 술래라니… 두고 봐, 다 찾아 주겠어!</s>
+				</Page>
+				<Page speaker="player" position="Left">
+					<s>모두들 광산 안쪽에 숨었겠지? 그럼 오른쪽으로 가 보자.</s>
 				</Page>
 			</Body>
 		</Task>
@@ -2048,7 +2054,6 @@
 		<Task index="3">
 			<Body>
 				<Page speaker="player" position="Left" skip="true">
-					<s>(delay 연출용 페이지)</s>
 				</Page>
 			</Body>
 		</Task>
@@ -2064,7 +2069,6 @@
 		<Task index="5">
 			<Body>
 				<Page speaker="player" position="Left" skip="true">
-					<s>(delay 연출용 페이지)</s>
 				</Page>
 			</Body>
 		</Task>
@@ -2072,7 +2076,8 @@
 		<Task index="6">
 			<Body>
 				<Page speaker="Ulrika_ResistanceTuto_02" position="Right">
-					<s>어라? 들킨 거야? 에헤헤… 내가 너무 찾기 쉬운 데에 숨었나?</s>
+					<s>어라? 들킨 거야? 에헤헤…</s>
+					<s>내가 너무 찾기 쉬운 데에 숨었나?</s>
 				</Page>
 			</Body>
 		</Task>
@@ -2080,21 +2085,21 @@
 		<Task index="7">
 			<Body>
 				<Page speaker="player" position="Left" skip="true">
-					<s>(delay 연출용 페이지)</s>
 				</Page>
 			</Body>
 		</Task>
 		
 		<Task index="8">
 			<Body>
-				<Page speaker="Jun_01" position="Right">
+				<Page speaker="Jun_01" position="Right" animName="Eye">
 					<s>앗! 걸렸다! 칫…</s>
 				</Page>
-				<Page speaker="Jun_01" position="Right">
+				<Page speaker="Jun_01" position="Right" animName="Eye">
 					<s>뭐? 친구들을 거의 다 찾았다고?</s>
 				</Page>
-				<Page speaker="Jun_01" position="Right">
-					<s>반은 찾은 거야? 그 녀석은 잘 숨으니까 열심히 찾아야 할걸?</s>
+				<Page speaker="Jun_01" position="Right" animName="Eye">
+					<s>반은 찾은 거야?</s>
+					<s>그 녀석은 잘 숨으니까 열심히 찾아야 할걸?</s>
 				</Page>
 			</Body>
 		</Task>
@@ -2102,13 +2107,15 @@
 		<Task index="9">
 			<Body>
 				<Page speaker="SuspiciousHollow_ResistanceTuto_02" position="Right">
-					<s>(의심스러워 보이는 구멍이다. 혹시 반은 이 안으로 들어가버린 걸지도 모르겠다. 한번 들어가 볼까?)</s>
+					<s>(의심스러워 보이는 구멍이다.</s>
+					<s>혹시 반은 이 안으로 들어가 버린 걸지도 모르겠다. 한번 들어가 볼까?)</s>
 				</Page>
 			</Body>
 		</Task>
 	</Quest>
+
 	
-	<Quest code="TutorialResistance02" index="1053" sort="Normal">
+	<Quest code="TutorialResistance02" index="1053" sort="Tutorial">
 		<Title> </Title>
 		
 		<Task index="1">
@@ -2148,7 +2155,8 @@
 					<s>흠, 오늘도 별 이상 없군.</s>
 				</Page>
 				<Page speaker="Schiller_ResistanceTuto_01" position="Left">
-					<s>실험체들이 도망치지 못하도록 잘 지키라니… 이런 상황에서 그런 일이 가당키나 해? 늙으면 걱정이 는다더니, 천재 [ff7b50]겔리메르[-] 박사도 나이는 속일 수 없는 모양이야.</s>
+					<s>실험체들이 도망치지 못하도록 잘 지키라니… 이런 상황에서 그런 일이 가당키나 해?</s>
+					<s>늙으면 걱정이 는다더니, 천재 [ff7b50]겔리메르[-] 박사도 나이는 속일 수 없는 모양이야.</s>
 				</Page>
 				<Page speaker="Schiller_ResistanceTuto_01" position="Left">
 					<s>실험도 순조로워 보이겠다, 이제 그만 돌아가 볼까?</s>
@@ -2168,10 +2176,12 @@
 		<Task index="4">
 			<Body>
 				<Page speaker="Schiller_ResistanceTuto_01" position="Left">
-					<s>……뭐야, 침입자가 아니라 실험체였나? 에잉, 괜히 쫄았네!</s>
+					<s>……뭐야, 침입자가 아니라 실험체였나?</s>
+					<s>에잉, 괜히 쫄았네!</s>
 				</Page>
 				<Page speaker="Schiller_ResistanceTuto_01" position="Left">
-					<s>그나저나 실험체한테서 기척이 느껴지다니, 이런 일은 처음이군. 박사에게 보고해야 하나……</s>
+					<s>그나저나 실험체한테서 기척이 느껴지다니, 이런 일은 처음이군.</s>
+					<s>박사에게 보고해야 하나……</s>
 				</Page>
 				<Page speaker="player" position="Right">
 					<s>(지금이야! 저 사람이 한눈을 파는 사이에 어서 여기서 나가자!)</s>
@@ -2190,13 +2200,14 @@
 			</Body>
 		</Task>
 	</Quest>
+
 	
-	<Quest code="TutorialResistance03" index="1054" sort="Normal">
+	<Quest code="TutorialResistance03" index="1054" sort="Tutorial">
 		<Title> </Title>
 		
 		<Task index="1">
 			<Body>
-				<Page speaker="player" position="Right">
+				<Page speaker="player">
 					<s>……헉헉, 설마 여기까지 쫓아오진 못하겠지?</s>
 				</Page>
 			</Body>
@@ -2211,10 +2222,12 @@
 					<s>악!</s>
 				</Page>
 				<Page speaker="Schiller_ResistanceTuto_02" position="Left">
-					<s>여기가 어디라고 겁도 없이 들어와? 광산 근처엔 얼씬도 말라는 어른들 말씀을 잘 들었어야지.</s>
+					<s>여기가 어디라고 겁도 없이 들어와?</s>
+					<s>광산 근처엔 얼씬도 말라는 어른들 말씀을 잘 들었어야지.</s>
 				</Page>
 				<Page speaker="Schiller_ResistanceTuto_02" position="Left">
-					<s>자, 이쪽으로 오렴. 이 아저씨가 친절을 베푸는 동안 순순히 시키는 대로 하는 게 너한테도 좋을 거다.</s>
+					<s>자, 이쪽으로 오렴.</s>
+					<s>이 아저씨가 친절을 베푸는 동안 순순히 시키는 대로 하는 게 너한테도 좋을 거다.</s>
 				</Page>
 				<Page speaker="player" position="Right">
 					<s>!!!</s>
@@ -2228,7 +2241,7 @@
 					<s>이봐! 어린아이를 상대로 거참, 살벌하구먼.</s>
 				</Page>
 				<Page speaker="Brighton_ResistanceTuto_01" position="Left">
-					<s>#un#, 잠깐만 눈 좀 감아주겠어?</s>
+					<s>#un#, 잠깐만 눈 좀 감아 주겠어?</s>
 				</Page>
 			</Body>
 		</Task>
@@ -2236,7 +2249,8 @@
 		<Task index="4">
 			<Body>
 				<Page speaker="Brighton_ResistanceTuto_01" position="Left">
-					<s>후우, 이제 괜찮아. 하지만 이곳에 오래 있는 건 바람직하지 않겠지.</s>
+					<s>후우, 이제 괜찮아.</s>
+					<s>하지만 이곳에 오래 있는 건 바람직하지 않겠지.</s>
 				</Page>
 				<Page speaker="Brighton_ResistanceTuto_01" position="Left">
 					<s>자, 나와 같이 가자.</s>
@@ -2247,92 +2261,107 @@
 			</Body>
 		</Task>
 	</Quest>
+
 	
-	<Quest code="TutorialResistance04" index="1055" sort="Normal">
+	<Quest code="TutorialResistance04" index="1055" sort="Tutorial">
 		<Title> </Title>
 		
 		<Task index="1">
 			<Body>
-				<Page speaker="Claudine_ResistanceTuto_01" position="Left">
+				<Page speaker="Claudine_ResistanceTuto_01">
 					<s>무사히 구했군요. 수고했어요.</s>
 				</Page>
-				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
+				<Page speaker="Brighton_ResistanceTuto_02">
 					<s>친구가 사라졌다는 마을 아이들의 이야기를 들었을 때 설마했는데, 역시 광산 안으로 들어갔던 모양이야. 어쨌든 늦지 않아 다행이었지.</s>
 				</Page>
-				<Page speaker="Claudine_ResistanceTuto_01" position="Left">
+				<Page speaker="Claudine_ResistanceTuto_01">
 					<s>하지만, 걱정하는 친구들에겐 미안한 일이지만 이대로 돌려보낼 순 없어요.</s>
 				</Page>
-				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
-					<s>그렇겠지. 마을엔 블랙윙 감시자들 투성이니까. 이 꼬마가 저들 눈에 띄면 곤란하다고.</s>
+				<Page speaker="Brighton_ResistanceTuto_02">
+					<s>그렇겠지. 마을엔 블랙윙 감시자들 투성이니까.</s>
+					<s>이 꼬마가 저들 눈에 띄면 곤란하다고.</s>
 				</Page>
-				<Page speaker="Claudine_ResistanceTuto_01" position="Left">
-					<s>……일단 당신에게 #un#의 안전을 부탁할게요. 그 다음 일은 제가 준비하죠.</s>
+				<Page speaker="Claudine_ResistanceTuto_01">
+					<s>……일단 당신에게 #un#의 안전을 부탁할게요.</s>
+					<s>그 다음 일은 제가 준비하죠.</s>
 				</Page>
-				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
+				<Page speaker="Brighton_ResistanceTuto_02">
 					<s>좋아, 맡겨둬.</s>
 				</Page>
-				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
-					<s>자, #un#! 우선 이 [ff7b50]물약[-]을 받아. 여기 있는 동안엔 별일 없겠지만, 그래도 만일을 위해 가지고 있는 게 좋을 거야. 위급할 때 바로 사용할 수 있도록 잘 보이는 곳에 챙겨둬.</s>
+				<Page speaker="Brighton_ResistanceTuto_02">
+					<s>자, #un#! 우선 이 [ff7b50]물약[-]을 받아.</s>
+					<s>여기 있는 동안엔 별일 없겠지만, 그래도 만일을 위해 가지고 있는 게 좋을 거야.</s>
+					<s>위급할 때 바로 사용할 수 있도록 잘 보이는 곳에 챙겨 둬.</s>
 				</Page>
 			</Body>
 		</Task>
 		
 		<Task index="4">
 			<Body>
-				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
+				<Page speaker="Brighton_ResistanceTuto_02">
 					<s>……흠, 아무래도 상황이 상황이다 보니 물약만으론 안심이 되질 않는걸.</s>
 				</Page>
-				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
-					<s>내가 간단한 기술을 가르쳐 줄 테니 한번 익혀보겠어? 뭐, 호신술이라고 생각하면 돼.</s>
+				<Page speaker="Brighton_ResistanceTuto_02">
+					<s>내가 간단한 기술을 가르쳐 줄 테니 한번 익혀보겠어?</s>
+					<s>뭐, 호신술이라고 생각하면 돼.</s>
 				</Page>
 			</Body>
 		</Task>
 		
 		<Task index="5">
 			<Body>
-				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
+				<Page speaker="Brighton_ResistanceTuto_02">
 					<s>오, 배움이 빠르군. 제법인걸?</s>
 				</Page>
-				<Page speaker="player" position="Left">
+				<Page speaker="player" position="Right">
 					<s>여긴 어디죠? 그리고 당신들은 누구예요?</s>
 				</Page>
-				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
+				<Page speaker="Brighton_ResistanceTuto_02">
 					<s>아아, 실례! 마음이 급해서 자기소개를 깜빡했군.</s>
 				</Page>
-				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
-					<s>너도 에델슈타인 출신이니까 알고 있겠지? 이 도시가 블랙윙의 지배를 받고 있다는 사실을.</s>
+				<Page speaker="Brighton_ResistanceTuto_02">
+					<s>너도 에델슈타인 출신이니까 알고 있겠지?</s>
+					<s>이 도시가 블랙윙의 지배를 받고 있다는 사실을.</s>
 				</Page>
-				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
-					<s>빼앗긴 광산, 점령당한 의회, 감시자들의 존재… 마을 사람들은 노예처럼 숨 죽인 채 그들의 명령을 들을 수밖에 없지. 하지만 블랙윙이라 하더라도 마음까지 지배하는 것은 불가능해.</s>
+				<Page speaker="Brighton_ResistanceTuto_02">
+					<s>빼앗긴 광산, 점령당한 의회, 감시자들의 존재…</s>
+					<s>마을 사람들은 노예처럼 숨 죽인 채 그들의 명령을 들을 수밖에 없지.</s>
+					<s>하지만 블랙윙이라 하더라도 마음까지 지배하는 것은 불가능해.</s>
 				</Page>
-				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
-					<s>내 이름은 헨리테, 여기 있는 동료들과 함께 블랙윙에 대항하는 [ff7b50]레지스탕스[-]의 일원이지.</s>
+				<Page speaker="Brighton_ResistanceTuto_02">
+					<s>내 이름은 헨리테,</s>
+					<s>여기 있는 동료들과 함께 블랙윙에 대항하는 [ff7b50]레지스탕스[-]의 일원이지.</s>
 				</Page>
-				<Page speaker="player" position="Left">
-					<s>……헨리테? 아앗! 마을의 환경 미화원?!</s>
+				<Page speaker="player" position="Right">
+					<s>……헨리테?</s>
+					<s></s>
+					<s>아앗! 마을의 환경 미화원?!</s>
 				</Page>
-				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
-					<s>하핫, 이제야 알아보는군! 잘 보면 익숙한 얼굴이 더 보일 거야.</s>
+				<Page speaker="Brighton_ResistanceTuto_02">
+					<s>하핫, 이제야 알아보는군!</s>
+					<s>잘 보면 익숙한 얼굴이 더 보일 거야.</s>
 				</Page>
-				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
-					<s>너한테는 부득이하게 공개하게 되었지만, 이 본부와 우리들의 정체는 비밀이라는 걸 명심해. 절대 아무에게도 말하지 않겠다고 약속해 주겠지?</s>
+				<Page speaker="Brighton_ResistanceTuto_02">
+					<s>너한테는 부득이하게 공개하게 되었지만, 이 본부와 우리들의 정체는 비밀이라는 걸 명심해.</s>
+					<s>절대 아무에게도 말하지 않겠다고 약속해 주겠지?</s>
 				</Page>
-				<Page speaker="player" position="Left">
+				<Page speaker="player" position="Right">
 					<s>(끄덕)</s>
 				</Page>
-				<Page speaker="Brighton_ResistanceTuto_02" position="Right">
+				<Page speaker="Brighton_ResistanceTuto_02">
 					<s>좋아, 널 믿을게. 그리고 당분간 자유롭지 못해서 불편하겠지만 다 네 안전을 위해서라는 거 알지? 그럼 여기 있는 동안 잘 부탁한다!</s>
 				</Page>
 			</Body>
 		</Task>
 	</Quest>
+
 	
-		<Quest code="TutorialResistance05" index="1056" sort="Normal">
+	<Quest code="TutorialResistance05" index="1056" sort="Tutorial">
 		<Title> </Title>
 		
 		<Task index="1">
 			<Body>
-				<Page speaker="player" position="Right">
+				<Page speaker="player">
 					<s>……헉헉, 설마 여기까지 쫓아오진 못하겠지?</s>
 				</Page>
 			</Body>
@@ -2347,10 +2376,12 @@
 					<s>악!</s>
 				</Page>
 				<Page speaker="Schiller_ResistanceTuto_02" position="Left">
-					<s>여기가 어디라고 겁도 없이 들어와? 광산 근처엔 얼씬도 말라는 어른들 말씀을 잘 들었어야지.</s>
+					<s>여기가 어디라고 겁도 없이 들어와?</s>
+					<s>광산 근처엔 얼씬도 말라는 어른들 말씀을 잘 들었어야지.</s>
 				</Page>
 				<Page speaker="Schiller_ResistanceTuto_02" position="Left">
-					<s>자, 이쪽으로 오렴. 이 아저씨가 친절을 베푸는 동안 순순히 시키는 대로 하는 게 너한테도 좋을 거다.</s>
+					<s>자, 이쪽으로 오렴.</s>
+					<s>이 아저씨가 친절을 베푸는 동안 순순히 시키는 대로 하는 게 너한테도 좋을 거다.</s>
 				</Page>
 				<Page speaker="player" position="Right">
 					<s>!!!</s>
@@ -2364,7 +2395,7 @@
 					<s>느닷없지만 잠시 실례하겠습니다.</s>
 				</Page>
 				<Page speaker="Checky_ResistanceTuto_01" position="Left">
-					<s>#un#, 당신은 눈을 좀 감아주시겠습니까?</s>
+					<s>#un#, 당신은 눈을 좀 감아 주시겠습니까?</s>
 				</Page>
 			</Body>
 		</Task>
@@ -2372,19 +2403,26 @@
 		<Task index="4">
 			<Body>
 				<Page speaker="Checky_ResistanceTuto_01" position="Left">
-					<s>후우, 이제 괜찮습니다. 하지만 이곳에 오래 있는 건 바람직하지 않겠지요.</s>
+					<s>후우, 이제 괜찮습니다.</s>
+					<s>하지만 이곳에 오래 있는 건 바람직하지 않겠지요.</s>
 				</Page>
 				<Page speaker="Checky_ResistanceTuto_01" position="Left">
 					<s>자, 저와 함께 가시죠.</s>
 				</Page>
 				<Page speaker="Checky_ResistanceTuto_01" position="Left">
-					<s>……시선이 상당히 뜨겁군요. 안심하십시오. 저는 무서운 사람이 아닙니다. 보세요, 이 얼마나 귀엽고 사랑스러운 모습입니까? 그러니 그런 수상쩍다는 눈초리로 경계하지 않으셔도 됩니다.</s>
+					<s>……시선이 상당히 뜨겁군요.</s>
+					<s>안심하십시오. 저는 무서운 사람이 아닙니다.</s>
+				</Page>
+				<Page speaker="Checky_ResistanceTuto_01" position="Left">
+					<s>보세요, 이 얼마나 귀엽고 사랑스러운 모습입니까?</s>
+					<s>그러니 그런 수상쩍다는 눈초리로 경계하지 않으셔도 됩니다.</s>
 				</Page>
 			</Body>
 		</Task>
 	</Quest>
+
 	
-	<Quest code="TutorialResistance06" index="1057" sort="Normal">
+	<Quest code="TutorialResistance06" index="1057" sort="Tutorial">
 		<Title> </Title>
 		
 		<Task index="1">
@@ -2399,16 +2437,20 @@
 					<s>하지만, 걱정하는 친구들에겐 미안한 일이지만 이대로 돌려보낼 순 없어요.</s>
 				</Page>
 				<Page speaker="Checky_ResistanceTuto_02" position="Right">
-					<s>하긴 마을엔 블랙윙 감시자들 투성이니까요. 이 친구가 저들 눈에 띄면 곤란해질 겁니다.</s>
+					<s>하긴 마을엔 블랙윙 감시자들 투성이니까요.</s>
+					<s>이 친구가 저들 눈에 띄면 곤란해질 겁니다.</s>
 				</Page>
 				<Page speaker="Claudine_ResistanceTuto_01" position="Left">
-					<s>……일단 당신에게 #un#의 안전을 부탁할게요. 그 다음 일은 제가 준비하죠.</s>
+					<s>……일단 당신에게 #un#의 안전을 부탁할게요.</s>
+					<s>그 다음 일은 제가 준비하죠.</s>
 				</Page>
 				<Page speaker="Checky_ResistanceTuto_02" position="Right">
 					<s>알겠습니다.</s>
 				</Page>
 				<Page speaker="Checky_ResistanceTuto_02" position="Right">
-					<s>그럼 #un#, 우선 이 [ff7b50]물약[-]을 받으십시오. 여기 있는 동안엔 별일 없겠지만, 그래도 만일을 위해 가지고 있는 게 좋겠습니다. 위급할 때 바로 사용할 수 있도록 잘 보이는 곳에 챙겨 두십시오.</s>
+					<s>그럼 #un#, 우선 이 [ff7b50]물약[-]을 받으십시오.</s>
+					<s>여기 있는 동안엔 별일 없겠지만, 그래도 만일을 위해 가지고 있는 게 좋겠습니다.</s>
+					<s>위급할 때 바로 사용할 수 있도록 잘 보이는 곳에 챙겨 두십시오.</s>
 				</Page>
 			</Body>
 		</Task>
@@ -2419,7 +2461,8 @@
 					<s>……음, 아무래도 상황이 상황이다 보니 물약만으론 안심이 되질 않는군요.</s>
 				</Page>
 				<Page speaker="Checky_ResistanceTuto_02" position="Right">
-					<s>제가 간단한 기술을 가르쳐 드릴 테니 한번 익혀보겠습니까? 호신술이라고 생각하면 됩니다.</s>
+					<s>제가 간단한 기술을 가르쳐 드릴 테니 한번 익혀보겠습니까?</s>
+					<s>호신술이라고 생각하면 됩니다.</s>
 				</Page>
 			</Body>
 		</Task>
@@ -2433,22 +2476,30 @@
 					<s>여긴 어디죠? 그리고 당신들은 누구예요?</s>
 				</Page>
 				<Page speaker="Checky_ResistanceTuto_02" position="Right">
-					<s>앗, 이런… 마음이 급해서 자기소개를 깜빡했습니다. 결례를 용서하십시오.</s>
+					<s>앗, 이런… 마음이 급해서 자기소개를 깜빡했습니다.</s>
+					<s>결례를 용서하십시오.</s>
 				</Page>
 				<Page speaker="Checky_ResistanceTuto_02" position="Right">
-					<s>당신도 에델슈타인 출신이니까 알고 있겠지요? 이 도시가 블랙윙의 지배를 받고 있다는 사실을.</s>
+					<s>당신도 에델슈타인 출신이니까 알고 있겠지요?</s>
+					<s>이 도시가 블랙윙의 지배를 받고 있다는 사실을.</s>
 				</Page>
 				<Page speaker="Checky_ResistanceTuto_02" position="Right">
-					<s>빼앗긴 광산, 점령당한 의회, 감시자들의 존재… 마을 사람들은 노예처럼 숨 죽인 채 그들의 명령을 들을 수밖에 없습니다. 하지만 블랙윙이라 하더라도 마음까지 지배하는 것은 불가능하지요.</s>
+					<s>빼앗긴 광산, 점령당한 의회, 감시자들의 존재…</s>
+					<s>마을 사람들은 노예처럼 숨 죽인 채 그들의 명령을 들을 수밖에 없습니다.</s>
+					<s>하지만 블랙윙이라 하더라도 마음까지 지배하는 것은 불가능하지요.</s>
 				</Page>
 				<Page speaker="Checky_ResistanceTuto_02" position="Right">
-					<s>제 이름은 체키, 여기 있는 동료들과 함께 블랙윙에 대항하는 [ff7b50]레지스탕스[-]의 일원입니다.</s>
+					<s>제 이름은 체키,</s>
+					<s>여기 있는 동료들과 함께 블랙윙에 대항하는 [ff7b50]레지스탕스[-]의 일원입니다.</s>
 				</Page>
 				<Page speaker="player" position="Left">
-					<s>……체키? 아앗! 마을에서 풍선을 나눠주던 곰돌이 알바?!</s>
+					<s>……체키?</s>
+					<s></s>
+					<s>아앗! 마을에서 풍선을 나눠주던 곰돌이 알바?!</s>
 				</Page>
 				<Page speaker="Checky_ResistanceTuto_02" position="Right">
-					<s>훗, 제 위장이 감쪽같지요? 잘 보면 익숙한 얼굴이 더 보일 겁니다.</s>
+					<s>훗, 제 위장이 감쪽같지요?</s>
+					<s>잘 보면 익숙한 얼굴이 더 보일 겁니다.</s>
 				</Page>
 				<Page speaker="Checky_ResistanceTuto_02" position="Right">
 					<s>당신한테는 부득이하게 공개하게 되었지만, 이 본부와 우리들의 정체는 비밀이라는 걸 명심해야 합니다. 절대 아무에게도 말하지 않겠다고 약속해 주시겠지요?</s>
@@ -2462,13 +2513,14 @@
 			</Body>
 		</Task>
 	</Quest>
+
 		
-	<Quest code="TutorialResistance07" index="1058" sort="Normal">
+	<Quest code="TutorialResistance07" index="1058" sort="Tutorial">
 		<Title> </Title>
 		
 		<Task index="1">
 			<Body>
-				<Page speaker="player" position="Right">
+				<Page speaker="player">
 					<s>……헉헉, 설마 여기까지 쫓아오진 못하겠지?</s>
 				</Page>
 			</Body>
@@ -2483,10 +2535,12 @@
 					<s>악!</s>
 				</Page>
 				<Page speaker="Schiller_ResistanceTuto_02" position="Left">
-					<s>여기가 어디라고 겁도 없이 들어와? 광산 근처엔 얼씬도 말라는 어른들 말씀을 잘 들었어야지.</s>
+					<s>여기가 어디라고 겁도 없이 들어와?</s>
+					<s>광산 근처엔 얼씬도 말라는 어른들 말씀을 잘 들었어야지.</s>
 				</Page>
 				<Page speaker="Schiller_ResistanceTuto_02" position="Left">
-					<s>자, 이쪽으로 오렴. 이 아저씨가 친절을 베푸는 동안 순순히 시키는 대로 하는 게 너한테도 좋을 거다.</s>
+					<s>자, 이쪽으로 오렴.</s>
+					<s>이 아저씨가 친절을 베푸는 동안 순순히 시키는 대로 하는 게 너한테도 좋을 거다.</s>
 				</Page>
 				<Page speaker="player" position="Right">
 					<s>!!!</s>
@@ -2497,7 +2551,8 @@
 		<Task index="3">
 			<Body>
 				<Page speaker="Belle_ResistanceTuto_01" position="Left">
-					<s>그 말 그대로 돌려주지. 조금이라도 덜 다치고 싶다면 내가 친절을 베푸는 동안 그다지 저항하지 않는 게 좋을 거야.</s>
+					<s>그 말 그대로 돌려주지.</s>
+					<s>조금이라도 덜 다치고 싶다면 내가 친절을 베푸는 동안 그다지 저항하지 않는 게 좋을 거야.</s>
 				</Page>
 				<Page speaker="Belle_ResistanceTuto_01" position="Left">
 					<s>#un#, 눈 감아!</s>
@@ -2508,19 +2563,27 @@
 		<Task index="4">
 			<Body>
 				<Page speaker="Belle_ResistanceTuto_01" position="Left">
-					<s>후우, 아슬아슬했네. 괜찮아? 응? 그 사람? 글쎄, 어디선가 한동안 얌전히 낮잠이라도 자지 않을까?</s>
+					<s>후우, 아슬아슬했네. 괜찮아?</s>
+					<s>응? 그 사람? 글쎄, 어디선가 한동안 얌전히 낮잠이라도 자지 않을까?</s>
 				</Page>
 				<Page speaker="Belle_ResistanceTuto_01" position="Left">
-					<s>자, 그런 아무래도 좋은 일엔 신경 쓰지 말고 날 따라 와. ……음? 왜 그리 머뭇거려? 혹시 내가 수상해 보여?</s>
+					<s>자, 그런 아무래도 좋은 일엔 신경 쓰지 말고 날 따라 와.</s>
+					<s>……음? 왜 그리 머뭇거려? 혹시 내가 수상해 보여?</s>
 				</Page>
 				<Page speaker="Belle_ResistanceTuto_01" position="Left">
-					<s>아하하! 좋은 자세야! 이 도시에서 낯선 사람은 경계하는 게 마땅하지. 하지만 지금은 실랑이할 여유가 없거든. 그러니 내가 널 들쳐 업는 수고를 하기 전에 여기선 날 따라주면 고맙겠어.</s>
+					<s>아하하! 좋은 자세야!</s>
+					<s>이 도시에서 낯선 사람은 경계하는 게 마땅하지.</s>
+				</Page>
+				<Page speaker="Belle_ResistanceTuto_01" position="Left">
+					<s>하지만 지금은 실랑이할 여유가 없거든.</s>
+					<s>그러니 내가 널 들쳐업는 수고를 하기 전에 여기선 날 따라 주면 고맙겠어.</s>
 				</Page>
 			</Body>
 		</Task>
 	</Quest>
+
 	
-	<Quest code="TutorialResistance08" index="1059" sort="Normal">
+	<Quest code="TutorialResistance08" index="1059" sort="Tutorial">
 		<Title> </Title>
 		
 		<Task index="1">
@@ -2535,16 +2598,20 @@
 					<s>하지만, 걱정하는 친구들에겐 미안한 일이지만 이대로 돌려보낼 순 없어요.</s>
 				</Page>
 				<Page speaker="Belle_ResistanceTuto_02" position="Right">
-					<s>하긴. 마을엔 블랙윙 감시자들 투성이니까. 이 꼬마가 저들 눈에 띄면 곤란하지.</s>
+					<s>하긴. 마을엔 블랙윙 감시자들 투성이니까.</s>
+					<s>이 꼬마가 저들 눈에 띄면 곤란하지.</s>
 				</Page>
 				<Page speaker="Claudine_ResistanceTuto_01" position="Left">
-					<s>……일단 당신에게 #un#의 안전을 부탁할게요. 그 다음 일은 제가 준비하죠.</s>
+					<s>……일단 당신에게 #un#의 안전을 부탁할게요.</s>
+					<s>그 다음 일은 제가 준비하죠.</s>
 				</Page>
 				<Page speaker="Belle_ResistanceTuto_02" position="Right">
 					<s>알겠어. 책임지고 지킬게.</s>
 				</Page>
 				<Page speaker="Belle_ResistanceTuto_02" position="Right">
-					<s>#un#, 들었지? 그럼 우선 이 [ff7b50]물약[-]을 받아. 여기 있는 동안엔 별일 없겠지만, 그래도 만일을 위해 가지고 있는 게 좋을 거야. 위급할 때 바로 사용할 수 있도록 잘 보이는 곳에 챙겨 둬.</s>
+					<s>#un#, 들었지? 그럼 우선 이 [ff7b50]물약[-]을 받아.</s>
+					<s>여기 있는 동안엔 별일 없겠지만, 그래도 만일을 위해 가지고 있는 게 좋을 거야.</s>
+					<s>위급할 때 바로 사용할 수 있도록 잘 보이는 곳에 챙겨 둬.</s>
 				</Page>
 			</Body>
 		</Task>
@@ -2555,10 +2622,17 @@
 					<s>……음, 아무래도 상황이 상황이다 보니 물약만으론 안심이 되질 않네.</s>
 				</Page>
 				<Page speaker="Belle_ResistanceTuto_02" position="Right">
-					<s>간단한 기술을 가르쳐 줄 테니 한번 익혀 보겠어? 호신술이라고 생각하면 돼. 다만 전제 조건이 하나 있어. 내 기술을 배우려면 재규어가 한 마리 필요하거든.</s>
+					<s>간단한 기술을 가르쳐 줄 테니 한번 익혀 보겠어?</s>
+					<s>호신술이라고 생각하면 돼.</s>
 				</Page>
 				<Page speaker="Belle_ResistanceTuto_02" position="Right">
-					<s>원래 자기가 탈 [ff7b50]재규어[-]는 스스로 포획해서 길들이는 게 정석이지만…… 넌 경우가 특수하니까 블랙잭에게 부탁해서 임시로 내어 줄게. 설마 겁먹은 건 아니지? 하핫!</s>
+					<s>다만 전제 조건이 하나 있어.</s>
+					<s>내 기술을 배우려면 재규어가 한 마리 필요하거든.</s>
+				</Page>
+				<Page speaker="Belle_ResistanceTuto_02" position="Right">
+					<s>원래 자기가 탈 [ff7b50]재규어[-]는 스스로 포획해서 길들이는 게 정석이지만……</s>
+					<s>넌 경우가 특수하니까 블랙잭에게 부탁해서 임시로 내어 줄게.</s>
+					<s>설마 겁먹은 건 아니지? 하핫!</s>
 				</Page>
 			</Body>
 		</Task>
@@ -2575,22 +2649,30 @@
 					<s>앗, 내가 아직 자기소개를 하지 않았나? 마음이 너무 앞섰나 보군.</s>
 				</Page>
 				<Page speaker="Belle_ResistanceTuto_02" position="Right">
-					<s>너도 에델슈타인 출신이니까 알고 있겠지? 이 도시가 블랙윙의 지배를 받고 있다는 사실을.</s>
+					<s>너도 에델슈타인 출신이니까 알고 있겠지?</s>
+					<s>이 도시가 블랙윙의 지배를 받고 있다는 사실을.</s>
 				</Page>
 				<Page speaker="Belle_ResistanceTuto_02" position="Right">
-					<s>빼앗긴 광산, 점령당한 의회, 감시자들의 존재… 마을 사람들은 노예처럼 숨 죽인 채 그들의 명령을 들을 수밖에 없어. 하지만 블랙윙이라 하더라도 마음까지 지배하는 것은 불가능하지.</s>
+					<s>빼앗긴 광산, 점령당한 의회, 감시자들의 존재…</s>
+					<s>마을 사람들은 노예처럼 숨 죽인 채 그들의 명령을 들을 수밖에 없어.</s>
+					<s>하지만 블랙윙이라 하더라도 마음까지 지배하는 것은 불가능하지.</s>
 				</Page>
 				<Page speaker="Belle_ResistanceTuto_02" position="Right">
-					<s>내 이름은 벨, 여기 있는 동료들과 함께 블랙윙에 대항하는 [ff7b50]레지스탕스[-]의 일원이야.</s>
+					<s>내 이름은 벨,</s>
+					<s>여기 있는 동료들과 함께 블랙윙에 대항하는 [ff7b50]레지스탕스[-]의 일원이야.</s>
 				</Page>
 				<Page speaker="player" position="Left">
-					<s>……벨? 아앗! 마을에서 치안을 담당하던 경찰관?!</s>
+					<s>……벨?</s>
+					<s></s>
+					<s>아앗! 마을에서 치안을 담당하던 경찰관?!</s>
 				</Page>
 				<Page speaker="Belle_ResistanceTuto_02" position="Right">
-					<s>하핫, 재미있는 표정이네? 하지만 이걸로 놀라긴 일러. 잘 보면 익숙한 얼굴이 더 보일 테니까!</s>
+					<s>하핫, 재미있는 표정이네? 하지만 이걸로 놀라긴 일러.</s>
+					<s>잘 보면 익숙한 얼굴이 더 보일 테니까!</s>
 				</Page>
 				<Page speaker="Belle_ResistanceTuto_02" position="Right">
-					<s>너한테는 부득이하게 공개하게 되었지만, 이 본부와 우리들의 정체는 비밀이라는 걸 명심해. 절대 아무에게도 말하지 않겠다고 약속할 수 있지?</s>
+					<s>너한테는 부득이하게 공개하게 되었지만, 이 본부와 우리들의 정체는 비밀이라는 걸 명심해.</s>
+					<s>절대 아무에게도 말하지 않겠다고 약속할 수 있지?</s>
 				</Page>
 				<Page speaker="player" position="Left">
 					<s>(끄덕)</s>
@@ -2602,6 +2684,163 @@
 		</Task>
 	</Quest>
 	
+	
+	<Quest code="TutorialResistance09" index="1119" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="player">
+					<s>……헉헉, 설마 여기까지 쫓아오진 못하겠지?</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="2">
+			<Body>
+				<Page speaker="Schiller_ResistanceTuto_02" position="Left">
+					<s>꼬마야, 이 쉴러님을 우습게 보지 마라.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>악!</s>
+				</Page>
+				<Page speaker="Schiller_ResistanceTuto_02" position="Left">
+					<s>여기가 어디라고 겁도 없이 들어와?</s>
+					<s>광산 근처엔 얼씬도 말라는 어른들 말씀을 잘 들었어야지.</s>
+				</Page>
+				<Page speaker="Schiller_ResistanceTuto_02" position="Left">
+					<s>자, 이쪽으로 오렴.</s>
+					<s>이 아저씨가 친절을 베푸는 동안 순순히 시키는 대로 하는 게 너한테도 좋을 거다.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>!!!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="Elex_ResistanceTuto_01" position="Left">
+					<s>이런 몹쓸 어른을 따라가면 안 돼, #un#.</s>
+				</Page>
+				<Page speaker="Elex_ResistanceTuto_01" position="Left">
+					<s>그러니 잠시만 눈을 감으렴!</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="Elex_ResistanceTuto_01" position="Left">
+					<s>후우, 이제 괜찮다.</s>
+					<s>하지만 이곳에 오래 있는 건 바람직하지 않겠지.</s>
+				</Page>
+				<Page speaker="Elex_ResistanceTuto_01" position="Left">
+					<s>자, 나와 함께 가자.</s>
+				</Page>
+				<Page speaker="Elex_ResistanceTuto_01" position="Left">
+					<s>……도망가려고? 뒷걸음질쳐도 소용없을 텐데.</s>
+				</Page>
+				<Page speaker="Elex_ResistanceTuto_01" position="Left">
+					<s>이래 봬도 말 안 듣는 꼬맹이를 다루는 일엔 아주 익숙하거든. 후후.</s>
+				</Page>
+			</Body>
+		</Task>
+	</Quest>
+
+	
+	<Quest code="TutorialResistance10" index="1120" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="Claudine_ResistanceTuto_01" position="Right">
+					<s>무사히 구했군요. 수고했어요.</s>
+				</Page>
+				<Page speaker="Elex_ResistanceTuto_02" position="Left">
+					<s>친구가 사라졌다는 마을 아이들의 이야기를 들었을 때 설마했는데, 역시 광산 안으로 들어갔던 모양이야. 어쨌든 늦지 않아 다행이었어.</s>
+				</Page>
+				<Page speaker="Claudine_ResistanceTuto_01" position="Right">
+					<s>하지만, 걱정하는 친구들에겐 미안한 일이지만 이대로 돌려보낼 순 없어요.</s>
+				</Page>
+				<Page speaker="Elex_ResistanceTuto_02" position="Left">
+					<s>물론이야. 마을엔 블랙윙 감시자들 투성이니까.</s>
+					<s>이 아이가 저들 눈에 띄면 곤란해.</s>
+				</Page>
+				<Page speaker="Claudine_ResistanceTuto_01" position="Right">
+					<s>……일단 당신에게 #un#의 안전을 부탁할게요.</s>
+					<s>그 다음 일은 제가 준비하죠.</s>
+				</Page>
+				<Page speaker="Elex_ResistanceTuto_02" position="Left">
+					<s>그야 어렵지 않지.</s>
+				</Page>
+				<Page speaker="Elex_ResistanceTuto_02" position="Left">
+					<s>#un#, 이 [ff7b50]물약[-]을 받아.</s>
+					<s>여기 있는 동안엔 별일 없겠지만, 그래도 만일을 위해 가지고 있는 게 좋을 거다.</s>
+					<s>위급할 때 바로 사용할 수 있도록 잘 보이는 곳에 챙겨 두도록 해.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="Elex_ResistanceTuto_02" position="Left">
+					<s>……음, 아무래도 상황이 상황이다 보니 물약만으론 안심이 되질 않는군.</s>
+				</Page>
+				<Page speaker="Elex_ResistanceTuto_02" position="Left">
+					<s>간단한 기술을 가르쳐 줄 테니 한번 익혀봐.</s>
+					<s>호신술이라고 생각하면 된다.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="Elex_ResistanceTuto_02" position="Left">
+					<s>그 정도면 충분해. 배움이 빠른걸.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>여긴 어디죠? 그리고 당신들은 누구예요?</s>
+				</Page>
+				<Page speaker="Elex_ResistanceTuto_02" position="Left">
+					<s>앗, 이런… 마음이 급해서 자기소개를 깜빡했군.</s>
+				</Page>
+				<Page speaker="Elex_ResistanceTuto_02" position="Left">
+					<s>너도 에델슈타인 출신이니까 알고 있겠지?</s>
+					<s>이 도시가 블랙윙의 지배를 받고 있다는 사실을.</s>
+				</Page>
+				<Page speaker="Elex_ResistanceTuto_02" position="Left">
+					<s>빼앗긴 광산, 점령당한 의회, 감시자들의 존재…</s>
+					<s>마을 사람들은 노예처럼 숨 죽인 채 그들의 명령을 들을 수밖에 없지.</s>
+					<s>하지만 블랙윙이라 하더라도 마음까지 지배하는 것은 불가능해.</s>
+				</Page>
+				<Page speaker="Elex_ResistanceTuto_02" position="Left">
+					<s>내 이름은 일렉스,</s>
+					<s>여기 있는 동료들과 함께 블랙윙에 대항하는 [ff7b50]레지스탕스[-]의 일원이다.</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>……일렉스?</s>
+					<s></s>
+					<s>아앗! 그 유치원 선생님?!</s>
+				</Page>
+				<Page speaker="Elex_ResistanceTuto_02" position="Left">
+					<s>많이 놀랐나?</s>
+					<s>잘 보면 익숙한 얼굴이 더 보일 거다.</s>
+				</Page>
+				<Page speaker="Elex_ResistanceTuto_02" position="Left">
+					<s>너한테는 부득이하게 공개하게 되었지만, 이 본부와 우리들의 정체는 비밀이라는 걸 명심해.</s>
+					<s>절대 아무에게도 말하지 않겠다고 약속할 수 있지?</s>
+				</Page>
+				<Page speaker="player" position="Right">
+					<s>(끄덕)</s>
+				</Page>
+				<Page speaker="Elex_ResistanceTuto_02" position="Left">
+					<s>그래, 널 믿는다. 그리고 당분간 자유롭지 못해서 불편하겠지만 다 네 안전을 위해서라는 걸 이해해 주길 바라. 그럼 여기 있는 동안 잘 부탁해!</s>
+				</Page>
+			</Body>
+		</Task>
+	</Quest>
+
 	
 	<Quest code="TutorialDemon02" index="1061" sort="Tutorial">
 		<Title> </Title>
@@ -3688,7 +3927,7 @@
 				<Page speaker="player" position="Left">
 					<s>무슨 일이야?</s>
 				</Page>
-				<Page speaker="RooD_Xenontuto_02" position="Right" type="Image" Image.Code="XenonCinema_03_01" Image.Path="DynamicTexture/Quest/Xenon/XenonCinema_03_01" Image.IsOn="TRUE" Image.UseOriginSize="true">>
+				<Page speaker="RooD_Xenontuto_02" position="Right" type="Image" Image.Code="XenonCinema_03_01" Image.Path="DynamicTexture/Quest/Xenon/XenonCinema_03_01" Image.IsOn="TRUE" Image.UseOriginSize="true">
 					<s>아, 이거 받아.</s>
 				</Page>
 				<Page speaker="player" position="Left">

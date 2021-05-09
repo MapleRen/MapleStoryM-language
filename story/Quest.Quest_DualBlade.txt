@@ -73,7 +73,7 @@
 			</Page>
 			<Page>
 				<s>임무 수고했어요.</s>
-				<s>이제 홍아에게 가보도록 해요.</s>
+				<s>이제 홍아에게 가 보도록 해요.</s>
 			</Page>
 		</Body>
 	</Task>
@@ -830,7 +830,7 @@
 	<Task index="1">
 		<Body>
 			<Page>
-				<s>홍아님이 돌아오길 마냥 기다렸다간 꽃이 시들어버릴 거야.</s>
+				<s>홍아님이 돌아오길 마냥 기다렸다간 꽃이 시들어 버릴 거야.</s>
 				<s>방법을 찾아보자.</s>
 			</Page>
 		</Body>
@@ -871,7 +871,7 @@
 				<s>(이런.)</s>
 			</Page>
 			<Page>
-				<s>그래도 혹시 모르니 [ff7b50]임시공항[-]으로 가보세요.</s>
+				<s>그래도 혹시 모르니 [ff7b50]임시공항[-]으로 가 보세요.</s>
 				<s>이 마을 주민들이 맡긴 우편물들을 가지고 이동하느라 당신보다는 걸음이 느릴 테니까요.</s>
 				<s>서두르면 그를 만날 수 있을지도 몰라요.</s>
 			</Page>
@@ -1365,7 +1365,7 @@
 				<s>새로운 임무인가요?</s>
 			</Page>
 			<Page>
-				<s>임무…라기 보다는 가벼운 외출이라고 해두지.</s>
+				<s>임무…라기 보다는 가벼운 외출이라고 해 두지.</s>
 			</Page>
 			<Page speaker="player">
 				<s>알겠습니다. 그 항구 도시에 방문 목적은요?</s>
@@ -1478,7 +1478,7 @@
 				<s>그럴 수도 있지만 단순히 운이 나쁜 걸 수도 있지.</s>
 				<s>분실된 건 우리가 기다리던 그 소포만이 아니니까.</s>
 			</Page>
-			<Page speaker="NPC_Honga_22">
+			<Page speaker="NPC_Honga_22" animName="Stand">
 				<s>음…</s>
 			</Page>
 			<Page>
@@ -1495,7 +1495,7 @@
 				<s>오르비스행 정류장으로 가야겠군.</s>
 				<s>그럼 다음에 보지.</s>
 			</Page>
-			<Page>
+			<Page animName="Stand">
 				<s>후…</s>
 			</Page>
 			<Page speaker="player">
@@ -1593,7 +1593,7 @@
 			<Page speaker="player">
 				<s>그럼 듀얼블레이드가 도적단을 적대시하는 이유를 알고 싶어요.</s>
 			</Page>
-			<Page>
+			<Page animName="Stand">
 				<s>!</s>
 			</Page>
 			<Page>
@@ -2073,7 +2073,7 @@
 </Quest>
 
 
-<Quest code="DualBlade_00038" index="56038" sort="Epic">
+<Quest code="DualBlade_0038" index="56038" sort="Epic">
 
 	<Title>정탐 임무 3</Title>
 
@@ -2570,7 +2570,7 @@
 				<s>우리 조직의 존재를 드러내는 위험을 감수해야 하니까 말이야.</s>
 			</Page>
 			<Page>
-				<s>네가 그 교섭인의 역할을 맡아주었으면 해.</s>
+				<s>네가 그 교섭인의 역할을 맡아 주었으면 해.</s>
 				<s>왜냐하면 우리가 접선하려는 조직이 너와 인연이 있거든.</s>
 			</Page>
 			<Page>
@@ -2585,7 +2585,7 @@
 
 	<Task index="2">
 		<Body>
-			<Page>
+			<Page animName="Stand">
 				<s>!</s>
 			</Page>
 			<Page>
@@ -2611,7 +2611,7 @@
 				<s>죄를 지은 것 같아요.</s>
 				<s>절 체포해 주시겠어요?</s>
 			</Page>
-			<Page>
+			<Page animName="Stand">
 				<s>!</s>
 			</Page>
 			<Page actionCommand="DualBlade_0046_01">
@@ -2768,7 +2768,7 @@
 			</Page>
 			<Page>
 				<s>(다행히도 블랙윙은 자신들의 정체를 감추지 않고 있어서 찾는 수고는 덜겠군.</s>
-				<s>제복을 입고 있는 자에게 가보자.)</s>
+				<s>제복을 입고 있는 자에게 가 보자.)</s>
 			</Page>
 		</Body>
 	</Task>
@@ -2867,7 +2867,7 @@
 				<s>그러면 이걸 받아. 신분을 위조한 출입증이야.</s>
 			</Page>
 			<Page>
-				<s>[ff7b50]광산 입구[-]에 있는 [ff7b50]문지기[-]에게 보여주면 내부로 들어갈 수 있을 거야.</s>
+				<s>[ff7b50]광산 입구[-]에 있는 [ff7b50]문지기[-]에게 보여 주면 내부로 들어갈 수 있을 거야.</s>
 				<s>기대하고 있을 테니 잔뜩 구해 오라고!</s>
 			</Page>
 		</Body>
@@ -2882,7 +2882,7 @@
 			</Page>
 			<Page>
 				<s>오, 이건 임시 출입증이군!</s>
-				<s>블랙윙 멤버에게 출입을 허가 받은 모양이지?</s>
+				<s>블랙윙 멤버에게 출입을 허가받은 모양이지?</s>
 				<s>그렇다면 광산 안으로 들어가도 좋아.</s>
 			</Page>
 		</Body>
@@ -3090,7 +3090,7 @@
 			<Page speaker="player">
 				<s>급히 접견을 신청하고 싶어요.</s>
 			</Page>
-			<Page>
+			<Page animName="Stand">
 				<s>!</s>
 			</Page>
 			<Page actionCommand="DualBlade_0055_01">
@@ -3362,7 +3362,7 @@
 				<s>부탁해요.</s>
 			</Page>
 			<Page>
-				<s>그리고 당신에게도 이야기해두는 게 좋겠군요.</s>
+				<s>그리고 당신에게도 이야기해 두는 게 좋겠군요.</s>
 				<s>당신이 에델슈타인에서 임무를 수행하는 동안 팬텀님이 이 도시에 방문했었어요.</s>
 			</Page>
 			<Page speaker="player">
@@ -3590,7 +3590,7 @@
 				<s>하지만 이 마을 최고의 정보원답게 의뢰를 성공시키기 위해 백방으로 애를 썼지!</s>
 			</Page>
 			<Page actionCommand="DualBlade_0063_01">
-				<s>날짜가 지나면 초대장이 무용지물이 되어버리니까 지금 바로 가보는 게 좋을 거야.</s>
+				<s>날짜가 지나면 초대장이 무용지물이 되어 버리니까 지금 바로 가 보는 게 좋을 거야.</s>
 			</Page>
 		</Body>
 	</Task>
@@ -3655,7 +3655,7 @@
 			<Page speaker="player">
 				<s>분명히 품에 챙겨서 가져왔었는데…</s>
 			</Page>
-			<Page>
+			<Page animName="Stand">
 				<s>……</s>
 			</Page>
 			<Page speaker="player">
@@ -3809,7 +3809,7 @@
 			<Page actionCommand="DualBlade_0065_05">
 				<s>하지만 전에 이 병원에 왔을 때는 분명 고양이가 없었는데…</s>
 			</Page>
-			<Page speaker="NPC_MysteriousGirl_03">
+			<Page speaker="NPC_MysteriousGirl_03" animName="Stand">
 				<s>……</s>
 			</Page>
 			<Page>
@@ -3879,7 +3879,7 @@
 				<s>전에 늪지에서 발견한 고양이 발자국과 관련이 있는 건가?)</s>
 			</Page>
 			<Page speaker="player">
-				<s>(다시 한 번 그 발자국을 조사해 보는 게 좋겠군.)</s>
+				<s>(다시 한번 그 발자국을 조사해 보는 게 좋겠군.)</s>
 			</Page>
 		</Body>
 	</Task>
@@ -4246,7 +4246,7 @@
 				<s>오래 걸리지 않을 겁니다.</s>
 			</Page>
 			<Page>
-				<s>좋아, 우린 먼저 가보도록 하지.</s>
+				<s>좋아, 우린 먼저 가 보도록 하지.</s>
 				<s>용무가 끝나면 비화원으로 바로 복귀해.</s>
 			</Page>
 		</Body>
@@ -4304,7 +4304,7 @@
 			<Page>
 				<s>……나의 의식을 깨운 자가 자네인가?</s>
 			</Page>
-			<Page>
+			<Page animName="Stand">
 				<s>!</s>
 			</Page>
 			<Page>
@@ -4548,7 +4548,7 @@
 			</Page>
 			<Page>
 				<s>기이한 사건이군.</s>
-				<s>커닝시티로 돌아가서 조사해봐야겠어.</s>
+				<s>커닝시티로 돌아가서 조사해 봐야겠어.</s>
 			</Page>
 		</Body>
 	</Task>
@@ -4746,7 +4746,7 @@
 			<Page speaker="player">
 				<s>그가 신전을 떠날 때 목격자를 처리하겠다는 뉘앙스의 말을 흘렸거든요.</s>
 			</Page>
-			<Page>
+			<Page animName="Stand">
 				<s>!</s>
 			</Page>
 			<Page>
@@ -4756,7 +4756,7 @@
 				<s>아마도요. 그리고 저 또한 그 사건의 목격자입니다.</s>
 				<s>다시 말해 ‘처리’ 대상이죠.</s>
 			</Page>
-			<Page>
+			<Page animName="Stand">
 				<s>!</s>
 			</Page>
 			<Page>
@@ -4775,7 +4775,7 @@
 			<Page speaker="player">
 				<s>다크로드가 감추려는 비밀을 폭로하는 게 그에게 가장 치명적인 반격이 될 겁니다.</s>
 			</Page>
-			<Page>
+			<Page animName="Stand">
 				<s>음……</s>
 			</Page>
 			<Page speaker="player">
@@ -4795,7 +4795,7 @@
 			<Page speaker="player">
 				<s>일이 끝나면 불복에 대한 처벌은 받겠습니다.</s>
 			</Page>
-			<Page>
+			<Page animName="Stand">
 				<s>…………</s>
 			</Page>
 			<Page>
@@ -5347,7 +5347,7 @@
 			</Page>
 			<Page actionCommand="DualBlade_0085_01">
 				<s>제 창고에 스승님의 유품이 남아 있을 거예요.</s>
-				<s>그곳을 뒤져보죠.</s>
+				<s>그곳을 뒤져 보죠.</s>
 			</Page>
 		</Body>
 	</Task>
@@ -5385,7 +5385,7 @@
 				<s>…이건 녀석들이 떨어뜨린 물건인가요?</s>
 			</Page>
 			<Page>
-				<s>앗! 이건 스승님이 유품이군요!</s>
+				<s>앗! 이건 스승님의 유품이군요!</s>
 			</Page>
 			<Page>
 				<s>잠시만요…</s>
@@ -6469,7 +6469,7 @@
 			<Page>
 				<s>그리고 다크로드 역시 그 인물에 대해 조사하고 있다는 거군요…</s>
 			</Page>
-			<Page>
+			<Page animName="Stand">
 				<s>…………</s>
 			</Page>
 			<Page>
@@ -7050,7 +7050,7 @@
 				<s>실종된 제피님을 만났습니다.</s>
 				<s>그리고 그분에게 부탁받은 서신을 가져왔어요.</s>
 			</Page>
-			<Page>
+			<Page animName="Stand">
 				<s>!</s>
 			</Page>
 			<Page>
@@ -7072,7 +7072,7 @@
 			<Page speaker="player">
 				<s>수 년 전 그 사건 당시 설희님은 어째서 발록의 신전에 계셨던 건가요?</s>
 			</Page>
-			<Page>
+			<Page animName="Stand">
 				<s>…………</s>
 			</Page>
 			<Page>
@@ -7088,7 +7088,7 @@
 			<Page speaker="player">
 				<s>설희님께 진실을 전하고 싶기 때문입니다.</s>
 			</Page>
-			<Page>
+			<Page animName="Stand">
 				<s>…………</s>
 			</Page>
 			<Page>
@@ -7107,7 +7107,7 @@
 			<Page speaker="player">
 				<s>……설희님, 이 서신을 읽어봐 주세요.</s>
 			</Page>
-			<Page actionCommand="DualBlade_0106_05">
+			<Page animName="Stand" actionCommand="DualBlade_0106_05">
 				<s>…………</s>
 			</Page>
 			<Page>
@@ -7127,7 +7127,7 @@
 			<Page speaker="player">
 				<s>…홍아님은 이미 알고 계셨어요.</s>
 			</Page>
-			<Page>
+			<Page animName="Stand">
 				<s>!!!</s>
 			</Page>
 			<Page>
@@ -7705,7 +7705,7 @@
 			<Page speaker="player">
 				<s>무의식적으로 발휘된 통찰력이 의식의 완전한 잠식을 경계한 것 같아요.</s>
 			</Page>
-			<Page>
+			<Page animName="Stand">
 				<s>!</s>
 			</Page>
 			<Page>
@@ -8133,7 +8133,7 @@
 			<Page speaker="player">
 				<s>그리고 다크로드는 설희님이 종종 악몽을 꾸신다는 걸 어떻게 알고 있는 거죠?</s>
 			</Page>
-			<Page>
+			<Page animName="Eye">
 				<s>…………</s>
 			</Page>
 			<Page speaker="player">
@@ -8196,7 +8196,7 @@
 			<Page speaker="player">
 				<s>다크로드가 복수를 끝내고 다크로드의 자리를 설희님께 돌려주겠다는 이야기를 했어요.</s>
 			</Page>
-			<Page>
+			<Page animName="Stand">
 				<s>!</s>
 			</Page>
 			<Page>
@@ -8230,7 +8230,7 @@
 			<Page speaker="player">
 				<s>그렇습니다.</s>
 			</Page>
-			<Page>
+			<Page animName="Stand">
 				<s>……!!</s>
 			</Page>
 			<Page>
