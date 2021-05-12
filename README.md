@@ -1,2 +1,2 @@
 # MapleStoryM-language
-汉化回归
+用爱发电,兴趣使然.
