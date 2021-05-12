@@ -4,7 +4,7 @@ data.bin.client.skill.tbl	2328578236	1	2328578236
 data.bin.client.world.ifo	3576151308	1	3576151308
 data.bin.client.world.tbl	4184640316	1	4184640316
 data.bin.lan.kor.ifo	3388356920	1	3388356920
-data.bin.lan.kor.tbl	69102751	10	69102751
+data.bin.lan.kor.tbl	4240721960	11	4240721960
 data.bin.physicx_terrain.tbl	539707553	1	539707553
 data.bin.client.buff.tbl	3216636624	1	3216636624
 data.bin.result.tbl	105636534	1	105636534
@@ -88,5 +88,5 @@ data.bin.table_version.ifo	2927010390	1	2927010390
 data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
-data.table.unity3d	2313519220	10	2313519220
-data.language_kor.unity3d	136953357	10	136953357
+data.table.unity3d	2451654779	11	2451654779
+data.language_kor.unity3d	136953357	11	136953357
