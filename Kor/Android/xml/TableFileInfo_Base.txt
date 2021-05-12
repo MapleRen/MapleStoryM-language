@@ -1,5 +1,5 @@
 data.bin.lan.kor.ifo	682537855	1	682537855
-data.bin.lan.kor.tbl	4240721960	11	4240721960
+data.bin.lan.kor.tbl	2077919481	12	2077919481
 data.bin.client.skill.descriptionset.ifo	1234978352	1	1234978352
 data.bin.client.skill.descriptionset.tbl	469086540	1	469086540
 data.bin.client.skill.tbl	2328578236	1	2328578236
@@ -88,5 +88,5 @@ data.bin.table_version.ifo	2927010390	1	2927010390
 data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.world.tbl	0	1	0
-data.table.unity3d	2451654779	11	2451654779
+data.table.unity3d	2451654779	12	2451654779
 data.language_kor.unity3d	3949490853	1	679471724
