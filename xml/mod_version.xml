@@ -23,7 +23,7 @@
   </AppStore>
   <Unity>
     <Application URL="">
-      <Release AddVAT="true" AdjustProduction="true" ClientVersion="0.0.101" DevOption="true" LoginServerIP="KOR_LV" LoginServerPort="7500" MaxLoadPerSec="256" NextVersionCheck="false" Report="false" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/GooglePlay/164_2699Q_1/" Server="1.64.3.2030" TapjoyDebug="false" UseImgDataCsv="false" />
+      <Release AddVAT="true" AdjustProduction="true" ClientVersion="0.0.101" DevOption="true" LoginServerIP="KOR_LV" LoginServerPort="7500" MaxLoadPerSec="256" NextVersionCheck="false" Report="false" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/GooglePlay/164_2693Q/" Server="1.64.3.1982" TapjoyDebug="false" UseImgDataCsv="false" />
     </Application>
   </Unity>
   <ServerWorld>
