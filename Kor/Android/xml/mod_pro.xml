@@ -9,7 +9,7 @@
     </PackInfo>
     <PackInfo Name="pack_002.bin" HighPriority="1" Size="13577109" MB="12.9" FileCount="4" FileCRC="2079981014" Time="20210517_160859" BuildInfo="1.64_2556_88767c77">
       <Data Time="20210520_183950" BuildInfo="1.64_2557_8f95ebda" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="731502" KB="714.4" FileCRC="3517413770" CRC="3517413770" />
-      <Data Time="20210520_183950" BuildInfo="1.64_2557_8f95ebda" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="16" Size="7097986" KB="6,931.6" FileCRC="1286999875" CRC="1286999875" />
+      <Data Time="20210520_183950" BuildInfo="1.64_2557_8f95ebda" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="17" Size="7097986" KB="6,931.6" FileCRC="3535570877" CRC="3535570877" />
       <Data Time="20210517_160859" BuildInfo="1.64_2556_88767c77" HighPriority="1" Path="data.bin.client.skill.descriptionset.ifo" Version="1" Size="355069" KB="346.7" FileCRC="182409280" CRC="182409280" />
       <Data Time="20210517_160859" BuildInfo="1.64_2556_88767c77" HighPriority="1" Path="data.bin.client.skill.descriptionset.tbl" Version="1" Size="5392385" KB="5,266.0" FileCRC="842068579" CRC="842068579" />
     </PackInfo>
@@ -18,7 +18,7 @@
     </PackInfo>
     <PackInfo Name="pack_004.bin" HighPriority="1" Size="21081869" MB="20.1" FileCount="5" FileCRC="3547789806" Time="20210511_144838" BuildInfo="1.64_2697_7accd059">
       <Data Time="20210517_160859" BuildInfo="1.64_2556_88767c77" HighPriority="1" Path="data.bin.result.tbl" Version="1" Size="6603231" KB="6,448.5" FileCRC="2979259508" CRC="2979259508" />
-      <AssetBundle Time="20210512_113319" BuildInfo="1.64_2699_091be38a" HighPriority="1" Path="data.table.unity3d" Version="16" Size="769215" KB="1,576.8" FileCRC="2451654779" CRC="2451654779" />
+      <AssetBundle Time="20210512_113319" BuildInfo="1.64_2699_091be38a" HighPriority="1" Path="data.table.unity3d" Version="17" Size="769215" KB="1,576.8" FileCRC="2451654779" CRC="2451654779" />
       <Data Time="20210511_144838" BuildInfo="1.64_2697_7accd059" HighPriority="1" Path="data.bin.client.world.ifo" Version="1" Size="69942" KB="68.3" FileCRC="3576151308" CRC="3576151308" />
       <Data Time="20210511_144838" BuildInfo="1.64_2697_7accd059" HighPriority="1" Path="data.bin.client.world.tbl" Version="1" Size="865614" KB="845.3" FileCRC="4184640316" CRC="4184640316" />
       <Data Time="20210511_144838" BuildInfo="1.64_2697_7accd059" HighPriority="1" Path="data.bin.physicx_terrain.tbl" Version="1" Size="11928250" KB="11,648.7" FileCRC="539707553" CRC="539707553" />
@@ -32,7 +32,7 @@
     <PackInfo Name="pack_006.bin" HighPriority="1" Size="10935281" MB="10.4" FileCount="10" FileCRC="2862930682" Time="20210504_073202" BuildInfo="1.64_2682_27dd5f7a">
       <Data Time="20210504_224031" BuildInfo="1.64_2685_7e45ff6a" HighPriority="1" Path="data.bin.client.activator.tbl" Version="1" Size="617756" KB="603.3" FileCRC="1435755378" CRC="1435755378" />
       <Data Time="20210504_224031" BuildInfo="1.64_2685_7e45ff6a" HighPriority="1" Path="data.bin.client.vehicle.tbl" Version="1" Size="235636" KB="230.1" FileCRC="636744025" CRC="636744025" />
-      <AssetBundle Time="20210504_224031" BuildInfo="1.64_2685_7e45ff6a" HighPriority="1" Path="data.language_kor.unity3d" Version="16" Size="2494880" KB="3,899.4" FileCRC="136953357" CRC="136953357" />
+      <AssetBundle Time="20210504_224031" BuildInfo="1.64_2685_7e45ff6a" HighPriority="1" Path="data.language_kor.unity3d" Version="17" Size="2494049" KB="3,899.4" FileCRC="2279747880" CRC="2279747880" />
       <Data Time="20210504_185953" BuildInfo="1.64_2684_3046f545" HighPriority="1" Path="data.bin.client.effect.ifo" Version="1" Size="66842" KB="65.3" FileCRC="611487604" CRC="611487604" />
       <Data Time="20210504_185953" BuildInfo="1.64_2684_3046f545" HighPriority="1" Path="data.bin.client.effect.tbl" Version="1" Size="2317105" KB="2,262.8" FileCRC="2208661968" CRC="2208661968" />
       <Data Time="20210504_130027" BuildInfo="1.64_2683_66d7999c" HighPriority="1" Path="data.bin.gachaitem.tbl" Version="1" Size="2075075" KB="2,026.4" FileCRC="2179476937" CRC="2179476937" />
