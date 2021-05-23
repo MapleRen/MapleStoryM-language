@@ -9,7 +9,7 @@
     </PackInfo>
     <PackInfo Name="pack_002.bin" HighPriority="1" Size="13577109" MB="12.9" FileCount="4" FileCRC="2079981014" Time="20210517_161051" BuildInfo="1.64_2556_88767c77">
       <Data Time="20210520_184123" BuildInfo="1.64_2557_8f95ebda" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="731502" KB="714.4" FileCRC="3517413770" CRC="3517413770" />
-      <Data Time="20210520_184123" BuildInfo="1.64_2557_8f95ebda" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="16" Size="7097986" KB="6,931.6" FileCRC="1286999875" CRC="1286999875" />
+      <Data Time="20210520_184123" BuildInfo="1.64_2557_8f95ebda" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="17" Size="7097986" KB="6,931.6" FileCRC="3535570877" CRC="3535570877" />
       <Data Time="20210517_161051" BuildInfo="1.64_2556_88767c77" HighPriority="1" Path="data.bin.client.skill.descriptionset.ifo" Version="1" Size="355069" KB="346.7" FileCRC="182409280" CRC="182409280" />
       <Data Time="20210517_161051" BuildInfo="1.64_2556_88767c77" HighPriority="1" Path="data.bin.client.skill.descriptionset.tbl" Version="1" Size="5392385" KB="5,266.0" FileCRC="842068579" CRC="842068579" />
     </PackInfo>
@@ -18,7 +18,7 @@
     </PackInfo>
     <PackInfo Name="pack_004.bin" HighPriority="1" Size="21077826" MB="20.1" FileCount="5" FileCRC="3587716221" Time="20210511_145055" BuildInfo="1.64_2697_7accd059">
       <Data Time="20210517_161051" BuildInfo="1.64_2556_88767c77" HighPriority="1" Path="data.bin.result.tbl" Version="1" Size="6603231" KB="6,448.5" FileCRC="2979259508" CRC="2979259508" />
-      <AssetBundle Time="20210512_113507" BuildInfo="1.64_2699_091be38a" HighPriority="1" Path="data.table.unity3d" Version="16" Size="769321" KB="1,572.9" FileCRC="2076678981" CRC="2076678981" />
+      <AssetBundle Time="20210512_113507" BuildInfo="1.64_2699_091be38a" HighPriority="1" Path="data.table.unity3d" Version="17" Size="769321" KB="1,572.9" FileCRC="2076678981" CRC="2076678981" />
       <Data Time="20210511_145055" BuildInfo="1.64_2697_7accd059" HighPriority="1" Path="data.bin.client.world.ifo" Version="1" Size="69942" KB="68.3" FileCRC="3576151308" CRC="3576151308" />
       <Data Time="20210511_145055" BuildInfo="1.64_2697_7accd059" HighPriority="1" Path="data.bin.client.world.tbl" Version="1" Size="865614" KB="845.3" FileCRC="4184640316" CRC="4184640316" />
       <Data Time="20210511_145055" BuildInfo="1.64_2697_7accd059" HighPriority="1" Path="data.bin.physicx_terrain.tbl" Version="1" Size="11928250" KB="11,648.7" FileCRC="539707553" CRC="539707553" />
