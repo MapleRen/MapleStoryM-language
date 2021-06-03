@@ -10,7 +10,7 @@
     </PackInfo>
     <PackInfo Name="pack_002.bin" HighPriority="1" Size="23539629" MB="22.4" FileCount="3" FileCRC="4203753494" Time="20210603_151114" BuildInfo="1.65_2736_1a299841">
       <Data Time="20210603_151114" BuildInfo="1.65_2736_1a299841" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="1472272" KB="1,437.8" FileCRC="2472201872" CRC="2472201872" />
-      <Data Time="20210603_151114" BuildInfo="1.65_2736_1a299841" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="2" Size="7149764" KB="6,982.2" FileCRC="3863778716" CRC="3863778716" />
+      <Data Time="20210603_151114" BuildInfo="1.65_2736_1a299841" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="2" Size="7149764" KB="6,982.2" FileCRC="2069136063" CRC="2069136063" />
       <Data Time="20210603_151114" BuildInfo="1.65_2736_1a299841" HighPriority="1" Path="data.bin.physicx_terrain.tbl" Version="1" Size="14917486" KB="14,567.9" FileCRC="703626970" CRC="703626970" />
     </PackInfo>
     <PackInfo Name="pack_003.bin" HighPriority="1" Size="10618196" MB="10.1" FileCount="6" FileCRC="1988503507" Time="20210528_022923" BuildInfo="1.65_2728_cf636307">
