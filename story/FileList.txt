@@ -1,4 +1,4 @@
-2021-4-26,
+2021-05-20,
 Text,Text
 Code,Filename
 Client.Language,CodeTable/@Korea/MoonBunnysRiceCakePopup/MoonBunnysRiceCakePopup
@@ -80,6 +80,7 @@ Client.Language,CodeTable/_V4_0/Event/CakeChair
 Client.Language,CodeTable/_V4_0/Event/CoinFestival
 Client.Language,CodeTable/_V4_0/Event/EventGrowFlower
 Client.Language,CodeTable/_V4_0/Event/EventMakingScroll
+Client.Language,CodeTable/_V4_0/Event/EventMonsterHospital
 Client.Language,CodeTable/_V4_0/Event/KnightsSupplies
 Client.Language,CodeTable/_V4_0/Event/Maple4U_BuffEvent
 Client.Language,CodeTable/_V4_0/Event/Maple4UFestival
@@ -140,6 +141,7 @@ Client.Language,CodeTable/_V4_0/EventSongiSongiPopup/EventSongiSongiPopup
 Client.Language,CodeTable/_V4_0/EventTreasureHuntPopup/EventTreasureHuntPopup
 Client.Language,CodeTable/_V4_0/EventValentinePopup/EventValentinePopup
 Client.Language,CodeTable/_V4_0/EventWorldPassivePopup/EventWorldPassivePopup
+Client.Language,CodeTable/_V4_0/EventYetiChurrosShop/YetiChurrosShop
 Client.Language,CodeTable/_V4_0/ExpansionBag/ExpansionBag
 Client.Language,CodeTable/_V4_0/Expedition/ExpeditionInfoPopup/ExpeditionInfoPopup
 Client.Language,CodeTable/_V4_0/Expedition/ExpeditionRankingPopup
@@ -695,6 +697,7 @@ Client.Language,UI/_V4_0/Event/CoinFestivalPopup/CoinFestivalPopup
 Client.Language,UI/_V4_0/Event/DailyAutoHuntEventPopup/DailyAutoHuntItemSlot
 Client.Language,UI/_V4_0/Event/DailyAutoHuntEventPopup/DailyAutoHuntPopup
 Client.Language,UI/_V4_0/Event/DoubleMegaBurningPopup/EVENT_DMBurning_Main
+Client.Language,UI/_V4_0/Event/DoubleMegaBurningPopup/EVENT_DMBurning_Main_NJ
 Client.Language,UI/_V4_0/Event/DreamShareBox/DreamShareBoxPopup
 Client.Language,UI/_V4_0/Event/DreamShareBox/DreamShareBoxStoragePopup
 Client.Language,UI/_V4_0/Event/DreamShareBox/DreamShareDutyList
@@ -761,6 +764,7 @@ Client.Language,UI/_V4_0/Event/Maple4U/BuffEvent/LevelUpInformPopup
 Client.Language,UI/_V4_0/Event/Maple4U/BuffEvent/UpgradeInformPopup
 Client.Language,UI/_V4_0/Event/Maple4U/CygnusGarden/CygnusGarden
 Client.Language,UI/_V4_0/Event/Maple4U/GrowthBright/GrowthBright
+Client.Language,UI/_V4_0/Event/Maple4U/GrowthBright/GrowthBrightEventPopup
 Client.Language,UI/_V4_0/Event/Maple4U/KnightsSupplies/KnightsSupplies
 Client.Language,UI/_V4_0/Event/Maple4U/Maple4U
 Client.Language,UI/_V4_0/Event/Maple4U/RockPaperScissors/Ingame/Maple4URockPaperScissors_InGame
@@ -777,6 +781,7 @@ Client.Language,UI/_V4_0/Event/SpiegelmannTrip/03_prefab/EventSpiegelmannTripPop
 Client.Language,UI/_V4_0/Event/TrainingGround/TrainingGround
 Client.Language,UI/_V4_0/Event/TrainingGround/TrainingGroundCharacterList
 Client.Language,UI/_V4_0/Event/TrainingGround/TrainingGroundCharacterListItem
+Client.Language,UI/_V4_0/Event/YetiChurrosShop/YetiChurrosShopPopup
 Client.Language,UI/_V4_0/EventAnniversaryCoinPopup/AnniversaryCoinGuagePopup
 Client.Language,UI/_V4_0/EventAnniversaryCoinPopup/GradeCoinGuagePopup
 Client.Language,UI/_V4_0/EventAnniversaryCoinPopup/ThirdAnniversarySamDabangPopup
@@ -1064,6 +1069,7 @@ Client.Language,UI/_V4_0/Map/MapSetPopup
 Client.Language,UI/_V4_0/Map/Transfer
 Client.Language,UI/_V4_0/Map/TransferMoveCompletePopup
 Client.Language,UI/_V4_0/MapleMPassPopup/MapleMPassBuyPremiumPopup
+Client.Language,UI/_V4_0/MapleMPassPopup/MapleMPassListItem
 Client.Language,UI/_V4_0/MapleMPassPopup/MapleMPassPopup
 Client.Language,UI/_V4_0/MasterPiece/MasterPiece
 Client.Language,UI/_V4_0/MasterPiece/MasterPieceConfirmPopup
@@ -1093,6 +1099,7 @@ Client.Language,UI/_V4_0/MonsterCollection/MonsterCollectionAdventureItem
 Client.Language,UI/_V4_0/MonsterCollection/MonsterCollectionItem
 Client.Language,UI/_V4_0/MonsterCollection/MonsterCollectionRegionItem
 Client.Language,UI/_V4_0/MonsterCollection/MonsterInfoPopup
+Client.Language,UI/_V4_0/MonsterParkPopup/DungeonEnterPopup
 Client.Language,UI/_V4_0/MonsterParkPopup/LevelUpHuntingGroundInterface
 Client.Language,UI/_V4_0/MonsterParkPopup/MonsterParkPopup
 Client.Language,UI/_V4_0/MonsterParkPopup/MonsterParkSubPopup
@@ -1153,6 +1160,7 @@ Client.Language,UI/_V4_0/PartyAutoJoinConfirmPopup/PartyAutoJoinConfirmPopup
 Client.Language,UI/_V4_0/PartyLeaderFollowPopup/PartyLeaderFollowPopup
 Client.Language,UI/_V4_0/PartyLeavePopup/PartyLeavePopup
 Client.Language,UI/_V4_0/PartyMatchManager/InviteItem
+Client.Language,UI/_V4_0/PartyMatchManager/PartyMatchCreatePopup
 Client.Language,UI/_V4_0/PartyMatchManager/PartyMatchLeavePopup
 Client.Language,UI/_V4_0/PartyMatchManager/PartyMatchManager
 Client.Language,UI/_V4_0/PepeLegionPopup/PepeLegion_RankPopup
@@ -1553,6 +1561,7 @@ Client.Language,UI/MainInterface/SidePanel_DimensionInvadePanel
 Client.Language,UI/MainInterface/SidePanel_EvolvingSystemPanel
 Client.Language,UI/MainInterface/SidePanel_GrainWareHouseAttackPanel
 Client.Language,UI/MainInterface/SidePanel_GuideMissionPanel
+Client.Language,UI/MainInterface/SidePanel_LevelUpHuntingGround
 Client.Language,UI/MainInterface/SidePanel_MikuDungeonPanel
 Client.Language,UI/MainInterface/SidePanel_MiniDungeonPanel
 Client.Language,UI/MainInterface/SidePanel_MonHuntDungeon
@@ -1576,3 +1585,4 @@ Client.Language,UI/SimplePackagePopup/LevelupBurningPackage75Sale_Popup/LevelupB
 Client.Language,UI/ThemaDungeon/ThemaEventInvitePanel/ThemaEventInvitePanel
 Client.Language,UI/TutorialUI/TutorialUI
 Client.Language,UI/WebPackagePopup/WebPackagePopupListItem
+Client.Language,CodeTable/_V4_0/Event/YetiChurrosShop_Tip
