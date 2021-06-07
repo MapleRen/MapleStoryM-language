@@ -10,13 +10,13 @@
     </PackInfo>
     <PackInfo Name="pack_002.bin" HighPriority="1" Size="23539629" MB="22.4" FileCount="3" FileCRC="4203753494" Time="20210603_151114" BuildInfo="1.65_2736_1a299841">
       <Data Time="20210603_151114" BuildInfo="1.65_2736_1a299841" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="1472272" KB="1,437.8" FileCRC="2472201872" CRC="2472201872" />
-      <Data Time="20210603_151114" BuildInfo="1.65_2736_1a299841" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="4" Size="7149764" KB="6,982.2" FileCRC="158303499" CRC="158303499" />
+      <Data Time="20210603_151114" BuildInfo="1.65_2736_1a299841" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="5" Size="7149764" KB="6,982.2" FileCRC="650039210" CRC="650039210" />
       <Data Time="20210603_151114" BuildInfo="1.65_2736_1a299841" HighPriority="1" Path="data.bin.physicx_terrain.tbl" Version="1" Size="14917486" KB="14,567.9" FileCRC="703626970" CRC="703626970" />
     </PackInfo>
     <PackInfo Name="pack_003.bin" HighPriority="1" Size="10618196" MB="10.1" FileCount="6" FileCRC="1988503507" Time="20210528_022923" BuildInfo="1.65_2728_cf636307">
       <Data Time="20210603_151114" BuildInfo="1.65_2736_1a299841" HighPriority="1" Path="data.bin.result.ifo" Version="1" Size="772010" KB="753.9" FileCRC="1652321536" CRC="1652321536" />
       <Data Time="20210603_151114" BuildInfo="1.65_2736_1a299841" HighPriority="1" Path="data.bin.result.tbl" Version="1" Size="6619592" KB="6,464.4" FileCRC="2000734638" CRC="2000734638" />
-      <AssetBundle Time="20210603_151114" BuildInfo="1.65_2736_1a299841" HighPriority="1" Path="data.table.unity3d" Version="4" Size="772822" KB="1,580.7" FileCRC="4099528398" CRC="4099528398" />
+      <AssetBundle Time="20210603_151114" BuildInfo="1.65_2736_1a299841" HighPriority="1" Path="data.table.unity3d" Version="5" Size="770894" KB="1,580.7" FileCRC="2306091104" CRC="2306091104" />
       <Data Time="20210602_083637" BuildInfo="1.65_2733_37dd5a7f" HighPriority="1" Path="data.bin.client.world.tbl" Version="1" Size="869670" KB="849.3" FileCRC="601146453" CRC="601146453" />
       <Data Time="20210531_083750" BuildInfo="1.65_2730_10c84e29" HighPriority="1" Path="data.bin.slang.tbl" Version="1" Size="117684" KB="114.9" FileCRC="1102915642" CRC="1102915642" />
       <Data Time="20210528_022923" BuildInfo="1.65_2728_cf636307" HighPriority="1" Path="data.bin.client.activator.tbl" Version="1" Size="620409" KB="605.9" FileCRC="101359704" CRC="101359704" />
