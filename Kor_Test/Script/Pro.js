@@ -68,7 +68,7 @@ function notifyAndSetValue(msg,success){
 }
 
 function redirect() {
-  const github_path = 'https://raw.githubusercontent.com/MapleRen/MapleStoryM-language/master/';
+  const github_path = 'https://raw.githubusercontent.com/MapleRen/MapleStoryM-language/master/Kor_Test';
   const need_redirect = $prefs.valueForKey(config.prefix);
   const file_name = $request.url.slice($request.url.lastIndexOf('@') + 1);
   if (need_redirect == 'true') {
