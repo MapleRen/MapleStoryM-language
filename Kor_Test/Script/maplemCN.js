@@ -33,7 +33,7 @@ async function rewrite() {
                 const fileSize = latestXml.getXmlAttr(file,"Size");
                 body = body.setXmlAttr(file,"FileCRC",fileCRC).setXmlAttr(file,"CRC",fileCRC).setXmlAttr(file,"Size",fileSize);
             }
-            notifyAndSetValue(config.title,'补丁下载完成即可完成汉化','true',isNeedRedirect);
+            notifyAndSetValue(config.title,'补丁下载完成即可完成汉化,该补丁未授权任何主播/企业进行商业用途.侵权必究','true',isNeedRedirect);
             $done({body:body});
         }
     }, reason => {
