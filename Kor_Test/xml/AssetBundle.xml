@@ -1,8 +1,10 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20210705_221214" Region="Korea" BuildInfo="1.66_2789_7532040b" CommitHash="7532040b4ec7dd8d8038fc76367ece9793607d69" DependencyHash="da372b8d3722a2314550a72e3e61281fdd83626c4ad2dc596937f2a3117142" PackCount="358" FileCount="13211" TotalSize="4395684553" MB="4,192.1" />
+  <Header CRC="20210706_120819" Region="Korea" BuildInfo="1.66_2793_7f8b3a7f" CommitHash="7f8b3a7fe0c0fdce3e8a361f1c13cca8671e3a01" DependencyHash="5febab7176896ca27585dbee3bc15df3154cd0a3dbb898805848f6895ce62c" PackCount="358" FileCount="13211" TotalSize="4395684972" MB="4,192.1" />
   <PackList Count="358">
-    <PackInfo Name="pack_001.bin" HighPriority="1" Size="23321732" MB="22.2" FileCount="7" FileCRC="4072801133" Time="20210705_184142" BuildInfo="1.66_2788_371df7da">
+    <PackInfo Name="pack_001.bin" HighPriority="1" Size="23907035" MB="22.8" FileCount="9" FileCRC="401487079" Time="20210705_184142" BuildInfo="1.66_2788_371df7da">
+      <AssetBundle Time="20210706_120819" BuildInfo="1.66_2793_7f8b3a7f" HighPriority="0" Path="common.dummyobject.npc.defaultscene.sleepywood.unity3d" Version="1" Size="527140" KB="514.8" FileCRC="1557922555" CRC="413828926" />
+      <AssetBundle Time="20210706_120819" BuildInfo="1.66_2793_7f8b3a7f" HighPriority="1" Path="common.temp.customize.hair.female.hair_f_394.unity3d" Version="1" Size="58041" KB="56.7" FileCRC="3766272617" CRC="541176360" />
       <AssetBundle Time="20210705_221214" BuildInfo="1.66_2789_7532040b" HighPriority="0" Path="common.sound.bgm.secretmission.unity3d" Version="1" Size="324645" KB="317.0" FileCRC="945805980" CRC="1045628291" />
       <AssetBundle Time="20210705_221214" BuildInfo="1.66_2789_7532040b" HighPriority="0" Path="common.sound.bgm.secretmissionbase.unity3d" Version="1" Size="48898" KB="47.8" FileCRC="3493273773" CRC="1612641502" />
       <AssetBundle Time="20210705_221214" BuildInfo="1.66_2789_7532040b" HighPriority="0" Path="common.sound.class.kinesis.unity3d" Version="1" Size="550059" KB="537.2" FileCRC="3545876466" CRC="2182398058" />
@@ -164,10 +166,9 @@
       <AssetBundle Time="20210625_184522" BuildInfo="1.66_2768_b427d7b2" HighPriority="1" Path="common.ui.commonatlas.unity3d" Version="1" Size="1670002" KB="1,630.9" FileCRC="1275618285" CRC="4103648119" />
       <AssetBundle Time="20210625_184522" BuildInfo="1.66_2768_b427d7b2" HighPriority="0" Path="common.ui.fevermode.unity3d" Version="1" Size="460727" KB="449.9" FileCRC="3626095881" CRC="4178672763" />
     </PackInfo>
-    <PackInfo Name="pack_021.bin" HighPriority="1" Size="12857405" MB="12.3" FileCount="13" FileCRC="1289974279" Time="20210625_095340" BuildInfo="1.66_2765_4345f816">
+    <PackInfo Name="pack_021.bin" HighPriority="1" Size="12799721" MB="12.2" FileCount="12" FileCRC="2200735751" Time="20210625_095340" BuildInfo="1.66_2765_4345f816">
       <AssetBundle Time="20210625_184522" BuildInfo="1.66_2768_b427d7b2" HighPriority="0" Path="common.ui.playtimepackagepopup.unity3d" Version="1" Size="2089109" KB="2,040.1" FileCRC="2531465787" CRC="531422098" />
       <AssetBundle Time="20210625_124659" BuildInfo="1.66_2767_567db337" HighPriority="0" Path="common.map.schoolforthegifted.00_enviroment.spine_object.spine_recource.unity3d" Version="1" Size="1370134" KB="1,338.0" FileCRC="3818589801" CRC="1338388862" />
-      <AssetBundle Time="20210625_124659" BuildInfo="1.66_2767_567db337" HighPriority="1" Path="common.temp.customize.hair.female.hair_f_394.unity3d" Version="1" Size="57624" KB="56.3" FileCRC="3605533630" CRC="697355493" />
       <AssetBundle Time="20210625_124659" BuildInfo="1.66_2767_567db337" HighPriority="1" Path="common.temp.customize.hair.male.hair_m_373.unity3d" Version="1" Size="48407" KB="47.3" FileCRC="684775710" CRC="2515539460" />
       <AssetBundle Time="20210625_124659" BuildInfo="1.66_2767_567db337" HighPriority="1" Path="common.temp.customize.hair.male.hair_m_374.unity3d" Version="1" Size="45647" KB="44.6" FileCRC="183770555" CRC="4021120025" />
       <AssetBundle Time="20210625_124659" BuildInfo="1.66_2767_567db337" HighPriority="1" Path="common.temp.equipment_cash_various.forehead.cash_forehead_126.unity3d" Version="1" Size="21807" KB="21.3" FileCRC="1727372629" CRC="1714048201" />
@@ -1030,7 +1031,7 @@
       <AssetBundle Time="20210518_151701" BuildInfo="1.65_2708_12317b0b" HighPriority="0" Path="common.fx.spine.effect.z_arm.unity3d" Version="1" Size="334468" KB="326.6" FileCRC="550477412" CRC="1245109551" />
       <AssetBundle Time="20210518_151701" BuildInfo="1.65_2708_12317b0b" HighPriority="0" Path="common.fx.spine.effect.z_body.unity3d" Version="1" Size="853433" KB="833.4" FileCRC="2870940157" CRC="3926816664" />
     </PackInfo>
-    <PackInfo Name="pack_067.bin" HighPriority="1" Size="10503414" MB="10.0" FileCount="35" FileCRC="2871893403" Time="20210517_101309" BuildInfo="1.65_2702_50f360ad">
+    <PackInfo Name="pack_067.bin" HighPriority="1" Size="10890253" MB="10.4" FileCount="40" FileCRC="1852353729" Time="20210514_134223" BuildInfo="1.65_2700_270c8ba7">
       <AssetBundle Time="20210518_151701" BuildInfo="1.65_2708_12317b0b" HighPriority="0" Path="common.fx.spine.effect.z_eff.unity3d" Version="1" Size="895475" KB="874.5" FileCRC="4247579758" CRC="1919932803" />
       <AssetBundle Time="20210518_061024" BuildInfo="1.65_2707_c5164256" HighPriority="0" Path="common.dummyobject.npc.defaultscene.azwan.unity3d" Version="1" Size="136584" KB="133.4" FileCRC="3548405363" CRC="2683193650" />
       <AssetBundle Time="20210518_061024" BuildInfo="1.65_2707_c5164256" HighPriority="0" Path="common.dummyobject.npc.defaultscene.common_npc.unity3d" Version="1" Size="466911" KB="456.0" FileCRC="1666413315" CRC="3046119723" />
@@ -1040,7 +1041,6 @@
       <AssetBundle Time="20210518_061024" BuildInfo="1.65_2707_c5164256" HighPriority="0" Path="common.dummyobject.npc.defaultscene.nautilus.unity3d" Version="1" Size="1086722" KB="1,061.3" FileCRC="3061778751" CRC="2108339362" />
       <AssetBundle Time="20210518_061024" BuildInfo="1.65_2707_c5164256" HighPriority="0" Path="common.dummyobject.npc.defaultscene.orbistower.unity3d" Version="1" Size="166626" KB="162.7" FileCRC="573703459" CRC="3518173384" />
       <AssetBundle Time="20210518_061024" BuildInfo="1.65_2707_c5164256" HighPriority="0" Path="common.dummyobject.npc.defaultscene.skyroad.unity3d" Version="1" Size="211925" KB="207.0" FileCRC="3630364804" CRC="2120468939" />
-      <AssetBundle Time="20210518_061024" BuildInfo="1.65_2707_c5164256" HighPriority="0" Path="common.dummyobject.npc.defaultscene.sleepywood.unity3d" Version="1" Size="527138" KB="514.8" FileCRC="3011514002" CRC="951997013" />
       <AssetBundle Time="20210518_061024" BuildInfo="1.65_2707_c5164256" HighPriority="0" Path="common.dummyobject.npc.defaultscene.twilightperion.unity3d" Version="1" Size="75353" KB="73.6" FileCRC="3029449586" CRC="794925306" />
       <AssetBundle Time="20210518_061024" BuildInfo="1.65_2707_c5164256" HighPriority="0" Path="common.dummyobject.portal.unity3d" Version="1" Size="2855328" KB="2,788.4" FileCRC="1595750950" CRC="3203473725" />
       <AssetBundle Time="20210518_061024" BuildInfo="1.65_2707_c5164256" HighPriority="0" Path="common.dummyobject.ride.vehicle_2106_000053.unity3d" Version="1" Size="112479" KB="109.8" FileCRC="3527250728" CRC="3586384362" />
@@ -1066,14 +1066,14 @@
       <AssetBundle Time="20210517_101309" BuildInfo="1.65_2702_50f360ad" HighPriority="0" Path="common.dummyobject.ride.vehicle_2102_000023.unity3d" Version="1" Size="113449" KB="110.8" FileCRC="2300877451" CRC="940022566" />
       <AssetBundle Time="20210517_101309" BuildInfo="1.65_2702_50f360ad" HighPriority="0" Path="common.dummyobject.ride.vehicle_2103_000027.unity3d" Version="1" Size="35922" KB="35.1" FileCRC="1155005701" CRC="1407427074" />
       <AssetBundle Time="20210517_101309" BuildInfo="1.65_2702_50f360ad" HighPriority="0" Path="common.dummyobject.ride.vehicle_218.unity3d" Version="1" Size="41727" KB="40.7" FileCRC="2164620817" CRC="4022490766" />
-    </PackInfo>
-    <PackInfo Name="pack_068.bin" HighPriority="1" Size="13893065" MB="13.2" FileCount="34" FileCRC="3480446105" Time="20210514_134223" BuildInfo="1.65_2700_270c8ba7">
       <AssetBundle Time="20210517_101309" BuildInfo="1.65_2702_50f360ad" HighPriority="0" Path="common.dummyobject.ride.vehicle_227.unity3d" Version="1" Size="230451" KB="225.0" FileCRC="658993980" CRC="3906067657" />
       <AssetBundle Time="20210517_101309" BuildInfo="1.65_2702_50f360ad" HighPriority="1" Path="common.temp.equipment_cash_various.earacc.cash_earring_2106_mk1030002.unity3d" Version="1" Size="20145" KB="19.7" FileCRC="2722498658" CRC="2257707618" />
       <AssetBundle Time="20210514_134223" BuildInfo="1.65_2700_270c8ba7" HighPriority="0" Path="common.chatballoon.2106_000054.unity3d" Version="1" Size="20897" KB="20.4" FileCRC="753198509" CRC="3717920317" />
       <AssetBundle Time="20210514_134223" BuildInfo="1.65_2700_270c8ba7" HighPriority="0" Path="common.chatballoonemotion.2106_mj0100021.unity3d" Version="1" Size="30446" KB="29.7" FileCRC="1816617700" CRC="3546072138" />
       <AssetBundle Time="20210514_134223" BuildInfo="1.65_2700_270c8ba7" HighPriority="0" Path="common.chatballoonemotion.2106_mj0100022.unity3d" Version="1" Size="31182" KB="30.5" FileCRC="852761220" CRC="1544254313" />
       <AssetBundle Time="20210514_134223" BuildInfo="1.65_2700_270c8ba7" HighPriority="0" Path="common.dummyobject.chair.chair_2106_000104.unity3d" Version="1" Size="580566" KB="567.0" FileCRC="1997398634" CRC="1483197434" />
+    </PackInfo>
+    <PackInfo Name="pack_068.bin" HighPriority="0" Size="12979026" MB="12.4" FileCount="28" FileCRC="1769326215" Time="20210514_134223" BuildInfo="1.65_2700_270c8ba7">
       <AssetBundle Time="20210514_134223" BuildInfo="1.65_2700_270c8ba7" HighPriority="0" Path="common.dummyobject.chair.chair_2106_000105.unity3d" Version="1" Size="458689" KB="447.9" FileCRC="1769811160" CRC="3984178190" />
       <AssetBundle Time="20210514_134223" BuildInfo="1.65_2700_270c8ba7" HighPriority="0" Path="common.dummyobject.chair.chair_2106_000106.unity3d" Version="1" Size="234213" KB="228.7" FileCRC="2799239863" CRC="2730815875" />
       <AssetBundle Time="20210514_134223" BuildInfo="1.65_2700_270c8ba7" HighPriority="0" Path="common.dummyobject.chair.chair_2106_000107.unity3d" Version="1" Size="183492" KB="179.2" FileCRC="3990451307" CRC="3696392084" />
