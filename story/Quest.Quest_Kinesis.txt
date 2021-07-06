@@ -7712,7 +7712,7 @@
 			<Page speaker="NPC_Yuna_05">
 				<s>그래도 넌 곧잘 우쭐해지는 것 같긴 하지만 말이야.</s>
 			</Page>
-			<Page speaker="NPC_Jay_04">
+			<Page speaker="NPC_Jay_04" animName="Face9">
 				<s>옳소. 넌 좀 자중할 필요가 있다고 본다.</s>
 			</Page>
 			<Page speaker="character">
