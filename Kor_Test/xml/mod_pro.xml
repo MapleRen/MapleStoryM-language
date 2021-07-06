@@ -11,7 +11,7 @@
       <Data Time="20210706_092846" BuildInfo="1.66_2791_e4e3e840" HighPriority="1" Path="data.bin.client.actioncommand.tbl" Version="1" Size="1307465" KB="1,276.8" FileCRC="3955423668" CRC="3955423668" />
       <Data Time="20210706_092846" BuildInfo="1.66_2791_e4e3e840" HighPriority="1" Path="data.bin.client.skill.descriptionset.ifo" Version="1" Size="367216" KB="358.6" FileCRC="4179093348" CRC="4179093348" />
       <Data Time="20210706_092846" BuildInfo="1.66_2791_e4e3e840" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="1498054" KB="1,462.9" FileCRC="3032148698" CRC="3032148698" />
-      <Data Time="20210706_092846" BuildInfo="1.66_2791_e4e3e840" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="3" Size="7275999" KB="7,105.5" FileCRC="1870606531" CRC="1870606531" />
+      <Data Time="20210706_092846" BuildInfo="1.66_2791_e4e3e840" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="3" Size="7275999" KB="7,105.5" FileCRC="3111364674" CRC="3111364674" />
     </PackInfo>
     <PackInfo Name="pack_003.bin" HighPriority="1" Size="12661643" MB="12.1" FileCount="6" FileCRC="1193646197" Time="20210705_223911" BuildInfo="1.66_2789_901a2e9c">
       <Data Time="20210706_092846" BuildInfo="1.66_2791_e4e3e840" HighPriority="1" Path="data.bin.result.ifo" Version="1" Size="825670" KB="806.3" FileCRC="3913031658" CRC="3913031658" />
