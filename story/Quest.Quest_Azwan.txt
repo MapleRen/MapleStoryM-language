@@ -8178,4 +8178,374 @@
 </Quest>
 
 
+<Quest code="Azwan_0001_28" index="31396" sort="Commander">
+
+	<Title>[아스완] 사막의 오벨리스크</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>오랜만이다. 한층 달라진 풍모가 놀랍군. 지금까지 네가 얼마나 많은 고난과 역경을 이겨내 왔는지 가히 짐작된다.</s>
+			</Page>
+			<Page>
+				<s>네 지난 여정에 니할 사막이 있었다면 [ff7b50]영원한 젊음의 비약[-]에 대해 들어보았겠지. 그래, 아리안트 왕비가 마셨다는 바로 그 비약 말이다.</s>
+			</Page>
+			<Page>
+				<s>근래 들어 멸망한 고대 왕국 아스완에서 그 비약을 찾을 수 있다는 소문이 새로이 퍼지고 있다. 하물며 어찌된 일인지 니할 사막에서만 떠돌던 풍문이 이곳 빅토리아 아일랜드에도 파다하지.</s>
+			</Page>
+			<Page>
+				<s>젊음을 바라는 자, 영생을 원하는 자, 그리고 일확천금을 노리는 자까지… 많은 이들이 비약을 손에 넣기 위해 대륙으로 떠났다. 그리고 아무도 돌아오지 않았지…</s>
+			</Page>
+			<Page>
+				<s>너도 알다시피 그 왕국은 군단장 힐라가 지배하는 땅이다. 소문에 현혹된 자들이 그곳에서 어떤 위험을 맞닥뜨렸을지… 심히 우려되는 상황이다.</s>
+			</Page>
+			<Page>
+				<s>아리안트 서쪽 사막 끝 황무지에 있는 [ff7b50]아스완 오벨리스크[-]로 떠나라. 사라진 자들의 행방과 비약을 둘러싼 소문의 진상을 밝혀야만 한다.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="2">
+		<ActiveMemo>아스완 오벨리스크 방문</ActiveMemo>
+		<Body>
+			<Page>
+				<s>…영원한 젊음의 비약을 노리는 자인가?</s>
+			</Page>
+			<Page speaker="player">
+				<s>설마. 그 비약을 둘러싼 소문의 진상을 알아보러 왔을 뿐이야.</s>
+			</Page>
+			<Page>
+				<s>흠, 그렇다면 우리 모래그림단의 목적과 일치하는군. 경계해서 미안했어.</s>
+			</Page>
+			<Page>
+				<s>당신이 찾아온 걸 보니 니할 사막에 국한되었던 그 소문이 외부에도 돌고 있다는 게 사실인가 보군. 어쩐지 온갖 어중이떠중이들이 이 사막에 몰려 들더라니…</s>
+			</Page>
+			<Page>
+				<s>우리 조직이 수소문한 바에 따르면 그 소문은 집시가 퍼뜨리고 있었어. 그녀는 이전에 아리안트 왕비에게 비약을 바치기도 했었지. 그 바람에 아리안트에 큰 위기가 닥쳤었고…</s>
+			</Page>
+			<Page>
+				<s>그래서 우리 모래그림단은 집시의 행방을 쫓아 이 거대한 오벨리스크, 바로 그 아래에 있는 지하도시 아스완까지 당도한 거야.</s>
+			</Page>
+			<Page>
+				<s>그런데 이 도시 중심부에서 힐라의 기운이 느껴져.</s>
+			</Page>
+			<Page speaker="player">
+				<s>뭐? 힐라라면…</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]검은 마법사의 군단장 힐라[-]. 아름다운 여성의 모습을 하고 있지만 그 정체는 죽은 자들의 육체와 영혼을 다루는 네크로맨서지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>그렇다면 그 집시의 정체는…</s>
+			</Page>
+			<Page>
+				<s>아스완, 저 도시에 그 답이 있겠지.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Azwan_0002_17" index="31397" sort="Commander">
+
+	<Title>[아스완] 지하도시 아스완</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>집시가 비약에 대한 소문을 퍼뜨리는 목적은 아직 모르겠어. 하지만 그 소문 때문에 이곳에 사람들이 몰려들고 있고, 그들의 행방이 묘연해졌다는 사실만은 분명해.</s>
+			</Page>
+			<Page>
+				<s>조금 전에 살펴 보니 이 지하도시로 통하는 입구가 여러 개 있더군. 당신과 내가 나눠서 조사하면 더 효율적일 거야.</s>
+			</Page>
+			<Page>
+				<s>탐색 임무를 마치면 여기서 다시 모여 정보를 교환하도록 하지. 준비됐어? 그럼 지금 바로 아스완으로 입장할게.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="2">
+		<ActiveMemo>아스완 탐색</ActiveMemo>
+		<Body>
+			<Page>
+				<s>여기가 지하도시 아스완의 내부인가…</s>
+			</Page>
+			<Page>
+				<s>!!!</s>
+			</Page>
+			<Page>
+				<s>기척이 들려. 혹시 비약을 찾기 위해 숨어든 사람들인가?</s>
+			</Page>
+			<Page>
+				<s>조사해 보자.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page>
+				<s>저들은… 산 자가 아니야.</s>
+			</Page>
+			<Page>
+				<s>아마 군단장 힐라의 수하들일 테지. 그런데 이 도시에 저 녀석들이 가득하다면…</s>
+			</Page>
+			<Page>
+				<s>…비약을 찾기 위해 이 도시를 찾아온 자들이 위험하다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Azwan_0003_17" index="31398" sort="Commander">
+
+	<Title>[아스완] 무너진 왕국의 망자</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>그 단원은 아직 오지 않은 것 같군.</s>
+			</Page>
+			<Page>
+				<s>……</s>
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>………………</s>
+			</Page>
+			<Page>
+				<s>설마 녀석들에게 당한 건 아니겠지?</s>
+			</Page>
+			<Page>
+				<s>…………</s>
+			</Page>
+			<Page>
+				<s>마냥 기다리기 보다 찾아보는 게 낫겠어. 아까 내가 갔던 곳과 다른 입구로 들어가보자.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="2">
+		<ActiveMemo>아스완 피난처 입장</ActiveMemo>
+		<Body>
+			<Page speaker="player" position="Left">
+				<s>!!</s>
+			</Page>
+			<Page position="Right" animName="Stand">
+				<s>…………</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>(이 사람 역시 산 자가 아니다. 하지만 아까와는 달라…)</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>혹시 회색 터번을 두른 자를 보지 못했어?</s>
+			</Page>
+			<Page position="Right" animName="Stand">
+				<s>…………</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>활을 들고 있는 사람인데 말이야…</s>
+			</Page>
+			<Page position="Right" animName="Stand">
+				<s>…………</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>(내 목소리가 들리지 않는 건가? 하지만 그렇다기엔 내가 말을 걸었을 때 굉장히 불쾌해 보였단 말이지…)</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Azwan_0008_21" index="31399" sort="Commander">
+
+	<Title>[아스완] 영혼을 위한 노래</Title>
+
+	<Task index="1">
+		<Body>
+			<Page position="Right">
+				<s>힐라의 병사가 되어 죽어서도 고통받고 있는 아스완의 백성들을 구하겠습니다. 한 번 더 도와주시겠어요?</s>
+			</Page>
+			<Page position="Right">
+				<s>고맙습니다. 비록 아스완은 멸망했지만 당신의 공은 이 왕국의 역사에 기록될 거예요. 그럼 지금 바로 지하로 이동하겠습니다.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>보이세요? 이전에 제 힘으로는 힐라의 저주와 속박에서 완전히 해방시킬 수 없었던 존재입니다.</s>
+			</Page>
+			<Page speaker="NPC_AzwanGhost_01" position="Right">
+				<s>……</s>
+			</Page>
+			<Page>
+				<s>하지만 이제 저에게 무녀의 구슬이 있으니 정화할 수 있을 거예요. 당신은 의식이 완전히 끝나기 전까지 유령의 저항을 막아 주세요. 그럼 시작할게요!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page skip="true" actionCommand="Azwan_0008_21_01">
+			</Page>
+			<Page actionCommand="Azwan_0008_21_02">
+				<s>때가 되었습니다! 이제 마지막 정화 의식을 거행할게요.</s>
+			</Page>
+			<Page>
+				<s>정화되지 않았던 존재…는 역시 아스완의 백성이 아니었군요.</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>그게 무슨…?</s>
+			</Page>
+			<Page speaker="NPC_Sugar_08" position="Right">
+				<s>조금 전까지 나와 싸우던 자는 힐라의 병사였는데 어째서 키네시스가…?</s>
+			</Page>
+			<Page>
+				<s>진실을 가리는 저주… 그게 바로 힐라의 덫이에요!</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>!!</s>
+			</Page>
+			<Page speaker="NPC_Sugar_08" position="Right">
+				<s>난 비약을 둘러싼 수상한 소문의 정체를 조사하고 있었어.</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>마찬가지야. 나 역시 그 소문을 조사 중이었거든.</s>
+			</Page>
+			<Page speaker="NPC_Sugar_08" position="Right">
+				<s>아앗, 그렇다면 군단장의 함정에 빠져 같은 목적을 가진 사람들끼리 서로 무기를 겨누게 되었단 말이야?!</s>
+			</Page>
+			<Page speaker="NPC_Sugar_08" position="Right">
+				<s>앗! 그래서 친구들이 보이지 않았던 거구나! 함께 조사하기로 했는데 아스완에 들어온 후부터 아무리 찾아봐도 도통 만날 수 없었거든.</s>
+			</Page>
+			<Page speaker="player" position="Left">
+				<s>그렇다면 그 단원도 그래서…</s>
+			</Page>
+			<Page speaker="NPC_Sugar_08" position="Right">
+				<s>비약이라는 미끼를 물고 아스완에 입장한 사람들의 눈을 흐려 적이 아니어도 서로 죽을 때까지 싸우게 할 셈이었나 봐. 정말 무서운 계략이야.</s>
+			</Page>
+			<Page speaker="NPC_Sugar_08" position="Right">
+				<s>하지만 무녀님 덕분에 눈이 떠져서 다행이야. 난 이제 친구들을 찾으러 가 봐야겠어. 또다시 거짓에 속지 않도록 서로 조심하자.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Azwan_0009_17" index="31400" sort="Commander">
+
+	<Title>[아스완] 장님의 전쟁</Title>
+
+	<Task index="1">
+		<Body>
+			<Page position="Right">
+				<s>신성한 오벨리스크의 수호를 받는 이 피난처를 제외한 아스완의 모든 지역은 힐라의 힘에 의해 지배받고 있어요.</s>
+			</Page>
+			<Page position="Right">
+				<s>교활한 힐라는 이 안에 들어오는 자들이 서로를 알아보지 못하는 마법을 펼친 것 같습니다. 그것이 바로 힐라의 덫이었던 거죠.</s>
+			</Page>
+			<Page position="Right">
+				<s>비약에 대한 소문 탓에 이 도시엔 외부인이 점점 더 늘고 있어요. 소문이 다른 대륙으로까지 번져 걷잡을 수 없는 지경에 이르렀지요.</s>
+			</Page>
+			<Page position="Right">
+				<s>그 결과 아스완에 들어온 사람들은 마치 장님처럼 서로의 정체를 알아차리지 못하고 자기 파괴적인 전투를 끊임없이 계속하게 되는 겁니다. 모두가 파멸에 이를 때까지 말이죠…</s>
+			</Page>
+			<Page position="Right">
+				<s>저는 전하께서 주신 무녀의 구슬로 힐라의 마법으로 오염된 아스완을 정화할게요. 그래서 이 장님의 전쟁을 멈추겠습니다.</s>
+			</Page>
+			<Page position="Right">
+				<s>당신은 더 이상 아스완에 무고한 희생자들이 생기지 않도록 비약에 대한 소문이 거짓이라는 걸 사람들에게 널리 알려 주세요. 진실만이 이 잔인한 전쟁을 멈출 수 있습니다.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="2">
+		<ActiveMemo>모래그림단원과 합류</ActiveMemo>
+		<Body>
+			<Page>
+				<s>드디어 만났군!</s>
+			</Page>
+			<Page>
+				<s>군단장의 함정에 빠져 무의미한 전투를 했어. 어쩌면 당신과 서로 싸웠을지도 모르겠군.</s>
+			</Page>
+			<Page>
+				<s>게다가 아스완엔 생각했던 것보다 훨씬 많은 이방인들이 있었어. 아마도 원치 않는 희생이 있었을 거야.</s>
+			</Page>
+			<Page>
+				<s>그래도 임무는 성공했어. 비약이 거짓이라는 걸 밝히고, 사라진 사람들의 행방을 찾아냈지.</s>
+			</Page>
+			<Page>
+				<s>이 사건은 거짓을 빠르게 바로잡아야 더 이상의 무고한 희생을 줄일 수 있어. 그래서 이 임무 결과를 모래그림단 상부에 바로 보고할 생각이야.</s>
+			</Page>
+			<Page>
+				<s>당신도 사람들이 거짓에 미혹되지 않도록 진실을 널리 알려줘. 진실은 거짓보다 느리지만 힘이 있으니 우리가 수고하면 머지않아 자정될 거야.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Azwan_0010_28" index="31401" sort="Commander">
+
+	<Title>[아스완] 연합 회의</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>아스완의 함정에 빠지지 않고 군단장의 간계를 밝혀낸 너의 지혜와 용기에 감사의 뜻을 표한다.</s>
+			</Page>
+			<Page>
+				<s>하지만 우리만이 아니라 메이플 연합의 다른 조직과 정보를 공유하고 대책을 세워 함께 맞섰더라면 이번 사건의 피해를 줄이고 더 현명하게 해결할 수 있었겠지.</s>
+			</Page>
+			<Page>
+				<s>시그너스 기사단도 같은 생각을 한 모양이다. 너에게 [ff7b50]메이플 연합 가입[-]을 제안하는 서신을 보내왔거든.</s>
+			</Page>
+			<Page>
+				<s>곧 시그너스 여제님의 주최로 에레브에서 연합 회의를 개최한다.</s>
+			</Page>
+			<Page>
+				<s>그 자리에선 검은 마법사 세력이 날로 커지는 현 상황에서 공동의 목적을 가지고 결성된 메이플 연합이 어떻게 힘을 합하여 대항할 것인지, 그 나아갈 방향에 대해 보다 더 긴밀하게 논의할 거다.</s>
+			</Page>
+			<Page actionCommand="Azwan_0010_28_01">
+				<s>아스완 사건에서 결정적인 역할을 한 네 앞으로 여제님의 초청장이 도착했다. 모처럼 귀한 자리에 초대받았으니 너도 참석하길 바란다.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="2">
+		<ActiveMemo>메이플 연합 회의 참석</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="Azwan_0010_28_02">
+			</Page>
+			<Page speaker="NPC_Cygnus_15" position="Right">
+				<s>……여러분, 고견에 감사드립니다.</s>
+			</Page>
+			<Page speaker="NPC_Cygnus_15" position="Right">
+				<s>이번 회의에서 아직 종식되지 않은 비약에 대한 소문을 잠재우고, 무고한 사람들을 아스완으로 유인하여 위험에 빠뜨리는 힐라의 계략을 저지해야 한다는 데에 의견이 모아졌어요.</s>
+			</Page>
+			<Page speaker="NPC_Cygnus_15" position="Right">
+				<s>이 자리에 참석해 주신 모든 분들께서 동의하신 대로 연합은 이 목표를 적극 지원하겠습니다.</s>
+			</Page>
+			<Page speaker="NPC_Cygnus_15" position="Right">
+				<s>회의 결과가 좋아서 다행이에요. 하지만 진정한 싸움은 지금부터입니다. 그간의 오해를 풀고 모두 하나가 될 수 있도록 저 또한 노력하겠어요.</s>
+			</Page>
+			<Page speaker="NPC_Neinheart_17" position="Right">
+				<s>…이로써 대륙 회의를 마치겠습니다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
 </root>

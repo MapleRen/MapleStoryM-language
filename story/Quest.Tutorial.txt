@@ -6592,4 +6592,153 @@
 		
 	</Quest>
 	
+	
+	<Quest code="TutorialKinesis01" index="1121" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="NPC_Jay_03" animName="Face11">
+					<s>좋아, 데이터 측정은 순조로워.</s>
+				</Page>
+				<Page speaker="NPC_Jay_03" animName="Face9">
+					<s>키네시스, 단축키를 이용하는 게 어때?</s>
+					<s>그러면 염동력을 더 효율적으로 사용할 수 있을 것 같은데.</s>
+				</Page>
+				<Page speaker="character" animName="Face4">
+					<s>……</s>
+				</Page>
+				<Page speaker="NPC_Jay_03" animName="Face10">
+					<s>아- 아-</s>
+					<s>키네시스! 안 들려?</s>
+				</Page>
+				<Page speaker="NPC_Jay_03" animName="Face10">
+					<s>통신 장애인가?</s>
+				</Page>
+				<Page speaker="character">
+					<s>잘 들려.</s>
+					<s>스킬을 점검하란 말이지?</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="3">
+			<Body>
+				<Page speaker="character" animName="Face4">
+					<s>후…</s>
+				</Page>
+				<Page speaker="NPC_Jay_03" animName="Face9">
+					<s>왜? 무슨 문제 있어?</s>
+					<s>별다른 이상은 감지되지 않는데…</s>
+				</Page>
+				<Page speaker="character">
+					<s>제이, 시스템에 착오가 있는 것 같아.</s>
+				</Page>
+				<Page speaker="NPC_Jay_03" animName="Face10">
+					<s>그럴 리가. 내가 짠 프로그램에 오류가 있을 리 없는데.</s>
+				</Page>
+				<Page speaker="character" animName="Face2">
+					<s>하지만 이 훈련로봇 내가 상대하기엔 성능이 형편없는걸.</s>
+				</Page>
+				<Page speaker="NPC_Jay_03" animName="Face9">
+					<s>네 신체 능력에 맞게 ESP리미터를 조정하려면 데이터가 필요해.</s>
+					<s>지금 안전한 방법으로 데이터를 착실히 쌓는 중이고.</s>
+				</Page>
+				<Page speaker="character" animName="Face4">
+					<s>하…</s>
+				</Page>
+				<Page speaker="NPC_Jay_03" animName="Face10">
+					<s>지루하겠지만 필요한 과정이니 견…</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="character">
+					<s>이번에는 정말로 통신에 문제가 생긴 것 같은데?</s>
+				</Page>
+				<Page speaker="NPC_Jay_03" animName="Face12">
+					<s>……</s>
+				</Page>
+				<Page speaker="character" animName="Face4">
+					<s>제이?</s>
+				</Page>
+				<Page speaker="NPC_Jay_03" animName="Face10">
+					<s>키네시스, 방금 메시지 해독이 하나 끝났어.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="5">
+			<Body>
+				<Page speaker="NPC_Jay_03" animName="Face10">
+					<s>위치를 송신했으니 확인해 봐.</s>
+				</Page>
+				<Page speaker="character">
+					<s>다녀올게.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+
+
+	<Quest code="TutorialKinesis02" index="1122" sort="Tutorial">
+		<Title> </Title>
+		
+		<Task index="1">
+			<Body>
+				<Page speaker="NPC_Jay_03" inputBlockSoftDim="0">
+					<s>어서 와.</s>
+					<s>일단 여기 회복약.</s>
+				</Page>
+				<Page speaker="NPC_Jay_03" inputBlockSoftDim="0">
+					<s>에너지 소모가 있었으니 신체 지수가 정상화되는 걸 측정할게.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+		<Task index="4">
+			<Body>
+				<Page speaker="character">
+					<s>어쩐지 기분이 언짢아 보이는데.</s>
+					<s>사고는 무사히 수습했어. 인명 피해도 없었고.</s>
+				</Page>
+				<Page speaker="NPC_Jay_03" animName="Face0">
+					<s>키네시스! 영웅 노릇할 거면 하다못해 복면이라도 써.</s>
+				</Page>
+				<Page speaker="NPC_Jay_03" animName="Face1">
+					<s>CCTV나 블랙박스는 어떻게든 해 보겠지만 기억을 지우는 건 내 능력 밖이라고.</s>
+				</Page>
+				<Page speaker="character" animName="Face3">
+					<s>…흠.</s>
+				</Page>
+				<Page speaker="NPC_Jay_03" animName="Face6">
+					<s>왜, 왜 그렇게 은근하게 쳐다봐?</s>
+				</Page>
+				<Page speaker="character">
+					<s>너의 수고를 덜어 줄 좋은 아이디어가 떠올랐거든.</s>
+				</Page>
+				<Page speaker="character" animName="Face2">
+					<s>그 안대를 쓰고 고양이맨이 되는 거지.</s>
+				</Page>
+				<Page speaker="NPC_Jay_03" animName="Face8">
+					<s>아, 안 돼! 아무리 친한 친구라도 내 물건에 손대는 건 절대 허락할 수 없어!</s>
+					<s>바깥 세상의 세균이 옮는단 말이야.</s>
+				</Page>
+				<Page speaker="character" animName="Face2">
+					<s>하는 수 없지. 그럼 계속 이대로 활약하는 걸로.</s>
+				</Page>
+				<Page speaker="NPC_Jay_03" animName="Face7">
+					<s>하아…</s>
+				</Page>
+				<Page speaker="NPC_Jay_03">
+					<s>농담은 그만 두고 본론으로 들어가자.</s>
+				</Page>
+			</Body>
+		</Task>
+		
+	</Quest>
+	
 </root>

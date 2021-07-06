@@ -1,4 +1,4 @@
-2021-02-16,
+2021-06-11,
 Text,Text
 Code,Filename
 Client.Quest,Quest/Tutorial
@@ -70,3 +70,4 @@ Client.Quest,Quest/Normal_Edelstein
 Client.Quest,Quest/Normal_Ossyria
 Client.Quest,Quest/Quest_DualBlade
 Client.Quest,Quest/Quest_ArcaneRiver_Lachelein
+Client.Quest,Quest/Quest_Kinesis

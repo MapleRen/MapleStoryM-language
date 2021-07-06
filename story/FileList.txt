@@ -1,4 +1,4 @@
-2021-05-20,
+2021-06-25,
 Text,Text
 Code,Filename
 Client.Language,CodeTable/@Korea/MoonBunnysRiceCakePopup/MoonBunnysRiceCakePopup
@@ -41,6 +41,7 @@ Client.Language,CodeTable/_V4_0/CombinedPackagePopup/NewFirstPackage
 Client.Language,CodeTable/_V4_0/CombinedPackagePopup/NormalPackage
 Client.Language,CodeTable/_V4_0/CombinedRanking/CombinedRanking
 Client.Language,CodeTable/_V4_0/Common/Common
+Client.Language,CodeTable/_V4_0/Common/ThemaDungeonGuide
 Client.Language,CodeTable/_V4_0/CommonAlertPopup/CommonAlertPopup
 Client.Language,CodeTable/_V4_0/CommonItemUsePopup/CommonItemUsePopup
 Client.Language,CodeTable/_V4_0/CommonRankPopup/CommonRankPopup
@@ -81,13 +82,17 @@ Client.Language,CodeTable/_V4_0/Event/CoinFestival
 Client.Language,CodeTable/_V4_0/Event/EventGrowFlower
 Client.Language,CodeTable/_V4_0/Event/EventMakingScroll
 Client.Language,CodeTable/_V4_0/Event/EventMonsterHospital
+Client.Language,CodeTable/_V4_0/Event/GoldBeachResort_Tip
+Client.Language,CodeTable/_V4_0/Event/GoldBeachMission_Tip
 Client.Language,CodeTable/_V4_0/Event/KnightsSupplies
 Client.Language,CodeTable/_V4_0/Event/Maple4U_BuffEvent
 Client.Language,CodeTable/_V4_0/Event/Maple4UFestival
+Client.Language,CodeTable/_V4_0/Event/ProtectTown
 Client.Language,CodeTable/_V4_0/Event/SongiSongiRose
 Client.Language,CodeTable/_V4_0/Event/SpiegelmannTrip
 Client.Language,CodeTable/_V4_0/Event/TrainingGround
 Client.Language,CodeTable/_V4_0/Event/WreckHenesys
+Client.Language,CodeTable/_V4_0/Event/YetiChurrosShop_Tip
 Client.Language,CodeTable/_V4_0/Event/YutRenewal
 Client.Language,CodeTable/_V4_0/EventAttendancePopup/EventAttendancePopup
 Client.Language,CodeTable/_V4_0/EventBingo5x5Popup/EventBingo5x5Popup
@@ -143,6 +148,7 @@ Client.Language,CodeTable/_V4_0/EventValentinePopup/EventValentinePopup
 Client.Language,CodeTable/_V4_0/EventWorldPassivePopup/EventWorldPassivePopup
 Client.Language,CodeTable/_V4_0/EventYetiChurrosShop/YetiChurrosShop
 Client.Language,CodeTable/_V4_0/ExpansionBag/ExpansionBag
+Client.Language,CodeTable/_V4_0/Expedition/Expedition_Tip
 Client.Language,CodeTable/_V4_0/Expedition/ExpeditionInfoPopup/ExpeditionInfoPopup
 Client.Language,CodeTable/_V4_0/Expedition/ExpeditionRankingPopup
 Client.Language,CodeTable/_V4_0/FeverBuff/FeverBuff
@@ -349,6 +355,7 @@ Client.Language,CodeTable/_V4_0/ThemaDungeon/NetPyramid/NetPyramid
 Client.Language,CodeTable/_V4_0/ThemaDungeon/Omok/OmokCodeTable
 Client.Language,CodeTable/_V4_0/ThemaDungeon/OneCard/OneCardDescription
 Client.Language,CodeTable/_V4_0/ThemaDungeon/Piranha/Piranha
+Client.Language,CodeTable/_V4_0/ThemaDungeon/ProtectTownDungeon/ProtectTownDungeon
 Client.Language,CodeTable/_V4_0/ThemaDungeon/PsychicYut/PsychicYut
 Client.Language,CodeTable/_V4_0/ThemaDungeon/QuestDungeon/QuestDungeon
 Client.Language,CodeTable/_V4_0/ThemaDungeon/QuestDungeon/QuestDungeonDialogMsg
@@ -480,6 +487,7 @@ Client.Language,Table/ThemaDungeon/CookingDungeon
 Client.Language,Table/ThemaDungeon/DailyDungeon
 Client.Language,Table/ThemaDungeon/EventLifeTheater
 Client.Language,Table/ThemaDungeon/EventMeso
+Client.Language,Table/ThemaDungeon/EventSummerEscape
 Client.Language,Table/ThemaDungeon/GuardTheCastleGates
 Client.Language,Table/ThemaDungeon/GuildDungeon
 Client.Language,Table/ThemaDungeon/GuildSiegeDungeon
@@ -725,6 +733,10 @@ Client.Language,UI/_V4_0/Event/EventMuseum/EventMuseumTipPopup
 Client.Language,UI/_V4_0/Event/EventMuseum/ExchangeFormularItem
 Client.Language,UI/_V4_0/Event/EventMuseum/RelicDonateItemSelectPopup
 Client.Language,UI/_V4_0/Event/EventMuseum/SlotChangeConfirmPopup
+Client.Language,UI/_V4_0/Event/EventProtectTown/EventProtectTownMission
+Client.Language,UI/_V4_0/Event/EventProtectTown/EventProtectTownPopup
+Client.Language,UI/_V4_0/Event/EventProtectTown/ReceiveMissionRewardPopup
+Client.Language,UI/_V4_0/Event/EventProtectTown/ReceiveRankRewardPopup
 Client.Language,UI/_V4_0/Event/EventWreckHenesys/EventWreckHenesys
 Client.Language,UI/_V4_0/Event/EventWreckHenesys/RewardElement
 Client.Language,UI/_V4_0/Event/EventWreckHenesys/WreckHenesysPurchasePopup
@@ -844,6 +856,7 @@ Client.Language,UI/_V4_0/EventPinkBeanPopup/EventPinkBeanPopup
 Client.Language,UI/_V4_0/EventPiranhaPopup/EventPiranhaPopup
 Client.Language,UI/_V4_0/EventPiranhaPopup/EventPiranhaRankRewardPopup
 Client.Language,UI/_V4_0/EventPiranhaPopup/EventPiranhaResultPopup
+Client.Language,UI/_V4_0/EventProtectGoldBeach/Event_ProtectGoldBeach_Ranking
 Client.Language,UI/_V4_0/EventRingPopup/EventRingPopup
 Client.Language,UI/_V4_0/EventRoulette2Popup/EventRoulette2Popup
 Client.Language,UI/_V4_0/EventRoulettePopup/ItemRoulettePopup
@@ -917,6 +930,7 @@ Client.Language,UI/_V4_0/GoldApple/GoldAppleConfirmPopup
 Client.Language,UI/_V4_0/GoldApplePopup/GoldApplePopup
 Client.Language,UI/_V4_0/GoldApplePuzzlePopup/GoldApplePuzzlePopup
 Client.Language,UI/_V4_0/GoldApplePuzzlePopup/GoldApplePuzzleRewardListItem
+Client.Language,UI/_V4_0/GoldBeachResort/GoldBeachResortPopup
 Client.Language,UI/_V4_0/GrainWareHouseAttackPopup/GrainWareHouseAttackPopup
 Client.Language,UI/_V4_0/GrainWareHouseAttackPopup/LifeRewardItem
 Client.Language,UI/_V4_0/GrainWareHouseAttackPopup/PointRewardItem
@@ -1302,6 +1316,7 @@ Client.Language,UI/_V4_0/ThemaDungeon/BurningDungeonPopup/BurningDungeonResultPo
 Client.Language,UI/_V4_0/ThemaDungeon/BurningDungeonPopup/UnionResultPopupGL
 Client.Language,UI/_V4_0/ThemaDungeon/CanNotUseClearTicketPopup
 Client.Language,UI/_V4_0/ThemaDungeon/CommanderDungeon/CommanderDungeon
+Client.Language,UI/_V4_0/ThemaDungeon/Common/ThemaDungeonDialog/ThemaDungeonDialog
 Client.Language,UI/_V4_0/ThemaDungeon/CookingDungeon/CookingDungeon/CookingDungeon
 Client.Language,UI/_V4_0/ThemaDungeon/CookingDungeon/CookingDungeon/CookingDungeonInterface
 Client.Language,UI/_V4_0/ThemaDungeon/CookingDungeon/CookingDungeon/CookingDungeonRetry
@@ -1442,6 +1457,8 @@ Client.Language,UI/_V4_0/ThemaDungeon/ReturnOfLegend/ReturnOfLegend
 Client.Language,UI/_V4_0/ThemaDungeon/ReturnOfLegend/ReturnOfLegendInterface
 Client.Language,UI/_V4_0/ThemaDungeon/RootAbyss/RootAbyss
 Client.Language,UI/_V4_0/ThemaDungeon/SimpleResultPopup
+Client.Language,UI/_V4_0/ThemaDungeon/SummerEscape/EnterPopup
+Client.Language,UI/_V4_0/ThemaDungeon/SummerEscape/GameInterface
 Client.Language,UI/_V4_0/ThemaDungeon/SyarenianCulvert/InGame/SyarenianCulvertPanel
 Client.Language,UI/_V4_0/ThemaDungeon/SyarenianCulvert/OutGame/DungeonListItem
 Client.Language,UI/_V4_0/ThemaDungeon/SyarenianCulvert/OutGame/SyarenianClubertMainPopup
@@ -1585,4 +1602,4 @@ Client.Language,UI/SimplePackagePopup/LevelupBurningPackage75Sale_Popup/LevelupB
 Client.Language,UI/ThemaDungeon/ThemaEventInvitePanel/ThemaEventInvitePanel
 Client.Language,UI/TutorialUI/TutorialUI
 Client.Language,UI/WebPackagePopup/WebPackagePopupListItem
-Client.Language,CodeTable/_V4_0/Event/YetiChurrosShop_Tip
+Client.Language,CodeTable/_V4_0/Event/SummerEscape_Tip
