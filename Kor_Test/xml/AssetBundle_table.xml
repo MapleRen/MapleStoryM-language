@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20210707_163200" Region="Korea" BuildInfo="1.66_2795_44509354" CommitHash="" DependencyHash="" PackCount="9" FileCount="98" TotalSize="114798938" MB="109.5" Compressed="false" Source="/Users/nexon/Jenkins/workspace/KoreaQA/Korea_AT_IOS_QA/TABLE/Table/" />
+  <Header CRC="20210709_164459" Region="Korea" BuildInfo="1.66_2796_3d4aa6e9" CommitHash="" DependencyHash="" PackCount="9" FileCount="98" TotalSize="114798944" MB="109.5" Compressed="false" Source="/Users/nexon/Jenkins/workspace/KoreaQA/Korea_AT_IOS_QA/TABLE/Table/" />
   <PackList Count="9">
-    <PackInfo Name="pack_001.bin" HighPriority="1" Size="15690976" MB="15.0" FileCount="4" FileCRC="4072586399" Time="20210706_164804" BuildInfo="1.66_2794_9276935a">
-      <Data Time="20210707_163200" BuildInfo="1.66_2795_44509354" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="1498086" KB="1,463.0" FileCRC="2875713384" CRC="2875713384" />
-      <Data Time="20210707_163200" BuildInfo="1.66_2795_44509354" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="99" Size="7276177" KB="7,105.6" FileCRC="2252165704" CRC="2252165704" />
+    <PackInfo Name="pack_001.bin" HighPriority="1" Size="15690982" MB="15.0" FileCount="4" FileCRC="858107576" Time="20210706_164804" BuildInfo="1.66_2794_9276935a">
+      <Data Time="20210709_164459" BuildInfo="1.66_2796_3d4aa6e9" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="1498086" KB="1,463.0" FileCRC="3773076768" CRC="3773076768" />
+      <Data Time="20210709_164459" BuildInfo="1.66_2796_3d4aa6e9" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="99" Size="7276183" KB="7,105.6" FileCRC="263564904" CRC="263564904" />
       <AssetBundle Time="20210707_163200" BuildInfo="1.66_2795_44509354" HighPriority="1" Path="data.table.unity3d" Version="99" Size="1254623" KB="1,225.2" FileCRC="3508621279" CRC="3544752536" />
       <Data Time="20210706_164804" BuildInfo="1.66_2794_9276935a" HighPriority="1" Path="data.bin.client.dummy.tbl" Version="1" Size="5661960" KB="5,529.3" FileCRC="3056936590" CRC="3056936590" />
     </PackInfo>
