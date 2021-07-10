@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20210707_162959" Region="Korea" BuildInfo="1.66_2795_44509354" CommitHash="" DependencyHash="" PackCount="9" FileCount="98" TotalSize="114800291" MB="109.5" Compressed="false" Source="/Users/nexon/Jenkins/workspace/KoreaQA/Korea_AT_AOS_QA/TABLE/Table/" />
+  <Header CRC="20210709_164310" Region="Korea" BuildInfo="1.66_2796_3d4aa6e9" CommitHash="" DependencyHash="" PackCount="9" FileCount="98" TotalSize="114800297" MB="109.5" Compressed="false" Source="/Users/nexon/Jenkins/workspace/KoreaQA/Korea_AT_AOS_QA/TABLE/Table/" />
   <PackList Count="9">
-    <PackInfo Name="pack_001.bin" HighPriority="1" Size="15690766" MB="15.0" FileCount="4" FileCRC="3522109083" Time="20210706_164601" BuildInfo="1.66_2794_9276935a">
-      <Data Time="20210707_162959" BuildInfo="1.66_2795_44509354" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="1498086" KB="1,463.0" FileCRC="2875713384" CRC="2875713384" />
-      <Data Time="20210707_162959" BuildInfo="1.66_2795_44509354" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="7" Size="7276177" KB="7,105.6" FileCRC="306954549" CRC="306954549" />
-      <AssetBundle Time="20210707_162959" BuildInfo="1.66_2795_44509354" HighPriority="1" Path="data.table.unity3d" Version="7" Size="600326" KB="1,225.0" FileCRC="651809357" CRC="651809357" />
+    <PackInfo Name="pack_001.bin" HighPriority="1" Size="15690772" MB="15.0" FileCount="4" FileCRC="1506549298" Time="20210706_164601" BuildInfo="1.66_2794_9276935a">
+      <Data Time="20210709_164310" BuildInfo="1.66_2796_3d4aa6e9" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="1498086" KB="1,463.0" FileCRC="3773076768" CRC="3773076768" />
+      <Data Time="20210709_164310" BuildInfo="1.66_2796_3d4aa6e9" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="6" Size="7276183" KB="7,105.6" FileCRC="3381008788" CRC="3381008788" />
+      <AssetBundle Time="20210707_162959" BuildInfo="1.66_2795_44509354" HighPriority="1" Path="data.table.unity3d" Version="6" Size="600326" KB="1,225.0" FileCRC="651809357" CRC="651809357" />
       <Data Time="20210706_164601" BuildInfo="1.66_2794_9276935a" HighPriority="1" Path="data.bin.client.dummy.tbl" Version="1" Size="5661960" KB="5,529.3" FileCRC="3056936590" CRC="3056936590" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" HighPriority="1" Size="11892489" MB="11.3" FileCount="1" FileCRC="3653694758" Time="20210706_164601" BuildInfo="1.66_2794_9276935a">
