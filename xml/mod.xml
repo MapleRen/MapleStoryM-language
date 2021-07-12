@@ -4,8 +4,8 @@
   <PackList Count="9">
     <PackInfo Name="pack_001.bin" HighPriority="1" Size="15691166" MB="15.0" FileCount="4" FileCRC="275033918" Time="20210706_164804" BuildInfo="1.66_2794_9276935a">
       <Data Time="20210709_225540" BuildInfo="1.66_2797_78cd3195" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="1498112" KB="1,463.0" FileCRC="1615097281" CRC="1615097281" />
-      <Data Time="20210709_225540" BuildInfo="1.66_2797_78cd3195" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="8" Size="7276331" KB="7,105.8" FileCRC="2882186364" CRC="2882186364" />
-      <AssetBundle Time="20210709_225540" BuildInfo="1.66_2797_78cd3195" HighPriority="1" Path="data.table.unity3d" Version="8" Size="600781" KB="1,225.2" FileCRC="3354403481" CRC="3354403481" />
+      <Data Time="20210709_225540" BuildInfo="1.66_2797_78cd3195" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="9" Size="7276331" KB="7,105.8" FileCRC="2942037392" CRC="2942037392" />
+      <AssetBundle Time="20210709_225540" BuildInfo="1.66_2797_78cd3195" HighPriority="1" Path="data.table.unity3d" Version="9" Size="600781" KB="1,225.2" FileCRC="3354403481" CRC="3354403481" />
       <Data Time="20210706_164804" BuildInfo="1.66_2794_9276935a" HighPriority="1" Path="data.bin.client.dummy.tbl" Version="1" Size="5661960" KB="5,529.3" FileCRC="3056936590" CRC="3056936590" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" HighPriority="1" Size="11892489" MB="11.3" FileCount="1" FileCRC="3653694758" Time="20210706_164804" BuildInfo="1.66_2794_9276935a">
