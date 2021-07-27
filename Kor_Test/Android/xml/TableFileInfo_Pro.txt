@@ -2,7 +2,7 @@ data.bin.client.buff.tbl	915887864	1	915887864
 data.bin.client.skill.tbl	1193836740	1	1193836740
 data.bin.slang.tbl	2075372482	1	2075372482
 data.bin.lan.kor.ifo	1615097281	1	1615097281
-data.bin.lan.kor.tbl	3092789769	12	3092789769
+data.bin.lan.kor.tbl	290818502	15	290818502
 data.bin.client.dummy.tbl	3056936590	1	3056936590
 data.bin.task.ifo	2736639269	1	2736639269
 data.bin.task.tbl	3703120276	1	3703120276
@@ -94,5 +94,5 @@ data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.upgradedefault.tbl	3167716340	1	3167716340
 data.bin.world.tbl	0	1	0
-data.table.unity3d	3778922346	12	3778922346
-data.language_kor.unity3d	1812296802	12	1812296802
+data.table.unity3d	3778922346	15	3778922346
+data.language_kor.unity3d	1812296802	15	1812296802
