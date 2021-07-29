@@ -1,8 +1,9 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20210729_100945" Region="Korea" BuildInfo="1.67_2849_c946bf0d" CommitHash="c946bf0d663fda2f3e3251c1e03e61e64d3472be" DependencyHash="324f5db91e55ff4fc09225d9f90caf3d611fd2639afb99964921dbc7fa069c4" PackCount="375" FileCount="13691" TotalSize="4628532766" MB="4,414.1" />
+  <Header CRC="20210729_150032" Region="Korea" BuildInfo="1.67_2851_777cf880" CommitHash="777cf880a30a7cba2e9c4e847b7d21f418ba9608" DependencyHash="c57f5fc04ad782fcc4d0e36fb7f5ec28eb262e24d4eca116c4cc6f978817b119" PackCount="375" FileCount="13691" TotalSize="4628532846" MB="4,414.1" />
   <PackList Count="375">
-    <PackInfo Name="pack_001.bin" HighPriority="1" Size="11902477" MB="11.4" FileCount="3" FileCRC="616573276" Time="20210729_013938" BuildInfo="1.67_2848_57259e83">
+    <PackInfo Name="pack_001.bin" HighPriority="1" Size="11947713" MB="11.4" FileCount="4" FileCRC="3588769452" Time="20210729_013938" BuildInfo="1.67_2848_57259e83">
+      <AssetBundle Time="20210729_150032" BuildInfo="1.67_2851_777cf880" HighPriority="0" Path="common.fx.static.blackheaven.minigame.francis.unity3d" Version="1" Size="45175" KB="44.1" FileCRC="2739886911" CRC="1691293939" />
       <AssetBundle Time="20210729_100945" BuildInfo="1.67_2849_c946bf0d" HighPriority="0" Path="common.ui._v4_0.eventbufftreepopupkr.unity3d" Version="1" Size="594197" KB="580.3" FileCRC="3266400050" CRC="298912715" />
       <AssetBundle Time="20210729_100945" BuildInfo="1.67_2849_c946bf0d" HighPriority="0" Path="common.ui._v4_0.themadungeon.blackheavenflyingshooting.unity3d" Version="1" Size="8202085" KB="8,009.8" FileCRC="852066488" CRC="2291027056" />
       <AssetBundle Time="20210729_013938" BuildInfo="1.67_2848_57259e83" HighPriority="1" Path="common.ui.maininterface.unity3d" Version="1" Size="3106019" KB="3,033.2" FileCRC="900709603" CRC="790424214" />
@@ -85,11 +86,10 @@
       <AssetBundle Time="20210722_194327" BuildInfo="1.67_2834_4f755eb4" HighPriority="0" Path="common.ui._v4_0.themadungeon.eventjumpingjumping.unity3d" Version="1" Size="436423" KB="426.2" FileCRC="2816078421" CRC="1945794079" />
       <AssetBundle Time="20210722_194327" BuildInfo="1.67_2834_4f755eb4" HighPriority="0" Path="common.ui._v4_0.themadungeon.rootabyss.unity3d" Version="1" Size="2303114" KB="2,249.1" FileCRC="3782475509" CRC="557972581" />
     </PackInfo>
-    <PackInfo Name="pack_010.bin" HighPriority="1" Size="16253713" MB="15.5" FileCount="11" FileCRC="2653922765" Time="20210721_192131" BuildInfo="1.67_2831_6dffcd1e">
+    <PackInfo Name="pack_010.bin" HighPriority="1" Size="16208557" MB="15.5" FileCount="10" FileCRC="1824291959" Time="20210721_192131" BuildInfo="1.67_2831_6dffcd1e">
       <AssetBundle Time="20210722_194327" BuildInfo="1.67_2834_4f755eb4" HighPriority="0" Path="common.ui._v4_0.themadungeon.treasurecatch.unity3d" Version="1" Size="516746" KB="504.6" FileCRC="564313283" CRC="3733259770" />
       <AssetBundle Time="20210722_194327" BuildInfo="1.67_2834_4f755eb4" HighPriority="0" Path="common.ui._v4_0.twitch.unity3d" Version="1" Size="51067" KB="49.9" FileCRC="3869281308" CRC="2950421906" />
       <AssetBundle Time="20210722_194327" BuildInfo="1.67_2834_4f755eb4" HighPriority="1" Path="common.ui.commonatlas.unity3d" Version="1" Size="1679012" KB="1,639.7" FileCRC="2527330616" CRC="3414682339" />
-      <AssetBundle Time="20210722_060843" BuildInfo="1.67_2832_47249c34" HighPriority="0" Path="common.fx.static.blackheaven.minigame.francis.unity3d" Version="1" Size="45095" KB="44.0" FileCRC="1716136447" CRC="2340813057" />
       <AssetBundle Time="20210722_060843" BuildInfo="1.67_2832_47249c34" HighPriority="0" Path="common.map.scrapyard.00_environment.unity3d" Version="1" Size="1994609" KB="1,947.9" FileCRC="1480647768" CRC="4281432975" />
       <AssetBundle Time="20210722_060843" BuildInfo="1.67_2832_47249c34" HighPriority="0" Path="common.ui._v4_0.themadungeon.blackheaven.grinderescape.unity3d" Version="1" Size="3736062" KB="3,648.5" FileCRC="215534700" CRC="1846125389" />
       <AssetBundle Time="20210722_060843" BuildInfo="1.67_2832_47249c34" HighPriority="0" Path="common.ui._v4_0.themadungeon.blackheavengeorg.unity3d" Version="1" Size="2229618" KB="2,177.4" FileCRC="302566563" CRC="1895940615" />
