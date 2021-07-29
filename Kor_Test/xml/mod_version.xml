@@ -13,17 +13,17 @@
   </OptionAttributes>
   <GooglePlay>
     <Application URL="https://play.google.com/store/apps/details?id=com.nexon.nsc.maplem">
-      <Release ClientVersion="1.67.2837" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/GooglePlay/167_2849Q_1/" Server="1.67.3.2812" />
+      <Release ClientVersion="1.67.2837" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/GooglePlay/167_2850Q_1/" Server="1.67.3.2815" />
     </Application>
   </GooglePlay>
   <AppStore>
     <Application URL="https://itunes.apple.com/kr/app/id1133463693">
-      <Release ClientVersion="1.67.2837" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/AppStore/167_2849Q_1/" Server="1.67.3.2812" />
+      <Release ClientVersion="1.67.2837" LoginServerIP="KOR_LV" LoginServerPort="7500" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/AppStore/167_2850Q_1/" Server="1.67.3.2815" />
     </Application>
   </AppStore>
   <Unity>
     <Application URL="">
-      <Release AddVAT="true" AdjustProduction="true" ClientVersion="0.0.101" DevOption="true" LoginServerIP="KOR_LV" LoginServerPort="7500" MaxLoadPerSec="256" NextVersionCheck="false" Report="false" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/GooglePlay/167_2849Q_1/" Server="1.67.3.2812" TapjoyDebug="false" UseImgDataCsv="false" />
+      <Release AddVAT="true" AdjustProduction="true" ClientVersion="0.0.101" DevOption="true" LoginServerIP="KOR_LV" LoginServerPort="7500" MaxLoadPerSec="256" NextVersionCheck="false" Report="false" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/GooglePlay/167_2850Q_1/" Server="1.67.3.2815" TapjoyDebug="false" UseImgDataCsv="false" />
       <Release AddVAT="true" AdjustProduction="true" ClientVersion="0.0.102" DevOption="true" LoginServerIP="KOR_RV" LoginServerPort="7500" MaxLoadPerSec="256" NextVersionCheck="false" Report="false" ResourceURL="http://maplemkorea.dn.nexoncdn.co.kr/GooglePlay/166_2559S/" Server="1.66.4.2673" TapjoyDebug="false" UseImgDataCsv="false" />
     </Application>
   </Unity>
