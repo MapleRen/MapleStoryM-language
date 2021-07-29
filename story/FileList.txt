@@ -1,4 +1,4 @@
-2021-06-25,
+2021-7-14,
 Text,Text
 Code,Filename
 Client.Language,CodeTable/@Korea/MoonBunnysRiceCakePopup/MoonBunnysRiceCakePopup
@@ -22,6 +22,13 @@ Client.Language,CodeTable/_V4_0/BeautyShop/BeautyShop
 Client.Language,CodeTable/_V4_0/BindItemCompletePopup/BindItemCompletePopup
 Client.Language,CodeTable/_V4_0/BindItemSelectPopup/BindItemSelectPopup
 Client.Language,CodeTable/_V4_0/BindItemSendPopup/BindItemSendPopup
+Client.Language,CodeTable/_V4_0/BlackHeaven/BlackHeaven_Tip_00
+Client.Language,CodeTable/_V4_0/BlackHeaven/BlackHeaven_Tip_01
+Client.Language,CodeTable/_V4_0/BlackHeaven/BlackHeaven_Tip_02
+Client.Language,CodeTable/_V4_0/BlackHeaven/BlackHeaven_Tip_03
+Client.Language,CodeTable/_V4_0/BlackHeaven/BlackHeaven_Tip_04
+Client.Language,CodeTable/_V4_0/BlackHeaven/BlackHeaven_Tip_05
+Client.Language,CodeTable/_V4_0/BlackHeaven/BlackHeaven_Tip_06
 Client.Language,CodeTable/_V4_0/Blessing/BonusListItem
 Client.Language,CodeTable/_V4_0/BowlingPopup/BowlingPopup
 Client.Language,CodeTable/_V4_0/BurningPackagePopup/BurningPackagePopup
@@ -41,7 +48,6 @@ Client.Language,CodeTable/_V4_0/CombinedPackagePopup/NewFirstPackage
 Client.Language,CodeTable/_V4_0/CombinedPackagePopup/NormalPackage
 Client.Language,CodeTable/_V4_0/CombinedRanking/CombinedRanking
 Client.Language,CodeTable/_V4_0/Common/Common
-Client.Language,CodeTable/_V4_0/Common/ThemaDungeonGuide
 Client.Language,CodeTable/_V4_0/CommonAlertPopup/CommonAlertPopup
 Client.Language,CodeTable/_V4_0/CommonItemUsePopup/CommonItemUsePopup
 Client.Language,CodeTable/_V4_0/CommonRankPopup/CommonRankPopup
@@ -82,14 +88,15 @@ Client.Language,CodeTable/_V4_0/Event/CoinFestival
 Client.Language,CodeTable/_V4_0/Event/EventGrowFlower
 Client.Language,CodeTable/_V4_0/Event/EventMakingScroll
 Client.Language,CodeTable/_V4_0/Event/EventMonsterHospital
-Client.Language,CodeTable/_V4_0/Event/GoldBeachResort_Tip
 Client.Language,CodeTable/_V4_0/Event/GoldBeachMission_Tip
+Client.Language,CodeTable/_V4_0/Event/GoldBeachResort_Tip
 Client.Language,CodeTable/_V4_0/Event/KnightsSupplies
 Client.Language,CodeTable/_V4_0/Event/Maple4U_BuffEvent
 Client.Language,CodeTable/_V4_0/Event/Maple4UFestival
 Client.Language,CodeTable/_V4_0/Event/ProtectTown
 Client.Language,CodeTable/_V4_0/Event/SongiSongiRose
 Client.Language,CodeTable/_V4_0/Event/SpiegelmannTrip
+Client.Language,CodeTable/_V4_0/Event/SummerEscape_Tip
 Client.Language,CodeTable/_V4_0/Event/TrainingGround
 Client.Language,CodeTable/_V4_0/Event/WreckHenesys
 Client.Language,CodeTable/_V4_0/Event/YetiChurrosShop_Tip
@@ -308,6 +315,11 @@ Client.Language,CodeTable/_V4_0/SurpriseStore/SurpriseStoreAlarmPopup
 Client.Language,CodeTable/_V4_0/SystemTutorialEntryPopup/SystemTutorialEntryPopup
 Client.Language,CodeTable/_V4_0/SystemTutorialSkipPopup/SystemTutorialSkipPopup
 Client.Language,CodeTable/_V4_0/ThemaDungeon/BingoDungeon/BingoDungeon
+Client.Language,CodeTable/_V4_0/ThemaDungeon/BlackHeaven/BlackHeaven
+Client.Language,CodeTable/_V4_0/ThemaDungeon/BlackHeaven/BlackHeavenCristalTrial/BlackHeavenCristalTrialDialog
+Client.Language,CodeTable/_V4_0/ThemaDungeon/BlackHeaven/BlackHeavenDialog
+Client.Language,CodeTable/_V4_0/ThemaDungeon/BlackHeaven/SpacePuzzle/SpacePuzzle
+Client.Language,CodeTable/_V4_0/ThemaDungeon/BlackHeaven/UnlockDoor/UnlockDoor
 Client.Language,CodeTable/_V4_0/ThemaDungeon/BountyHuntingDungeon/BountyHuntingDungeon
 Client.Language,CodeTable/_V4_0/ThemaDungeon/BurningDungeon/BurningDungeon
 Client.Language,CodeTable/_V4_0/ThemaDungeon/CommanderDungeon/CommanderDungeon
@@ -365,6 +377,7 @@ Client.Language,CodeTable/_V4_0/ThemaDungeon/RootAbyss/RootAbyss
 Client.Language,CodeTable/_V4_0/ThemaDungeon/SimpleResult
 Client.Language,CodeTable/_V4_0/ThemaDungeon/SyarenianCulvert/SyarenianCulvert
 Client.Language,CodeTable/_V4_0/ThemaDungeon/SyarenianCulvert/SyarenianTip
+Client.Language,CodeTable/_V4_0/ThemaDungeon/ThemaDungeonGuideLanguage
 Client.Language,CodeTable/_V4_0/Tutorial/ContentLanguage
 Client.Language,CodeTable/_V4_0/Tutorial/TutorialLanguage_WindowBox_Content
 Client.Language,CodeTable/_V4_0/Tutorial/TutorialLanguage_WindowBox_Title
@@ -413,6 +426,7 @@ Client.Language,Table/Character/Class
 Client.Language,Table/Character/Emotion
 Client.Language,Table/Character/Race
 Client.Language,Table/Chronicle/ActionCommandDescription
+Client.Language,Table/Chronicle/ActionCommandDescriptionBlackHeaven
 Client.Language,Table/Chronicle/ActionCommandDescriptionEpisodeDungeon
 Client.Language,Table/Chronicle/Description
 Client.Language,Table/Chronicle/Duty
@@ -720,6 +734,8 @@ Client.Language,UI/_V4_0/Event/EventHaste/EventHastePolloAndFritto
 Client.Language,UI/_V4_0/Event/EventHaste/EventHastePopup
 Client.Language,UI/_V4_0/Event/EventHaste/RewardDialog
 Client.Language,UI/_V4_0/Event/EventHub/EventHubPopup
+Client.Language,UI/_V4_0/Event/EventMakeChair/EventMakeChair
+Client.Language,UI/_V4_0/Event/EventMakeChair/EventMakeChairSimulationPopup
 Client.Language,UI/_V4_0/Event/EventMakeRiceCake/EventMakeRiceCake
 Client.Language,UI/_V4_0/Event/EventMakingScroll/1_64_EventMakingScroll
 Client.Language,UI/_V4_0/Event/EventMakingScroll/1_64_EventMakingScrollConfirmReward
@@ -790,6 +806,8 @@ Client.Language,UI/_V4_0/Event/RhythmPopup/RhythmPopup
 Client.Language,UI/_V4_0/Event/SpiegelmannTrip/03_prefab/CharListItem
 Client.Language,UI/_V4_0/Event/SpiegelmannTrip/03_prefab/EventSpiegelmannTrip
 Client.Language,UI/_V4_0/Event/SpiegelmannTrip/03_prefab/EventSpiegelmannTripPopup
+Client.Language,UI/_V4_0/Event/TrainingGround/GoldBeachTrainGround/GoldBeachTrainGround
+Client.Language,UI/_V4_0/Event/TrainingGround/GoldBeachTrainGround/GoldBeachTrainingGroundInfo
 Client.Language,UI/_V4_0/Event/TrainingGround/TrainingGround
 Client.Language,UI/_V4_0/Event/TrainingGround/TrainingGroundCharacterList
 Client.Language,UI/_V4_0/Event/TrainingGround/TrainingGroundCharacterListItem
@@ -804,6 +822,7 @@ Client.Language,UI/_V4_0/EventBingoPopup/EventBingoMissionChangePopup
 Client.Language,UI/_V4_0/EventBingoPopup/EventBingoPopup
 Client.Language,UI/_V4_0/EventBingoPopup/EventBingoResultPopup
 Client.Language,UI/_V4_0/EventBingoPopup/EventBingoRewardPopup
+Client.Language,UI/_V4_0/EventBuffTreePopupKR/Event_BuffTreePopup_KR
 Client.Language,UI/_V4_0/EventChapterMission/EventChapterMission
 Client.Language,UI/_V4_0/EventChapterMission/EventChapterMissionListItem
 Client.Language,UI/_V4_0/EventChristmasBoxPopup/EventChristmasBoxPopup
@@ -856,6 +875,9 @@ Client.Language,UI/_V4_0/EventPinkBeanPopup/EventPinkBeanPopup
 Client.Language,UI/_V4_0/EventPiranhaPopup/EventPiranhaPopup
 Client.Language,UI/_V4_0/EventPiranhaPopup/EventPiranhaRankRewardPopup
 Client.Language,UI/_V4_0/EventPiranhaPopup/EventPiranhaResultPopup
+Client.Language,UI/_V4_0/EventPiranhaPopup/Piranha_Enter
+Client.Language,UI/_V4_0/EventPiranhaPopup/PiranhaDeadExitPopup
+Client.Language,UI/_V4_0/EventPiranhaPopup/PiranhaEventRankRewardConfirmPopup
 Client.Language,UI/_V4_0/EventProtectGoldBeach/Event_ProtectGoldBeach_Ranking
 Client.Language,UI/_V4_0/EventRingPopup/EventRingPopup
 Client.Language,UI/_V4_0/EventRoulette2Popup/EventRoulette2Popup
@@ -1308,6 +1330,12 @@ Client.Language,UI/_V4_0/ThemaDungeon/AttackOnTitan/AttackOnTitanInterface
 Client.Language,UI/_V4_0/ThemaDungeon/BattleRockPaperScissors/BattleRockPaperScissorsInterface
 Client.Language,UI/_V4_0/ThemaDungeon/BingoDungeon/BingoDungeon
 Client.Language,UI/_V4_0/ThemaDungeon/BingoDungeon/BingoDungeonInterface
+Client.Language,UI/_V4_0/ThemaDungeon/BlackHeaven/BlackHeaven
+Client.Language,UI/_V4_0/ThemaDungeon/BlackHeaven/BlackHeavenEpisodeContinue
+Client.Language,UI/_V4_0/ThemaDungeon/BlackHeaven/BlackHeavenInterface
+Client.Language,UI/_V4_0/ThemaDungeon/BlackHeaven/ResearchClue/ResearchClue
+Client.Language,UI/_V4_0/ThemaDungeon/BlackHeaven/UnlockDoor/UnlockDoor
+Client.Language,UI/_V4_0/ThemaDungeon/BlackHeavenFlyingShooting/BlackHeavenFlyingShootingPopup
 Client.Language,UI/_V4_0/ThemaDungeon/BombBombDungeon/BombBombDungeon
 Client.Language,UI/_V4_0/ThemaDungeon/BombBombDungeon/BombBombDungeonInterface
 Client.Language,UI/_V4_0/ThemaDungeon/BountyHuntingDungeon/BountyHuntingDungeonInterface
@@ -1602,4 +1630,4 @@ Client.Language,UI/SimplePackagePopup/LevelupBurningPackage75Sale_Popup/LevelupB
 Client.Language,UI/ThemaDungeon/ThemaEventInvitePanel/ThemaEventInvitePanel
 Client.Language,UI/TutorialUI/TutorialUI
 Client.Language,UI/WebPackagePopup/WebPackagePopupListItem
-Client.Language,CodeTable/_V4_0/Event/SummerEscape_Tip
+Client.Language,Table/Message/PushMessage

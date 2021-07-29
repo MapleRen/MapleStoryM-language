@@ -530,4 +530,53 @@
 
 </Quest>
 
+<Quest code="Item_Forehead_Lotus_Lv200_00" index="1512" sort="AllTime">
+
+	<Title>[스우] 삼손이의 제안</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="NPC_ThreeHands_04">
+				<s>어머나, 말랑이!</s>
+				<s>지금 손에 들고 있는 그 반짝이는 고철은 어디서 났나요?</s>
+            </Page>
+			<Page speaker="Player">
+				<s>스우를 물리치고 주위에서 주웠어요.</s>			
+            </Page>
+			<Page speaker="NPC_ThreeHands_04">
+				<s>제가 좋아하는 반짝거림이에요!</s>
+			</Page>
+			<Page speaker="NPC_ThreeHands_04">
+				<s>저는 반짝이는 고철을 많이 가지고 싶어요.</s>
+			</Page>
+			<Page speaker="NPC_ThreeHands_04">
+				<s>말랑이가 반짝이는 고철을 많이 가져오시면 제가 아끼는 루즈 컨트롤 머신 마크를 드릴게요.</s>
+			</Page>
+			<Page speaker="Player">
+				<s>정말요?</s>
+			</Page>
+			<Page speaker="NPC_ThreeHands_04">
+				<s>그래요!</s>
+				<s>하지만, 더 많이 모아 오셔야 해요.</s>
+				<s>태초의 정수 7개, 반짝이는 고철 400개 정도면 될 것 같아요!</s>
+            </Page>			
+		</Body>
+	<Refuse>
+			<Page speaker="Player">
+				<s>나중에 다시 올게요.</s>
+			</Page>
+		</Refuse>
+
+	</Task>
+
+		<Task index="2">
+		<Body>
+			<Page speaker="NPC_ThreeHands_04">
+				<s>어머! 고마워요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
 </root>
