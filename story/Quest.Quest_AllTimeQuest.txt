@@ -579,4 +579,260 @@
 
 </Quest>
 
+<Quest code="MasterLabel_0009" index="1513" sort="Epic">
+
+	<Title>[마스터피스] 그리운 추억의 장</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="player">
+				<s>맡겨놓은 스텔라 얼굴장식 찾으러 왔습니다.</s>
+            </Page>
+			<Page speaker="Ladyblair_01">
+				<s>와.. #un#님, 뻔뻔하다의 뜻 알아요?</s>
+            </Page>
+			<Page speaker="player">
+				<s>아니! 블레어!</s>
+				<s>솔직히 내가 블레어한테 이 정도도 이야기 못해요?!</s>
+				<s>정말 너무하네. 진짜.</s>
+            </Page>
+			<Page speaker="Ladyblair_01">
+				<s>음… 그래요. 하…</s>
+				<s>#un#님을 위해서라면 까짓것 맡아 놓을 수도 있죠.</s>
+				<s>휴…</s>
+            </Page>
+		</Body>
+	<Refuse>
+			<Page speaker="Player">
+				<s>왜 한숨 쉬어요?</s>
+			</Page>
+			<Page speaker="Ladyblair_01">
+				<s>뻔뻔하다는 영어로?</s>
+		    </Page>
+			<Page speaker="Player">
+				<s>너무하네. 진짜.</s>
+			</Page>
+		</Refuse>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page speaker="Ladyblair_01">
+				<s>좋은하루 되세요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="MasterLabel_0010" index="1514" sort="Epic">
+
+	<Title>[마스터피스] 그리운 추억의 장</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="player">
+				<s>맡겨놓은 스텔라 얼굴장식 찾으러 왔습니다.</s>
+            </Page>
+			<Page speaker="Ladyblair_01">
+				<s>와.. #un#님, 뻔뻔하다의 뜻 알아요?</s>
+            </Page>
+			<Page speaker="player">
+				<s>아니! 블레어!</s>
+				<s>솔직히 내가 블레어한테 이 정도도 이야기 못해요?!</s>
+				<s>정말 너무하네. 진짜.</s>
+            </Page>
+			<Page speaker="Ladyblair_01">
+				<s>음… 그래요. 하…</s>
+				<s>#un#님을 위해서라면 까짓것 맡아 놓을 수도 있죠.</s>
+				<s>휴…</s>
+            </Page>
+		</Body>
+		<Refuse>
+			<Page speaker="Player">
+				<s>왜 한숨 쉬어요?</s>
+			</Page>
+			<Page speaker="Ladyblair_01">
+				<s>뻔뻔하다는 영어로?</s>
+		    </Page>
+			<Page speaker="Player">
+				<s>너무하네. 진짜.</s>
+			</Page>
+		</Refuse>
+	</Task>
+
+		<Task index="2">
+		<Body>
+			<Page speaker="Ladyblair_01">
+				<s>좋은하루 되세요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="MasterLabel_0011" index="1515" sort="Epic">
+
+	<Title>[마스터피스] 밤의 시엘</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="Ladyblair_01">
+				<s>#un#님! 후훗.</s>
+				<s>이번에도 제가 #un#님을 위해 밤의 가발을 준비했지요.</s>
+            </Page>
+			<Page speaker="player">
+				<s>!!!</s>
+            </Page>
+			<Page speaker="Ladyblair_01">
+				<s>어둠의 다크한 밤의 시엘 가발을 지금 바로 드리겠어요.</s>
+            </Page>
+		</Body>
+	<Refuse>
+			<Page speaker="Player">
+				<s>반짝임은 나의 생명. 어둠은 필요없어요.</s>
+			</Page>
+			<Page speaker="Player">
+				<s>휴 고맙지만 됐어요. 블레어.</s>
+			</Page>
+			<Page speaker="Ladyblair_01">
+				<s>빛과 어둠은 한 몸이거늘…!!</s>
+			</Page>
+		</Refuse>
+	</Task>
+
+		<Task index="2">
+		<Body>
+			<Page speaker="Ladyblair_01">
+				<s>시엘 헤어를 본뜬 어두운 가발을 드렸어요.</s>
+				<s>멋진 스타일 기대할게요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="MasterLabel_0012" index="1516" sort="Epic">
+
+	<Title>[마스터피스] 밤의 시엘</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="Ladyblair_01">
+				<s>#un#님! 후훗.</s>
+				<s>이번에도 제가 #un#님을 위해 밤의 가발을 준비했지요.</s>
+            </Page>
+			<Page speaker="player">
+				<s>!!!</s>
+            </Page>
+			<Page speaker="Ladyblair_01">
+				<s>어둠의 다크한 밤의 시엘 가발을 지금 바로 드리겠어요.</s>
+            </Page>
+		</Body>
+	<Refuse>
+			<Page speaker="Player">
+				<s>반짝임은 나의 생명. 어둠은 필요없어요.</s>
+			</Page>
+			<Page speaker="Player">
+				<s>휴 고맙지만 됐어요. 블레어.</s>
+			</Page>
+			<Page speaker="Ladyblair_01">
+				<s>빛과 어둠은 한 몸이거늘…!!</s>
+			</Page>
+		</Refuse>
+	</Task>
+
+		<Task index="2">
+		<Body>
+			<Page speaker="Ladyblair_01">
+				<s>시엘 헤어를 본뜬 어두운 가발을 드렸어요.</s>
+				<s>멋진 스타일 기대할게요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="MasterLabel_0013" index="1517" sort="Epic">
+
+	<Title>[마스터피스] 밤의 엘로디</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="Ladyblair_01">
+				<s>#un#님! 후훗.</s>
+				<s>이번에도 제가 #un#님을 위해 밤의 가발을 준비했지요.</s>
+            </Page>
+			<Page speaker="player">
+				<s>!!!</s>
+            </Page>
+			<Page speaker="Ladyblair_01">
+				<s>어둠의 다크한 밤의 엘로디 가발을 지금 바로 드리겠어요.</s>
+            </Page>
+		</Body>
+	<Refuse>
+			<Page speaker="Player">
+				<s>반짝임은 나의 생명. 어둠은 필요없어요.</s>
+			</Page>
+			<Page speaker="Player">
+				<s>휴 고맙지만 됐어요. 블레어.</s>
+			</Page>
+			<Page speaker="Ladyblair_01">
+				<s>빛과 어둠은 한 몸이거늘…!!</s>
+			</Page>
+		</Refuse>
+	</Task>
+
+		<Task index="2">
+		<Body>
+			<Page speaker="Ladyblair_01">
+				<s>엘로디 헤어를 본뜬 어두운 가발을 드렸어요.</s>
+				<s>멋진 스타일 기대할게요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+<Quest code="MasterLabel_0014" index="1518" sort="Epic">
+
+	<Title>[마스터피스] 밤의 엘로디</Title>
+
+	<Task index="1">
+		<Body>
+			<Page speaker="Ladyblair_01">
+				<s>#un#님! 후훗.</s>
+				<s>이번에도 제가 #un#님을 위해 밤의 가발을 준비했지요.</s>
+            </Page>
+			<Page speaker="player">
+				<s>!!!</s>
+            </Page>
+			<Page speaker="Ladyblair_01">
+				<s>어둠의 다크한 밤의 엘로디 가발을 지금 바로 드리겠어요.</s>
+            </Page>
+		</Body>
+	<Refuse>
+			<Page speaker="Player">
+				<s>반짝임은 나의 생명. 어둠은 필요없어요.</s>
+			</Page>
+			<Page speaker="Player">
+				<s>휴 고맙지만 됐어요. 블레어.</s>
+			</Page>
+			<Page speaker="Ladyblair_01">
+				<s>빛과 어둠은 한 몸이거늘…!!</s>
+			</Page>
+		</Refuse>
+	</Task>
+
+		<Task index="2">
+		<Body>
+			<Page speaker="Ladyblair_01">
+				<s>엘로디 헤어를 본뜬 어두운 가발을 드렸어요.</s>
+				<s>멋진 스타일 기대할게요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
 </root>

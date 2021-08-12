@@ -1540,7 +1540,6 @@ Client.Language,UI/_V4_0/WispWonderBerry/WispWonderBerryConfirmPopup
 Client.Language,UI/_V4_0/WispWonderBerry/WispWonderBerryResultPopup
 Client.Language,UI/_V4_0/WispWonderBerry_JP/LunaPetInfoPopup
 Client.Language,UI/_V4_0/WispWonderBerry_JP/WispWonderBerry_JP
-Client.Language,UI/_V4_0/XigncodePopup/XigncodePopup
 Client.Language,UI/AranTutorialSkill/AranTutorialSkill
 Client.Language,UI/Chat/Chat
 Client.Language,UI/Chat/GroupCreateListItem
