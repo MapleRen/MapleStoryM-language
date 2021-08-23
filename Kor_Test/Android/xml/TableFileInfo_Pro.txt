@@ -1,6 +1,6 @@
 data.bin.client.item.tbl	3778763447	1	3778763447
 data.bin.lan.kor.ifo	3221968285	1	3221968285
-data.bin.lan.kor.tbl	530897774	16	530897774
+data.bin.lan.kor.tbl	3021102589	17	3021102589
 data.bin.task.ifo	630244993	1	630244993
 data.bin.task.tbl	2646119454	1	2646119454
 data.bin.auctionrenewal.tbl	4103896437	1	4103896437
@@ -104,5 +104,5 @@ data.bin.upgrade.tbl	0	1	0
 data.bin.upgradeadditional.tbl	0	1	0
 data.bin.weeklyduty.tbl	0	1	0
 data.bin.world.tbl	0	1	0
-data.table.unity3d	2255934015	16	2255934015
-data.language_kor.unity3d	595153518	16	595153518
+data.table.unity3d	2255934015	17	2255934015
+data.language_kor.unity3d	595153518	17	595153518
