@@ -1,5 +1,5 @@
+data.bin.client.activator.tbl	1692030525	1	1692030525
 data.bin.client.dummy.tbl	1934750130	1	1934750130
-data.bin.client.activator.tbl	354664855	1	354664855
 data.bin.client.effect.ifo	1250699976	1	1250699976
 data.bin.client.effect.tbl	3319323349	1	3319323349
 data.bin.client.item.tbl	3437711955	1	3437711955

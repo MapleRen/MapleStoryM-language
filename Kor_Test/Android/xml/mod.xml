@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20210825_222835" Region="Korea" BuildInfo="1.68_2887_442f6bf7" CommitHash="" DependencyHash="" PackCount="9" FileCount="109" TotalSize="120122703" MB="114.6" Compressed="false" Source="/Users/nexon/Jenkins/workspace/KoreaQA/Korea_AT_AOS_QA/TABLE/Table/" />
+  <Header CRC="20210826_093604" Region="Korea" BuildInfo="1.68_2888_92cd04e6" CommitHash="" DependencyHash="" PackCount="9" FileCount="109" TotalSize="120122704" MB="114.6" Compressed="false" Source="/Users/nexon/Jenkins/workspace/KoreaQA/Korea_AT_AOS_QA/TABLE/Table/" />
   <PackList Count="9">
-    <PackInfo Name="pack_001.bin" HighPriority="1" Size="21564837" MB="20.6" FileCount="5" FileCRC="3521659464" Time="20210825_215305" BuildInfo="1.68_2886_6db70b68">
+    <PackInfo Name="pack_001.bin" HighPriority="1" Size="21564838" MB="20.6" FileCount="5" FileCRC="4163052006" Time="20210825_215305" BuildInfo="1.68_2886_6db70b68">
+      <Data Time="20210826_093604" BuildInfo="1.68_2888_92cd04e6" HighPriority="1" Path="data.bin.client.activator.tbl" Version="1" Size="711940" KB="695.3" FileCRC="1692030525" CRC="1692030525" />
       <Data Time="20210825_222835" BuildInfo="1.68_2887_442f6bf7" HighPriority="1" Path="data.bin.client.dummy.tbl" Version="1" Size="6251081" KB="6,104.6" FileCRC="1934750130" CRC="1934750130" />
-      <Data Time="20210825_215305" BuildInfo="1.68_2886_6db70b68" HighPriority="1" Path="data.bin.client.activator.tbl" Version="1" Size="711939" KB="695.3" FileCRC="354664855" CRC="354664855" />
       <Data Time="20210825_215305" BuildInfo="1.68_2886_6db70b68" HighPriority="1" Path="data.bin.client.effect.ifo" Version="1" Size="76908" KB="75.1" FileCRC="1250699976" CRC="1250699976" />
       <Data Time="20210825_215305" BuildInfo="1.68_2886_6db70b68" HighPriority="1" Path="data.bin.client.effect.tbl" Version="1" Size="2867965" KB="2,800.7" FileCRC="3319323349" CRC="3319323349" />
       <Data Time="20210825_215305" BuildInfo="1.68_2886_6db70b68" HighPriority="1" Path="data.bin.client.item.tbl" Version="1" Size="11656759" KB="11,383.6" FileCRC="3437711955" CRC="3437711955" />
