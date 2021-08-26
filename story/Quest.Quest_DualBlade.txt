@@ -4393,6 +4393,7 @@
 	
 	<Task index="3">
 		<ActiveMemo>트리스탄의 무덤으로 이동</ActiveMemo>
+		<PassiveMemo>#p_0#와 전투</PassiveMemo>
 		<Body>
 			<Page skip="true" actionCommand="DualBlade_0076_03">
 			</Page>

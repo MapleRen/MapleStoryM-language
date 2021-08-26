@@ -1,4 +1,4 @@
-2021-7-14,
+2021-8-18,
 Text,Text
 Code,Filename
 Client.Language,CodeTable/@Korea/MoonBunnysRiceCakePopup/MoonBunnysRiceCakePopup
@@ -126,6 +126,7 @@ Client.Language,CodeTable/_V4_0/EventHotelMaple/Tip
 Client.Language,CodeTable/_V4_0/EventHubPopup/EventHubPopup
 Client.Language,CodeTable/_V4_0/EventHubPopup/EventHubPopup_Sub
 Client.Language,CodeTable/_V4_0/EventItemCombinePopup/EventItemCombine
+Client.Language,CodeTable/_V4_0/EventItemCombinePopup/EventItemCombineSelectListPopup
 Client.Language,CodeTable/_V4_0/EventJobLevelAssociation/EventJobLevelAssociation
 Client.Language,CodeTable/_V4_0/EventJumpingPinkbean/EventJumpingPinkbean
 Client.Language,CodeTable/_V4_0/EventMaeSaeng2Popup/EventMaeSaeng2Popup
@@ -337,6 +338,7 @@ Client.Language,CodeTable/_V4_0/ThemaDungeon/EventHeroChallenge/EventHeroChallen
 Client.Language,CodeTable/_V4_0/ThemaDungeon/EventNewYear/EventNewYear
 Client.Language,CodeTable/_V4_0/ThemaDungeon/EventPinkBeanPuzzleRename/PuzzleCodeTable
 Client.Language,CodeTable/_V4_0/ThemaDungeon/EvolvingSystem/EvolvingSystem
+Client.Language,CodeTable/_V4_0/ThemaDungeon/FireWolf/FireWolf
 Client.Language,CodeTable/_V4_0/ThemaDungeon/GrainWareHouse/GrainWareHouse
 Client.Language,CodeTable/_V4_0/ThemaDungeon/GuildDamageDungeon/GuildDamageDungeon
 Client.Language,CodeTable/_V4_0/ThemaDungeon/GuildDungeon/GuildDungeon
@@ -477,7 +479,9 @@ Client.Language,Table/Message/Chitchat
 Client.Language,Table/Message/EliteDungeonTip
 Client.Language,Table/Message/FailMessage
 Client.Language,Table/Message/PetTalk
+Client.Language,Table/Message/PushMessage
 Client.Language,Table/Message/SystemMessage
+Client.Language,Table/Message/ToyFailMessage
 Client.Language,Table/NewOption/NewOption
 Client.Language,Table/PetDeckPopup/PetDeckPopup
 Client.Language,Table/RaceSelect/RaceSelect
@@ -685,8 +689,11 @@ Client.Language,UI/_V4_0/DirectUpgrade/DirectUpgrade
 Client.Language,UI/_V4_0/DirectUpgrade/DirectUpgradeListItem
 Client.Language,UI/_V4_0/DisassembleFailPopup/DisassembleFailPopup
 Client.Language,UI/_V4_0/DisassembleItemPopup/DisassembleAutoSettingPopupVer2
+Client.Language,UI/_V4_0/DisassembleItemPopup/DisassembleAutoSettingScrollingPopupVer2
 Client.Language,UI/_V4_0/DisassembleItemPopup/DisassembleConfirmPopup
+Client.Language,UI/_V4_0/DisassembleItemPopup/DisassembleInputPopup
 Client.Language,UI/_V4_0/DisassembleItemPopup/DisassembleItemPopup
+Client.Language,UI/_V4_0/DisassembleItemPopup/DisassembleNotifyEquippedItemPopup
 Client.Language,UI/_V4_0/DisassembleItemPopup/DisassembleResultPopup
 Client.Language,UI/_V4_0/DisassembleItemPopup/DisassembleWarningPopup
 Client.Language,UI/_V4_0/DisassembleItemPopup/DisassembleWarningUnsetItemPopup
@@ -836,6 +843,7 @@ Client.Language,UI/_V4_0/EventHeinzDicePopup/EventSlideLadderDicePopup
 Client.Language,UI/_V4_0/EventItemCombinePopup/EventItemCombine
 Client.Language,UI/_V4_0/EventItemCombinePopup/EventItemCombineConfirmPopup
 Client.Language,UI/_V4_0/EventItemCombinePopup/EventItemCombineResultPopup
+Client.Language,UI/_V4_0/EventItemCombinePopup/EventItemCombineSelectListPopup
 Client.Language,UI/_V4_0/EventItemCombinePopup/EventItemCombineSelectPopup
 Client.Language,UI/_V4_0/EventItemCombinePopup/SoulMadeRing/SoulMadeRingExchangeConfirmPopup
 Client.Language,UI/_V4_0/EventItemCombinePopup/SoulMadeRing/SoulMadeRingExchangeResultPopup
@@ -901,6 +909,7 @@ Client.Language,UI/_V4_0/ExpansionBag/ExpansionBagPopup
 Client.Language,UI/_V4_0/ExpansionBagCouponPopup/ExpansionBagCouponListItem
 Client.Language,UI/_V4_0/ExpansionBagCouponPopup/ExpansionBagCouponPopup
 Client.Language,UI/_V4_0/Expedition/ExpeditionFailPopup
+Client.Language,UI/_V4_0/Expedition/ExpeditionInfoPopup/ExpeditionClearRewardItem
 Client.Language,UI/_V4_0/Expedition/ExpeditionInfoPopup/ExpeditionInfoPopup
 Client.Language,UI/_V4_0/Expedition/ExpeditionRankingPopup
 Client.Language,UI/_V4_0/Expedition/ExpeditionReviveLimitPopup
@@ -1293,6 +1302,7 @@ Client.Language,UI/_V4_0/Skill/SkillListItemLink
 Client.Language,UI/_V4_0/Skill/SkillPopup
 Client.Language,UI/_V4_0/Skill/SkillPopupLink
 Client.Language,UI/_V4_0/Skill/SkillPopupUnLink
+Client.Language,UI/_V4_0/Skill/SkillPresetCommandPopup
 Client.Language,UI/_V4_0/Skill/SkillTip
 Client.Language,UI/_V4_0/SoulGaugePopup/SoulGaugePopup
 Client.Language,UI/_V4_0/SoulPiece/SoulCombineConfirmPopup
@@ -1381,6 +1391,9 @@ Client.Language,UI/_V4_0/ThemaDungeon/EventPinkBeanPuzzleRename/EventPinkBeanPuz
 Client.Language,UI/_V4_0/ThemaDungeon/EvolvingSystem/EvolvingSystem/EvolvingInterface
 Client.Language,UI/_V4_0/ThemaDungeon/EvolvingSystem/EvolvingSystem/EvolvingSystem
 Client.Language,UI/_V4_0/ThemaDungeon/EvolvingSystem/EvolvingSystem/EvolvingSystemEnterPopup
+Client.Language,UI/_V4_0/ThemaDungeon/FireWolf/EventFireWolf
+Client.Language,UI/_V4_0/ThemaDungeon/FireWolf/FireWolfInterface
+Client.Language,UI/_V4_0/ThemaDungeon/FireWolf/FireWolfResult
 Client.Language,UI/_V4_0/ThemaDungeon/GrainWareHouseAttack/GrainWareHouseAttackGameRoom
 Client.Language,UI/_V4_0/ThemaDungeon/GuardTheCastleGates/GuardTheCastleGatesPanel
 Client.Language,UI/_V4_0/ThemaDungeon/GuildDamageDungeon/GuildDamageDungeon/GradeRewardListItem
@@ -1454,6 +1467,10 @@ Client.Language,UI/_V4_0/ThemaDungeon/MTower/MTowerInterface
 Client.Language,UI/_V4_0/ThemaDungeon/MTower/MTowerSkillListItem
 Client.Language,UI/_V4_0/ThemaDungeon/MulungDojo/MulungDojo/EnterConfirmPopup
 Client.Language,UI/_V4_0/ThemaDungeon/MulungDojo/MulungDojo/MulungDojo
+Client.Language,UI/_V4_0/ThemaDungeon/MulungDojo/MulungDojo/MulungDojoEnterPopupNew
+Client.Language,UI/_V4_0/ThemaDungeon/MulungDojo/MulungDojo/MulungDojoEnterPopupNew_KOR
+Client.Language,UI/_V4_0/ThemaDungeon/MulungDojo/MulungDojo/MulungDojoNew
+Client.Language,UI/_V4_0/ThemaDungeon/MulungDojo/MulungDojo/MulungRewardInfoPopupNew2
 Client.Language,UI/_V4_0/ThemaDungeon/MulungDojo/ResultPopup/MulungDojoResultPopup
 Client.Language,UI/_V4_0/ThemaDungeon/MulungDojo/TicketLackPopup/MulungDojoTicketLackPopup
 Client.Language,UI/_V4_0/ThemaDungeon/MurrMurr/ItemSlot
@@ -1548,6 +1565,7 @@ Client.Language,UI/Chat/PortraitChat2
 Client.Language,UI/Chat/PortraitGroupCreateListItem2
 Client.Language,UI/Chat/PortraitWhisperCreateListItem2
 Client.Language,UI/Chat/WhisperCreateListItem
+Client.Language,UI/Common
 Client.Language,UI/CommonPackagePopup/CommonPackagePopup_PowerElixir
 Client.Language,UI/CommonPackagePopup/CommonPackagePopup_Template_D_Monthly
 Client.Language,UI/CommonPackagePopup/CommonPackagePopup_Template_D_Monthly_01
@@ -1629,4 +1647,3 @@ Client.Language,UI/SimplePackagePopup/LevelupBurningPackage75Sale_Popup/LevelupB
 Client.Language,UI/ThemaDungeon/ThemaEventInvitePanel/ThemaEventInvitePanel
 Client.Language,UI/TutorialUI/TutorialUI
 Client.Language,UI/WebPackagePopup/WebPackagePopupListItem
-Client.Language,Table/Message/PushMessage
