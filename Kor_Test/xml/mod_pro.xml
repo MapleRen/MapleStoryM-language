@@ -11,7 +11,7 @@
     </PackInfo>
     <PackInfo Name="pack_002.bin" HighPriority="1" Size="10529573" MB="10.0" FileCount="3" FileCRC="1082665224" Time="20210825_215526" BuildInfo="1.68_2886_6db70b68">
       <Data Time="20210825_215526" BuildInfo="1.68_2886_6db70b68" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="1587734" KB="1,550.5" FileCRC="2710244609" CRC="2710244609" />
-      <Data Time="20210825_215526" BuildInfo="1.68_2886_6db70b68" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="2" Size="7718498" KB="7,537.6" FileCRC="1665070138" CRC="1665070138" />
+      <Data Time="20210825_215526" BuildInfo="1.68_2886_6db70b68" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="2" Size="7718498" KB="7,537.6" FileCRC="1520992670" CRC="1520992670" />
       <AssetBundle Time="20210825_215526" BuildInfo="1.68_2886_6db70b68" HighPriority="1" Path="data.table.unity3d" Version="2" Size="594403" KB="1,194.6" FileCRC="1984445023" CRC="1984445023" />
     </PackInfo>
     <PackInfo Name="pack_003.bin" HighPriority="1" Size="19032762" MB="18.2" FileCount="5" FileCRC="2614660297" Time="20210825_192104" BuildInfo="1.68_2885_a42c9138">
