@@ -1,17 +1,20 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20210915_214354" Region="Korea" BuildInfo="1.69_2945_c8656fe4" CommitHash="c8656fe4e7f7b82679d45bbad100a909f94619de" DependencyHash="c975e3c99978b69e171e6c91332f71a1ef7d7d32d3d8b138c8bf1a4a854361f" PackCount="398" FileCount="14029" TotalSize="5012233448" MB="4,780.0" />
+  <Header CRC="20210916_150429" Region="Korea" BuildInfo="1.69_2949_647f62b2" CommitHash="647f62b256f0f72f9bda87e1a2d5a7b5103c62d8" DependencyHash="a3b1b8c1c5e2482851826ae26ca11c3a5d77419c9184e0ffb5a8607cb9abbb" PackCount="398" FileCount="14029" TotalSize="5012237714" MB="4,780.0" />
   <PackList Count="398">
-    <PackInfo Name="pack_001.bin" HighPriority="0" Size="11366871" MB="10.8" FileCount="7" FileCRC="2144688030" Time="20210915_185855" BuildInfo="1.69_2944_58ba64bf">
+    <PackInfo Name="pack_001.bin" HighPriority="0" Size="12076835" MB="11.5" FileCount="8" FileCRC="3006342143" Time="20210915_185855" BuildInfo="1.69_2944_58ba64bf">
+      <AssetBundle Time="20210916_150429" BuildInfo="1.69_2949_647f62b2" HighPriority="0" Path="common.dummyobject.ride.vehicle_2104_000029.unity3d" Version="1" Size="35488" KB="34.7" FileCRC="219153437" CRC="217786945" />
+      <AssetBundle Time="20210916_150429" BuildInfo="1.69_2949_647f62b2" HighPriority="0" Path="common.dynamictexture.itempreview.damageskin.unity3d" Version="1" Size="4032337" KB="3,937.8" FileCRC="2917520183" CRC="98614801" />
+      <AssetBundle Time="20210916_150429" BuildInfo="1.69_2949_647f62b2" HighPriority="0" Path="common.ui._v4_0.event.goblinmarket.goblinhunt.unity3d" Version="1" Size="1282995" KB="1,252.9" FileCRC="1216328357" CRC="148661084" />
+      <AssetBundle Time="20210916_150429" BuildInfo="1.69_2949_647f62b2" HighPriority="0" Path="common.ui._v4_0.partymatchmanager.unity3d" Version="1" Size="594886" KB="580.9" FileCRC="1661113712" CRC="182657174" />
       <AssetBundle Time="20210915_214354" BuildInfo="1.69_2945_c8656fe4" HighPriority="0" Path="common.character.skill.dualblade.finalcut_sd.unity3d" Version="1" Size="146486" KB="143.1" FileCRC="1861842625" CRC="2468582541" />
-      <AssetBundle Time="20210915_214354" BuildInfo="1.69_2945_c8656fe4" HighPriority="0" Path="common.ui._v4_0.event.goblinmarket.goblinhunt.unity3d" Version="1" Size="1282993" KB="1,252.9" FileCRC="906712761" CRC="1876784290" />
       <AssetBundle Time="20210915_214354" BuildInfo="1.69_2945_c8656fe4" HighPriority="0" Path="common.ui._v4_0.themadungeon.exptimedungeon.unity3d" Version="1" Size="311245" KB="304.0" FileCRC="2686774246" CRC="4220863222" />
       <AssetBundle Time="20210915_185855" BuildInfo="1.69_2944_58ba64bf" HighPriority="0" Path="common.character.skill.kinesis.psychicclutch_sd.unity3d" Version="1" Size="1052160" KB="1,027.5" FileCRC="313812592" CRC="2890790579" />
       <AssetBundle Time="20210915_185855" BuildInfo="1.69_2944_58ba64bf" HighPriority="0" Path="common.character.skill.kinesis.psychicclutch.unity3d" Version="1" Size="4620752" KB="4,512.5" FileCRC="2968991511" CRC="928421461" />
+    </PackInfo>
+    <PackInfo Name="pack_002.bin" HighPriority="1" Size="25257756" MB="24.1" FileCount="4" FileCRC="1002261259" Time="20210915_185855" BuildInfo="1.69_2944_58ba64bf">
       <AssetBundle Time="20210915_185855" BuildInfo="1.69_2944_58ba64bf" HighPriority="0" Path="common.character.skill.kinesis.psychicgrab_sd.unity3d" Version="1" Size="758746" KB="741.0" FileCRC="3717942868" CRC="13801350" />
       <AssetBundle Time="20210915_185855" BuildInfo="1.69_2944_58ba64bf" HighPriority="0" Path="common.character.skill.kinesis.psychicgrab.unity3d" Version="1" Size="3194052" KB="3,119.2" FileCRC="3604906337" CRC="375457974" />
-    </PackInfo>
-    <PackInfo Name="pack_002.bin" HighPriority="1" Size="21304839" MB="20.3" FileCount="2" FileCRC="2197686749" Time="20210915_185855" BuildInfo="1.69_2944_58ba64bf">
       <AssetBundle Time="20210915_185855" BuildInfo="1.69_2944_58ba64bf" HighPriority="1" Path="common.dynamictexture.itemicon.abah.unity3d" Version="1" Size="22382" KB="21.9" FileCRC="4088601621" CRC="215965830" />
       <AssetBundle Time="20210915_185855" BuildInfo="1.69_2944_58ba64bf" HighPriority="0" Path="common.dynamictexture.packageportalbanner.unity3d" Version="1" Size="21282334" KB="20,783.5" FileCRC="1360363901" CRC="3374176434" />
     </PackInfo>
@@ -102,14 +105,12 @@
       <AssetBundle Time="20210909_061018" BuildInfo="1.69_2912_302f2672" HighPriority="1" Path="common.temp.equipment_cash.weapon.cash_weapon_2109_000085.unity3d" Version="1" Size="314105" KB="306.7" FileCRC="3692768796" CRC="3286750486" />
       <AssetBundle Time="20210909_061018" BuildInfo="1.69_2912_302f2672" HighPriority="0" Path="common.ui._v4_0.eventanniversarycoinpopup.unity3d" Version="1" Size="1539508" KB="1,503.4" FileCRC="1503638871" CRC="3186320366" />
     </PackInfo>
-    <PackInfo Name="pack_011.bin" HighPriority="1" Size="18254905" MB="17.4" FileCount="16" FileCRC="2585800247" Time="20210908_124048" BuildInfo="1.69_2910_85a3b1d5">
+    <PackInfo Name="pack_011.bin" HighPriority="1" Size="14191168" MB="13.5" FileCount="14" FileCRC="632106660" Time="20210908_124048" BuildInfo="1.69_2910_85a3b1d5">
       <AssetBundle Time="20210909_061018" BuildInfo="1.69_2912_302f2672" HighPriority="0" Path="common.ui.simplepackagepopup.69_shield_pcakge_01.unity3d" Version="1" Size="395897" KB="386.6" FileCRC="3622869569" CRC="3293703892" />
       <AssetBundle Time="20210909_061018" BuildInfo="1.69_2912_302f2672" HighPriority="0" Path="common.ui.simplepackagepopup.69_shield_pcakge_02.unity3d" Version="1" Size="299226" KB="292.2" FileCRC="1767849326" CRC="2332273140" />
       <AssetBundle Time="20210908_184859" BuildInfo="1.69_2911_0fd9208e" HighPriority="0" Path="common.character.eventskill.goblinfullmoonnightmarket.goblinbat_hit.unity3d" Version="1" Size="527280" KB="514.9" FileCRC="1001474325" CRC="710080786" />
       <AssetBundle Time="20210908_184859" BuildInfo="1.69_2911_0fd9208e" HighPriority="0" Path="common.dummyobject.chair.chair_2109_000139.unity3d" Version="1" Size="630132" KB="615.4" FileCRC="807970801" CRC="2300322244" />
-      <AssetBundle Time="20210908_184859" BuildInfo="1.69_2911_0fd9208e" HighPriority="0" Path="common.dummyobject.ride.vehicle_2104_000029.unity3d" Version="1" Size="35473" KB="34.6" FileCRC="2153872888" CRC="3040453257" />
       <AssetBundle Time="20210908_184859" BuildInfo="1.69_2911_0fd9208e" HighPriority="1" Path="common.dynamictexture.itemicon.damageskin.unity3d" Version="1" Size="296755" KB="289.8" FileCRC="1717985170" CRC="1900084735" />
-      <AssetBundle Time="20210908_184859" BuildInfo="1.69_2911_0fd9208e" HighPriority="0" Path="common.dynamictexture.itempreview.damageskin.unity3d" Version="1" Size="4028145" KB="3,933.7" FileCRC="2838538211" CRC="1236259650" />
       <AssetBundle Time="20210908_184859" BuildInfo="1.69_2911_0fd9208e" HighPriority="0" Path="common.fx.static.ui_number.onmonster.damageskin_2109_000050.unity3d" Version="1" Size="122029" KB="119.2" FileCRC="825500847" CRC="58763942" />
       <AssetBundle Time="20210908_184859" BuildInfo="1.69_2911_0fd9208e" HighPriority="0" Path="common.ui._v4_0.combinedspecialevent.unity3d" Version="1" Size="1874638" KB="1,830.7" FileCRC="2439652051" CRC="1456600399" />
       <AssetBundle Time="20210908_184859" BuildInfo="1.69_2911_0fd9208e" HighPriority="0" Path="common.ui._v4_0.event.goblinmarket.stonestatue.unity3d" Version="1" Size="698235" KB="681.9" FileCRC="1821707180" CRC="3829970817" />
@@ -585,13 +586,12 @@
       <AssetBundle Time="20210901_135319" BuildInfo="1.69_2894_ee890e2e" HighPriority="0" Path="common.ui._v4_0.minigameinvite.unity3d" Version="1" Size="88035" KB="86.0" FileCRC="2389269731" CRC="3424774299" />
       <AssetBundle Time="20210901_135319" BuildInfo="1.69_2894_ee890e2e" HighPriority="0" Path="common.ui._v4_0.monstercollection.unity3d" Version="1" Size="697059" KB="680.7" FileCRC="245564456" CRC="1228871863" />
     </PackInfo>
-    <PackInfo Name="pack_036.bin" HighPriority="0" Size="10541137" MB="10.1" FileCount="16" FileCRC="4253193386" Time="20210901_135319" BuildInfo="1.69_2894_ee890e2e">
+    <PackInfo Name="pack_036.bin" HighPriority="0" Size="13272411" MB="12.7" FileCount="16" FileCRC="700971171" Time="20210901_135319" BuildInfo="1.69_2894_ee890e2e">
       <AssetBundle Time="20210901_135319" BuildInfo="1.69_2894_ee890e2e" HighPriority="0" Path="common.ui._v4_0.monsterparkpopup.unity3d" Version="1" Size="1640482" KB="1,602.0" FileCRC="652553325" CRC="711641876" />
       <AssetBundle Time="20210901_135319" BuildInfo="1.69_2894_ee890e2e" HighPriority="0" Path="common.ui._v4_0.moonbunnysbarbecue.unity3d" Version="1" Size="389247" KB="380.1" FileCRC="1287349935" CRC="3788720871" />
       <AssetBundle Time="20210901_135319" BuildInfo="1.69_2894_ee890e2e" HighPriority="0" Path="common.ui._v4_0.murungrewardpopup.unity3d" Version="1" Size="30509" KB="29.8" FileCRC="3589960888" CRC="3832040451" />
       <AssetBundle Time="20210901_135319" BuildInfo="1.69_2894_ee890e2e" HighPriority="0" Path="common.ui._v4_0.newmesoshower.unity3d" Version="1" Size="490867" KB="479.4" FileCRC="1252136850" CRC="2493303642" />
       <AssetBundle Time="20210901_135319" BuildInfo="1.69_2894_ee890e2e" HighPriority="0" Path="common.ui._v4_0.option.option_v2.unity3d" Version="1" Size="217774" KB="212.7" FileCRC="3439541365" CRC="380618934" />
-      <AssetBundle Time="20210901_135319" BuildInfo="1.69_2894_ee890e2e" HighPriority="0" Path="common.ui._v4_0.partymatchmanager.unity3d" Version="1" Size="594829" KB="580.9" FileCRC="1174468617" CRC="3308262144" />
       <AssetBundle Time="20210901_135319" BuildInfo="1.69_2894_ee890e2e" HighPriority="0" Path="common.ui._v4_0.potentialitem.unity3d" Version="1" Size="601483" KB="587.4" FileCRC="1109141013" CRC="3924694637" />
       <AssetBundle Time="20210901_135319" BuildInfo="1.69_2894_ee890e2e" HighPriority="0" Path="common.ui._v4_0.questrewardpopup.unity3d" Version="1" Size="30597" KB="29.9" FileCRC="450066216" CRC="3365981353" />
       <AssetBundle Time="20210901_135319" BuildInfo="1.69_2894_ee890e2e" HighPriority="0" Path="common.ui._v4_0.reconnectpopup.unity3d" Version="1" Size="27384" KB="26.7" FileCRC="3232045048" CRC="2375546240" />
@@ -602,9 +602,9 @@
       <AssetBundle Time="20210901_135319" BuildInfo="1.69_2894_ee890e2e" HighPriority="0" Path="common.ui._v4_0.themadungeon.bingodungeon.unity3d" Version="1" Size="1036262" KB="1,012.0" FileCRC="2863440688" CRC="1002332486" />
       <AssetBundle Time="20210901_135319" BuildInfo="1.69_2894_ee890e2e" HighPriority="0" Path="common.ui._v4_0.themadungeon.blackheavencristaltrial.unity3d" Version="1" Size="1774357" KB="1,732.8" FileCRC="2436874282" CRC="3161130299" />
       <AssetBundle Time="20210901_135319" BuildInfo="1.69_2894_ee890e2e" HighPriority="0" Path="common.ui._v4_0.themadungeon.episodedungeon.unity3d" Version="1" Size="1917632" KB="1,872.7" FileCRC="4129780819" CRC="2455626768" />
-    </PackInfo>
-    <PackInfo Name="pack_037.bin" HighPriority="0" Size="15879034" MB="15.1" FileCount="4" FileCRC="472772566" Time="20210901_135319" BuildInfo="1.69_2894_ee890e2e">
       <AssetBundle Time="20210901_135319" BuildInfo="1.69_2894_ee890e2e" HighPriority="0" Path="common.ui._v4_0.themadungeon.guildtournament.guildtournamentpopup.unity3d" Version="1" Size="3326071" KB="3,248.1" FileCRC="3496800083" CRC="435690004" />
+    </PackInfo>
+    <PackInfo Name="pack_037.bin" HighPriority="0" Size="12552882" MB="12.0" FileCount="3" FileCRC="2084082069" Time="20210901_135319" BuildInfo="1.69_2894_ee890e2e">
       <AssetBundle Time="20210901_135319" BuildInfo="1.69_2894_ee890e2e" HighPriority="0" Path="common.ui._v4_0.themadungeon.guildwar.guildwarpopup.unity3d" Version="1" Size="1303400" KB="1,272.9" FileCRC="1174042110" CRC="690690819" />
       <AssetBundle Time="20210901_135319" BuildInfo="1.69_2894_ee890e2e" HighPriority="0" Path="common.ui._v4_0.themadungeon.mulungdojo.mulungdojo.unity3d" Version="1" Size="490218" KB="478.7" FileCRC="1202548695" CRC="59857081" />
       <AssetBundle Time="20210901_135319" BuildInfo="1.69_2894_ee890e2e" HighPriority="0" Path="common.ui._v4_0.themadungeon.mushroomshrinetales.unity3d" Version="1" Size="10759052" KB="10,506.9" FileCRC="3052504847" CRC="1210439087" />
