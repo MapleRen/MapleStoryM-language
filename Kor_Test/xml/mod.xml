@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20210916_153108" Region="Korea" BuildInfo="1.69_2949_1a5b9ebe" CommitHash="" DependencyHash="" PackCount="10" FileCount="109" TotalSize="121105517" MB="115.5" Compressed="false" Source="/Users/nexon/Jenkins/workspace/KoreaQA/Korea_AT_IOS_QA/TABLE/Table/" />
+  <Header CRC="20210917_152649" Region="Korea" BuildInfo="1.69_2950_daeee9f6" CommitHash="" DependencyHash="" PackCount="10" FileCount="109" TotalSize="121105482" MB="115.5" Compressed="false" Source="/Users/nexon/Jenkins/workspace/KoreaQA/Korea_AT_IOS_QA/TABLE/Table/" />
   <PackList Count="10">
-    <PackInfo Name="pack_001.bin" HighPriority="1" Size="10663213" MB="10.2" FileCount="3" FileCRC="785009907" Time="20210916_153108" BuildInfo="1.69_2949_1a5b9ebe">
-      <Data Time="20210916_153108" BuildInfo="1.69_2949_1a5b9ebe" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="1605904" KB="1,568.3" FileCRC="3954864109" CRC="3954864109" />
-      <Data Time="20210916_153108" BuildInfo="1.69_2949_1a5b9ebe" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="3" Size="7814690" KB="7,631.5" FileCRC="2631155470" CRC="2631155470" />
-      <AssetBundle Time="20210916_153108" BuildInfo="1.69_2949_1a5b9ebe" HighPriority="1" Path="data.table.unity3d" Version="3" Size="603255" KB="1,213.4" FileCRC="1771590748" CRC="1771590748" />
+    <PackInfo Name="pack_001.bin" HighPriority="1" Size="10663178" MB="10.2" FileCount="3" FileCRC="1710235712" Time="20210917_152649" BuildInfo="1.69_2950_daeee9f6">
+      <Data Time="20210917_152649" BuildInfo="1.69_2950_daeee9f6" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="1605910" KB="1,568.3" FileCRC="746585284" CRC="746585284" />
+      <Data Time="20210917_152649" BuildInfo="1.69_2950_daeee9f6" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="4" Size="7814696" KB="7,631.5" FileCRC="3905965386" CRC="3905965386" />
+      <AssetBundle Time="20210917_152649" BuildInfo="1.69_2950_daeee9f6" HighPriority="1" Path="data.table.unity3d" Version="4" Size="603609" KB="1,213.4" FileCRC="2078148713" CRC="2078148713" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" HighPriority="1" Size="12487830" MB="11.9" FileCount="2" FileCRC="4172195758" Time="20210916_093818" BuildInfo="1.69_2948_4b72e45d">
       <Data Time="20210916_093818" BuildInfo="1.69_2948_4b72e45d" HighPriority="1" Path="data.bin.client.item.ifo" Version="1" Size="705913" KB="689.4" FileCRC="909143291" CRC="909143291" />

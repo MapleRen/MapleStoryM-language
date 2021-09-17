@@ -1,8 +1,9 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20210916_150429" Region="Korea" BuildInfo="1.69_2949_647f62b2" CommitHash="647f62b256f0f72f9bda87e1a2d5a7b5103c62d8" DependencyHash="a3b1b8c1c5e2482851826ae26ca11c3a5d77419c9184e0ffb5a8607cb9abbb" PackCount="398" FileCount="14029" TotalSize="5012237714" MB="4,780.0" />
+  <Header CRC="20210917_145942" Region="Korea" BuildInfo="1.69_2950_72e3716c" CommitHash="72e3716cad688a2bde293669ba0460c2654306b8" DependencyHash="fba91e23c8058e1d6d753021e39d453d4402e1b5161e87297fc1c3f412d1" PackCount="398" FileCount="14029" TotalSize="5012246900" MB="4,780.1" />
   <PackList Count="398">
-    <PackInfo Name="pack_001.bin" HighPriority="0" Size="12076835" MB="11.5" FileCount="8" FileCRC="3006342143" Time="20210915_185855" BuildInfo="1.69_2944_58ba64bf">
+    <PackInfo Name="pack_001.bin" HighPriority="0" Size="13170668" MB="12.6" FileCount="9" FileCRC="94122000" Time="20210915_185855" BuildInfo="1.69_2944_58ba64bf">
+      <AssetBundle Time="20210917_145942" BuildInfo="1.69_2950_72e3716c" HighPriority="0" Path="common.ui._v4_0.themadungeon.episodedungeon.episodedungeonminigame.unity3d" Version="1" Size="1093751" KB="1,068.1" FileCRC="1358032886" CRC="345332531" />
       <AssetBundle Time="20210916_150429" BuildInfo="1.69_2949_647f62b2" HighPriority="0" Path="common.dummyobject.ride.vehicle_2104_000029.unity3d" Version="1" Size="35488" KB="34.7" FileCRC="219153437" CRC="217786945" />
       <AssetBundle Time="20210916_150429" BuildInfo="1.69_2949_647f62b2" HighPriority="0" Path="common.dynamictexture.itempreview.damageskin.unity3d" Version="1" Size="4032337" KB="3,937.8" FileCRC="2917520183" CRC="98614801" />
       <AssetBundle Time="20210916_150429" BuildInfo="1.69_2949_647f62b2" HighPriority="0" Path="common.ui._v4_0.event.goblinmarket.goblinhunt.unity3d" Version="1" Size="1282995" KB="1,252.9" FileCRC="1216328357" CRC="148661084" />
@@ -2750,12 +2751,11 @@
       <AssetBundle Time="20210420_060842" BuildInfo="1.64_2652_0eb9af66" HighPriority="0" Path="common.ui._v4_0.eventmakecake.unity3d" Version="1" Size="647037" KB="631.9" FileCRC="2808128105" CRC="876337358" />
       <AssetBundle Time="20210420_060842" BuildInfo="1.64_2652_0eb9af66" HighPriority="0" Path="common.ui._v4_0.eventslidingpuzzlepopup.unity3d" Version="1" Size="3298718" KB="3,221.4" FileCRC="1340614092" CRC="2593987374" />
     </PackInfo>
-    <PackInfo Name="pack_147.bin" HighPriority="0" Size="12016604" MB="11.5" FileCount="12" FileCRC="1838705726" Time="20210420_060842" BuildInfo="1.64_2652_0eb9af66">
+    <PackInfo Name="pack_147.bin" HighPriority="0" Size="10931957" MB="10.4" FileCount="11" FileCRC="3967066160" Time="20210420_060842" BuildInfo="1.64_2652_0eb9af66">
       <AssetBundle Time="20210420_060842" BuildInfo="1.64_2652_0eb9af66" HighPriority="0" Path="common.ui._v4_0.guildagit.unity3d" Version="1" Size="264303" KB="258.1" FileCRC="2866359229" CRC="157980983" />
       <AssetBundle Time="20210420_060842" BuildInfo="1.64_2652_0eb9af66" HighPriority="0" Path="common.ui._v4_0.guildeditpopup.unity3d" Version="1" Size="98342" KB="96.0" FileCRC="40475612" CRC="67199749" />
       <AssetBundle Time="20210420_060842" BuildInfo="1.64_2652_0eb9af66" HighPriority="0" Path="common.ui._v4_0.multiminigamepopup.ntossstick.unity3d" Version="1" Size="3266356" KB="3,189.8" FileCRC="3836911488" CRC="962619212" />
       <AssetBundle Time="20210420_060842" BuildInfo="1.64_2652_0eb9af66" HighPriority="0" Path="common.ui._v4_0.rhythmgame.gameinterface.unity3d" Version="1" Size="977060" KB="954.2" FileCRC="1660015902" CRC="2499890655" />
-      <AssetBundle Time="20210420_060842" BuildInfo="1.64_2652_0eb9af66" HighPriority="0" Path="common.ui._v4_0.themadungeon.episodedungeon.episodedungeonminigame.unity3d" Version="1" Size="1084565" KB="1,059.1" FileCRC="1910763383" CRC="3404117319" />
       <AssetBundle Time="20210420_060842" BuildInfo="1.64_2652_0eb9af66" HighPriority="0" Path="common.ui._v4_0.themadungeon.eventherochallenge.unity3d" Version="1" Size="1795671" KB="1,753.6" FileCRC="3782161358" CRC="2279270520" />
       <AssetBundle Time="20210420_060842" BuildInfo="1.64_2652_0eb9af66" HighPriority="0" Path="common.ui._v4_0.themadungeon.moonbunnyoperation.unity3d" Version="1" Size="112894" KB="110.2" FileCRC="3102833465" CRC="1233612279" />
       <AssetBundle Time="20210420_060842" BuildInfo="1.64_2652_0eb9af66" HighPriority="0" Path="common.ui._v4_0.themadungeon.neotokyo.neotokyotouchminigame.unity3d" Version="1" Size="423029" KB="413.1" FileCRC="810383214" CRC="261020166" />
