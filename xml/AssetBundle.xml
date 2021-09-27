@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20210917_145942" Region="Korea" BuildInfo="1.69_2950_72e3716c" CommitHash="72e3716cad688a2bde293669ba0460c2654306b8" DependencyHash="fba91e23c8058e1d6d753021e39d453d4402e1b5161e87297fc1c3f412d1" PackCount="398" FileCount="14029" TotalSize="5012246900" MB="4,780.1" />
+  <Header CRC="20210917_145942" Region="Korea" BuildInfo="1.69_2950_72e3716c" CommitHash="72e3716cad688a2bde293669ba0460c2654306b8" DependencyHash="fba91e23c8058e1d6d753021e39d453d4402e1b5161e87297fc1c3f412d1" PackCount="398" FileCount="14029" TotalSize="5012246888" MB="4,780.1" />
   <PackList Count="398">
     <PackInfo Name="pack_001.bin" HighPriority="0" Size="13170668" MB="12.6" FileCount="9" FileCRC="94122000" Time="20210915_185855" BuildInfo="1.69_2944_58ba64bf">
       <AssetBundle Time="20210917_145942" BuildInfo="1.69_2950_72e3716c" HighPriority="0" Path="common.ui._v4_0.themadungeon.episodedungeon.episodedungeonminigame.unity3d" Version="1" Size="1093751" KB="1,068.1" FileCRC="1358032886" CRC="345332531" />
@@ -1018,7 +1018,7 @@
       <AssetBundle Time="20210809_124515" BuildInfo="1.68_2856_9961ce0b" HighPriority="0" Path="common.ui._v4_0.themadungeon.eventgreatadventure.ingameinterface.unity3d" Version="1" Size="8691839" KB="8,488.1" FileCRC="3955665519" CRC="1754060572" />
       <AssetBundle Time="20210809_124515" BuildInfo="1.68_2856_9961ce0b" HighPriority="0" Path="common.ui._v4_0.themadungeon.eventgreatadventure.outgamemain.unity3d" Version="1" Size="5072013" KB="4,953.1" FileCRC="1314111361" CRC="4105724224" />
     </PackInfo>
-    <PackInfo Name="pack_069.bin" HighPriority="0" Size="10554098" MB="10.1" FileCount="10" FileCRC="3691687021" Time="20210729_101151" BuildInfo="1.67_2849_c946bf0d">
+    <PackInfo Name="pack_069.bin" HighPriority="0" Size="10554096" MB="10.1" FileCount="10" FileCRC="1139724004" Time="20210729_101151" BuildInfo="1.67_2849_c946bf0d">
       <AssetBundle Time="20210809_124515" BuildInfo="1.68_2856_9961ce0b" HighPriority="0" Path="common.ui._v4_0.themadungeon.eventjumpingjumping.unity3d" Version="1" Size="607306" KB="593.1" FileCRC="2781220094" CRC="4279423819" />
       <AssetBundle Time="20210809_124515" BuildInfo="1.68_2856_9961ce0b" HighPriority="0" Path="common.ui._v4_0.themadungeon.eventnewyear.unity3d" Version="1" Size="4754292" KB="4,642.9" FileCRC="120435198" CRC="4044851058" />
       <AssetBundle Time="20210809_124515" BuildInfo="1.68_2856_9961ce0b" HighPriority="0" Path="common.ui._v4_0.themadungeon.reincarnatedslimebattle.finish.unity3d" Version="1" Size="58250" KB="56.9" FileCRC="1955716813" CRC="2401790497" />
@@ -1028,10 +1028,10 @@
       <AssetBundle Time="20210809_124515" BuildInfo="1.68_2856_9961ce0b" HighPriority="0" Path="common.ui.mainhudbuttons.surprisestorebutton.unity3d" Version="1" Size="8668" KB="8.5" FileCRC="1017263239" CRC="2799620733" />
       <AssetBundle Time="20210804_171550" BuildInfo="1.67_2855_6aeea7c3" HighPriority="0" Path="common.sound.blackheaven.unity3d" Version="1" Size="1972420" KB="1,926.2" FileCRC="3196193797" CRC="3704742081" />
       <AssetBundle Time="20210729_150231" BuildInfo="1.67_2851_777cf880" HighPriority="0" Path="common.fx.static.blackheaven.minigame.francis.unity3d" Version="1" Size="44488" KB="43.4" FileCRC="1190159011" CRC="2506598090" />
-      <AssetBundle Time="20210729_101151" BuildInfo="1.67_2849_c946bf0d" HighPriority="0" Path="common.ui._v4_0.eventbufftreepopupkr.unity3d" Version="1" Size="659295" KB="643.8" FileCRC="888490137" CRC="3813481977" />
+      <AssetBundle Time="20210729_101151" BuildInfo="1.67_2849_c946bf0d" HighPriority="0" Path="common.ui._v4_0.eventbufftreepopupkr.unity3d" Version="1" Size="659293" KB="643.8" FileCRC="2420423564" CRC="3813481977" />
     </PackInfo>
-    <PackInfo Name="pack_070.bin" HighPriority="0" Size="11897428" MB="11.3" FileCount="5" FileCRC="1839753770" Time="20210728_185627" BuildInfo="1.67_2846_e45c252e">
-      <AssetBundle Time="20210729_101151" BuildInfo="1.67_2849_c946bf0d" HighPriority="0" Path="common.ui._v4_0.themadungeon.blackheavenflyingshooting.unity3d" Version="1" Size="8250268" KB="8,056.9" FileCRC="3325288270" CRC="1738382274" />
+    <PackInfo Name="pack_070.bin" HighPriority="0" Size="11897426" MB="11.3" FileCount="5" FileCRC="2438183516" Time="20210728_185627" BuildInfo="1.67_2846_e45c252e">
+      <AssetBundle Time="20210729_101151" BuildInfo="1.67_2849_c946bf0d" HighPriority="0" Path="common.ui._v4_0.themadungeon.blackheavenflyingshooting.unity3d" Version="1" Size="8250266" KB="8,056.9" FileCRC="3591996906" CRC="1738382274" />
       <AssetBundle Time="20210728_223158" BuildInfo="1.67_2847_e2aea4a1" HighPriority="0" Path="common.sound.class.kinesis.unity3d" Version="1" Size="556547" KB="543.5" FileCRC="3567311330" CRC="3256198960" />
       <AssetBundle Time="20210728_223158" BuildInfo="1.67_2847_e2aea4a1" HighPriority="0" Path="common.sound.monster.commanderdungeon_05.unity3d" Version="1" Size="463241" KB="452.4" FileCRC="2210133877" CRC="3907378020" />
       <AssetBundle Time="20210728_223158" BuildInfo="1.67_2847_e2aea4a1" HighPriority="0" Path="common.ui._v4_0.themadungeon.blackheaven.interactobject.unity3d" Version="1" Size="427120" KB="417.1" FileCRC="3135219225" CRC="3300275423" />
@@ -1101,7 +1101,7 @@
       <AssetBundle Time="20210721_061015" BuildInfo="1.67_2827_180f9f2a" HighPriority="0" Path="common.dummyobject.item_various.equip.icon_forehead.unity3d" Version="1" Size="36345" KB="35.5" FileCRC="1526173301" CRC="2620730411" />
       <AssetBundle Time="20210721_061015" BuildInfo="1.67_2827_180f9f2a" HighPriority="0" Path="common.map.rien.unity3d" Version="1" Size="10984196" KB="10,726.8" FileCRC="2207986847" CRC="3924361877" />
     </PackInfo>
-    <PackInfo Name="pack_077.bin" HighPriority="1" Size="41328950" MB="39.4" FileCount="26" FileCRC="671552967" Time="20210720_061007" BuildInfo="1.67_2822_1efd6216">
+    <PackInfo Name="pack_077.bin" HighPriority="1" Size="41328948" MB="39.4" FileCount="26" FileCRC="4009989885" Time="20210720_061007" BuildInfo="1.67_2822_1efd6216">
       <AssetBundle Time="20210721_061015" BuildInfo="1.67_2827_180f9f2a" HighPriority="0" Path="common.ui._v4_0.easymovieplaypopup.unity3d" Version="1" Size="34604" KB="33.8" FileCRC="286979526" CRC="3632645291" />
       <AssetBundle Time="20210721_061015" BuildInfo="1.67_2827_180f9f2a" HighPriority="0" Path="common.ui._v4_0.equipguidepopup.unity3d" Version="1" Size="1650209" KB="1,611.5" FileCRC="2928707505" CRC="1447935200" />
       <AssetBundle Time="20210721_061015" BuildInfo="1.67_2827_180f9f2a" HighPriority="0" Path="common.ui.simplepackagepopup.67_return_user_crystal_package.unity3d" Version="1" Size="420013" KB="410.2" FileCRC="332730167" CRC="1649164347" />
@@ -1121,7 +1121,7 @@
       <AssetBundle Time="20210720_184444" BuildInfo="1.67_2826_b60fb1cc" HighPriority="1" Path="common.temp.customize.face.male.face_m_211.unity3d" Version="1" Size="44906" KB="43.9" FileCRC="2409966744" CRC="3141209722" />
       <AssetBundle Time="20210720_184444" BuildInfo="1.67_2826_b60fb1cc" HighPriority="1" Path="common.temp.customize.face.male.face_m_212.unity3d" Version="1" Size="45246" KB="44.2" FileCRC="1329368095" CRC="3209373307" />
       <AssetBundle Time="20210720_184444" BuildInfo="1.67_2826_b60fb1cc" HighPriority="0" Path="common.ui._v4_0.illegalreportpopuprenewal.unity3d" Version="1" Size="68185" KB="66.6" FileCRC="2792971989" CRC="1894352818" />
-      <AssetBundle Time="20210720_184444" BuildInfo="1.67_2826_b60fb1cc" HighPriority="0" Path="common.ui._v4_0.themadungeon.common.themadungeondialog.unity3d" Version="1" Size="107349" KB="104.8" FileCRC="547620155" CRC="305522800" />
+      <AssetBundle Time="20210720_184444" BuildInfo="1.67_2826_b60fb1cc" HighPriority="0" Path="common.ui._v4_0.themadungeon.common.themadungeondialog.unity3d" Version="1" Size="107347" KB="104.8" FileCRC="2228788220" CRC="305522800" />
       <AssetBundle Time="20210720_184444" BuildInfo="1.67_2826_b60fb1cc" HighPriority="0" Path="common.ui.mainhudbuttons.multidayattendbutton.unity3d" Version="1" Size="7705" KB="7.5" FileCRC="2935857851" CRC="3717005420" />
       <AssetBundle Time="20210720_141221" BuildInfo="1.67_2824_5fef04be" HighPriority="1" Path="common.temp.equipment.cape.cape_angelicburster_default.unity3d" Version="1" Size="28737" KB="28.1" FileCRC="2006128553" CRC="331100114" />
       <AssetBundle Time="20210720_141221" BuildInfo="1.67_2824_5fef04be" HighPriority="1" Path="common.temp.equipment.cape.cape_angelicburster_dressup.unity3d" Version="1" Size="45821" KB="44.7" FileCRC="1017495772" CRC="350206422" />
@@ -1135,7 +1135,7 @@
       <AssetBundle Time="20210719_184618" BuildInfo="1.67_2819_4517f865" HighPriority="1" Path="common.fx.static.loadingpage.unity3d" Version="1" Size="294908" KB="288.0" FileCRC="2914416680" CRC="3339462864" />
       <AssetBundle Time="20210719_184618" BuildInfo="1.67_2819_4517f865" HighPriority="0" Path="common.sky_set.ossyriacontinent.unity3d" Version="1" Size="27276182" KB="26,636.9" FileCRC="3076169289" CRC="1777860104" />
     </PackInfo>
-    <PackInfo Name="pack_079.bin" HighPriority="0" Size="11874429" MB="11.3" FileCount="27" FileCRC="4050614003" Time="20210719_184618" BuildInfo="1.67_2819_4517f865">
+    <PackInfo Name="pack_079.bin" HighPriority="0" Size="11874425" MB="11.3" FileCount="27" FileCRC="2456992486" Time="20210719_184618" BuildInfo="1.67_2819_4517f865">
       <AssetBundle Time="20210719_184618" BuildInfo="1.67_2819_4517f865" HighPriority="0" Path="common.ui._v4_0.autohuntresultpopup.unity3d" Version="1" Size="246763" KB="241.0" FileCRC="3278688598" CRC="2079714628" />
       <AssetBundle Time="20210719_184618" BuildInfo="1.67_2819_4517f865" HighPriority="0" Path="common.ui._v4_0.blessing.unity3d" Version="1" Size="54051" KB="52.8" FileCRC="1529421772" CRC="1406959948" />
       <AssetBundle Time="20210719_184618" BuildInfo="1.67_2819_4517f865" HighPriority="0" Path="common.ui._v4_0.bossresultpopup.unity3d" Version="1" Size="291916" KB="285.1" FileCRC="792457531" CRC="3964205532" />
@@ -1157,15 +1157,15 @@
       <AssetBundle Time="20210719_184618" BuildInfo="1.67_2819_4517f865" HighPriority="0" Path="common.ui._v4_0.stat.unity3d" Version="1" Size="181990" KB="177.7" FileCRC="495064627" CRC="219468302" />
       <AssetBundle Time="20210719_184618" BuildInfo="1.67_2819_4517f865" HighPriority="0" Path="common.ui._v4_0.themadungeon.guilddamagedungeon.guilddamagedungeon.unity3d" Version="1" Size="212013" KB="207.0" FileCRC="255213717" CRC="3950475400" />
       <AssetBundle Time="20210719_184618" BuildInfo="1.67_2819_4517f865" HighPriority="0" Path="common.ui._v4_0.themadungeon.guildladder.unity3d" Version="1" Size="551208" KB="538.3" FileCRC="1585627190" CRC="1475236297" />
-      <AssetBundle Time="20210719_184618" BuildInfo="1.67_2819_4517f865" HighPriority="0" Path="common.ui._v4_0.themadungeon.guildtournament.guildtournamentmessage.unity3d" Version="1" Size="312507" KB="305.2" FileCRC="223792331" CRC="2280757944" />
+      <AssetBundle Time="20210719_184618" BuildInfo="1.67_2819_4517f865" HighPriority="0" Path="common.ui._v4_0.themadungeon.guildtournament.guildtournamentmessage.unity3d" Version="1" Size="312505" KB="305.2" FileCRC="2906005612" CRC="2280757944" />
       <AssetBundle Time="20210719_184618" BuildInfo="1.67_2819_4517f865" HighPriority="0" Path="common.ui._v4_0.themadungeon.guildwar.guildwarpanel.unity3d" Version="1" Size="1099156" KB="1,073.4" FileCRC="1100124594" CRC="692958454" />
       <AssetBundle Time="20210719_184618" BuildInfo="1.67_2819_4517f865" HighPriority="0" Path="common.ui._v4_0.waitroom.unity3d" Version="1" Size="117242" KB="114.5" FileCRC="1006493327" CRC="924851778" />
       <AssetBundle Time="20210719_184618" BuildInfo="1.67_2819_4517f865" HighPriority="0" Path="common.ui.cinema.blackheaven.unity3d" Version="1" Size="70954" KB="69.3" FileCRC="2456905080" CRC="790930960" />
       <AssetBundle Time="20210719_184618" BuildInfo="1.67_2819_4517f865" HighPriority="0" Path="common.ui.fevermode.unity3d" Version="1" Size="460768" KB="450.0" FileCRC="544091900" CRC="1274037303" />
-      <AssetBundle Time="20210719_184618" BuildInfo="1.67_2819_4517f865" HighPriority="0" Path="common.ui.playtimepackagepopup.66_playtimepackage.unity3d" Version="1" Size="2006502" KB="1,959.5" FileCRC="1972355240" CRC="1073525805" />
+      <AssetBundle Time="20210719_184618" BuildInfo="1.67_2819_4517f865" HighPriority="0" Path="common.ui.playtimepackagepopup.66_playtimepackage.unity3d" Version="1" Size="2006500" KB="1,959.5" FileCRC="3546918273" CRC="1073525805" />
     </PackInfo>
-    <PackInfo Name="pack_080.bin" HighPriority="0" Size="16220217" MB="15.5" FileCount="5" FileCRC="527220615" Time="20210719_125012" BuildInfo="1.67_2817_2ac26ad0">
-      <AssetBundle Time="20210719_184618" BuildInfo="1.67_2819_4517f865" HighPriority="0" Path="common.ui.playtimepackagepopup.unity3d" Version="1" Size="2099866" KB="2,050.7" FileCRC="2635734675" CRC="2246014088" />
+    <PackInfo Name="pack_080.bin" HighPriority="0" Size="16220215" MB="15.5" FileCount="5" FileCRC="4067573334" Time="20210719_125012" BuildInfo="1.67_2817_2ac26ad0">
+      <AssetBundle Time="20210719_184618" BuildInfo="1.67_2819_4517f865" HighPriority="0" Path="common.ui.playtimepackagepopup.unity3d" Version="1" Size="2099864" KB="2,050.6" FileCRC="3683542910" CRC="2246014088" />
       <AssetBundle Time="20210719_184618" BuildInfo="1.67_2819_4517f865" HighPriority="0" Path="common.ui.simplepackagepopup.67_shield_01.unity3d" Version="1" Size="390613" KB="381.5" FileCRC="3600681675" CRC="1708342513" />
       <AssetBundle Time="20210719_184618" BuildInfo="1.67_2819_4517f865" HighPriority="0" Path="common.ui.simplepackagepopup.67_shield_02.unity3d" Version="1" Size="427214" KB="417.2" FileCRC="1548737398" CRC="4149775912" />
       <AssetBundle Time="20210719_125012" BuildInfo="1.67_2817_2ac26ad0" HighPriority="0" Path="common.dynamictexture.events.jumpingjumping.unity3d" Version="1" Size="88283" KB="86.2" FileCRC="1722428242" CRC="4191606917" />
