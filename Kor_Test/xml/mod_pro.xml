@@ -10,7 +10,7 @@
       <Data Time="20211006_153622" BuildInfo="1.69_2582_c60f0cda" HighPriority="1" Path="data.bin.client.partsset.ifo" Version="1" Size="108651" KB="106.1" FileCRC="877270330" CRC="877270330" />
       <Data Time="20211006_153622" BuildInfo="1.69_2582_c60f0cda" HighPriority="1" Path="data.bin.client.partsset.tbl" Version="1" Size="3529793" KB="3,447.1" FileCRC="3023196040" CRC="3023196040" />
       <Data Time="20211006_153622" BuildInfo="1.69_2582_c60f0cda" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="1606134" KB="1,568.5" FileCRC="2281896019" CRC="2281896019" />
-      <Data Time="20211006_153622" BuildInfo="1.69_2582_c60f0cda" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="6" Size="7816423" KB="7,633.2" FileCRC="2093690986" CRC="2093690986" />
+      <Data Time="20211006_153622" BuildInfo="1.69_2582_c60f0cda" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="6" Size="7816423" KB="7,633.2" FileCRC="659922765" CRC="659922765" />
     </PackInfo>
     <PackInfo Name="pack_003.bin" HighPriority="1" Size="14271085" MB="13.6" FileCount="4" FileCRC="1404686770" Time="20210927_145516" BuildInfo="1.69_2951_9e6c8d4d">
       <Data Time="20210927_164041" BuildInfo="1.69_2952_3cc2f8bc" HighPriority="1" Path="data.bin.client.skill.descriptionset.ifo" Version="1" Size="367520" KB="358.9" FileCRC="491963296" CRC="491963296" />
