@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20211009_200522" Region="Korea" BuildInfo="1.69_2583_4e8e3922" CommitHash="" DependencyHash="" PackCount="9" FileCount="109" TotalSize="121107498" MB="115.5" Compressed="false" Source="/Users/nexon/Jenkins/workspace/KoreaStage/Korea_AT_IOS_Stage/TABLE/Table/" />
+  <Header CRC="20211014_212156" Region="Korea" BuildInfo="1.69_2584_4e8e3922" CommitHash="" DependencyHash="" PackCount="9" FileCount="109" TotalSize="121107498" MB="115.5" Compressed="false" Source="/Users/nexon/Jenkins/workspace/KoreaStage/Korea_AT_IOS_Stage/TABLE/Table/" />
   <PackList Count="9">
     <PackInfo Name="pack_001.bin" HighPriority="1" Size="18266250" MB="17.4" FileCount="3" FileCRC="1389344326" Time="20211006_153622" BuildInfo="1.69_2582_c60f0cda">
       <Data Time="20211009_200522" BuildInfo="1.69_2583_4e8e3922" HighPriority="1" Path="data.bin.task.tbl" Version="1" Size="5778396" KB="5,643.0" FileCRC="4289525542" CRC="4289525542" />
