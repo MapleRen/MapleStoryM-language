@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+
+
+<Quest code="Yeti_0001" index="5049" sort="Epic">
+
+	<Title>예티의 모험 시작</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>주황버섯 이 마을 방향으로 왔다.</s>
+			</Page>
+			<Page>
+				<s>저 영감님 주황버섯 봤을지도.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>새로운 모험가인가?</s>
+				<s>어서 오게, 헤네시스 마을에 온 걸 환영하네.</s>
+			</Page>
+			<Page>
+				<s>요즘엔 개성적인 차림새를 한 모험가들이 부쩍 많아진 것 같군. 허허.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+<Quest code="Yeti_0002" index="5050" sort="Epic">
+
+	<Title>헤네시스 탐문 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>주황버섯을 찾는다고?</s>
+			</Page>
+			<Page>
+				<s>조금 전에 분홍색 인형탈을 뒤집어쓴 모험가도 내게 같은 걸 묻던데, 왜 그런 질문을 하는 겐가?</s>
+			</Page>
+			<Page actionCommand="Yeti_0002_01">
+				<s>염려 말게. 마을은 안전하네.</s>
+				<s>몬스터가 침입하지 못하도록 철저히 방비하고 있지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(예티를 모험가로 착각하는 영감님 말 못 믿는다.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>앗! 그 모습…!</s>
+			</Page>
+			<Page>
+				<s>너도 잡아먹히지 않도록 조심해.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+<Quest code="Yeti_0003" index="5051" sort="Epic">
+
+	<Title>주황버섯의 행방 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>버섯을 보지 못했느냐고?</s>
+			</Page>
+			<Page>
+				<s>봤지! 언덕에서!</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]바람꽃수풀[-]로 가 봐.</s>
+				<s>네가 찾는 [ff7b50]주황버섯[-]은 그 둔덕에 주로 서식하거든.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>여기 주황버섯 많다.</s>
+			</Page>
+			<Page>
+				<s>그런데 예티가 찾는 주황버섯 없다.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+<Quest code="Yeti_0004" index="5052" sort="Epic">
+
+	<Title>헤네시스 탐문 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>예티가 찾는 주황버섯 더 강하다.</s>
+			</Page>
+			<Page>
+				<s>다시 찾는다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>꺅!</s>
+			</Page>
+			<Page>
+				<s>아, 소리 질러서 미안해요.</s>
+				<s>조금 무서운 모습이라… 깜짝 놀랐어요.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+<Quest code="Yeti_0005" index="5053" sort="Epic">
+
+	<Title>주황버섯의 행방 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>강한 주황버섯을 찾고 있다고요? 음…</s>
+			</Page>
+			<Page>
+				<s>아! 찾으시는 버섯이 맞는지는 모르겠지만, [ff7b50]콧노래 오솔길[-]에서 여느 버섯보다 더 크고 위험한 [ff7b50]주황버섯[-]을 볼 수 있어요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>이건 예티가 찾는 버섯 아니다.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+<Quest code="Yeti_0006" index="5054" sort="Epic">
+
+	<Title>헤네시스 탐문 3</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>예티가 찾는 주황버섯 더 작다.</s>
+			</Page>
+			<Page>
+				<s>다시 찾는다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>콜록, 콜록…</s>
+			</Page>
+			<Page>
+				<s>누, 누가 저 좀 도와주세요…!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+<Quest code="Yeti_0007" index="5055" sort="Epic">
+
+	<Title>주황버섯의 행방 3</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>제 집에 침입자가 들어왔어요!</s>
+			</Page>
+			<Page>
+				<s>너무 놀라서 뛰쳐나왔는데…</s>
+				<s>그 자가 아직 집 안에 있는지 확인해 주실 수 있나요?</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>마야의 집 입장</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="Yeti_0007_01">
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+<Quest code="Yeti_0008" index="5056" sort="Epic">
+
+	<Title>주황버섯 추적 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>예티 주황버섯 놓쳤다.</s>
+			</Page>
+			<Page>
+				<s>주황버섯 어디…?</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>주황버섯 찾기</ActiveMemo>
+		<Body>
+			<Page speaker="MrsMingMing_01" actionCommand="Yeti_0008_01">
+				<s>꺄앗!</s>
+			</Page>
+			<Page>
+				<s>소리 들었다!</s>
+				<s>예티, 간다!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+<Quest code="Yeti_0009" index="5057" sort="Epic">
+
+	<Title>주황버섯 추적 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>우, 우리 집에 갑자기 버섯이…!</s>
+			</Page>
+			<Page speaker="player">
+				<s>!!</s>
+			</Page>
+			<Page speaker="player">
+				<s>놓치지 않는다, 주황버섯!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>장로 스탄의 집 입장</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="Yeti_0009_01">
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+<Quest code="Yeti_0010" index="5058" sort="Epic">
+
+	<Title>주황버섯 추적 3</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>네 이놈! 감히 내 아내를 질겁하게 하고 우리집을 난장판으로 만들어?!</s>
+			</Page>
+			<Page>
+				<s>자네가 한 게 아니라고?</s>
+				<s>자네들 무리가 우리집에서 나오는 걸 내 두 눈으로 똑똑히 봤는데 거짓말을 하는가!</s>
+			</Page>
+			<Page>
+				<s>동료들은 벌써 언덕으로 도망친 모양이지만 내 자네만이라도 단단히 혼쭐을 내야겠네!</s>
+			</Page>
+			<Page speaker="player">
+				<s>(언덕?!)</s>
+			</Page>
+			<Page>
+				<s>어, 어엇! 이보게, 거기 서지 못할까!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>헤네시스 어딘가로 이동</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="Yeti_0010_01">
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+<Quest code="Yeti_0011" index="5059" sort="Epic">
+
+	<Title>계속되는 모험</Title>
+
+	<Task index="1">
+		<Body>
+			<Page skip="true" actionCommand="Yeti_0011_01">
+			</Page>
+			<Page>
+				<s>안녕하세요. 혹시 길을 잃었나요?</s>
+				<s>어쩐지 갈팡질팡하고 있는 것 같아서요.</s>
+			</Page>
+			<Page>
+				<s>마을로 가는 길이면 저를 따라오세요.</s>
+				<s>친구를 만나러 헤네시스로 가는 중이거든요.</s>
+			</Page>
+			<Page>
+				<s>슬라임을 찾고 있다고요?</s>
+				<s>녀석들은 [ff7b50]엘리니아[-]에 있어요.</s>
+			</Page>
+			<Page>
+				<s>여섯갈래길에서 그 숲으로 가는 길목을 찾을 수 있죠.</s>
+				<s>복잡한 갈림길이니 헤매지 않도록 조심하세요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>엘리니아로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>예티 엘리니아 도착했다!</s>
+			</Page>
+			<Page>
+				<s>새로운 장소에 오니 신난다!</s>
+			</Page>
+			<Page>
+				<s>그리고 예티 조금 강해진 것 같다.</s>
+				<s>이번에는 슬라임 이길 수 있다.</s>
+			</Page>
+			<Page>
+				<s>하지만 다른 모습으로 또 변신할 수도 있다.</s>
+			</Page>
+			<Page>
+				<s>예티 모두 의심스러우니까 모두 확인한다!</s>
+			</Page>
+			<Page>
+				<s>승부도 모험도 즐거우니까 계속한다!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+<Quest code="Yeti_0012" index="5060" sort="Epic">
+
+	<Title>핑크빈과 예티의 승부</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>예티, 슬라임 찾으러 이곳저곳 잔뜩 모험했다.</s>
+			</Page>
+			<Page>
+				<s>이 장난감 마을도 확인한다!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>빈집Ⅰ 입장</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="Yeti_0012_01">
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<ActiveMemo>뒤틀린 회랑 입장</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="Yeti_0012_02">
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+<Quest code="Yeti_0013" index="5061" sort="Normal">
+
+	<Title>신전 너머, 또 다른 시간</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>오, 당신이군요! 절 도우러 오신 겁니까? 침입자는 저 문 너머에 있습니다. 하지만 들어갈 수가 없어요. 저 자는 대체 이 문을 잠가 놓고 무얼 하려는 수작인지… 앗!</s>
+			</Page>
+			<Page>
+				<s>…설마 [ff7b50]여신의 거울[-]을?</s>
+			</Page>
+			<Page>
+				<s>그럴 리가 없지! 그 거울은 하찮은 인간의 힘으로는 움직이지 않는 것. 혹여 움직일 수 있다 하더라도, 여신의 거울을 잘못 사용하면 큰 재앙이 닥칠진대…</s>
+			</Page>
+			<Page>
+				<s>하지만, 모르겠습니다. 인간이란 때론 너무도 어리석어 어떤 일을 저지를지 알 수 없으니… 어쨌든 부서진 회랑 너머, 신들의 황혼으로 가려면 일단 저 문을 열어야만 합니다.</s>
+			</Page>
+			<Page>
+				<s>침입자는 시간을 왜곡시키는 모래시계인 [ff7b50]#d_0_0#[-]을 사용하여 문의 시공을 비틀었습니다. 그러니 먼저 [ff7b50]#p_0#[-]를 회수하여 문지기 석상의 시간을 정상으로 돌려주세요.</s>
+			</Page>
+			<Page>
+				<s>그리고 안으로 들어가서 여신의 거울을 확인해 주십시오. 그럴 리가 없다고 믿지만 혹시라도 침입자가 여신의 거울에 손을 대려 한다면… 막아주십시오! 반드시, 무슨 일이 있더라도 말입니다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>회랑 문 열기</ActiveMemo>
+		<Body>
+			<Page position="Right">
+				<s>(모래시계를 회수하자 시간이 안정되어 석상의 상태가 회복되었다.)</s>
+			</Page>
+			<Page position="Right">
+				<s>(석상을 작동시키자 문이 열렸다.)</s>
+			</Page>
+		</Body>
+		
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page>
+				<s>…마침내 내 오랜 소망이 이루어질 때가 왔도다!</s>
+			</Page>
+			<Page>
+				<s>여신의 거울… 이 거울이 제 주인을 잃었으니, 내가 새로운 주인이 되는 거야. 이것만 있으면 난 이미 완결된 시간을 조작할 수 있어!</s>
+			</Page>
+			<Page>
+				<s>오래 전 영웅들이 그분을 봉인시켰던 [ff7b50]운명의 전투[-]… 그 승패를 바꾸자. 이제 이 세계의 모든 자들은 저들을 참혹한 패배자로, 그분을 위대한 승리자로 기억하리라!</s>
+			</Page>
+			<Page>
+				<s>그렇다면 그 날을 기점으로 메이플 월드의 역사도 달라지겠지. 그때부터 오늘날까지 이 세계는 [ff7b50]검은 마법사님의 지배[-]를 받게 되는 거야. 크크큭, 이 얼마나 멋진 계획인가!</s>
+			</Page>
+			<Page>
+				<s>그분이 이 세계를 통치하시길 일평생 기다려 왔지만… 이제 난 너무 늙고 지쳤어. 그러니까 내 손으로 과거를 바꿔 그토록 고대하던 현실을 직접 맞이할 테다! 크하하하!</s>
+			</Page>
+			<Page>
+				<s>!!!</s>
+			</Page>
+			<Page>
+				<s>웬 놈이냐! 시간으로 잠근 문을 열고 들어오다니… 보통이 아니군. 하지만 여기까지 와서 방해받을 순 없지. 지금 도망치지 않으면 후회하게 될 것이다! 크크크…</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<Body>
+			<Page skip="true" actionCommand="Yeti_0013_01">
+			</Page>
+			<Page speaker="Kirston_01">
+				<s>이런, 젠장! 오랜 연구 끝에 거울을 사용하는 방법을 겨우 알아냈건만… 이제 와서 일을 그르치다니…</s>
+			</Page>
+			<Page speaker="Kirston_01">
+				<s>대체 누구냐! 거울의 힘을 이끌어 낸 순간, 내 소망에 지지 않을 정도로 [ff7b50]강렬한 갈망을 품고 나보다 먼저 거울을 만진 자[-]가!</s>
+			</Page>
+			<Page speaker="Kirston_01">
+				<s>……!!!</s>
+			</Page>
+			<Page speaker="Kirston_01">
+				<s>이, 이 기운은 뭐지? 검은 마법사님과는 전혀 다른… 하지만 몹시 두려운… 내가 감당할 수 없는 존재의 기척…</s>
+			</Page>
+			<Page speaker="Kirston_01" actionCommand="Yeti_0013_02">
+				<s>설마 여신의 거울을 사용한 대가인가! 아아, 안 돼! 그분의 세상을 보지 못하고 이대로 사라질 순 없… 크아아악!!</s>
+			</Page>
+			<Page speaker="player">
+				<s>도망갔다!</s>
+			</Page>
+			<Page speaker="player">
+				<s>예티, 잘 모르겠지만 위험한 상황 같다.</s>
+			</Page>
+			<Page speaker="player">
+				<s>여기 계속 있으면 저 자가 저지른 소행으로 불똥을 뒤집어쓸지도!</s>
+			</Page>
+			<Page speaker="player" actionCommand="Yeti_0013_03">
+				<s>예티, 애꿎은 일을 당하기 전에 피한다!</s>
+			</Page>			
+		</Body>
+	</Task>
+	
+	<Task index="5">
+		<Body>	
+			<Page speaker="player">
+				<s>(신들의 황혼에서 겪은 일을 모두 이야기한다.)</s>
+			</Page>
+			<Page>
+				<s>침입자가, 그가 여신의 거울에 손을 대려 했단 말입니까?</s>
+			</Page>
+			<Page>
+				<s>여신의 거울에 과거를 움직일 수 있는 힘이 있는 건 사실이지만, 그건 여신의 손에서만 가능합니다! 한낱 인간의 힘으로 시간을 움직이려 하다니… 그런 어리석은!</s>
+			</Page>
+			<Page>
+				<s>게다가 당신의 이야기를 들어보면 침입자는 또 있었던 것 같군요. 그 덕에 과거를 바꾸려던 시도는 실패한 것 같지만요.</s>
+			</Page>
+			<Page>
+				<s>하지만 그 바람에 알 수 없는 다른 문제가 생긴 것 같습니다. 저로선 그 침입자가 두려워한 존재가 무엇인지 도무지 짐작이 가지 않네요.</s>
+			</Page>
+			<Page>
+				<s>이제 그곳은 신관도 어찌할 도리가 없는 위험한 장소가 된 것 같습니다. 자격 없는 자가 그릇된 욕망으로 거울을 사용한 탓이겠지요.</s>
+			</Page>
+			<Page>
+				<s>하는 수 없군요. 지금부터 그 회랑을 폐쇄하겠습니다. 그리고 이 일은 강한 용사들로 구성된 [ff7b50]원정대[-]에게 의뢰하여 처리토록 하겠습니다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="PinkBean_0001" index="5062" sort="Epic">
+
+	<Title>핑크빈의 모험 시작</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>주황버섯이 이 마을 방향으로 온 것 같은데…</s>
+			</Page>
+			<Page>
+				<s>혹시 저 영감님이 주황버섯을 보지 않았을까?</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>새로운 모험가인가?</s>
+				<s>어서 오게, 헤네시스 마을에 온 걸 환영하네.</s>
+			</Page>
+			<Page>
+				<s>요즘엔 개성적인 차림새를 한 모험가들이 부쩍 많아진 것 같군. 허허.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+<Quest code="PinkBean_0002" index="5063" sort="Epic">
+
+	<Title>헤네시스 탐문 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>주황버섯을 찾는다고?</s>
+			</Page>
+			<Page>
+				<s>조금 전에 하얀색 인형탈을 뒤집어쓴 모험가도 내게 같은 걸 묻던데, 왜 그런 질문을 하는 겐가?</s>
+			</Page>
+			<Page actionCommand="PinkBean_0002_01">
+				<s>염려 말게. 마을은 안전하네.</s>
+				<s>몬스터가 침입하지 못하도록 철저히 방비하고 있지.</s>
+			</Page>
+			<Page speaker="player">
+				<s>(흠, 나를 모험가로 착각하는 영감님 말 못 믿겠는걸.)</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>(덥썩) 자, 잠깐!</s>
+			</Page>
+			<Page>
+				<s>…아, 이런, 실례했네.</s>
+				<s>펫이 주인을 잃고 홀로 방황하는 줄 알고 그만…</s>
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+<Quest code="PinkBean_0003" index="5064" sort="Epic">
+
+	<Title>주황버섯의 행방 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>버섯을 찾고 있다고?</s>
+			</Page>
+			<Page>
+				<s>그렇다면 [ff7b50]바람꽃수풀[-]로 가 보게.</s>
+				<s>그 언덕에서 자네가 찾는 [ff7b50]주황버섯[-]을 만날 수 있을걸세.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>그 마을 사람의 말대로 여기에 주황버섯이 많긴 한데…</s>
+			</Page>
+			<Page>
+				<s>내가 찾는 주황버섯은 보이지 않아!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+<Quest code="PinkBean_0004" index="5065" sort="Epic">
+
+	<Title>헤네시스 탐문 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>그 주황버섯은 여기 있는 녀석들보다 강했어.</s>
+			</Page>
+			<Page>
+				<s>다시 찾아보자!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>아앗! 책에서 봤던 몬스터…!!</s>
+			</Page>
+			<Page>
+				<s>…가 이 마을에 나타날 리는 없겠지.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+<Quest code="PinkBean_0005" index="5066" sort="Epic">
+
+	<Title>주황버섯의 행방 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>이 근방에서 강한 주황버섯을 보지 못 했느냐고요?</s>
+			</Page>
+			<Page>
+				<s>아, 혹시 [ff7b50]콧노래 오솔길[-]에 있는 버섯 말인가요?</s>
+				<s>그 녀석은 버섯 군락에서 모체 격이라고 할 수 있으니까요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>확실히 다른 버섯들보다 더 강하긴 하지만… 이 버섯도 아니야!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+<Quest code="PinkBean_0006" index="5067" sort="Epic">
+
+	<Title>헤네시스 탐문 3</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>내가 찾는 주황버섯은 더 작았어.</s>
+			</Page>
+			<Page>
+				<s>다시 찾아보자!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<Body>
+			<Page>
+				<s>이봐요, 당신! 어쩐지 수상해 보이는군요.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+<Quest code="PinkBean_0007" index="5068" sort="Epic">
+
+	<Title>주황버섯의 행방 3</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>조금 전에 리나님이 집에 침입자가 들어왔다며 도움을 요청했습니다.</s>
+				<s>당신이 아닙니까?</s>
+			</Page>
+			<Page>
+				<s>어, 어라…? 갑자기 어딜 갑니까?</s>
+				<s>제 얘기는 아직 끝나지 않았…!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>리나의 집 입장</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="PinkBean_0007_01">
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+<Quest code="PinkBean_0008" index="5069" sort="Epic">
+
+	<Title>주황버섯 추적 1</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>에잇, 주황버섯을 놓쳤잖아!</s>
+			</Page>
+			<Page>
+				<s>어디로 갔지…?</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>주황버섯 찾기</ActiveMemo>
+		<Body>
+			<Page speaker="MrsMingMing_01" actionCommand="PinkBean_0008_01">
+				<s>꺄앗!</s>
+			</Page>
+			<Page>
+				<s>앗, 이 소리는…?</s>
+				<s>가 볼까!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+<Quest code="PinkBean_0009" index="5070" sort="Epic">
+
+	<Title>주황버섯 추적 2</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>우, 우리 집에 갑자기 버섯이…!</s>
+			</Page>
+			<Page speaker="player">
+				<s>!!</s>
+			</Page>
+			<Page speaker="player">
+				<s>꼭 잡고야 말 테다, 주황버섯!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>장로 스탄의 집 입장</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="PinkBean_0009_01">
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+<Quest code="PinkBean_0010" index="5071" sort="Epic">
+
+	<Title>주황버섯 추적 3</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>네 이놈! 감히 내 아내를 질겁하게 하고 우리집을 난장판으로 만들어?!</s>
+			</Page>
+			<Page>
+				<s>자네가 한 게 아니라고?</s>
+				<s>자네들 무리가 우리집에서 나오는 걸 내 두 눈으로 똑똑히 봤는데 거짓말을 하는가!</s>
+			</Page>
+			<Page>
+				<s>동료들은 벌써 언덕으로 도망친 모양이지만 내 자네만이라도 단단히 혼쭐을 내야겠네!</s>
+			</Page>
+			<Page speaker="player">
+				<s>(언덕?!)</s>
+			</Page>
+			<Page>
+				<s>어, 어엇! 이보게, 거기 서지 못할까!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>헤네시스 어딘가로 이동</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="PinkBean_0010_01">
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+<Quest code="PinkBean_0011" index="5072" sort="Epic">
+
+	<Title>계속되는 모험</Title>
+
+	<Task index="1">
+		<Body>
+			<Page skip="true" actionCommand="PinkBean_0011_01">
+			</Page>
+			<Page>
+				<s>안녕하세요. 혹시 길을 잃었나요?</s>
+				<s>어쩐지 갈팡질팡하고 있는 것 같아서요.</s>
+			</Page>
+			<Page>
+				<s>마을로 가는 길이면 저를 따라오세요.</s>
+				<s>친구를 만나러 헤네시스로 가는 중이거든요.</s>
+			</Page>
+			<Page>
+				<s>슬라임을 찾고 있다고요?</s>
+				<s>녀석들은 [ff7b50]엘리니아[-]에 있어요.</s>
+			</Page>
+			<Page>
+				<s>여섯갈래길에서 그 숲으로 가는 길목을 찾을 수 있죠.</s>
+				<s>복잡한 갈림길이니 헤매지 않도록 조심하세요.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>엘리니아로 이동</ActiveMemo>
+		<Body>
+			<Page>
+				<s>엘리니아 도착했다!</s>
+			</Page>
+			<Page>
+				<s>새로운 장소에 오니 어쩐지 신나는걸!</s>
+			</Page>
+			<Page>
+				<s>그리고 조금 강해진 것 같아.</s>
+				<s>이번에는 슬라임 이길 수 있을 거야!</s>
+			</Page>
+			<Page>
+				<s>하지만 다른 모습으로 또 변신하면 어떡하지…?</s>
+			</Page>
+			<Page>
+				<s>하는 수 없지. 의심스러운 건 모두 확인하자!</s>
+			</Page>
+			<Page>
+				<s>승부도 모험도 즐거우니까 계속하는 거야!</s>
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+<Quest code="PinkBean_0012" index="5073" sort="Epic">
+
+	<Title>예티와 핑크빈의 승부</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>슬라임을 찾으러 여기저기 한껏 모험했어.</s>
+			</Page>
+			<Page>
+				<s>이 장난감 마을도 확인해 보자!</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>빈집Ⅰ 입장</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="PinkBean_0012_01">
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="3">
+		<ActiveMemo>뒤틀린 회랑 입장</ActiveMemo>
+		<Body>
+			<Page skip="true" actionCommand="PinkBean_0012_02">
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+<Quest code="PinkBean_0013" index="5074" sort="Normal">
+
+	<Title>신전 너머, 또 다른 시간</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>오, 당신이군요! 절 도우러 오신 겁니까? 침입자는 저 문 너머에 있습니다. 하지만 들어갈 수가 없어요. 저 자는 대체 이 문을 잠가 놓고 무얼 하려는 수작인지… 앗!</s>
+			</Page>
+			<Page>
+				<s>…설마 [ff7b50]여신의 거울[-]을?</s>
+			</Page>
+			<Page>
+				<s>그럴 리가 없지! 그 거울은 하찮은 인간의 힘으로는 움직이지 않는 것. 혹여 움직일 수 있다 하더라도, 여신의 거울을 잘못 사용하면 큰 재앙이 닥칠진대…</s>
+			</Page>
+			<Page>
+				<s>하지만, 모르겠습니다. 인간이란 때론 너무도 어리석어 어떤 일을 저지를지 알 수 없으니… 어쨌든 부서진 회랑 너머, 신들의 황혼으로 가려면 일단 저 문을 열어야만 합니다.</s>
+			</Page>
+			<Page>
+				<s>침입자는 시간을 왜곡시키는 모래시계인 [ff7b50]#d_0_0#[-]을 사용하여 문의 시공을 비틀었습니다. 그러니 먼저 [ff7b50]#p_0#[-]를 회수하여 문지기 석상의 시간을 정상으로 돌려주세요.</s>
+			</Page>
+			<Page>
+				<s>그리고 안으로 들어가서 여신의 거울을 확인해 주십시오. 그럴 리가 없다고 믿지만 혹시라도 침입자가 여신의 거울에 손을 대려 한다면… 막아주십시오! 반드시, 무슨 일이 있더라도 말입니다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+	<Task index="2">
+		<ActiveMemo>회랑 문 열기</ActiveMemo>
+		<Body>
+			<Page position="Right">
+				<s>(모래시계를 회수하자 시간이 안정되어 석상의 상태가 회복되었다.)</s>
+			</Page>
+			<Page position="Right">
+				<s>(석상을 작동시키자 문이 열렸다.)</s>
+			</Page>
+		</Body>
+		
+	</Task>
+	
+	<Task index="3">
+		<Body>
+			<Page speaker="player">
+				<s>(여긴 익숙한 장소네?!)</s>
+			</Page>
+			<Page>
+				<s>…마침내 내 오랜 소망이 이루어질 때가 왔도다!</s>
+			</Page>
+			<Page>
+				<s>여신의 거울… 이 거울이 제 주인을 잃었으니, 내가 새로운 주인이 되는 거야. 이것만 있으면 난 이미 완결된 시간을 조작할 수 있어!</s>
+			</Page>
+			<Page>
+				<s>오래 전 영웅들이 그분을 봉인시켰던 [ff7b50]운명의 전투[-]… 그 승패를 바꾸자. 이제 이 세계의 모든 자들은 저들을 참혹한 패배자로, 그분을 위대한 승리자로 기억하리라!</s>
+			</Page>
+			<Page>
+				<s>그렇다면 그 날을 기점으로 메이플 월드의 역사도 달라지겠지. 그때부터 오늘날까지 이 세계는 [ff7b50]검은 마법사님의 지배[-]를 받게 되는 거야. 크크큭, 이 얼마나 멋진 계획인가!</s>
+			</Page>
+			<Page>
+				<s>그분이 이 세계를 통치하시길 일평생 기다려 왔지만… 이제 난 너무 늙고 지쳤어. 그러니까 내 손으로 과거를 바꿔 그토록 고대하던 현실을 직접 맞이할 테다! 크하하하!</s>
+			</Page>
+			<Page>
+				<s>!!!</s>
+			</Page>
+			<Page>
+				<s>웬 놈이냐! 시간으로 잠근 문을 열고 들어오다니… 보통이 아니군. 하지만 여기까지 와서 방해받을 순 없지. 지금 도망치지 않으면 후회하게 될 것이다! 크크크…</s>
+			</Page>
+		</Body>
+	</Task>
+	
+	<Task index="4">
+		<Body>
+			<Page skip="true" actionCommand="PinkBean_0013_01">
+			</Page>
+			<Page speaker="Kirston_01">
+				<s>이런, 젠장! 오랜 연구 끝에 거울을 사용하는 방법을 겨우 알아냈건만… 이제 와서 일을 그르치다니…</s>
+			</Page>
+			<Page speaker="Kirston_01">
+				<s>대체 누구냐! 거울의 힘을 이끌어 낸 순간, 내 소망에 지지 않을 정도로 [ff7b50]강렬한 갈망을 품고 나보다 먼저 거울을 만진 자[-]가!</s>
+			</Page>
+			<Page speaker="Kirston_01">
+				<s>……!!!</s>
+			</Page>
+			<Page speaker="Kirston_01">
+				<s>이, 이 기운은 뭐지? 검은 마법사님과는 전혀 다른… 하지만 몹시 두려운… 내가 감당할 수 없는 존재의 기척…</s>
+			</Page>
+			<Page speaker="Kirston_01" actionCommand="PinkBean_0013_02">
+				<s>설마 여신의 거울을 사용한 대가인가! 아아, 안 돼! 그분의 세상을 보지 못하고 이대로 사라질 순 없… 크아아악!!</s>
+			</Page>
+			<Page speaker="player">
+				<s>도망갔다!</s>
+			</Page>
+			<Page speaker="player">
+				<s>잘 모르겠지만 위험한 상황인가?!</s>
+			</Page>
+			<Page speaker="player">
+				<s>여기 계속 있다간 저 자가 저지른 소행으로 불똥을 뒤집어쓸지도!</s>
+			</Page>
+			<Page speaker="player" actionCommand="PinkBean_0013_03">
+				<s>애꿎은 일을 당하기 전에 피하자!</s>
+			</Page>			
+		</Body>
+	</Task>
+	
+	<Task index="5">
+		<Body>
+			<Page speaker="player">
+				<s>(신들의 황혼에서 겪은 일을 모두 이야기한다.)</s>
+			</Page>
+			<Page>
+				<s>침입자가, 그가 여신의 거울에 손을 대려 했단 말입니까?</s>
+			</Page>
+			<Page>
+				<s>여신의 거울에 과거를 움직일 수 있는 힘이 있는 건 사실이지만, 그건 여신의 손에서만 가능합니다! 한낱 인간의 힘으로 시간을 움직이려 하다니… 그런 어리석은!</s>
+			</Page>
+			<Page>
+				<s>게다가 당신의 이야기를 들어보면 침입자는 또 있었던 것 같군요. 그 덕에 과거를 바꾸려던 시도는 실패한 것 같지만요.</s>
+			</Page>
+			<Page>
+				<s>하지만 그 바람에 알 수 없는 다른 문제가 생긴 것 같습니다. 저로선 그 침입자가 두려워한 존재가 무엇인지 도무지 짐작이 가지 않네요.</s>
+			</Page>
+			<Page>
+				<s>이제 그곳은 신관도 어찌할 도리가 없는 위험한 장소가 된 것 같습니다. 자격 없는 자가 그릇된 욕망으로 거울을 사용한 탓이겠지요.</s>
+			</Page>
+			<Page>
+				<s>하는 수 없군요. 지금부터 그 회랑을 폐쇄하겠습니다. 그리고 이 일은 강한 용사들로 구성된 [ff7b50]원정대[-]에게 의뢰하여 처리토록 하겠습니다.</s>
+			</Page>
+		</Body>
+	</Task>
+
+</Quest>
+
+
+<Quest code="Event00104" index="20104" sort="Event">
+
+	<Title>[예티X핑크빈] 칭호 교환</Title>
+
+	<Task index="1">
+		<Body>
+			<Page>
+				<s>안녕하세요! [2acfff]#un#[-]님.</s>
+				<s>보유하고 있는 「2021 예아일체」 1개와 「2021 핑아일체」 1개를</s>
+				<s>「예티X핑크빈」 칭호와 교환해드리고 있습니다.</s>
+				<s></s>
+				<s>[ff7b50](교환 가능 기간 : 2021년 11월 18일 06시 59분까지)[-]</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]사라지는 칭호 : [item=300022] 2021 예아일체 [item=300023] 2021 핑아일체[-]</s>
+				<s>[2acfff]획득하는 칭호 : [item=300024] 예티X핑크빈[-]</s>
+			</Page>
+			<Page>
+				<s>[ff7b50]2021 예아일체[-]와 [ff7b50]2021 핑아일체[-]를 장착하고 있다면</s>
+				<s>칭호를 [ff7b50]해제[-]해야 교환이 가능합니다.</s>
+			</Page>
+			<Page>
+				<s>[item=300022] [ff7b50]2021 예아일체[-]와 [item=300023] [ff7b50]2021 핑아일체[-] 칭호 2개를</s>
+				<s>[item=300024] [2acfff]예티X핑크빈[-] 칭호와 교환하시겠습니까?</s>
+			</Page>
+			<Page>
+				<s>교환 시 다음 칭호 2개가 [ff7b50]회수[-]되오니 신중하게 선택해 주세요.</s>
+				<s>[item=300022] [ff7b50]2021 예아일체[-]</s>
+				<s>[item=300023] [ff7b50]2021 핑아일체[-]</s>
+				<Select target="Accept">교환할래요</Select>
+				<Select target="Refuse">취소할래요</Select>
+			</Page>
+		</Body>
+		
+		<Refuse>
+			<Page>
+				<s>교환이 취소되었습니다.</s>
+				<s>교환을 원하시면 교환 가능 기간 내에 다시 저를 찾아 주세요.</s>
+				<s></s>
+				<s></s>
+				<s>[ff7b50](교환 가능 기간 : 2021년 11월 18일 06시 59분까지)[-]</s>
+			</Page>
+		</Refuse>
+	</Task>
+	
+	<Task index="2">
+		<ActiveMemo>예티X핑크빈 칭호 교환</ActiveMemo>
+		<Body>
+			<Page>
+				<s>[item=300024] [2acfff]예티X핑크빈[-] 칭호로 교환해드렸습니다.</s>
+				<s>칭호는 가방에서 확인할 수 있습니다.</s>
+				<s>이용해 주셔서 감사합니다.</s>
+			</Page>
+		</Body>
+	</Task>
+	
+</Quest>
+
+
+</root>

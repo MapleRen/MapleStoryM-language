@@ -3529,6 +3529,8 @@
 	
 	<Task index="3">
 		<Body>
+			<Page skip="true" actionCommand="Kaiser_0074_01">
+			</Page>
 			<Page speaker="player">
 				<s>(……어떻게 된 거지? 나비를 만졌더니, 어딘가로 끌려들어 온 것 같다.)</s>
 			</Page>
@@ -3538,7 +3540,7 @@
 			<Page>
 				<s>그런 손님을 위해 준비한 아주 좋은 선물이 있답니다! 그것은 바로 [ff7b50]두려움[-]이지요! 후훗!</s>
 			</Page>
-			<Page speaker="player">
+			<Page speaker="player" actionCommand="Kaiser_0074_02">
 				<s>!!!</s>
 			</Page>
 		</Body>
@@ -3546,7 +3548,7 @@
 	
 	<Task index="4">
 		<Body>
-			<Page skip="true" actionCommand="Kaiser_0074_01">
+			<Page skip="true" actionCommand="Kaiser_0074_03">
 			</Page>
 			<Page>
 				<s>여기는… 판테온!</s>
@@ -3557,7 +3559,7 @@
 			<Page>
 				<s>……</s>
 			</Page>
-			<Page>
+			<Page actionCommand="Kaiser_0074_04">
 				<s>대신전으로 가보자.</s>
 			</Page>
 		</Body>
@@ -3565,7 +3567,7 @@
 	
 	<Task index="5">
 		<Body>
-			<Page skip="true" actionCommand="Kaiser_0074_02">
+			<Page skip="true" actionCommand="Kaiser_0074_05">
 			</Page>
 			<Page>
 				<s>……</s>
@@ -3573,7 +3575,7 @@
 			<Page>
 				<s>신전을 비우고 사제님들은 어딜 가신 거지?</s>
 			</Page>
-			<Page>
+			<Page actionCommand="Kaiser_0074_06">
 				<s>어쩐지 불길한걸…</s>
 			</Page>
 		</Body>
@@ -3581,7 +3583,7 @@
 	
 	<Task index="6">
 		<Body>
-			<Page skip="true" actionCommand="Kaiser_0074_03">
+			<Page skip="true" actionCommand="Kaiser_0074_07">
 			</Page>
 			<Page>
 				<s>……</s>
@@ -3589,13 +3591,13 @@
 			<Page>
 				<s>티어! 벨데로스!</s>
 			</Page>
-			<Page actionCommand="Kaiser_0074_04">
+			<Page actionCommand="Kaiser_0074_08">
 				<s>어째서 너희들마저…!</s>
 			</Page>
 			<Page>
 				<s>뭐지? 이 소리는?</s>
 			</Page>
-			<Page>
+			<Page actionCommand="Kaiser_0074_09">
 				<s>헬리시움 방향이야!</s>
 			</Page>
 		</Body>
@@ -3603,10 +3605,12 @@
 	
 	<Task index="7">
 		<Body>
+			<Page skip="true" actionCommand="Kaiser_0074_10">
+			</Page>
 			<Page>
 				<s>……</s>
 			</Page>
-			<Page actionCommand="Kaiser_0074_05">
+			<Page actionCommand="Kaiser_0074_11">
 				<s>그 소리는 여기서 났는데…</s>
 			</Page>
 		</Body>
@@ -3614,6 +3618,8 @@
 	
 	<Task index="8">
 		<Body>
+			<Page skip="true" actionCommand="Kaiser_0074_12">
+			</Page>
 			<Page speaker="player">
 				<s>!!!</s>
 			</Page>
@@ -3623,7 +3629,7 @@
 			<Page>
 				<s>……</s>
 			</Page>
-			<Page speaker="player" actionCommand="Kaiser_0074_06">
+			<Page speaker="player" actionCommand="Kaiser_0074_13">
 				<s>티어! 정신 차려! 티어!!</s>
 			</Page>
 			<Page speaker="NPC_Magnus_03">
@@ -3641,7 +3647,7 @@
 			<Page speaker="NPC_Magnus_03">
 				<s>그런데 지켜야 할 자가 없는 수호자는 어떻게 될까?</s>
 			</Page>
-			<Page speaker="player" actionCommand="Kaiser_0074_07">
+			<Page speaker="player" actionCommand="Kaiser_0074_14">
 				<s>그게 무슨…?!</s>
 			</Page>
 			<Page speaker="NPC_Magnus_03">
@@ -3650,13 +3656,13 @@
 			<Page speaker="NPC_Magnus_03">
 				<s>그리고 카이저, 넌 무용한 존재가 되는 거야! 크하하하!</s>
 			</Page>
-			<Page speaker="player" actionCommand="Kaiser_0074_08">
+			<Page speaker="player" actionCommand="Kaiser_0074_15">
 				<s>아, 안 돼!!!</s>
 			</Page>
 			<Page speaker="player">
 				<s>티어!</s>
 			</Page>
-			<Page speaker="player" actionCommand="Kaiser_0074_09">
+			<Page speaker="player" actionCommand="Kaiser_0074_16">
 				<s>티어!!!</s>
 			</Page>
 			<Page speaker="Voice_01">
@@ -3674,13 +3680,13 @@
 			<Page speaker="player">
 				<s>…그렇다면 이건 악몽?!</s>
 			</Page>
-			<Page speaker="NPC_Lucid_20">
+			<Page speaker="NPC_Lucid_20" position="Right">
 				<s>훼방꾼의 난입인가? [ff7b50]에레브[-]에서 고고하게 게으름이나 피울 것이지 쓸데없는 참견은!</s>
 			</Page>
-			<Page speaker="NPC_Lucid_20">
+			<Page speaker="NPC_Lucid_20" position="Right">
 				<s>칫, 시시해. 흥이 깨져버렸으니까 놀이는 그만 할래!</s>
 			</Page>
-			<Page speaker="player">
+			<Page speaker="player" actionCommand="Kaiser_0074_17">
 				<s>!!!</s>
 			</Page>
 		</Body>
