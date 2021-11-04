@@ -10,7 +10,7 @@
       <Data Time="20211104_125301" BuildInfo="1.70_2585_b6dcefcb" HighPriority="1" Path="data.bin.client.vehicle.tbl" Version="1" Size="263916" KB="257.7" FileCRC="978379417" CRC="978379417" />
       <Data Time="20211104_125301" BuildInfo="1.70_2585_b6dcefcb" HighPriority="1" Path="data.bin.physicx_slope.ifo" Version="1" Size="6020" KB="5.9" FileCRC="1803699088" CRC="1803699088" />
       <Data Time="20211104_125301" BuildInfo="1.70_2585_b6dcefcb" HighPriority="1" Path="data.bin.physicx_slope.tbl" Version="1" Size="119360" KB="116.6" FileCRC="2997112461" CRC="2997112461" />
-      <AssetBundle Time="20211104_125301" BuildInfo="1.70_2585_b6dcefcb" HighPriority="1" Path="data.table.unity3d" Version="8" Size="626097" KB="1,252.5" FileCRC="1208533283" CRC="1208533283" />
+      <AssetBundle Time="20211104_125301" BuildInfo="1.70_2585_b6dcefcb" HighPriority="1" Path="data.table.unity3d" Version="9" Size="626097" KB="1,252.5" FileCRC="1208533283" CRC="1208533283" />
       <Data Time="20211021_183604" BuildInfo="1.70_2990_153dbdab" HighPriority="1" Path="data.bin.client.buff.tbl" Version="1" Size="3991861" KB="3,898.3" FileCRC="1936415008" CRC="1936415008" />
     </PackInfo>
     <PackInfo Name="pack_003.bin" HighPriority="1" Size="12837930" MB="12.2" FileCount="2" FileCRC="3498904020" Time="20211021_183604" BuildInfo="1.70_2990_153dbdab">
@@ -20,7 +20,7 @@
     <PackInfo Name="pack_004.bin" HighPriority="1" Size="16461791" MB="15.7" FileCount="5" FileCRC="3839884603" Time="20211020_224146" BuildInfo="1.70_2985_60fa148c">
       <Data Time="20211021_183604" BuildInfo="1.70_2990_153dbdab" HighPriority="1" Path="data.bin.potentialcost.tbl" Version="1" Size="132813" KB="129.7" FileCRC="1874363733" CRC="1874363733" />
       <Data Time="20211021_172459" BuildInfo="1.70_2989_e49a3ff2" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="1630368" KB="1,592.2" FileCRC="939433317" CRC="939433317" />
-      <Data Time="20211021_172459" BuildInfo="1.70_2989_e49a3ff2" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="8" Size="7945803" KB="7,759.6" FileCRC="3356299371" CRC="3356299371" />
+      <Data Time="20211021_172459" BuildInfo="1.70_2989_e49a3ff2" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="9" Size="7945803" KB="7,759.6" FileCRC="3356299371" CRC="3356299371" />
       <Data Time="20211021_172459" BuildInfo="1.70_2989_e49a3ff2" HighPriority="1" Path="data.bin.packageitems.tbl" Version="1" Size="348354" KB="340.2" FileCRC="423498104" CRC="423498104" />
       <Data Time="20211020_224146" BuildInfo="1.70_2985_60fa148c" HighPriority="1" Path="data.bin.client.dummy.tbl" Version="1" Size="6404282" KB="6,254.2" FileCRC="2024414708" CRC="2024414708" />
     </PackInfo>
@@ -36,7 +36,7 @@
     </PackInfo>
     <PackInfo Name="pack_006.bin" HighPriority="1" Size="11045557" MB="10.5" FileCount="5" FileCRC="2951429512" Time="20211020_064334" BuildInfo="1.70_2982_4dc43504">
       <Data Time="20211020_192017" BuildInfo="1.70_2984_2dac33d6" HighPriority="1" Path="data.bin.productlist.tbl" Version="1" Size="935857" KB="913.9" FileCRC="4286466061" CRC="4286466061" />
-      <AssetBundle Time="20211020_192017" BuildInfo="1.70_2984_2dac33d6" HighPriority="1" Path="data.language_kor.unity3d" Version="8" Size="2474738" KB="3,964.3" FileCRC="2665966356" CRC="2665966356" />
+      <AssetBundle Time="20211020_192017" BuildInfo="1.70_2984_2dac33d6" HighPriority="1" Path="data.language_kor.unity3d" Version="9" Size="2474738" KB="3,964.3" FileCRC="2665966356" CRC="2665966356" />
       <Data Time="20211020_064334" BuildInfo="1.70_2982_4dc43504" HighPriority="1" Path="data.bin.client.world.ifo" Version="1" Size="81045" KB="79.1" FileCRC="1499310444" CRC="1499310444" />
       <Data Time="20211020_064334" BuildInfo="1.70_2982_4dc43504" HighPriority="1" Path="data.bin.task.ifo" Version="1" Size="165494" KB="161.6" FileCRC="1567570380" CRC="1567570380" />
       <Data Time="20211020_064334" BuildInfo="1.70_2982_4dc43504" HighPriority="1" Path="data.bin.task.tbl" Version="1" Size="5803536" KB="5,667.5" FileCRC="4211066585" CRC="4211066585" />
