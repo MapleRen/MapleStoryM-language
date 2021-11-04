@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20211025_153015" Region="Korea" BuildInfo="1.70_2991_2620deb0" CommitHash="2620deb064bb0db442b5bacf11540e1e826a58ca" DependencyHash="a2e0c2b655c11b69668d8cdc49a57f2e0a649e2e3d6181293997a4ffea11" PackCount="410" FileCount="14272" TotalSize="5159497435" MB="4,920.5" />
+  <Header CRC="20211025_153015" Region="Korea" BuildInfo="1.70_2991_2620deb0" CommitHash="2620deb064bb0db442b5bacf11540e1e826a58ca" DependencyHash="a2e0c2b655c11b69668d8cdc49a57f2e0a649e2e3d6181293997a4ffea11" PackCount="410" FileCount="14272" TotalSize="5159497443" MB="4,920.5" />
   <PackList Count="410">
     <PackInfo Name="pack_001.bin" HighPriority="0" Size="22182279" MB="21.2" FileCount="3" FileCRC="2781386036" Time="20211021_165627" BuildInfo="1.70_2989_9f978c18">
       <AssetBundle Time="20211025_153015" BuildInfo="1.70_2991_2620deb0" HighPriority="0" Path="common.ui._v4_0.eventfindtreasure.unity3d" Version="1" Size="2241322" KB="2,188.8" FileCRC="1753601926" CRC="3846508418" />
@@ -29,7 +29,7 @@
     <PackInfo Name="pack_004.bin" HighPriority="0" Size="22247743" MB="21.2" FileCount="1" FileCRC="625131592" Time="20211019_184118" BuildInfo="1.70_2981_bf6fddcd">
       <AssetBundle Time="20211019_184118" BuildInfo="1.70_2981_bf6fddcd" HighPriority="0" Path="common.dynamictexture.storemainbanner.unity3d" Version="1" Size="22247675" KB="21,726.3" FileCRC="2769427383" CRC="1426660896" />
     </PackInfo>
-    <PackInfo Name="pack_005.bin" HighPriority="1" Size="10807885" MB="10.3" FileCount="16" FileCRC="4278274014" Time="20211019_123958" BuildInfo="1.70_2980_949c1393">
+    <PackInfo Name="pack_005.bin" HighPriority="1" Size="10807887" MB="10.3" FileCount="16" FileCRC="2572173772" Time="20211019_123958" BuildInfo="1.70_2980_949c1393">
       <AssetBundle Time="20211019_184118" BuildInfo="1.70_2981_bf6fddcd" HighPriority="1" Path="common.temp.equipment_cash.cap.cash_cap_2110_mg1000014.unity3d" Version="1" Size="21648" KB="21.1" FileCRC="2222325105" CRC="197689262" />
       <AssetBundle Time="20211019_184118" BuildInfo="1.70_2981_bf6fddcd" HighPriority="1" Path="common.temp.equipment_cash.cape.cash_cape_2110_mg1100006.unity3d" Version="1" Size="25974" KB="25.4" FileCRC="1672391023" CRC="3916758686" />
       <AssetBundle Time="20211019_184118" BuildInfo="1.70_2981_bf6fddcd" HighPriority="1" Path="common.temp.equipment_cash.longcoat.cash_longcoat_2110_mg1050006.unity3d" Version="1" Size="61713" KB="60.3" FileCRC="26023288" CRC="1675244606" />
@@ -41,7 +41,7 @@
       <AssetBundle Time="20211019_184118" BuildInfo="1.70_2981_bf6fddcd" HighPriority="0" Path="common.ui._v4_0.event.battlereverse.unity3d" Version="1" Size="2774361" KB="2,709.3" FileCRC="999264103" CRC="65496753" />
       <AssetBundle Time="20211019_184118" BuildInfo="1.70_2981_bf6fddcd" HighPriority="0" Path="common.ui._v4_0.selectuser.unity3d" Version="1" Size="367538" KB="358.9" FileCRC="2772894770" CRC="597152246" />
       <AssetBundle Time="20211019_184118" BuildInfo="1.70_2981_bf6fddcd" HighPriority="0" Path="common.ui._v4_0.themadungeon.exptimedungeon.unity3d" Version="1" Size="311293" KB="304.0" FileCRC="893478746" CRC="3977846715" />
-      <AssetBundle Time="20211019_184118" BuildInfo="1.70_2981_bf6fddcd" HighPriority="0" Path="common.ui.mainhudbuttons.eventgreatadventurebutton.unity3d" Version="1" Size="5623" KB="5.5" FileCRC="2552785419" CRC="3504961332" />
+      <AssetBundle Time="20211019_184118" BuildInfo="1.70_2981_bf6fddcd" HighPriority="0" Path="common.ui.mainhudbuttons.eventgreatadventurebutton.unity3d" Version="1" Size="5625" KB="5.5" FileCRC="2984487995" CRC="3504961332" />
       <AssetBundle Time="20211019_184118" BuildInfo="1.70_2981_bf6fddcd" HighPriority="1" Path="common.ui.maininterface.unity3d" Version="1" Size="3424224" KB="3,344.0" FileCRC="1843760718" CRC="1764826264" />
       <AssetBundle Time="20211019_184118" BuildInfo="1.70_2981_bf6fddcd" HighPriority="0" Path="common.ui.simplepackagepopup.70_cube_pakcage_01.unity3d" Version="1" Size="511695" KB="499.7" FileCRC="1604854470" CRC="3304629493" />
       <AssetBundle Time="20211019_184118" BuildInfo="1.70_2981_bf6fddcd" HighPriority="0" Path="common.ui.simplepackagepopup.70_cube_pakcage_02.unity3d" Version="1" Size="523548" KB="511.3" FileCRC="2702250362" CRC="3277692385" />
@@ -57,12 +57,12 @@
       <AssetBundle Time="20211018_124015" BuildInfo="1.70_2978_80812393" HighPriority="1" Path="common.dynamictexture.itemicon.equip_cash.shoes.unity3d" Version="1" Size="335092" KB="327.2" FileCRC="165503464" CRC="2499042426" />
       <AssetBundle Time="20211018_124015" BuildInfo="1.70_2978_80812393" HighPriority="0" Path="common.dynamictexture.monthlypackage.unity3d" Version="1" Size="8957959" KB="8,748.0" FileCRC="2803142188" CRC="604133396" />
     </PackInfo>
-    <PackInfo Name="pack_007.bin" HighPriority="1" Size="28403181" MB="27.1" FileCount="11" FileCRC="2020693921" Time="20211014_230317" BuildInfo="1.70_2975_05f7591b">
+    <PackInfo Name="pack_007.bin" HighPriority="1" Size="28403183" MB="27.1" FileCount="11" FileCRC="276017116" Time="20211014_230317" BuildInfo="1.70_2975_05f7591b">
       <AssetBundle Time="20211018_124015" BuildInfo="1.70_2978_80812393" HighPriority="1" Path="common.temp.equipment_cash.cap.cash_cap_2110_mg1000016.unity3d" Version="1" Size="22780" KB="22.2" FileCRC="3896733015" CRC="1151220010" />
       <AssetBundle Time="20211018_124015" BuildInfo="1.70_2978_80812393" HighPriority="1" Path="common.temp.equipment_cash.shoes.cash_shoes_2110_mg1070005.unity3d" Version="1" Size="28469" KB="27.8" FileCRC="192731951" CRC="1046068601" />
       <AssetBundle Time="20211018_105207" BuildInfo="1.70_2977_46e087ad" HighPriority="1" Path="common.dynamictexture.itemicon.equip_cash.cape.unity3d" Version="1" Size="540132" KB="527.5" FileCRC="276776919" CRC="3290533592" />
       <AssetBundle Time="20211018_105207" BuildInfo="1.70_2977_46e087ad" HighPriority="1" Path="common.dynamictexture.itemicon.equip_cash.weapon.unity3d" Version="1" Size="608703" KB="594.4" FileCRC="2464888604" CRC="4252377031" />
-      <AssetBundle Time="20211015_032950" BuildInfo="1.70_2976_c069f8d6" HighPriority="0" Path="common.ui._v4_0.skill.unity3d" Version="1" Size="3806702" KB="3,717.5" FileCRC="2045938040" CRC="81479953" />
+      <AssetBundle Time="20211015_032950" BuildInfo="1.70_2976_c069f8d6" HighPriority="0" Path="common.ui._v4_0.skill.unity3d" Version="1" Size="3806704" KB="3,717.5" FileCRC="2364724246" CRC="81479953" />
       <AssetBundle Time="20211015_032950" BuildInfo="1.70_2976_c069f8d6" HighPriority="0" Path="common.ui._v4_0.themadungeon.damagerankdungeon.ingame.unity3d" Version="1" Size="1148308" KB="1,121.4" FileCRC="717734954" CRC="537881131" />
       <AssetBundle Time="20211015_032950" BuildInfo="1.70_2976_c069f8d6" HighPriority="0" Path="common.ui.actioncommand.unity3d" Version="1" Size="20161" KB="19.7" FileCRC="1638355822" CRC="1928549693" />
       <AssetBundle Time="20211014_230317" BuildInfo="1.70_2975_05f7591b" HighPriority="0" Path="common.dummyobject.ride.vehicle_2107_000040.unity3d" Version="1" Size="35532" KB="34.7" FileCRC="3887466021" CRC="3837275776" />
@@ -75,12 +75,12 @@
       <AssetBundle Time="20211014_230317" BuildInfo="1.70_2975_05f7591b" HighPriority="0" Path="common.ui._v4_0.combinedduty.unity3d" Version="1" Size="2277388" KB="2,224.0" FileCRC="3355402989" CRC="2887866889" />
       <AssetBundle Time="20211014_230317" BuildInfo="1.70_2975_05f7591b" HighPriority="0" Path="common.ui._v4_0.themadungeon.mushroomshrinetales.unity3d" Version="1" Size="14988374" KB="14,637.1" FileCRC="2085413307" CRC="289749305" />
     </PackInfo>
-    <PackInfo Name="pack_009.bin" HighPriority="1" Size="10951278" MB="10.4" FileCount="12" FileCRC="233755664" Time="20211014_143545" BuildInfo="1.70_2972_559c5fd6">
+    <PackInfo Name="pack_009.bin" HighPriority="1" Size="10951280" MB="10.4" FileCount="12" FileCRC="1977245730" Time="20211014_143545" BuildInfo="1.70_2972_559c5fd6">
       <AssetBundle Time="20211014_184317" BuildInfo="1.70_2973_5f9ef727" HighPriority="0" Path="common.dummyobject.ride.vehicle_2110_000066.unity3d" Version="1" Size="161780" KB="158.0" FileCRC="2279354820" CRC="2186171758" />
       <AssetBundle Time="20211014_184317" BuildInfo="1.70_2973_5f9ef727" HighPriority="0" Path="common.dynamictexture.floatnotice.unity3d" Version="1" Size="1118702" KB="1,092.5" FileCRC="1015424119" CRC="1583196648" />
       <AssetBundle Time="20211014_184317" BuildInfo="1.70_2973_5f9ef727" HighPriority="0" Path="common.dynamictexture.frame.unity3d" Version="1" Size="1495533" KB="1,460.5" FileCRC="1176648329" CRC="3122324811" />
       <AssetBundle Time="20211014_184317" BuildInfo="1.70_2973_5f9ef727" HighPriority="1" Path="common.dynamictexture.itemicon.equip_cash.longcoat.unity3d" Version="1" Size="694384" KB="678.1" FileCRC="4108795449" CRC="733734480" />
-      <AssetBundle Time="20211014_184317" BuildInfo="1.70_2973_5f9ef727" HighPriority="1" Path="common.dynamictexture.itemicon.packageitems.unity3d" Version="1" Size="472506" KB="461.4" FileCRC="3793302871" CRC="102662355" />
+      <AssetBundle Time="20211014_184317" BuildInfo="1.70_2973_5f9ef727" HighPriority="1" Path="common.dynamictexture.itemicon.packageitems.unity3d" Version="1" Size="472508" KB="461.4" FileCRC="1547274295" CRC="102662355" />
       <AssetBundle Time="20211014_184317" BuildInfo="1.70_2973_5f9ef727" HighPriority="0" Path="common.dynamictexture.partymatchmanager.unity3d" Version="1" Size="518999" KB="506.8" FileCRC="2133658887" CRC="777724021" />
       <AssetBundle Time="20211014_184317" BuildInfo="1.70_2973_5f9ef727" HighPriority="0" Path="common.fx.object.weather.weatherhelper_2110_mk5120005.unity3d" Version="1" Size="26004" KB="25.4" FileCRC="2742206565" CRC="2604206059" />
       <AssetBundle Time="20211014_184317" BuildInfo="1.70_2973_5f9ef727" HighPriority="1" Path="common.temp.equipment_cash.longcoat.cash_longcoat_2110_mg1050008.unity3d" Version="1" Size="56162" KB="54.8" FileCRC="2755945109" CRC="1825304875" />
@@ -1152,7 +1152,7 @@
       <AssetBundle Time="20210809_124515" BuildInfo="1.68_2856_9961ce0b" HighPriority="0" Path="common.dummyobject.gather.gather_redherb_00.unity3d" Version="1" Size="23685" KB="23.1" FileCRC="2794561629" CRC="3689644326" />
       <AssetBundle Time="20210809_124515" BuildInfo="1.68_2856_9961ce0b" HighPriority="0" Path="common.dummyobject.monster.defaultscene.commanderdungeon_05.mon_blackheavencore_00.unity3d" Version="1" Size="9581085" KB="9,356.5" FileCRC="350994798" CRC="4168707311" />
     </PackInfo>
-    <PackInfo Name="pack_072.bin" HighPriority="0" Size="12213443" MB="11.6" FileCount="40" FileCRC="2883504058" Time="20210809_124515" BuildInfo="1.68_2856_9961ce0b">
+    <PackInfo Name="pack_072.bin" HighPriority="0" Size="12213445" MB="11.6" FileCount="40" FileCRC="752137672" Time="20210809_124515" BuildInfo="1.68_2856_9961ce0b">
       <AssetBundle Time="20210809_124515" BuildInfo="1.68_2856_9961ce0b" HighPriority="0" Path="common.dummyobject.monster.defaultscene.ellinia.mon_kingbubbling_00.unity3d" Version="1" Size="38676" KB="37.8" FileCRC="1336711406" CRC="2589393842" />
       <AssetBundle Time="20210809_124515" BuildInfo="1.68_2856_9961ce0b" HighPriority="0" Path="common.dummyobject.monster.defaultscene.fantasythemeworld.mon_bearicthewhite_00.unity3d" Version="1" Size="189514" KB="185.1" FileCRC="1195291667" CRC="996070701" />
       <AssetBundle Time="20210809_124515" BuildInfo="1.68_2856_9961ce0b" HighPriority="0" Path="common.dummyobject.monster.defaultscene.folktown.mon_greengoblin_00.unity3d" Version="1" Size="124236" KB="121.3" FileCRC="2459219731" CRC="2946372625" />
@@ -1186,7 +1186,7 @@
       <AssetBundle Time="20210809_124515" BuildInfo="1.68_2856_9961ce0b" HighPriority="0" Path="common.fx.object.weather.weatherhelper_2107_mg5120001.unity3d" Version="1" Size="24957" KB="24.4" FileCRC="2149276664" CRC="2685706188" />
       <AssetBundle Time="20210809_124515" BuildInfo="1.68_2856_9961ce0b" HighPriority="0" Path="common.fx.particle.ml9th.unity3d" Version="1" Size="49269" KB="48.1" FileCRC="2235975476" CRC="2583720153" />
       <AssetBundle Time="20210809_124515" BuildInfo="1.68_2856_9961ce0b" HighPriority="0" Path="common.fx.static.ui_number.onmonster.damageskin_2107_000036.unity3d" Version="1" Size="91733" KB="89.6" FileCRC="339223151" CRC="3753488328" />
-      <AssetBundle Time="20210809_124515" BuildInfo="1.68_2856_9961ce0b" HighPriority="0" Path="common.fx.static.ui_number.onmonster.damageskin_2107_2045.unity3d" Version="1" Size="59229" KB="57.8" FileCRC="1970800257" CRC="1700375328" />
+      <AssetBundle Time="20210809_124515" BuildInfo="1.68_2856_9961ce0b" HighPriority="0" Path="common.fx.static.ui_number.onmonster.damageskin_2107_2045.unity3d" Version="1" Size="59231" KB="57.8" FileCRC="881532121" CRC="1700375328" />
       <AssetBundle Time="20210809_124515" BuildInfo="1.68_2856_9961ce0b" HighPriority="0" Path="common.fx.static.ui_number.onmonster.damageskin_2108_000038.unity3d" Version="1" Size="121671" KB="118.8" FileCRC="413907187" CRC="414095471" />
       <AssetBundle Time="20210809_124515" BuildInfo="1.68_2856_9961ce0b" HighPriority="0" Path="common.fx.static.ui_number.onmonster.damageskin_2108_2046.unity3d" Version="1" Size="100907" KB="98.5" FileCRC="2714413177" CRC="2859711803" />
       <AssetBundle Time="20210809_124515" BuildInfo="1.68_2856_9961ce0b" HighPriority="0" Path="common.fx.static.ui.thirdannivthemeworld.unity3d" Version="1" Size="65015" KB="63.5" FileCRC="757281369" CRC="1803576233" />
