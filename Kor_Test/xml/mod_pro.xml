@@ -36,7 +36,7 @@
     </PackInfo>
     <PackInfo Name="pack_006.bin" HighPriority="1" Size="11045557" MB="10.5" FileCount="5" FileCRC="2951429512" Time="20211020_064334" BuildInfo="1.70_2982_4dc43504">
       <Data Time="20211020_192017" BuildInfo="1.70_2984_2dac33d6" HighPriority="1" Path="data.bin.productlist.tbl" Version="1" Size="935857" KB="913.9" FileCRC="4286466061" CRC="4286466061" />
-      <AssetBundle Time="20211020_192017" BuildInfo="1.70_2984_2dac33d6" HighPriority="1" Path="data.language_kor.unity3d" Version="9" Size="2474738" KB="3,964.3" FileCRC="2665966356" CRC="2665966356" />
+      <AssetBundle Time="20211020_192017" BuildInfo="1.70_2984_2dac33d6" HighPriority="1" Path="data.language_kor.unity3d" Version="9" Size="2523539" KB="3,964.3" FileCRC="918428487" CRC="918428487" />
       <Data Time="20211020_064334" BuildInfo="1.70_2982_4dc43504" HighPriority="1" Path="data.bin.client.world.ifo" Version="1" Size="81045" KB="79.1" FileCRC="1499310444" CRC="1499310444" />
       <Data Time="20211020_064334" BuildInfo="1.70_2982_4dc43504" HighPriority="1" Path="data.bin.task.ifo" Version="1" Size="165494" KB="161.6" FileCRC="1567570380" CRC="1567570380" />
       <Data Time="20211020_064334" BuildInfo="1.70_2982_4dc43504" HighPriority="1" Path="data.bin.task.tbl" Version="1" Size="5803536" KB="5,667.5" FileCRC="4211066585" CRC="4211066585" />
