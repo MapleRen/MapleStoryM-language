@@ -4,7 +4,7 @@
   <PackList Count="9">
     <PackInfo Name="pack_001.bin" HighPriority="1" Size="10555027" MB="10.1" FileCount="3" FileCRC="3777839394" Time="20211117_233908" BuildInfo="1.71_3027_3c987c9a">
       <Data Time="20211118_102732" BuildInfo="1.71_3030_6359ab29" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="1644592" KB="1,606.0" FileCRC="720925341" CRC="720925341" />
-      <Data Time="20211118_102732" BuildInfo="1.71_3030_6359ab29" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="2" Size="8051706" KB="7,863.0" FileCRC="3660433861" CRC="3660433861" />
+      <Data Time="20211118_102732" BuildInfo="1.71_3030_6359ab29" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="3" Size="8051706" KB="7,863.0" FileCRC="3660433861" CRC="3660433861" />
       <Data Time="20211117_233908" BuildInfo="1.71_3027_3c987c9a" HighPriority="1" Path="data.bin.result.ifo" Version="1" Size="858631" KB="838.5" FileCRC="2795650017" CRC="2795650017" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" HighPriority="1" Size="12402260" MB="11.8" FileCount="5" FileCRC="2364057946" Time="20211117_230239" BuildInfo="1.71_3026_213fdf18">
@@ -15,7 +15,7 @@
       <Data Time="20211117_230239" BuildInfo="1.71_3026_213fdf18" HighPriority="1" Path="data.bin.client.partsset.tbl" Version="1" Size="3553807" KB="3,470.5" FileCRC="2217089595" CRC="2217089595" />
     </PackInfo>
     <PackInfo Name="pack_003.bin" HighPriority="1" Size="21025606" MB="20.1" FileCount="9" FileCRC="521565444" Time="20211117_194848" BuildInfo="1.71_3025_9480bdcb">
-      <AssetBundle Time="20211117_230239" BuildInfo="1.71_3026_213fdf18" HighPriority="1" Path="data.table.unity3d" Version="2" Size="635646" KB="1,272.6" FileCRC="2312604848" CRC="2312604848" />
+      <AssetBundle Time="20211117_230239" BuildInfo="1.71_3026_213fdf18" HighPriority="1" Path="data.table.unity3d" Version="3" Size="635865" KB="1,272.6" FileCRC="4060934908" CRC="4060934908" />
       <Data Time="20211117_194848" BuildInfo="1.71_3025_9480bdcb" HighPriority="1" Path="data.bin.activator.tbl" Version="1" Size="1678823" KB="1,639.5" FileCRC="396513102" CRC="396513102" />
       <Data Time="20211117_194848" BuildInfo="1.71_3025_9480bdcb" HighPriority="1" Path="data.bin.client.activator.tbl" Version="1" Size="732495" KB="715.3" FileCRC="3603539745" CRC="3603539745" />
       <Data Time="20211117_194848" BuildInfo="1.71_3025_9480bdcb" HighPriority="1" Path="data.bin.client.buff.tbl" Version="1" Size="3996050" KB="3,902.4" FileCRC="3329789395" CRC="3329789395" />
