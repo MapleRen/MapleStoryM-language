@@ -840,7 +840,7 @@
 			<Page speaker="character">
 				<s>난 이 힘을 사라지게 하는 방법을 몰라. 어쩌면 어느 날 갑자기 생긴 것처럼 언젠가 불시에 이 힘이 고갈될 수도 있겠지.</s>
 			</Page>
-			<Page  speaker="character">
+			<Page speaker="character">
 				<s>다만 누군가를 구할 수 있는 힘이 있는 이상 나는 다른 사람의 위험을 모른 척할 수 없어. 그건 유나 네가 내 입장이었어도 마찬가지였을 거야.</s>
 			</Page>
 			<Page speaker="character" animName="Face2">

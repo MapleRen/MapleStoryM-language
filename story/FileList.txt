@@ -1,4 +1,4 @@
-2021-10-14,
+2021-11-10,
 Text,Text
 Code,Filename
 Client.Language,CodeTable/@Korea/MoonBunnysRiceCakePopup/MoonBunnysRiceCakePopup
@@ -102,6 +102,7 @@ Client.Language,CodeTable/_V4_0/Event/ProtectTown
 Client.Language,CodeTable/_V4_0/Event/SongiSongiRose
 Client.Language,CodeTable/_V4_0/Event/SpiegelmannTrip
 Client.Language,CodeTable/_V4_0/Event/SummerEscape_Tip
+Client.Language,CodeTable/_V4_0/Event/SundayMaple
 Client.Language,CodeTable/_V4_0/Event/TrainingGround
 Client.Language,CodeTable/_V4_0/Event/WreckHenesys
 Client.Language,CodeTable/_V4_0/Event/YetiChurrosShop_Tip
@@ -144,6 +145,7 @@ Client.Language,CodeTable/_V4_0/EventMakeCake/EventMakeCake
 Client.Language,CodeTable/_V4_0/EventMakeChocolate/EventMakeChocolate
 Client.Language,CodeTable/_V4_0/EventMakeRiceCakePopup/EventMakeRiceCakePopup
 Client.Language,CodeTable/_V4_0/EventMakeTree/EventMakeTree
+Client.Language,CodeTable/_V4_0/EventMapleMBurning/EventMapleMBurning
 Client.Language,CodeTable/_V4_0/EventMaplePass/EventMaplePass
 Client.Language,CodeTable/_V4_0/EventMesoShowerPopup/EventMesoShowerPopup
 Client.Language,CodeTable/_V4_0/EventMoonBunnysBarbecue/EventMoonBunnysBarbecue
@@ -349,6 +351,8 @@ Client.Language,CodeTable/_V4_0/ThemaDungeon/EpisodeDungeon/EpisdoeDungeonMiniGa
 Client.Language,CodeTable/_V4_0/ThemaDungeon/EpisodeDungeon/EpisodeDungeon
 Client.Language,CodeTable/_V4_0/ThemaDungeon/EpisodeDungeon/EpisodeDungeonDialog
 Client.Language,CodeTable/_V4_0/ThemaDungeon/EpisodeDungeon/EpisodeDungeonInterface
+Client.Language,CodeTable/_V4_0/ThemaDungeon/ErdaSpectrumDungeon/ArcaneRiverDungeon
+Client.Language,CodeTable/_V4_0/ThemaDungeon/ErdaSpectrumDungeon/ErdaSpectrumDungeon
 Client.Language,CodeTable/_V4_0/ThemaDungeon/EventGreatAdventure/EventGreatAdventure
 Client.Language,CodeTable/_V4_0/ThemaDungeon/EventHeroChallenge/EventHeroChallenge
 Client.Language,CodeTable/_V4_0/ThemaDungeon/EventNewYear/EventNewYear
@@ -369,6 +373,7 @@ Client.Language,CodeTable/_V4_0/ThemaDungeon/HauntedMansion/HauntedMansion
 Client.Language,CodeTable/_V4_0/ThemaDungeon/HeroesM/HeroesM
 Client.Language,CodeTable/_V4_0/ThemaDungeon/HeroesM/Tab
 Client.Language,CodeTable/_V4_0/ThemaDungeon/HeroesM/Tip
+Client.Language,CodeTable/_V4_0/ThemaDungeon/HungryMuto/HungryMutoInterface
 Client.Language,CodeTable/_V4_0/ThemaDungeon/MinigameInvite
 Client.Language,CodeTable/_V4_0/ThemaDungeon/MissionToSpace/MissionToSpace
 Client.Language,CodeTable/_V4_0/ThemaDungeon/MonHunt/MonHunt
@@ -397,6 +402,7 @@ Client.Language,CodeTable/_V4_0/ThemaDungeon/RootAbyss/RootAbyss
 Client.Language,CodeTable/_V4_0/ThemaDungeon/SimpleResult
 Client.Language,CodeTable/_V4_0/ThemaDungeon/SyarenianCulvert/SyarenianCulvert
 Client.Language,CodeTable/_V4_0/ThemaDungeon/SyarenianCulvert/SyarenianTip
+Client.Language,CodeTable/_V4_0/ThemaDungeon/ThemaDungeonDialog
 Client.Language,CodeTable/_V4_0/ThemaDungeon/ThemaDungeonGuideLanguage
 Client.Language,CodeTable/_V4_0/Tutorial/ContentLanguage
 Client.Language,CodeTable/_V4_0/Tutorial/TutorialLanguage_WindowBox_Content
@@ -775,8 +781,11 @@ Client.Language,UI/_V4_0/Event/EventMakingScroll/1_64_EventMakingScrollDonate
 Client.Language,UI/_V4_0/Event/EventMikuDungeon/ResultPopup/ResultPopup
 Client.Language,UI/_V4_0/Event/EventMuseum/CreatureMaterialExchange
 Client.Language,UI/_V4_0/Event/EventMuseum/CreatureRewardItem
+Client.Language,UI/_V4_0/Event/EventMuseum/DailyQuestItemSelectPopup
 Client.Language,UI/_V4_0/Event/EventMuseum/DonateConfirmPopup
 Client.Language,UI/_V4_0/Event/EventMuseum/EventMuseum
+Client.Language,UI/_V4_0/Event/EventMuseum/EventMuseum2
+Client.Language,UI/_V4_0/Event/EventMuseum/EventMuseumDailyQuestPopup
 Client.Language,UI/_V4_0/Event/EventMuseum/EventMuseumTipPopup
 Client.Language,UI/_V4_0/Event/EventMuseum/ExchangeFormularItem
 Client.Language,UI/_V4_0/Event/EventMuseum/RelicDonateItemSelectPopup
@@ -845,6 +854,8 @@ Client.Language,UI/_V4_0/Event/Maple4U/Maple4U
 Client.Language,UI/_V4_0/Event/Maple4U/RockPaperScissors/Ingame/Maple4URockPaperScissors_InGame
 Client.Language,UI/_V4_0/Event/Maple4U/RockPaperScissors/Maple4URockPaperScissors
 Client.Language,UI/_V4_0/Event/Maple4U/SubEventElement
+Client.Language,UI/_V4_0/Event/MapleMBurningPopup/EVENT_MapleMBurning
+Client.Language,UI/_V4_0/Event/MapleMBurningPopup/MapleMBurningBoost
 Client.Language,UI/_V4_0/Event/PayBackPopup/Event_Payback
 Client.Language,UI/_V4_0/Event/PayBackPopup/Payback_noti_POP
 Client.Language,UI/_V4_0/Event/PayBackPopup/Payback_Reward_POP
@@ -899,6 +910,7 @@ Client.Language,UI/_V4_0/EventMaeSaeng2Popup/EventMaeSaeng2ResultPopup
 Client.Language,UI/_V4_0/EventMagicTree/MagicTree
 Client.Language,UI/_V4_0/EventMagicTree/MagicTreeSubPopup
 Client.Language,UI/_V4_0/EventMakeCake/EventMakeCake
+Client.Language,UI/_V4_0/EventMakeCakeBuffMuseum/EventBuffMuseum
 Client.Language,UI/_V4_0/EventMakeChocolate/MakeChocolatePopup
 Client.Language,UI/_V4_0/EventMakeChocolate/MixMaterialPopup
 Client.Language,UI/_V4_0/EventMakeChocolate/TemperaturePopup
@@ -1254,6 +1266,7 @@ Client.Language,UI/_V4_0/PartyAutoJoinConfirmPopup/PartyAutoJoinConfirmPopup
 Client.Language,UI/_V4_0/PartyLeaderFollowPopup/PartyLeaderFollowPopup
 Client.Language,UI/_V4_0/PartyLeavePopup/PartyLeavePopup
 Client.Language,UI/_V4_0/PartyMatchManager/InviteItem
+Client.Language,UI/_V4_0/PartyMatchManager/MajorTabItem
 Client.Language,UI/_V4_0/PartyMatchManager/PartyMatchCreatePopup
 Client.Language,UI/_V4_0/PartyMatchManager/PartyMatchLeavePopup
 Client.Language,UI/_V4_0/PartyMatchManager/PartyMatchManager
@@ -1429,6 +1442,8 @@ Client.Language,UI/_V4_0/ThemaDungeon/EpisodeDungeon/EpisodeDungeon
 Client.Language,UI/_V4_0/ThemaDungeon/EpisodeDungeon/EpisodeDungeonInterface
 Client.Language,UI/_V4_0/ThemaDungeon/EpisodeDungeon/EpisodeDungeonMiniGame/DragControl
 Client.Language,UI/_V4_0/ThemaDungeon/EpisodeDungeon/EpisodeItem
+Client.Language,UI/_V4_0/ThemaDungeon/ErdaSpectrumDungeon/ErdaSpectrumDungeon
+Client.Language,UI/_V4_0/ThemaDungeon/ErdaSpectrumDungeon/ErdaSpectrumDungeonInterface
 Client.Language,UI/_V4_0/ThemaDungeon/EventGreatAdventure/InGameInterface/EventGreatAdventure_Interface
 Client.Language,UI/_V4_0/ThemaDungeon/EventGreatAdventure/OutGameMain/EventGreatAdventure_Main
 Client.Language,UI/_V4_0/ThemaDungeon/EventHeroChallenge/EventHeroChallenge_Interface
@@ -1507,6 +1522,7 @@ Client.Language,UI/_V4_0/ThemaDungeon/HeroesMDungeon/OutGame/HeroesMSubPopup
 Client.Language,UI/_V4_0/ThemaDungeon/HeroesMDungeon/OutGame/HeroesMTipPopup
 Client.Language,UI/_V4_0/ThemaDungeon/HeroesMDungeon/OutGame/MainTipListItem
 Client.Language,UI/_V4_0/ThemaDungeon/HeroesMDungeon/OutGame/StageListItem
+Client.Language,UI/_V4_0/ThemaDungeon/HungryMuto/HungryMutoInterface
 Client.Language,UI/_V4_0/ThemaDungeon/MesoShower/MesoShowerDungeon
 Client.Language,UI/_V4_0/ThemaDungeon/MonHunt/MonHunt/MonHuntDungeon
 Client.Language,UI/_V4_0/ThemaDungeon/MonHunt/MonHunt/MonHuntInterface
