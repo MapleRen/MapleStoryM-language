@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20211118_162118" Region="Korea" BuildInfo="1.71_3031_09f58d94" CommitHash="" DependencyHash="" PackCount="10" FileCount="109" TotalSize="123535789" MB="117.8" Compressed="false" Source="/Users/nexon/Jenkins/workspace/KoreaQA/Korea_AT_IOS_QA/TABLE/Table/" />
+  <Header CRC="20211123_212624" Region="Korea" BuildInfo="1.71_3035_09f58d94" CommitHash="" DependencyHash="" PackCount="10" FileCount="109" TotalSize="123535789" MB="117.8" Compressed="false" Source="/Users/nexon/Jenkins/workspace/KoreaQA/Korea_AT_IOS_QA/TABLE/Table/" />
   <PackList Count="10">
     <PackInfo Name="pack_001.bin" HighPriority="1" Size="12033015" MB="11.5" FileCount="4" FileCRC="3502620283" Time="20211118_162118" BuildInfo="1.71_3031_09f58d94">
       <Data Time="20211118_162118" BuildInfo="1.71_3031_09f58d94" HighPriority="1" Path="data.bin.client.actioncommand.ifo" Version="1" Size="64163" KB="62.7" FileCRC="2985148910" CRC="2985148910" />
