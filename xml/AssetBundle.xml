@@ -1,8 +1,9 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20211118_095848" Region="Korea" BuildInfo="1.71_3030_3da5a957" CommitHash="3da5a957de7de3a28c286a0874a1c48f3483db43" DependencyHash="225c2c76b0371b5e7424b7ffe3384e9ff28435dce0de9ed4bbfea7babf79af" PackCount="411" FileCount="14316" TotalSize="5178371552" MB="4,938.5" />
+  <Header CRC="20211123_205752" Region="Korea" BuildInfo="1.71_3035_ae4982ca" CommitHash="ae4982ca75c0c1c88cb30abbe5dec2fa34439e83" DependencyHash="d5836adf4bae196f21c1c15c0d1a4a4bc44fc7d5d9f5f7e5cb24768c68b" PackCount="411" FileCount="14316" TotalSize="5178372261" MB="4,938.5" />
   <PackList Count="411">
-    <PackInfo Name="pack_001.bin" HighPriority="1" Size="10654326" MB="10.2" FileCount="10" FileCRC="3269485234" Time="20211117_191656" BuildInfo="1.71_3025_4ca437a9">
+    <PackInfo Name="pack_001.bin" HighPriority="1" Size="10520911" MB="10.0" FileCount="9" FileCRC="3250188203" Time="20211117_191656" BuildInfo="1.71_3025_4ca437a9">
+      <AssetBundle Time="20211123_205752" BuildInfo="1.71_3035_ae4982ca" HighPriority="0" Path="common.ui._v4_0.partymatchmanager.unity3d" Version="1" Size="614931" KB="600.5" FileCRC="3468067817" CRC="2149720209" />
       <AssetBundle Time="20211118_095848" BuildInfo="1.71_3030_3da5a957" HighPriority="0" Path="common.dynamictexture.sundaymaple.season1.unity3d" Version="1" Size="195284" KB="190.7" FileCRC="1724398433" CRC="2905139750" />
       <AssetBundle Time="20211118_090729" BuildInfo="1.71_3029_9f7cf19f" HighPriority="0" Path="common.dynamictexture.events.jumpingpinkbean.unity3d" Version="1" Size="328850" KB="321.1" FileCRC="346666802" CRC="30580754" />
       <AssetBundle Time="20211118_090729" BuildInfo="1.71_3029_9f7cf19f" HighPriority="0" Path="common.ui._v4_0.themadungeon.guildtournament.guildtournamentpopup.unity3d" Version="1" Size="3327815" KB="3,249.8" FileCRC="1570785306" CRC="1413498065" />
@@ -11,10 +12,10 @@
       <AssetBundle Time="20211117_191656" BuildInfo="1.71_3025_4ca437a9" HighPriority="1" Path="common.dynamictexture.itemicon.equip_cash.cap.unity3d" Version="1" Size="1040516" KB="1,016.1" FileCRC="3122150031" CRC="3123752223" />
       <AssetBundle Time="20211117_191656" BuildInfo="1.71_3025_4ca437a9" HighPriority="1" Path="common.dynamictexture.itemicon.equip_cash.cape.unity3d" Version="1" Size="540132" KB="527.5" FileCRC="276776919" CRC="3290533592" />
       <AssetBundle Time="20211117_191656" BuildInfo="1.71_3025_4ca437a9" HighPriority="1" Path="common.dynamictexture.itemicon.equip_cash.chair.unity3d" Version="1" Size="820594" KB="801.4" FileCRC="1458717847" CRC="3079047828" />
+    </PackInfo>
+    <PackInfo Name="pack_002.bin" HighPriority="1" Size="11637240" MB="11.1" FileCount="14" FileCRC="3576104925" Time="20211117_191656" BuildInfo="1.71_3025_4ca437a9">
       <AssetBundle Time="20211117_191656" BuildInfo="1.71_3025_4ca437a9" HighPriority="1" Path="common.dynamictexture.itemicon.equip_cash.effect.unity3d" Version="1" Size="53881" KB="52.6" FileCRC="1240206864" CRC="864203309" />
       <AssetBundle Time="20211117_191656" BuildInfo="1.71_3025_4ca437a9" HighPriority="1" Path="common.dynamictexture.itemicon.equip_cash.longcoat.unity3d" Version="1" Size="694384" KB="678.1" FileCRC="4108795449" CRC="733734480" />
-    </PackInfo>
-    <PackInfo Name="pack_002.bin" HighPriority="1" Size="10888845" MB="10.4" FileCount="12" FileCRC="2681188142" Time="20211117_191656" BuildInfo="1.71_3025_4ca437a9">
       <AssetBundle Time="20211117_191656" BuildInfo="1.71_3025_4ca437a9" HighPriority="1" Path="common.dynamictexture.itemicon.equip_cash.ring.unity3d" Version="1" Size="334286" KB="326.5" FileCRC="6396029" CRC="1932038932" />
       <AssetBundle Time="20211117_191656" BuildInfo="1.71_3025_4ca437a9" HighPriority="1" Path="common.dynamictexture.itemicon.equip_cash.shoes.unity3d" Version="1" Size="335092" KB="327.2" FileCRC="165503464" CRC="2499042426" />
       <AssetBundle Time="20211117_191656" BuildInfo="1.71_3025_4ca437a9" HighPriority="1" Path="common.dynamictexture.itemicon.equip.forehead.unity3d" Version="1" Size="13777" KB="13.5" FileCRC="3597870935" CRC="1300805452" />
@@ -28,10 +29,9 @@
       <AssetBundle Time="20211117_191656" BuildInfo="1.71_3025_4ca437a9" HighPriority="1" Path="common.temp.equipment_cash.shoes.cash_shoes_177_kaiser_training_shoes.unity3d" Version="1" Size="30155" KB="29.4" FileCRC="1698848274" CRC="102381917" />
       <AssetBundle Time="20211117_191656" BuildInfo="1.71_3025_4ca437a9" HighPriority="1" Path="common.ui._v4_0.characterselect.unity3d" Version="1" Size="1386678" KB="1,354.2" FileCRC="3777805347" CRC="3041685370" />
     </PackInfo>
-    <PackInfo Name="pack_003.bin" HighPriority="1" Size="28188636" MB="26.9" FileCount="5" FileCRC="3367864943" Time="20211117_061117" BuildInfo="1.71_3023_835f9a30">
+    <PackInfo Name="pack_003.bin" HighPriority="1" Size="27574365" MB="26.3" FileCount="4" FileCRC="3337587325" Time="20211117_061117" BuildInfo="1.71_3023_835f9a30">
       <AssetBundle Time="20211117_191656" BuildInfo="1.71_3025_4ca437a9" HighPriority="1" Path="common.ui._v4_0.raceselect.unity3d" Version="1" Size="425613" KB="415.6" FileCRC="2553029961" CRC="2146645211" />
       <AssetBundle Time="20211117_191656" BuildInfo="1.71_3025_4ca437a9" HighPriority="1" Path="common.ui.commonatlas.unity3d" Version="1" Size="2008219" KB="1,961.2" FileCRC="1042490166" CRC="3024881484" />
-      <AssetBundle Time="20211117_124338" BuildInfo="1.71_3024_a1180df7" HighPriority="0" Path="common.ui._v4_0.partymatchmanager.unity3d" Version="1" Size="614222" KB="599.8" FileCRC="1197017762" CRC="3621614428" />
       <AssetBundle Time="20211117_124338" BuildInfo="1.71_3024_a1180df7" HighPriority="0" Path="common.ui.playtimepackagepopup.71_playtimepackage.unity3d" Version="1" Size="2155360" KB="2,104.8" FileCRC="178675870" CRC="3233796165" />
       <AssetBundle Time="20211117_061117" BuildInfo="1.71_3023_835f9a30" HighPriority="0" Path="common.dynamictexture.storemainbanner.unity3d" Version="1" Size="22984961" KB="22,446.3" FileCRC="1967583703" CRC="826126110" />
     </PackInfo>
