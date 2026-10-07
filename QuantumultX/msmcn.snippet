@@ -1,0 +1,4 @@
+#!name=MSMCN 汉化
+#!desc=自动核对最新 Release，以 302 替换同资源版本的 iOS 汉化文件；通过启用或停用本重写引用控制开关
+
+^(?!.*(?:[?&])msmcn_passthrough=1(?:&|$))http:\/\/maplemkorea\.dn\.nexoncdn\.co\.kr\/(?:GooglePlay|AppStore)\/[^/]+\/[^/]+\/(?:AOS|IOS)_[^/]+_(?:AssetBundle_table\.bin|(?:7111698|7143146|7243978|7299980|7350716|7360955|7605927|7881518)\.msm)(?:\?.*)?$ url script-echo-response https://raw.githubusercontent.com/MapleRen/MapleStoryM-language/v4/Script/msmcn.js

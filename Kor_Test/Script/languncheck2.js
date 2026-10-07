@@ -1,1 +1,0 @@
-^https?:\/\/mm-staticweb\.s3\.amazonaws\.com\/MarketVersions\/RemotePreference\/Korea_default\.txt* url script-response-body languncheck.js
