@@ -5,7 +5,8 @@
  * 从游戏请求中读取资源版本和文件名，再核对本仓库最新 Release。
  */
 
-const $ = new Env("MSMCN 汉化");
+const DISPLAY_NAME = "冒险岛M韩服汉化";
+const $ = new Env(DISPLAY_NAME);
 const RELEASE_API =
   "https://api.github.com/repos/MapleRen/MapleStoryM-language/releases/latest";
 const RELEASE_CACHE_KEY = "msmcn.latestRelease";
@@ -22,31 +23,10 @@ const IOS_RESOURCE_NAMES = Object.freeze([
   "7881518.msm",
   "AssetBundle_table.bin",
 ]);
-
-function parseArguments(argument) {
-  if (argument && typeof argument === "object") return argument;
-
-  const result = {};
-  String(argument || "")
-    .replace(/^\?/, "")
-    .split("&")
-    .filter(Boolean)
-    .forEach((part) => {
-      const separator = part.indexOf("=");
-      const key = separator < 0 ? part : part.slice(0, separator);
-      const value = separator < 0 ? "" : part.slice(separator + 1);
-      result[decodeURIComponent(key)] = decodeURIComponent(value);
-    });
-  return result;
-}
-
-function isEnabled(value) {
-  if (value === undefined || value === null || value === "") return true;
-  if (typeof value === "boolean") return value;
-  return !["0", "false", "off", "no", "关闭"].includes(
-    String(value).trim().toLowerCase(),
-  );
-}
+const PROGRESS_NOTICES = Object.freeze({
+  "7605927.msm": ["游戏文本汉化中...", "游戏文本汉化完成!"],
+  "7350716.msm": ["剧情文本汉化中...", "剧情文本汉化完成!"],
+});
 
 function parseResourceRequest(url) {
   const cleanUrl = String(url || "").split("?", 1)[0];
@@ -123,7 +103,7 @@ function notifyOutdated(version, release, alwaysNotify) {
   if (!alwaysNotify && $.getdata(OUTDATED_NOTICE_KEY) === notice) return;
   $.setdata(notice, OUTDATED_NOTICE_KEY);
   $.msg(
-    "MSMCN 汉化",
+    DISPLAY_NAME,
     "",
     '汉化文件未更新，请关注微博"冒险岛M第三汉化委"获取最新消息',
   );
@@ -171,14 +151,13 @@ function redirectResult(targetUrl, request) {
   };
 }
 
-async function handleRequest(request, argument) {
-  const options = parseArguments(argument);
-  if (!isEnabled(options.enabled)) return passThroughResult(request);
-
+async function handleRequest(request) {
   const resource = parseResourceRequest(request && request.url);
   if (!resource) return passThroughResult(request);
   if (resource.isManifest) {
-    $.msg("MSMCN 汉化", "", "正在获取最新汉化信息");
+    $.msg(DISPLAY_NAME, "", "获取最新汉化文件...");
+  } else if (PROGRESS_NOTICES[resource.resourceName]) {
+    $.msg(DISPLAY_NAME, "", PROGRESS_NOTICES[resource.resourceName][0]);
   }
 
   let release;
@@ -190,7 +169,7 @@ async function handleRequest(request, argument) {
       if (error && error.status === 404) {
         notifyOutdated(resource.version, { id: "no-release" }, true);
       } else {
-        $.msg("MSMCN 汉化", "", "获取最新汉化信息失败，本次使用官方资源");
+        $.msg(DISPLAY_NAME, "", "获取最新汉化信息失败，本次使用官方资源");
       }
     }
     return passThroughResult(request);
@@ -208,11 +187,14 @@ async function handleRequest(request, argument) {
   }
 
   $.info(`资源替换：${resource.sourceName} -> ${assetName}`);
-  return redirectResult(targetUrl, request);
+  const result = redirectResult(targetUrl, request);
+  if (PROGRESS_NOTICES[resource.resourceName]) {
+    $.msg(DISPLAY_NAME, "", PROGRESS_NOTICES[resource.resourceName][1]);
+  }
+  return result;
 }
 
-const argument = typeof $argument === "undefined" ? undefined : $argument;
-handleRequest($request, argument)
+handleRequest($request)
   .then((result) => $.done(result))
   .catch((error) => {
     $.logErr(error, "处理资源请求失败");
