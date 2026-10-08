@@ -12,15 +12,19 @@ const RELEASE_API =
 const RELEASE_CACHE_KEY = "msmcn.latestRelease";
 const OUTDATED_NOTICE_KEY = "msmcn.lastOutdatedNotice";
 const RELEASE_PLATFORM_PREFIX = "IOS";
+// 汉化文件对应表
+const IOS_RESOURCE_ASSETS = Object.freeze({
+  "7111698.msm": "data.bin.lang.kor.questxml.ifo",
+  "7143146.msm": "data.bin.lan.kor.ifo",
+  "7243978.msm": "data.bin.lang.kor.quest.ifo",
+  "7299980.msm": "data.bin.lang.kor.contactxml.tbl",
+  "7350716.msm": "data.bin.lang.kor.questxml.tbl",
+  "7360955.msm": "data.bin.lang.kor.quest.tbl",
+  "7605927.msm": "data.bin.lan.kor.tbl",
+  "7881518.msm": "data.bin.lang.kor.contactxml.ifo",
+});
 const IOS_RESOURCE_NAMES = Object.freeze([
-  "7111698.msm",
-  "7143146.msm",
-  "7243978.msm",
-  "7299980.msm",
-  "7350716.msm",
-  "7360955.msm",
-  "7605927.msm",
-  "7881518.msm",
+  ...Object.keys(IOS_RESOURCE_ASSETS),
   "AssetBundle_table.bin",
 ]);
 const PROGRESS_NOTICES = Object.freeze({
@@ -175,13 +179,17 @@ async function handleRequest(request) {
     return passThroughResult(request);
   }
 
-  const assetName = `${RELEASE_PLATFORM_PREFIX}_${resource.version}_${resource.resourceName}`;
-  const targetUrl = release.assets[assetName];
+  // 原文名不含版本，必须通过同一 Release 的 iOS 索引确认版本对应。
+  const manifestAssetName = `${RELEASE_PLATFORM_PREFIX}_${resource.version}_AssetBundle_table.bin`;
+  const assetName = resource.isManifest
+    ? manifestAssetName
+    : IOS_RESOURCE_ASSETS[resource.resourceName];
+  const targetUrl = release.assets[manifestAssetName] && release.assets[assetName];
   if (!targetUrl) {
     if (resource.isManifest) {
       notifyOutdated(resource.version, release, true);
     } else {
-      $.warn(`最新 Release 未包含 ${assetName}，继续请求官方资源`);
+      $.warn(`最新 Release 缺少 ${manifestAssetName} 或 ${assetName}，继续请求官方资源`);
     }
     return passThroughResult(request);
   }
