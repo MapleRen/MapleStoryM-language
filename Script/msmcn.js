@@ -30,6 +30,7 @@ const IOS_RESOURCE_NAMES = Object.freeze([
   "AssetBundle_table.bin",
 ]);
 const PROGRESS_NOTICES = Object.freeze({
+  "7059237.msm": ["潜能文本汉化中...", "潜能文本汉化完成!"],
   "7605927.msm": ["游戏文本汉化中...", "游戏文本汉化完成!"],
   "7350716.msm": ["剧情文本汉化中...", "剧情文本汉化完成!"],
 });
