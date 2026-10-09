@@ -14,6 +14,8 @@ const OUTDATED_NOTICE_KEY = "msmcn.lastOutdatedNotice";
 const RELEASE_PLATFORM_PREFIX = "IOS";
 // 汉化文件对应表
 const IOS_RESOURCE_ASSETS = Object.freeze({
+  "7318343.msm": "data.bin.indexedpack.tbl",
+  "7059237.msm": "data.bin.stringtable.tbl",
   "7111698.msm": "data.bin.lang.kor.questxml.ifo",
   "7143146.msm": "data.bin.lan.kor.ifo",
   "7243978.msm": "data.bin.lang.kor.quest.ifo",
