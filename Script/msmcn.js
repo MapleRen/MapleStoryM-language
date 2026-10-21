@@ -29,10 +29,10 @@ const IOS_RESOURCE_NAMES = Object.freeze([
   ...Object.keys(IOS_RESOURCE_ASSETS),
   "AssetBundle_table.bin",
 ]);
-const PROGRESS_NOTICES = Object.freeze({
-  "7059237.msm": ["潜能文本汉化中...", "潜能文本汉化完成!"],
-  "7605927.msm": ["游戏文本汉化中...", "游戏文本汉化完成!"],
-  "7350716.msm": ["剧情文本汉化中...", "剧情文本汉化完成!"],
+const COMPLETION_NOTICES = Object.freeze({
+  "7059237.msm": "潜能文本汉化完成!",
+  "7605927.msm": "游戏文本汉化完成!",
+  "7350716.msm": "剧情文本汉化完成!",
 });
 
 function parseResourceRequest(url) {
@@ -161,12 +161,6 @@ function redirectResult(targetUrl, request) {
 async function handleRequest(request) {
   const resource = parseResourceRequest(request && request.url);
   if (!resource) return passThroughResult(request);
-  if (resource.isManifest) {
-    $.msg(DISPLAY_NAME, "", "获取最新汉化文件...");
-  } else if (PROGRESS_NOTICES[resource.resourceName]) {
-    $.msg(DISPLAY_NAME, "", PROGRESS_NOTICES[resource.resourceName][0]);
-  }
-
   let release;
   try {
     release = await latestRelease(resource.isManifest);
@@ -199,8 +193,11 @@ async function handleRequest(request) {
 
   $.info(`资源替换：${resource.sourceName} -> ${assetName}`);
   const result = redirectResult(targetUrl, request);
-  if (PROGRESS_NOTICES[resource.resourceName]) {
-    $.msg(DISPLAY_NAME, "", PROGRESS_NOTICES[resource.resourceName][1]);
+  if (resource.isManifest) {
+    $.msg(DISPLAY_NAME, "", `已获取汉化版本：${release.tagName || "未知（Release 未提供版本号）"}`);
+  }
+  if (COMPLETION_NOTICES[resource.resourceName]) {
+    $.msg(DISPLAY_NAME, "", COMPLETION_NOTICES[resource.resourceName]);
   }
   return result;
 }
