@@ -30,9 +30,9 @@ const IOS_RESOURCE_NAMES = Object.freeze([
   "AssetBundle_table.bin",
 ]);
 const COMPLETION_NOTICES = Object.freeze({
-  "7059237.msm": "潜能文本汉化完成!",
-  "7605927.msm": "游戏文本汉化完成!",
-  "7350716.msm": "剧情文本汉化完成!",
+  "7059237.msm": "解密并重定向为潜能文本汉化文件下载地址完成!",
+  "7605927.msm": "解密并重定向为游戏文本汉化文件下载地址完成!",
+  "7350716.msm": "解密并重定向为剧情文本汉化文件下载地址完成!",
 });
 
 function parseResourceRequest(url) {
